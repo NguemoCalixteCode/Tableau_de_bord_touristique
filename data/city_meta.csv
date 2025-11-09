@@ -1,0 +1,21 @@
+Ville,Région,Latitude,Longitude
+Paris,Île-de-France,48.8566,2.3522
+Lyon,Auvergne-Rhône-Alpes,45.764,4.8357
+Marseille,Provence-Alpes-Côte d’Azur,43.2965,5.3698
+Bordeaux,Nouvelle-Aquitaine,44.8378,-0.5792
+Nice,Provence-Alpes-Côte d’Azur,43.7102,7.262
+Toulouse,Occitanie,43.6047,1.4442
+Strasbourg,Grand Est,48.5734,7.7521
+Nantes,Pays de la Loire,47.2184,-1.5536
+Lille,Hauts-de-France,50.6292,3.0573
+Montpellier,Occitanie,43.6119,3.8772
+Annecy,Auvergne-Rhône-Alpes,45.8992,6.1294
+Biarritz,Nouvelle-Aquitaine,43.4832,-1.5586
+Cannes,Provence-Alpes-Côte d’Azur,43.5528,7.0174
+Avignon,Provence-Alpes-Côte d’Azur,43.9493,4.8055
+Reims,Grand Est,49.2583,4.0317
+Saint-Malo,Bretagne,48.6493,-2.0257
+La Rochelle,Nouvelle-Aquitaine,46.1603,-1.1511
+Dijon,Bourgogne-Franche-Comté,47.322,5.0415
+Colmar,Grand Est,48.0795,7.3585
+Arles,Provence-Alpes-Côte d’Azur,43.6766,4.6278

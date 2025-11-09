@@ -1,0 +1,416 @@
+city,category,name,lat,lon,osm_type,osm_id
+Cannes,museum,Musée du Masque de fer et du Fort Royal,43.523904,7.0453202,node,2824215844
+Cannes,museum,Chapelle Sainte-Anne,43.5500757,7.0103076,node,8960315203
+Cannes,museum,Musée des explorations du monde,43.5501469,7.0103782,way,64917198
+Cannes,museum,Villa Domergue,43.5599062,7.0412158,way,65073554
+Cannes,museum,Chapelle Bellini,43.5603923,7.0323741,way,65074083
+Cannes,park,Square Daniel Cordier,43.5393541,7.0346968,node,8935228254
+Cannes,park,Les jardins de la Roseraie,43.5446858,7.0335347,way,8038271
+Cannes,park,Parc des Oliviers,43.5394031,6.9450714,way,28504337
+Cannes,park,Jardin du Tivoli,43.5748406,7.0204595,way,41647681
+Cannes,park,Square Carnot,43.5650566,7.0174088,way,67187052
+Cannes,park,Square François Musso,43.5511905,7.0093448,way,81796878
+Cannes,park,Square Frédéric Mistral,43.549307,7.0069449,way,117804143
+Cannes,park,Jardin de la Ferme Giaume,43.5544698,6.9654777,way,139613906
+Cannes,park,Jardin Marthe Villalonga,43.5487094,6.9839727,way,147673584
+Cannes,park,Square Joseph Barthelemy,43.5496703,6.9806839,way,156657132
+Cannes,park,Square de Verdun,43.5394526,7.0346787,way,161443232
+Cannes,park,Square Jean Hibert,43.5480557,7.0118375,way,199544041
+Cannes,park,Parc Saint-Nicolas,43.5547885,7.019412,way,201871010
+Cannes,park,Square Léo Callandry,43.5618336,7.0171756,way,201872939
+Cannes,park,Place de l'Étang,43.5391076,7.037612,way,205108083
+Cannes,park,Butte de Saint-Cassien,43.5493021,6.9545074,way,219906962
+Cannes,park,Sans nom,43.5490628,6.9853355,way,275469422
+Cannes,park,Parc public de Robinson,43.5362356,6.9459919,way,277159893
+Cannes,park,Jardin des Hespérides,43.54145,7.0378374,way,287775028
+Cannes,park,Parc de Camille,43.5437472,6.9453608,way,340345700
+Cannes,park,Square Mérimée,43.5515472,7.0176983,way,362429828
+Cannes,park,Sans nom,43.5629398,7.0446646,way,363637756
+Cannes,park,Sans nom,43.5616558,6.9567448,way,404698485
+Cannes,park,Square Stephan Vahanian,43.5543776,7.0218381,way,476913365
+Cannes,park,Sans nom,43.5580861,7.0227818,way,479306896
+Cannes,park,Square d'Aurèle,43.5520114,6.9738622,way,512401056
+Cannes,park,square,43.5576858,6.964143,way,538993397
+Cannes,park,Square HLM ranguin,43.5682449,6.9675242,way,538994596
+Cannes,park,Jardin des Gourguettes,43.5722561,6.9610217,way,538995409
+Cannes,park,Square Sainte-Rosalie,43.5532996,6.9762578,way,539187762
+Cannes,park,Jardin des 7 anges,43.5628962,7.0015295,way,539188036
+Cannes,park,Square des Oliviers,43.5591873,7.028994,way,539188800
+Cannes,park,Jardin du Périer,43.5660266,6.9950337,way,539189815
+Cannes,park,Square des Frères Gaudino Joly,43.5555538,7.0283165,way,539189817
+Cannes,park,Square du Gallia,43.5545941,7.0290938,way,539189819
+Cannes,park,Square René Cassin,43.5511842,7.032682,way,539191794
+Cannes,park,Square Stephan Vahanian,43.5545498,7.0218898,way,539191795
+Cannes,park,Jardin Montfleury,43.5545494,7.0324333,way,539193818
+Cannes,park,Jardins du Suquet,43.5503498,7.0110664,way,539193819
+Cannes,park,Villa Rothschild et ses jardins,43.5514154,7.0024901,way,539195386
+Cannes,park,Esplanade George Pompidou -,43.5506036,7.0201587,way,539198276
+Cannes,park,Parc Beauvallon,43.5630252,7.011838,way,539447250
+Cannes,park,Promenade de la Croisette,43.5415259,7.0345826,way,540437612
+Cannes,park,Jardin de l'Étoile,43.5718451,7.0029818,way,622325815
+Cannes,park,Sans nom,43.5687031,7.019144,way,785378179
+Cannes,park,Jardin des Oliviers,43.5700309,7.0243454,way,800538469
+Cannes,park,Square Méro,43.5550301,7.0096711,way,826887317
+Cannes,park,Sans nom,43.5703622,6.9935126,way,826950659
+Cannes,park,Square du Docteur Calmette,43.5719906,7.0065646,way,899475081
+Cannes,park,Sans nom,43.570379,7.0191975,way,1022227019
+Cannes,park,Sans nom,43.5707332,7.0192751,way,1022227020
+Cannes,park,Square René Cassin,43.5692559,6.9823289,way,1110742929
+Cannes,park,Square Mallarmé,43.5554925,7.0151984,way,1113400421
+Cannes,park,Sans nom,43.5711122,6.9980249,way,1172206151
+Cannes,park,Sans nom,43.5435882,7.0382564,way,1312494470
+Cannes,park,Jardin du Caroubier,43.5510598,7.0102071,way,1324485514
+Cannes,park,La table ronde,43.5498063,7.0521058,way,1363850596
+Cannes,park,Place du Commandant Maria,43.5559376,7.0237405,relation,12001749
+Cannes,park,Sans nom,43.5048271,6.9516348,relation,19604433
+Cannes,restaurant,La Pizza Cresci,43.5504447,7.0119138,node,600879540
+Cannes,restaurant,La Gallery,43.5634819,6.9695955,node,618826629
+Cannes,restaurant,Sushi Kan,43.552003,7.0235764,node,648461258
+Cannes,restaurant,Barbarella,43.5512811,7.0088572,node,952751876
+Cannes,restaurant,Bistrot à Huitres,43.5519921,7.0134845,node,981397008
+Cannes,restaurant,Le Rendez-Vous,43.5520652,7.0136105,node,981397017
+Cannes,restaurant,Astoux et Brun,43.5519415,7.0132711,node,981397019
+Cannes,restaurant,La toque d'or,43.552796,7.0127196,node,981397021
+Cannes,restaurant,La Crêperie Breiz,43.551845,7.0126062,node,1177527891
+Cannes,restaurant,Warm'up,43.54922,6.9665829,node,1530146319
+Cannes,restaurant,Cave Croisette,43.5514238,7.0296737,node,1551733871
+Cannes,restaurant,Pizza Hut,43.5582654,7.0166434,node,1555741809
+Cannes,restaurant,La Palmeraie,43.5496104,6.9785808,node,1688895426
+Cannes,restaurant,El bodega del havana,43.549436,6.9772918,node,1734205147
+Cannes,restaurant,Amici Ristorante Italiano,43.5485822,6.9808404,node,1737279592
+Cannes,restaurant,Brasserie Au Relax,43.5674973,7.0736065,node,1773876792
+Cannes,restaurant,Brasserie Parry's,43.5673159,7.0740413,node,1775029705
+Cannes,restaurant,Restaurant de L'Aubarède,43.5740963,6.9835922,node,1836923931
+Cannes,restaurant,Au Mal Assis,43.5496472,7.0121042,node,1870674947
+Cannes,restaurant,Le Melting Pot,43.5494864,7.0118374,node,1870674950
+Cannes,restaurant,Les Trois Colonnes,43.5701504,7.0033667,node,2004577187
+Cannes,restaurant,Les 3 Colonnes,43.572004,7.0009174,node,2036190105
+Cannes,restaurant,Délices Yang,43.5525431,7.0146354,node,2181349769
+Cannes,restaurant,San Telmo,43.5531185,7.0214647,node,2388520432
+Cannes,restaurant,L'Ardoise,43.5524593,7.0158188,node,2440865015
+Cannes,restaurant,Le Bistro Gourmand,43.5522386,7.0113008,node,2440865017
+Cannes,restaurant,La Villa Archange,43.5734408,7.0135604,node,2558517294
+Cannes,restaurant,Le Bistro des Anges,43.573337,7.0136314,node,2558517295
+Cannes,restaurant,Sushi Bar Wazakura,43.552286,7.028689,node,2607932716
+Cannes,restaurant,Le Bistrot de l'ecailler,43.5518289,7.012562,node,2698193914
+Cannes,restaurant,La Belle Assiette,43.5518085,7.0125056,node,2698193924
+Cannes,restaurant,La Guérite,43.5238531,7.0467788,node,2824215842
+Cannes,restaurant,L'Escale,43.5224992,7.0405358,node,2824215843
+Cannes,restaurant,Sri Ganesh,43.548937,7.0108977,node,2867148839
+Cannes,restaurant,Arciboldo,43.5485042,7.0303062,node,3023509575
+Cannes,restaurant,Gastone Pizza Alla Pala,43.54859,7.0303062,node,3023509577
+Cannes,restaurant,Noun,43.5483597,7.0302818,node,3023509579
+Cannes,restaurant,Bella Storia,43.5521841,7.0142345,node,3037770502
+Cannes,restaurant,Byron,43.5521785,7.0141549,node,3037770505
+Cannes,restaurant,Beef House,43.5518886,7.0148154,node,3037770510
+Cannes,restaurant,Le Jardin de Bambou,43.5512991,7.0218795,node,3037770513
+Cannes,restaurant,Pepperoni,43.5529622,7.0218589,node,3037770515
+Cannes,restaurant,La Cabane de l'écailler,43.5520019,7.0147846,node,3037784690
+Cannes,restaurant,Marina Caffe,43.5522286,7.0146974,node,3037784698
+Cannes,restaurant,Le Cirque,43.5529613,7.02167,node,3039119246
+Cannes,restaurant,O'Sushi,43.5530835,7.0222408,node,3039119251
+Cannes,restaurant,Le Casanova,43.5529822,7.0196611,node,3039119292
+Cannes,restaurant,Sans nom,43.5518845,7.0173989,node,3039581938
+Cannes,restaurant,Aux Bons Enfants,43.5516225,7.0119697,node,3040166045
+Cannes,restaurant,Café Hoche,43.5531055,7.0217576,node,3040166049
+Cannes,restaurant,Caffè Roma,43.5517759,7.0167832,node,3040166059
+Cannes,restaurant,Loka,43.5515181,7.0116499,node,3040166064
+Cannes,restaurant,L'epicurieux,43.5528217,7.0198825,node,3040166101
+Cannes,restaurant,La Piazza,43.5513842,7.0117354,node,3040166102
+Cannes,restaurant,Lenôtre,43.5525979,7.0216709,node,3040166109
+Cannes,restaurant,Taqueria Lupita,43.5517644,7.0123221,node,3040166355
+Cannes,restaurant,La Farigoulette,43.5517936,7.012431,node,3040166356
+Cannes,restaurant,La Cuisine d'aqui,43.5522734,7.0131387,node,3040166368
+Cannes,restaurant,Le Forville,43.5525608,7.0126446,node,3040166379
+Cannes,restaurant,Salsamenteria di Parma,43.5516115,7.0118015,node,3040166431
+Cannes,restaurant,La Farigoule Bistrot,43.551486,7.0118999,node,3040166457
+Cannes,restaurant,Da Laura,43.5531696,7.0194281,node,3050587070
+Cannes,restaurant,La Meissounière,43.5534149,7.0192503,node,3050587085
+Cannes,restaurant,Five Pizza,43.5535022,7.021489,node,3050587087
+Cannes,restaurant,Le Triomphe,43.5535533,7.0195698,node,3050587088
+Cannes,restaurant,La Boussole Carrée,43.5520831,7.0249612,node,3100507656
+Cannes,restaurant,Le Royal de Chine,43.5500648,6.969244,node,3309711664
+Cannes,restaurant,Le relais des semailles,43.5512998,7.0112303,node,3666307803
+Cannes,restaurant,La Californie,43.5517919,7.0169835,node,3667405187
+Cannes,restaurant,Bâoli,43.5404985,7.0341122,node,3672404868
+Cannes,restaurant,Le Caveau 30,43.5521359,7.0139669,node,3716898174
+Cannes,restaurant,Le Maghreb,43.5554852,7.0229812,node,3740052473
+Cannes,restaurant,La Brocherie,43.5261897,6.9456158,node,3755703256
+Cannes,restaurant,La Voile Bleue du Bistrot du Port,43.5258577,6.9450296,node,3755726650
+Cannes,restaurant,Bijou Plage,43.539212,7.0342079,node,4040655962
+Cannes,restaurant,Le Moure Rouge,43.5415637,7.0398146,node,4040655971
+Cannes,restaurant,Pomme D'api,43.5382156,7.0383963,node,4040655975
+Cannes,restaurant,Le Saint-Pierre,43.5657792,7.073979,node,4048734686
+Cannes,restaurant,Le petit patio,43.565495,7.0731907,node,4048734688
+Cannes,restaurant,Vita,43.5518428,7.0196696,node,4294609489
+Cannes,restaurant,L'Affable,43.5519916,7.0249485,node,4296765989
+Cannes,restaurant,Papa Nino 2,43.5502279,7.034016,node,4344922289
+Cannes,restaurant,La Table Du Chef,43.5526527,7.0252075,node,4348937189
+Cannes,restaurant,Mantel,43.5516,7.0107269,node,4350066706
+Cannes,restaurant,L'Effet Clochette,43.5687969,7.0727365,node,4361139279
+Cannes,restaurant,Festin d'Asie,43.5682071,7.0738537,node,4361143583
+Cannes,restaurant,La Mome,43.5518739,7.0234583,node,4364571589
+Cannes,restaurant,Al Charq,43.5493103,7.0300453,node,4387090551
+Cannes,restaurant,reggae snack,43.5223256,7.0409379,node,4398467389
+Cannes,restaurant,Zoa Sushi Bar,43.5520162,7.0167641,node,4401352789
+Cannes,restaurant,Noisette,43.5519775,7.0245237,node,4413553842
+Cannes,restaurant,Chez Bobo,43.5512053,7.0230332,node,4413553843
+Cannes,restaurant,Mickaella,43.5514533,7.0098529,node,4534849590
+Cannes,restaurant,Stan'Suiss,43.5530147,7.0081318,node,4569107454
+Cannes,restaurant,Memphis,43.5523078,7.0082083,node,4569107455
+Cannes,restaurant,L'Eponyme,43.5522854,7.0281328,node,4707713790
+Cannes,restaurant,Auberge Provençale da Bouttau,43.5514519,7.0111252,node,4816309322
+Cannes,restaurant,La Baie D'halong (escale de chine),43.5534619,7.0244109,node,4882516625
+Cannes,restaurant,Gaston & Gastounette,43.5501895,7.0119689,node,4993217922
+Cannes,restaurant,L'Assiette Provençale,43.5500366,7.0120186,node,4994685121
+Cannes,restaurant,China Town,43.5543971,7.0172137,node,5362334169
+Cannes,restaurant,Little Rock Diner,43.5546979,7.0172092,node,5362334171
+Cannes,restaurant,L'Assiette du Pêcheur,43.5501032,7.0120034,node,5389564536
+Cannes,restaurant,Cheer Mamma,43.5499107,7.0120423,node,5389564538
+Cannes,restaurant,Amalfi,43.5494014,7.0118277,node,5389564542
+Cannes,restaurant,Le Boston,43.5493725,7.0121246,node,5389564543
+Cannes,restaurant,Bay Cafe,43.5483175,7.0103551,node,5389564548
+Cannes,restaurant,Chez Arthur,43.5482774,7.0107273,node,5389564549
+Cannes,restaurant,Su and Shi,43.5484231,7.0099515,node,5389564550
+Cannes,restaurant,O'Key Beach,43.5482447,7.0095411,node,5389564551
+Cannes,restaurant,Villa Azure,43.5486207,7.0091282,node,5389564552
+Cannes,restaurant,Italian Caffe,43.5488469,7.0079385,node,5389564553
+Cannes,restaurant,Riviera Beach,43.5485032,7.0083918,node,5389564554
+Cannes,restaurant,Maema,43.5485859,7.007972,node,5389564555
+Cannes,restaurant,Belle Plage,43.5486811,7.0072907,node,5389564557
+Cannes,restaurant,L'Alba,43.5486967,7.0070507,node,5389564558
+Cannes,restaurant,Plage Waikiki,43.5488357,7.0048338,node,5389564566
+Cannes,restaurant,Chez Vincent et Nicolas,43.5514028,7.011472,node,5392712525
+Cannes,restaurant,Brasserie Frensh,43.5521207,7.0138595,node,5395998415
+Cannes,restaurant,Le Pistou,43.5521993,7.0143106,node,5396011629
+Cannes,restaurant,Chez Freddy,43.5522653,7.0148833,node,5396011636
+Cannes,restaurant,Saporedipane,43.5523023,7.0152052,node,5396060929
+Cannes,restaurant,Green Sushi,43.5522985,7.0156265,node,5396060930
+Cannes,restaurant,New-York New-York,43.5519796,7.0158891,node,5396060933
+Cannes,restaurant,Steak 'n Shake,43.5521817,7.0162615,node,5396060936
+Cannes,restaurant,Brasserie du Casino,43.5517915,7.0171704,node,5396060939
+Cannes,restaurant,Côté Sushi,43.5518198,7.017958,node,5396060949
+Cannes,restaurant,La Potinière du Palais,43.5518141,7.0177559,node,5396060950
+Cannes,restaurant,Le Croisette,43.5514904,7.0179538,node,5396060951
+Cannes,restaurant,JW Grill,43.5500436,7.0250672,node,5398008837
+Cannes,restaurant,Carlton Restaurant,43.5493126,7.0274866,node,5398008843
+Cannes,restaurant,L'Authentic,43.54969,6.9758702,node,5408421576
+Cannes,restaurant,Comme à la Maison,43.5514953,7.0219718,node,5599890745
+Cannes,restaurant,Juice Lab,43.5517257,7.0222629,node,5599890753
+Cannes,restaurant,Chyrstie,43.5510115,7.0217609,node,5599890762
+Cannes,restaurant,Bar du Marin,43.5527615,7.0157728,node,5627407621
+Cannes,restaurant,Le Manoir,43.5513108,7.0109266,node,5747700521
+Cannes,restaurant,Le Bistrot de l'Oasis,43.5268215,6.9451899,node,5764039063
+Cannes,restaurant,L'etabli,43.5487362,7.0083907,node,5764039761
+Cannes,restaurant,La Canna Suisse,43.5518982,7.009783,node,5764039764
+Cannes,restaurant,Le Lagon,43.537009,6.9459969,node,5853115585
+Cannes,restaurant,La Dolce Vita,43.5387337,7.0380459,node,5895652751
+Cannes,restaurant,Le grain de sel,43.5531171,7.0209806,node,5916877787
+Cannes,restaurant,Sans nom,43.5543072,6.9578642,node,5924238765
+Cannes,restaurant,Le Rond Point,43.5726468,7.0166995,node,6029886412
+Cannes,restaurant,Enjoy,43.5728549,7.0006061,node,6034946983
+Cannes,restaurant,Pizza Jean-Jean,43.5425446,7.0386483,node,6147135213
+Cannes,restaurant,Bistro les Canailles,43.5532026,7.0254749,node,6291109225
+Cannes,restaurant,Sans nom,43.5667568,7.0168963,node,6297527199
+Cannes,restaurant,Meat,43.5515101,7.0108539,node,6445805585
+Cannes,restaurant,Uva,43.5532077,7.0248594,node,6445805586
+Cannes,restaurant,Le Pompon,43.5523425,7.0146476,node,6445816986
+Cannes,restaurant,Chez Marlene,43.5500739,7.012012,node,6462488685
+Cannes,restaurant,Le Pastis,43.5510643,7.0228888,node,6558469485
+Cannes,restaurant,Mim,43.5457681,7.0343721,node,6696605903
+Cannes,restaurant,Sans nom,43.5385989,7.0386769,node,6698502811
+Cannes,restaurant,sardine,43.5521277,7.0233349,node,6707415586
+Cannes,restaurant,Skooks,43.5544402,6.9529831,node,6741924074
+Cannes,restaurant,Les Sérénades,43.5703476,7.0030117,node,6797222616
+Cannes,restaurant,So Crêpes and Pizza,43.5542774,6.9560462,node,6910358500
+Cannes,restaurant,Manhattan Café,43.5541013,6.9561162,node,6910358502
+Cannes,restaurant,Sans nom,43.5723031,6.9961631,node,6918686530
+Cannes,restaurant,Le Napoléon Bonaparte,43.5482822,7.0106314,node,6936990724
+Cannes,restaurant,Le Flamenco,43.5482878,7.0104847,node,6936990725
+Cannes,restaurant,Mirabelle,43.5516449,7.0105635,node,6944280984
+Cannes,restaurant,3.14,43.5501843,7.0266531,node,6961596850
+Cannes,restaurant,Le Petit Cannettan,43.5727667,7.0165924,node,7006868927
+Cannes,restaurant,Le Siècle d'Or,43.5547726,6.9523375,node,7017136512
+Cannes,restaurant,L'angle des Saveurs,43.5512181,7.0295682,node,7039266011
+Cannes,restaurant,L'Antidote,43.5518937,7.0298807,node,7039266016
+Cannes,restaurant,Brasserie Le Square,43.5662845,7.0167455,node,7291649135
+Cannes,restaurant,Rest' Ô Jardin,43.5678153,7.0186121,node,7431553878
+Cannes,restaurant,HappyFood,43.5551846,7.0119623,node,7462923331
+Cannes,restaurant,"La Pizzaiola ""Chez Xavier""",43.5529738,7.0240442,node,7516943075
+Cannes,restaurant,Le Fouquet's,43.5477587,7.0308612,node,7595873400
+Cannes,restaurant,Van Crepes Holland,43.5589152,7.0170384,node,8002414353
+Cannes,restaurant,La Fleur d'Oranger,43.5527286,6.9574463,node,8094007346
+Cannes,restaurant,Restaurant New Indien,43.5487552,6.9808258,node,8267882095
+Cannes,restaurant,Fafa Pizza,43.5563527,7.0234427,node,8599822844
+Cannes,restaurant,Regina di Napoli,43.5549262,6.9703732,node,8731360798
+Cannes,restaurant,La Libera,43.5513022,7.0230619,node,8961264518
+Cannes,restaurant,Parthenopi,43.5524644,7.0144436,node,9034227784
+Cannes,restaurant,Ciro's Cannes,43.5500135,7.0195434,node,9164314907
+Cannes,restaurant,Le Fouquet's,43.5512606,7.0198013,node,9208287958
+Cannes,restaurant,Paradiso,43.551215,7.019558,node,9208287959
+Cannes,restaurant,La Mer Bleue,43.5530095,6.9571593,node,9474042286
+Cannes,restaurant,Oh my poke!,43.5534148,7.0206223,node,9969580818
+Cannes,restaurant,Bollyfood,43.5533601,7.0206207,node,9969580819
+Cannes,restaurant,Pitadine,43.5533282,7.0216704,node,9969580821
+Cannes,restaurant,Chez Franco,43.5525363,7.0280385,node,9970614775
+Cannes,restaurant,La Cigale Bistrot,43.5528188,7.025659,node,10013315282
+Cannes,restaurant,Sushi by Nam,43.5582082,7.0222358,node,10130662611
+Cannes,restaurant,Le Jardin,43.5563976,7.0257635,node,10152424361
+Cannes,restaurant,Sans nom,43.5732167,6.9906658,node,10166423475
+Cannes,restaurant,Tredici,43.550316,7.00975,node,10168778688
+Cannes,restaurant,Le Trèfle,43.550985,7.0095683,node,10168778690
+Cannes,restaurant,Le Déclic,43.5510596,7.0095672,node,10168778691
+Cannes,restaurant,Grand Mère Poule,43.5512409,7.0095673,node,10168778694
+Cannes,restaurant,Xuan Le Printemps,43.5513818,7.0092799,node,10168778697
+Cannes,restaurant,Five Room,43.5502788,7.0081075,node,10169043178
+Cannes,restaurant,Vinh Phat,43.5500717,7.0082491,node,10169043179
+Cannes,restaurant,Funny Food,43.549932,7.0080632,node,10169043180
+Cannes,restaurant,Le African Villaige,43.549796,7.008215,node,10169043181
+Cannes,restaurant,Burger Way,43.5496083,7.0083949,node,10169043182
+Cannes,restaurant,Black Sails,43.5491043,7.0114456,node,10169043185
+Cannes,restaurant,Le Ksar,43.5493799,7.0114775,node,10169043186
+Cannes,restaurant,Le Miam Miam,43.5498016,7.0117926,node,10169043188
+Cannes,restaurant,Sushi Koya,43.5509186,7.0113971,node,10169043189
+Cannes,restaurant,Le Trèfle,43.5510025,7.0095651,node,10180815564
+Cannes,restaurant,La Sousta,43.5507532,7.0095327,node,10180820883
+Cannes,restaurant,Tredici,43.5502496,7.0097417,node,10180848163
+Cannes,restaurant,Chez Margaux,43.5511702,7.0095746,node,10181262945
+Cannes,restaurant,Le bistrot de grand-mère,43.5512331,7.0095692,node,10181280010
+Cannes,restaurant,Le bénitier,43.548302,7.0092909,node,10181290561
+Cannes,restaurant,MÖYE,43.5457891,7.0342469,node,10289408775
+Cannes,restaurant,Zalmadi,43.5535783,7.0244095,node,10816721857
+Cannes,restaurant,Fred l'écaillaier,43.5388205,7.0377734,node,10980556569
+Cannes,restaurant,Le Dauphin,43.5520235,7.0169256,node,11049211548
+Cannes,restaurant,La Perle,43.5520965,7.0138074,node,11049278125
+Cannes,restaurant,La cabane du pêcheur,43.5059716,6.9475952,node,11063602671
+Cannes,restaurant,Carré d'as,43.5554921,7.0233562,node,11281757639
+Cannes,restaurant,Sans nom,43.5562543,7.0233281,node,11286450870
+Cannes,restaurant,Le Bao (Bouche À Oreille),43.5526027,7.024572,node,11299680869
+Cannes,restaurant,Tuk Tuk Thaï Café,43.5498566,7.030554,node,11470519238
+Cannes,restaurant,Le p'tit bonheur,43.5689328,7.0737164,node,11610685562
+Cannes,restaurant,Le Passage,43.5698884,7.0056158,node,11673099933
+Cannes,restaurant,Pasta Andrea,43.553011,7.0235403,node,11964448828
+Cannes,restaurant,Barthélemy,43.553154,7.0194964,node,11964448835
+Cannes,restaurant,La Bigoudène,43.5519411,7.012861,node,12207576386
+Cannes,restaurant,La Pizzeria 66,43.5518518,7.0126552,node,12207576393
+Cannes,restaurant,Le Cosi,43.5515653,7.010209,node,12386078983
+Cannes,restaurant,Le Marais,43.5515267,7.0100151,node,12386078984
+Cannes,restaurant,Le Mariska,43.5515257,7.0098646,node,12386078986
+Cannes,restaurant,Le bistrot du suquet,43.5515235,7.0098137,node,12386078987
+Cannes,restaurant,Le XXIV,43.5515101,7.0096272,node,12386078989
+Cannes,restaurant,Tredici pizzeria Forville,43.5526935,7.0116075,node,12461465540
+Cannes,restaurant,Madame Hien,43.5533907,7.021674,node,12638575553
+Cannes,restaurant,Da Tina 33,43.553118,7.0216558,node,12645405760
+Cannes,restaurant,Yann's,43.5531105,7.0213353,node,12645405761
+Cannes,restaurant,Jamîn,43.5519984,7.0190812,node,12771917701
+Cannes,restaurant,Federal,43.5529655,7.0214698,node,13132994998
+Cannes,restaurant,Fervor,43.5528393,7.0196778,node,13132994999
+Cannes,restaurant,Rebelion,43.5527313,7.0196801,node,13132995000
+Cannes,restaurant,Caban'Ice,43.5484812,7.0097449,way,64916904
+Cannes,restaurant,Lou Souleou,43.5484851,7.0095281,way,64917786
+Cannes,restaurant,Vegaluna,43.5488846,7.0273027,way,64947025
+Cannes,restaurant,Lucia Cannes,43.5495347,7.0253786,way,64947084
+Cannes,restaurant,Rado Beach Helen,43.5483332,7.0286866,way,64947133
+Cannes,restaurant,Annex Beach,43.5492105,7.0263684,way,64947206
+Cannes,restaurant,Plage Goéland,43.5501218,7.0229016,way,64947366
+Cannes,restaurant,Mademoiselle Gray,43.5500771,7.023139,way,64947417
+Cannes,restaurant,La Môme Plage,43.5499701,7.0236589,way,64947440
+Cannes,restaurant,Palais Stéphanie Beach,43.5497334,7.0246523,way,64947473
+Cannes,restaurant,Plage Ondine,43.5486138,7.0280247,way,64947511
+Cannes,restaurant,Carlton Beach Club,43.5489644,7.0270781,way,64947627
+Cannes,restaurant,La Plage du Martinez,43.5477329,7.0298819,way,64947662
+Cannes,restaurant,Hyde Beach,43.5497894,7.0244165,way,64947750
+Cannes,restaurant,La Plage du Festival,43.5493802,7.0258816,way,64947758
+Cannes,restaurant,Copal Beach,43.548703,7.0277924,way,64947872
+Cannes,restaurant,C Beach,43.549918,7.0238938,way,64947995
+Cannes,restaurant,Plage Miramar,43.5480158,7.0293385,way,64947996
+Cannes,restaurant,Plage Mandala,43.548429,7.0284737,way,64948006
+Cannes,restaurant,Croisette Beach,43.5481216,7.0291327,way,64948034
+Cannes,restaurant,La Tonnelle,43.5088597,7.042628,way,64971340
+Cannes,restaurant,bâtiment N00,43.5391305,6.9560392,way,65246221
+Cannes,restaurant,Restaurant La Bastide Rouge,43.5510088,6.9613787,way,65246692
+Cannes,restaurant,Restaurant Le Méditerranée,43.5693982,6.9910258,way,67174143
+Cannes,restaurant,L'air du Temps,43.501449,6.953372,way,85888967
+Cannes,restaurant,Le Père Pascal,43.504511,6.9533254,way,85890396
+Cannes,restaurant,Sans nom,43.527832,6.946561,way,112874768
+Cannes,restaurant,Mister Gino,43.5549195,6.9527935,way,114442119
+Cannes,restaurant,Le Cabanon,43.5436131,6.9661964,way,558776481
+Cannes,restaurant,Tamaris,43.5356456,7.0369459,way,722747588
+Cannes,restaurant,L'Aiguille beach club,43.5058395,6.9505937,way,860816726
+Cannes,restaurant,Wok&Sushi,43.5539179,7.0187797,way,1165413523
+Cannes,restaurant,O'Tacos,43.5539454,7.020373,way,1165413526
+Cannes,restaurant,PAPYLEE,43.5539572,7.0189718,way,1196075992
+Cannes,station,La Frayère,43.558146,6.9720492,node,130137304
+Cannes,station,Ranguin,43.5690909,6.9693494,node,355763418
+Cannes,station,Cannes-la-Bocca,43.5486667,6.9865537,node,2437973560
+Cannes,station,Golfe-Juan Vallauris,43.5664051,7.0736701,node,2796845768
+Cannes,station,Le Bosquet,43.5510653,6.9819677,node,8196293190
+Cannes,station,Cannes,43.554156,7.0199539,node,8312564191
+Cannes,historic,Croix des Gardes,43.5579812,6.9902885,node,669979647
+Cannes,historic,Four à boulets,43.5178553,7.034837,node,1398506029
+Cannes,historic,Sans nom,43.5080915,7.0377368,node,1448524210
+Cannes,historic,Sans nom,43.507609,7.0546371,node,1448524216
+Cannes,historic,Chapelle Saint-Michel,43.5089315,7.0458614,node,1448524227
+Cannes,historic,Stèle commémorative de l'équipage du B-24 Liberator,43.5599703,6.9978691,node,1774996117
+Cannes,historic,Château Robert,43.5614993,7.0651964,node,1802174580
+Cannes,historic,Rochers du Coke,43.5480676,6.9844786,node,2575214168
+Cannes,historic,Sans nom,43.5511084,7.0127568,node,2685646684
+Cannes,historic,Statue de Jeanne d'Arc,43.5481897,7.0122089,node,2853508319
+Cannes,historic,Colonne commémorative du débarquement de Napoléon,43.5679244,7.0721727,node,2927541286
+Cannes,historic,Alain Gerbault,43.5489086,7.0174671,node,4040655961
+Cannes,historic,La Croisette,43.535138,7.0380691,node,4040655970
+Cannes,historic,Mémorial des Marins,43.5651184,7.072973,node,4048734675
+Cannes,historic,Sans nom,43.568863,7.0188678,node,4180844260
+Cannes,historic,Sans nom,43.5505773,7.0106625,node,5044988723
+Cannes,historic,Notre Dame des Mimosas,43.5442949,6.9451349,node,5485014997
+Cannes,historic,Monument des droits de l'enfant,43.5460486,7.0328669,node,5599039239
+Cannes,historic,Sainte Thérèse,43.5736975,7.0193758,node,5768350704
+Cannes,historic,Sans nom,43.5399274,6.9462187,node,5856665794
+Cannes,historic,Four à boulets de la Batterie du Vengeur,43.5198868,7.0634648,node,5876942785
+Cannes,historic,André Capron,43.5646011,7.0172112,node,6297312041
+Cannes,historic,Virginie Hériot,43.5487036,7.0171811,node,6577595661
+Cannes,historic,Sans nom,43.5006907,6.9482162,node,7714320232
+Cannes,historic,Sans nom,43.5064909,7.0440384,node,7744666065
+Cannes,historic,Jardin des Oliviers,43.5700976,7.024399,node,8007729141
+Cannes,historic,Roger Stiegler,43.5508245,7.0104783,node,8019041240
+Cannes,historic,Sans nom,43.5507662,7.0106386,node,8019041249
+Cannes,historic,Sans nom,43.5693643,6.9835147,node,8112397492
+Cannes,historic,Sans nom,43.5729422,7.011197,node,8357400230
+Cannes,historic,Saint Elisée,43.5710836,7.0114828,node,8422541131
+Cannes,historic,Rond Point de l'Arménie,43.5738654,7.0143564,node,8579834832
+Cannes,historic,Sans nom,43.5597068,6.9977372,node,8766010441
+Cannes,historic,Sainte Rita,43.573845,6.9833853,node,8796017048
+Cannes,historic,Sans nom,43.5731892,6.9865823,node,10209693218
+Cannes,historic,carré militaire Marne du Souvenir Français,43.5596534,7.004437,node,10302972484
+Cannes,historic,Monument au Général de Gaulle,43.5449937,7.0334472,node,10826977161
+Cannes,historic,Mémorial du génocide arménien,43.5388785,7.035439,node,10827025526
+Cannes,historic,Monument aux morts de la guerre de Crimée,43.522533,7.0493351,node,10990073901
+Cannes,historic,Monument aux morts de Cannes-La Bocca,43.551391,6.9769617,node,10990136843
+Cannes,historic,Monument commémoratif aux marins,43.5480415,7.0117439,node,10991810050
+Cannes,historic,Plaque commémorative Claude Levisalles,43.5581284,7.0212933,node,10991992434
+Cannes,historic,Plaque commémorative Hélène Vagliano,43.5550006,7.027401,node,10992001452
+Cannes,historic,Plaque commémorative Léon Noël,43.5581354,7.0213291,node,10992009679
+Cannes,historic,Plaque commémorative Groupe Jean Marie,43.5560398,7.0165897,node,10992103436
+Cannes,historic,Stèle commémorative Francis Tonner Henri Bergia,43.5502179,6.9623225,node,10992409638
+Cannes,historic,Stèle commémorative des fusillés villa Montfleury,43.555533,7.0315591,node,10992450674
+Cannes,historic,Plaque commémorative des élèves juifs déporté,43.5643781,7.0169202,node,10992450683
+Cannes,historic,Sans nom,43.508944,7.0461313,node,11101921506
+Cannes,historic,Saint Pierre,43.50624,6.945164,node,11132405411
+Cannes,historic,Monument aux morts de Golfe-Juan,43.5695707,7.0734724,node,11228111070
+Cannes,historic,Général De Gaulle,43.5517247,7.0156438,node,12246373050
+Cannes,historic,Sans nom,43.5494078,7.0493495,node,12629179791
+Cannes,historic,Olivier en souvenir d'Olivier,43.5500012,7.0518169,node,12629179792
+Cannes,historic,Fort Royal,43.5233472,7.0445661,way,24223636
+Cannes,historic,Villa la Brise,43.5506593,7.0220343,way,64947435
+Cannes,historic,La Malmaison,43.5503102,7.0248537,way,64947670
+Cannes,historic,Villa Numa Blanc,43.5506957,7.0218845,way,64947834
+Cannes,historic,Villa Denise,43.5507762,7.0215784,way,64947999
+Cannes,historic,Villa Gould,43.5462061,7.0466848,way,64962126
+Cannes,historic,Église Saint-Georges,43.5515566,7.040852,way,64965707
+Cannes,historic,Monastère de Lérins,43.5052481,7.0478042,way,64971359
+Cannes,historic,Sans nom,43.5595249,6.993772,way,65155828
+Cannes,historic,Sans nom,43.559648,6.9936798,way,65156556
+Cannes,historic,Chapelle Notre-Dame-des-Anges du Cannet,43.5738713,7.0138942,way,67152287
+Cannes,historic,Phare de Vallauris,43.5681725,7.061591,way,88189377
+Cannes,historic,Sans nom,43.508094,7.0377359,way,829786088
+Cannes,historic,Sans nom,43.5084407,7.0492022,relation,11343999

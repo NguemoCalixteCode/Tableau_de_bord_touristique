@@ -1,0 +1,43 @@
+restaurant_id,city,name,latitude,longitude,rating,total_ratings,price_range,cuisine_type,address,phone,website,opening_hours,data_source
+marseille_resto_001,Marseille,Le Petit Restaurant,43.293385,5.364942,3.9,485,€€,Couscous,54 Rue Victor Hugo,0335246988,https://www.marseille-restaurant-1.fr,"12:00-14:30, 19:00-22:30",generated_data
+marseille_resto_002,Marseille,Les Traditionnel Comptoir,43.292899,5.37184,4.0,259,€€€,Provençale,184 Rue de Paris,0325276893,https://www.marseille-restaurant-2.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_003,Marseille,Le Café Marseille,43.332044,5.364746,3.5,113,€,Méditerranéenne,141 Rue Victor Hugo,0693165732,https://www.marseille-restaurant-3.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_004,Marseille,La Cuisine de Marseille,43.292989,5.411497,3.9,117,€€€,Méditerranéenne,35 Rue Victor Hugo,0479776678,https://www.marseille-restaurant-4.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_005,Marseille,La Cuisine du Marseille,43.297283,5.323204,3.4,110,€€€,Poisson,87 Rue Principale,0648402049,https://www.marseille-restaurant-5.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_006,Marseille,La Cuisine de Marseille,43.307849,5.38882,4.0,96,€,Poisson,78 Rue Victor Hugo,0565696221,https://www.marseille-restaurant-6.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_007,Marseille,Au Comptoir Marseille,43.275368,5.358711,3.2,6,€,Couscous,56 Rue du Centre,0347825545,https://www.marseille-restaurant-7.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_008,Marseille,Café Les des Arts,43.280528,5.332692,3.9,5,€€,Provençale,141 Rue de Paris,0273911074,https://www.marseille-restaurant-8.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_009,Marseille,La Table du Marseille,43.308027,5.357037,4.7,191,€,Couscous,91 Rue Victor Hugo,0282397540,https://www.marseille-restaurant-9.fr,"12:00-14:30, 19:00-22:30",generated_data
+marseille_resto_010,Marseille,La Cuisine de Marseille,43.310989,5.388708,4.1,314,€€€,Méditerranéenne,142 Rue de Paris,0476773010,https://www.marseille-restaurant-10.fr,"12:00-14:30, 19:00-22:30",generated_data
+marseille_resto_011,Marseille,Le Nouveau Comptoir,43.27412,5.418752,4.5,318,€€,Couscous,127 Rue Principale,0394848451,https://www.marseille-restaurant-11.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_012,Marseille,La Café Marseille,43.323636,5.348194,4.0,49,€€€,Couscous,46 Rue de Paris,0316512350,https://www.marseille-restaurant-12.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_013,Marseille,Le Cuisine du Marseille,43.257393,5.329857,4.5,277,€€€,Méditerranéenne,73 Rue de Paris,0561443974,https://www.marseille-restaurant-13.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_014,Marseille,La Table de Marseille,43.316506,5.400201,4.4,277,€,Tapas,26 Rue Principale,0454761165,https://www.marseille-restaurant-14.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_015,Marseille,Bistro Au de la Gare,43.344552,5.349824,4.5,465,€€€,Poisson,184 Rue du Centre,0418819184,https://www.marseille-restaurant-15.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_016,Marseille,Les Bouchon Marseille,43.24722,5.381857,3.8,39,€,Couscous,189 Rue Principale,0180667931,https://www.marseille-restaurant-16.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_017,Marseille,Café Le Marseille,43.269008,5.355187,4.5,492,€,Poisson,65 Rue de Paris,0129532748,https://www.marseille-restaurant-17.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_018,Marseille,Bistro Chez de la Gare,43.320624,5.321525,4.0,318,€€€,Tapas,96 Rue Victor Hugo,0493455879,https://www.marseille-restaurant-18.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_019,Marseille,Chez Grand Brasserie,43.289669,5.346459,3.6,186,€,Méditerranéenne,86 Rue du Centre,0399517896,https://www.marseille-restaurant-19.fr,"12:00-14:30, 19:00-22:30",generated_data
+marseille_resto_020,Marseille,Les Comptoir Marseille,43.30026,5.384478,4.1,48,€,Poisson,105 Rue du Centre,0595874571,https://www.marseille-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_021,Marseille,La Cuisine du Marseille,43.344414,5.343258,4.6,349,€€€,Couscous,26 Rue du Centre,0696492135,https://www.marseille-restaurant-21.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_022,Marseille,Le Bouchon Marseille,43.29449,5.382334,3.4,417,€€,Tapas,156 Rue de Paris,0240502832,https://www.marseille-restaurant-22.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_023,Marseille,Au Café Marseille,43.34057,5.348999,4.5,145,€€,Poisson,17 Rue de Paris,0525891996,https://www.marseille-restaurant-23.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_024,Marseille,La Café Marseille,43.247973,5.349657,4.3,166,€€,Méditerranéenne,143 Rue de Paris,0361875957,https://www.marseille-restaurant-24.fr,"12:00-14:30, 19:00-22:30",generated_data
+marseille_resto_025,Marseille,Comptoir Le du Port,43.256334,5.367759,3.8,33,€€€,Provençale,166 Rue Victor Hugo,0358807788,https://www.marseille-restaurant-25.fr,"12:00-14:30, 19:00-22:30",generated_data
+marseille_resto_026,Marseille,La Cuisine du Marseille,43.287342,5.398815,3.4,136,€,Poisson,167 Rue Principale,0515225147,https://www.marseille-restaurant-26.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_027,Marseille,La Typique Brasserie,43.300602,5.344743,4.4,203,€,Méditerranéenne,84 Rue du Centre,0457544471,https://www.marseille-restaurant-27.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_028,Marseille,Chez Bouchon Marseille,43.275987,5.341662,4.1,329,€,Méditerranéenne,61 Rue Principale,0474578911,https://www.marseille-restaurant-28.fr,"12:00-14:30, 19:00-22:30",generated_data
+marseille_resto_029,Marseille,Le Table du Marseille,43.264951,5.373164,4.5,50,€€€,Méditerranéenne,78 Rue Principale,0467816878,https://www.marseille-restaurant-29.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_030,Marseille,La Comptoir Marseille,43.312629,5.347715,4.4,178,€,Méditerranéenne,91 Rue Principale,0642883721,https://www.marseille-restaurant-30.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_031,Marseille,La Cuisine du Marseille,43.343242,5.344078,4.6,167,€,Poisson,113 Rue du Centre,0126147180,https://www.marseille-restaurant-31.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_032,Marseille,Chez Comptoir Marseille,43.338081,5.388109,4.0,268,€,Poisson,51 Rue de Paris,0298938469,https://www.marseille-restaurant-32.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_033,Marseille,La Table du Marseille,43.322376,5.332489,4.4,73,€,Poisson,147 Rue du Centre,0686777814,https://www.marseille-restaurant-33.fr,"12:00-14:30, 19:00-22:30",generated_data
+marseille_resto_034,Marseille,Brasserie Au Marseille,43.297205,5.401884,3.9,316,€€€,Provençale,11 Rue Victor Hugo,0452719662,https://www.marseille-restaurant-34.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_035,Marseille,Le Cuisine de Marseille,43.299923,5.325312,3.9,356,€,Couscous,94 Rue du Centre,0661649264,https://www.marseille-restaurant-35.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_036,Marseille,Le Bouchon Marseille,43.287522,5.336458,4.3,363,€€€,Méditerranéenne,131 Rue de Paris,0516537273,https://www.marseille-restaurant-36.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_037,Marseille,Bistro Chez des Arts,43.266962,5.419137,3.9,105,€,Tapas,200 Rue du Centre,0576203215,https://www.marseille-restaurant-37.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_038,Marseille,Comptoir Chez du Marché,43.318108,5.399375,4.1,368,€€,Tapas,78 Rue de Paris,0270441397,https://www.marseille-restaurant-38.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_039,Marseille,Le Cuisine de Marseille,43.252994,5.416797,4.0,259,€,Couscous,114 Rue du Centre,0536956052,https://www.marseille-restaurant-39.fr,"12:00-14:30, 19:00-22:30",generated_data
+marseille_resto_040,Marseille,Café Les du Port,43.33812,5.32559,4.5,221,€€,Tapas,76 Rue de Paris,0555482623,https://www.marseille-restaurant-40.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_041,Marseille,La Bouchon Marseille,43.290511,5.331199,3.3,394,€€€,Provençale,32 Rue du Centre,0329235819,https://www.marseille-restaurant-41.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_042,Marseille,Les Traditionnel Café,43.311598,5.342887,4.0,13,€€,Provençale,100 Rue Victor Hugo,0137332684,https://www.marseille-restaurant-42.fr,"12:00-14:30, 19:00-22:30",generated_data

@@ -1,0 +1,51 @@
+restaurant_id,city,name,latitude,longitude,rating,total_ratings,price_range,cuisine_type,address,phone,website,opening_hours,data_source
+annecy_resto_001,Annecy,Comptoir Au du Marché,45.880768,6.098648,3.8,473,€,Française,66 Rue Victor Hugo,0338563725,https://www.annecy-restaurant-1.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_002,Annecy,La Petit Café,45.911458,6.092234,4.7,490,€,Française,12 Rue du Centre,0659256588,https://www.annecy-restaurant-2.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_003,Annecy,Au Bon Bistro,45.881933,6.134107,4.1,374,€,Montagnarde,54 Rue Victor Hugo,0378513696,https://www.annecy-restaurant-3.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_004,Annecy,La Cuisine du Annecy,45.905361,6.165252,3.5,372,€,Française,38 Rue Victor Hugo,0177696140,https://www.annecy-restaurant-4.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_005,Annecy,Les Nouveau Bistro,45.936217,6.135917,3.3,218,€€,Fromage,57 Rue Victor Hugo,0279856030,https://www.annecy-restaurant-5.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_006,Annecy,Les Vieux Comptoir,45.869028,6.120865,4.6,265,€,Savoyarde,153 Rue de Paris,0454332539,https://www.annecy-restaurant-6.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_007,Annecy,Le Comptoir Annecy,45.900055,6.153835,4.6,211,€€,Savoyarde,21 Rue du Centre,0662684868,https://www.annecy-restaurant-7.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_008,Annecy,Le Cuisine de Annecy,45.909735,6.143098,4.1,170,€€,Savoyarde,93 Rue du Centre,0570667130,https://www.annecy-restaurant-8.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_009,Annecy,Brasserie Le Central,45.899608,6.102763,4.1,37,€,Fromage,102 Rue du Centre,0471703845,https://www.annecy-restaurant-9.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_010,Annecy,La Cuisine de Annecy,45.870614,6.112241,4.2,430,€,Savoyarde,108 Rue Principale,0311666547,https://www.annecy-restaurant-10.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_011,Annecy,Les Café Annecy,45.881965,6.083868,3.9,176,€,Française,89 Rue de Paris,0294434653,https://www.annecy-restaurant-11.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_012,Annecy,Brasserie Chez du Port,45.8631,6.170047,4.5,68,€,Fromage,104 Rue de Paris,0324969475,https://www.annecy-restaurant-12.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_013,Annecy,Le Nouveau Restaurant,45.936426,6.162799,3.6,162,€,Fromage,25 Rue du Centre,0264943562,https://www.annecy-restaurant-13.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_014,Annecy,Restaurant Le du Marché,45.914059,6.177087,3.4,50,€€€,Fromage,109 Rue de Paris,0163345437,https://www.annecy-restaurant-14.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_015,Annecy,Le Cuisine de Annecy,45.866658,6.157622,4.7,281,€€€,Montagnarde,32 Rue du Centre,0228255272,https://www.annecy-restaurant-15.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_016,Annecy,Les Traditionnel Restaurant,45.907058,6.101989,3.5,200,€€,Fromage,70 Rue Principale,0594912453,https://www.annecy-restaurant-16.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_017,Annecy,Les Traditionnel Restaurant,45.89501,6.105454,3.8,314,€,Française,139 Rue de Paris,0423443893,https://www.annecy-restaurant-17.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_018,Annecy,Le Comptoir Annecy,45.946524,6.160921,3.6,467,€€€,Fromage,21 Rue du Centre,0447255764,https://www.annecy-restaurant-18.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_019,Annecy,Café Les du Marché,45.868642,6.110853,3.5,137,€€€,Française,179 Rue du Centre,0241718894,https://www.annecy-restaurant-19.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_020,Annecy,Les Café Annecy,45.936829,6.136841,4.5,30,€€,Française,197 Rue du Centre,0148383378,https://www.annecy-restaurant-20.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_021,Annecy,Table Le Central,45.853739,6.090068,3.8,281,€€€,Savoyarde,11 Rue Victor Hugo,0493352966,https://www.annecy-restaurant-21.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_022,Annecy,Au Nouveau Bistro,45.901598,6.104238,4.8,267,€€€,Montagnarde,50 Rue Victor Hugo,0424284617,https://www.annecy-restaurant-22.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_023,Annecy,Chez Nouveau Restaurant,45.8763,6.152044,3.5,352,€,Fromage,63 Rue du Centre,0386458619,https://www.annecy-restaurant-23.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_024,Annecy,Le Vieux Table,45.943691,6.091363,4.2,318,€€,Française,50 Rue Principale,0541197634,https://www.annecy-restaurant-24.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_025,Annecy,La Comptoir Annecy,45.907697,6.108955,4.6,440,€,Fromage,34 Rue de Paris,0625589817,https://www.annecy-restaurant-25.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_026,Annecy,Au Grand Brasserie,45.869241,6.091736,4.3,189,€€€,Montagnarde,186 Rue de Paris,0568115220,https://www.annecy-restaurant-26.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_027,Annecy,Comptoir Les des Arts,45.911215,6.151956,4.4,411,€€,Française,22 Rue du Centre,0190391479,https://www.annecy-restaurant-27.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_028,Annecy,Comptoir La du Port,45.929716,6.131978,3.6,243,€€,Française,190 Rue Victor Hugo,0455444699,https://www.annecy-restaurant-28.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_029,Annecy,Le Petit Table,45.896348,6.114447,4.8,140,€,Française,87 Rue Principale,0451187672,https://www.annecy-restaurant-29.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_030,Annecy,La Bouchon Annecy,45.863621,6.156742,3.3,169,€€€,Savoyarde,133 Rue Victor Hugo,0625909575,https://www.annecy-restaurant-30.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_031,Annecy,Chez Typique Restaurant,45.945171,6.16642,4.2,323,€€,Fromage,113 Rue du Centre,0378293251,https://www.annecy-restaurant-31.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_032,Annecy,Le Comptoir Annecy,45.917028,6.172862,4.1,22,€,Montagnarde,5 Rue du Centre,0683809421,https://www.annecy-restaurant-32.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_033,Annecy,Bistro Chez du Marché,45.872116,6.110347,3.7,465,€€€,Fromage,174 Rue du Centre,0388125858,https://www.annecy-restaurant-33.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_034,Annecy,La Table du Annecy,45.927014,6.128613,3.6,328,€€€,Savoyarde,154 Rue du Centre,0588491170,https://www.annecy-restaurant-34.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_035,Annecy,Brasserie Le Central,45.940324,6.092278,3.4,29,€,Fromage,152 Rue Principale,0686419841,https://www.annecy-restaurant-35.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_036,Annecy,La Cuisine de Annecy,45.908468,6.161635,3.9,316,€€€,Française,82 Rue du Centre,0474754484,https://www.annecy-restaurant-36.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_037,Annecy,Les Bouchon Annecy,45.881819,6.110498,4.8,350,€€€,Française,75 Rue Principale,0651262034,https://www.annecy-restaurant-37.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_038,Annecy,Les Bouchon Annecy,45.929982,6.138944,3.3,87,€,Française,53 Rue de Paris,0642743340,https://www.annecy-restaurant-38.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_039,Annecy,Le Traditionnel Café,45.933176,6.088526,3.5,313,€€,Montagnarde,50 Rue Victor Hugo,0418187494,https://www.annecy-restaurant-39.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_040,Annecy,Brasserie Chez Central,45.893516,6.082387,4.0,236,€€,Fromage,144 Rue de Paris,0514418135,https://www.annecy-restaurant-40.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_041,Annecy,Les Typique Bistro,45.918771,6.16482,3.6,343,€€€,Savoyarde,126 Rue de Paris,0562975664,https://www.annecy-restaurant-41.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_042,Annecy,Au Café Annecy,45.912219,6.150706,4.3,343,€€€,Savoyarde,61 Rue Principale,0414126346,https://www.annecy-restaurant-42.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_043,Annecy,Brasserie Le des Arts,45.90915,6.0957,3.9,100,€€,Montagnarde,198 Rue du Centre,0664811245,https://www.annecy-restaurant-43.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_044,Annecy,Chez Comptoir Annecy,45.8761,6.087812,3.5,298,€€€,Montagnarde,68 Rue du Centre,0497543548,https://www.annecy-restaurant-44.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_045,Annecy,Les Comptoir Annecy,45.948783,6.084991,3.4,375,€€€,Savoyarde,117 Rue Principale,0358423182,https://www.annecy-restaurant-45.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_046,Annecy,Le Cuisine de Annecy,45.926622,6.157181,4.2,334,€€,Française,37 Rue du Centre,0569921916,https://www.annecy-restaurant-46.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_047,Annecy,Restaurant Chez de la Gare,45.94443,6.102032,3.8,16,€€,Française,47 Rue Victor Hugo,0133998620,https://www.annecy-restaurant-47.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_048,Annecy,Au Bouchon Annecy,45.879979,6.097621,4.4,253,€€€,Fromage,75 Rue de Paris,0477328985,https://www.annecy-restaurant-48.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_049,Annecy,La Table de Annecy,45.932548,6.163982,4.6,216,€€,Française,47 Rue de Paris,0268528567,https://www.annecy-restaurant-49.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_050,Annecy,Chez Bouchon Annecy,45.913304,6.0837,4.1,410,€€€,Française,152 Rue de Paris,0180368327,https://www.annecy-restaurant-50.fr,"12:00-14:30, 19:00-22:30",generated_data

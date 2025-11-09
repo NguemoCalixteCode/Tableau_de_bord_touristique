@@ -1,0 +1,319 @@
+city,category,name,lat,lon,osm_type,osm_id
+Colmar,museum,Musée Unterlinden,48.0798635,7.3555565,node,1265125753
+Colmar,museum,Pompe à bras incendie,48.1698099,7.3205272,node,10896909660
+Colmar,museum,Choco Story,48.0769548,7.3585502,node,11285499187
+Colmar,museum,Musée Bartholdi,48.076611,7.3575592,way,47576073
+Colmar,museum,Musée d'Histoire Naturelle et d'Éthnographie,48.0736402,7.3587792,way,47577843
+Colmar,museum,Musée du Jouet,48.0791033,7.3622061,way,47584584
+Colmar,museum,Musée Hansi,48.0787615,7.3548044,way,48546266
+Colmar,museum,Musée des Usines Municipales,48.0558756,7.3701091,way,51194021
+Colmar,museum,Espace d'Art Contemporain André Malraux,48.0791855,7.3593539,way,108958977
+Colmar,museum,Musée Unterlinden,48.0803851,7.3557446,way,236777574
+Colmar,museum,Musée Unterlinden,48.0801704,7.3559615,way,388094124
+Colmar,museum,L'Ackerhof,48.0805261,7.3558011,way,489090570
+Colmar,park,Sans nom,48.0739182,7.3546872,node,11804200916
+Colmar,park,Place André Malraux,48.072898,7.3424436,way,23222129
+Colmar,park,Place des Vosges,48.072801,7.335193,way,23306383
+Colmar,park,Sans nom,48.0843072,7.3241071,way,23860941
+Colmar,park,Sans nom,48.0752619,7.3637625,way,24437101
+Colmar,park,Champ de Mars,48.0760332,7.3529574,way,24747316
+Colmar,park,Square Pfeffel,48.0755295,7.3577567,way,24766194
+Colmar,park,Sans nom,48.0772393,7.3901756,way,26645560
+Colmar,park,Jardin Méquillet,48.073143,7.3521519,way,45267678
+Colmar,park,Parc de Lattre de Tassigny,48.0772503,7.3514215,way,47576350
+Colmar,park,Square Gustave Adolphe Hirn,48.0734944,7.3548645,way,47585370
+Colmar,park,Parc de la Cour d'appel,48.0712715,7.3516515,way,47897336
+Colmar,park,Parc de la Montagne Verte,48.0754162,7.3605913,way,48460906
+Colmar,park,Sans nom,48.0786651,7.3522116,way,48550798
+Colmar,park,Sans nom,48.0790237,7.3628299,way,48584516
+Colmar,park,Sans nom,48.0819069,7.3652872,way,48591603
+Colmar,park,Parc Saint-François-Xavier,48.0724175,7.3626005,way,48793899
+Colmar,park,Place Desportes,48.068816,7.3486131,way,49338099
+Colmar,park,Sans nom,48.0687667,7.3496849,way,49405000
+Colmar,park,Square du Général Henri de Vernejoul,48.0830849,7.3561435,way,49896464
+Colmar,park,Place Jean-Sébastien Bach,48.0896833,7.3661092,way,50000624
+Colmar,park,Place Billing,48.082756,7.3684209,way,50228910
+Colmar,park,Sans nom,48.0882417,7.3718669,way,50300075
+Colmar,park,square Saint-Joseph,48.0818066,7.3453727,way,51351163
+Colmar,park,Place du Chanoine Oberlechner,48.0698186,7.3359359,way,51552565
+Colmar,park,Sans nom,48.0672177,7.3308846,way,51689919
+Colmar,park,Sans nom,48.0751181,7.3235234,way,51732540
+Colmar,park,"Square des ""Malgré Nous""",48.0767107,7.3415229,way,51811490
+Colmar,park,Sans nom,48.0835848,7.3379679,way,51984300
+Colmar,park,Sans nom,48.0840724,7.3261749,way,52061004
+Colmar,park,Place de l'Église,48.1689935,7.3206997,way,74035971
+Colmar,park,NaturOparc (Centre de réintroduction des cigognes et des loutres),48.1797991,7.3224193,way,79620296
+Colmar,park,Parc de Schoppenwihr,48.1362166,7.3615052,way,108924571
+Colmar,park,Parc de la Bleich,48.0783245,7.3696912,way,137513483
+Colmar,park,Sans nom,48.0823328,7.3469299,way,159821030
+Colmar,park,Sans nom,48.0822665,7.3471468,way,159821031
+Colmar,park,Sans nom,48.0839361,7.3481049,way,167800754
+Colmar,park,Sans nom,48.0905242,7.3353491,way,234888928
+Colmar,park,Sans nom,48.0849895,7.3575089,way,260426213
+Colmar,park,Sans nom,48.0703359,7.3291965,way,492855519
+Colmar,park,Sans nom,48.0767399,7.3252411,way,555573436
+Colmar,park,Sans nom,48.0660573,7.337399,way,617560616
+Colmar,park,Parc du Natala,48.0701205,7.3820258,way,705609681
+Colmar,park,Sans nom,48.0807854,7.3933503,way,788985288
+Colmar,park,Sans nom,48.0656467,7.3559834,way,808107628
+Colmar,park,Sans nom,48.0876518,7.3636887,way,947481275
+Colmar,park,square Herzog,48.0843688,7.3193943,way,947481276
+Colmar,park,Jardins des Papillons,48.1807974,7.3209137,way,964071502
+Colmar,park,Sans nom,48.043677,7.4182961,way,977647012
+Colmar,park,Sans nom,48.0827655,7.404291,way,977647018
+Colmar,park,Sans nom,48.0792779,7.3546887,way,1118306764
+Colmar,park,Sans nom,48.0769547,7.3359369,way,1214787275
+Colmar,park,Sans nom,48.0770441,7.3366165,way,1214787276
+Colmar,park,Place d'Unterlinden,48.0795399,7.3560814,relation,385727
+Colmar,park,Place Claude Debussy,48.0904292,7.3625812,relation,405741
+Colmar,restaurant,Aux Amis de la Lauch,48.0559665,7.3514552,node,247105450
+Colmar,restaurant,Brasserie des Arcades,48.0770025,7.3601363,node,260422019
+Colmar,restaurant,Le Flamm's,48.0781074,7.3581941,node,266643987
+Colmar,restaurant,Restaurant le Zinc,48.0748936,7.357441,node,609628471
+Colmar,restaurant,Crêperie CrêP'Stub,48.0753613,7.3592922,node,614311651
+Colmar,restaurant,La cochonaille,48.0775069,7.361524,node,614720266
+Colmar,restaurant,O'Rabbit's,48.0791035,7.3573242,node,616254494
+Colmar,restaurant,Via Roma,48.07473,7.3439514,node,658603930
+Colmar,restaurant,Le Rendez-Vous de Chasse,48.0725616,7.3476104,node,658611175
+Colmar,restaurant,L'Auberge,48.0726774,7.3477154,node,658611176
+Colmar,restaurant,Caveau Saint-Pierre,48.0729377,7.3571515,node,895655251
+Colmar,restaurant,A l'Echevin,48.0737254,7.3567506,node,1265168883
+Colmar,restaurant,La Boucherie,48.1124723,7.3650885,node,1268459891
+Colmar,restaurant,La Cigogne,48.0941164,7.3744738,node,1668557409
+Colmar,restaurant,Restaurant de la Hardt,48.0979668,7.3364878,node,1767711098
+Colmar,restaurant,Restaurant Pfeffel,48.0799834,7.3562339,node,1865773754
+Colmar,restaurant,Le 3,48.0768891,7.3587843,node,2001013191
+Colmar,restaurant,Bistrot des Lavandières,48.0742152,7.3569345,node,2274264116
+Colmar,restaurant,L'île au saveur gastronomique,48.0848992,7.3569206,node,2665181247
+Colmar,restaurant,Pizza Hut,48.0819681,7.3524568,node,2665263752
+Colmar,restaurant,L'Incontournable,48.0780072,7.3625633,node,2668192558
+Colmar,restaurant,La Pataterie,48.0964687,7.369795,node,2726836496
+Colmar,restaurant,Milligusto,48.0962073,7.3692559,node,2741685396
+Colmar,restaurant,Le Petit Schlossberg,48.0782956,7.3611256,node,2935854850
+Colmar,restaurant,Ristorante Del Arte,48.0816667,7.355782,node,3172252962
+Colmar,restaurant,New Wok Tao,48.0730827,7.4068286,node,3201790665
+Colmar,restaurant,Oh Happy Day,48.0805692,7.3573518,node,3560684223
+Colmar,restaurant,Restaurant vingt-sept,48.074718,7.3453184,node,3618136262
+Colmar,restaurant,Pizzeria le Sorrento,48.0834278,7.3402202,node,3618284522
+Colmar,restaurant,Pizza aux 4 saisons,48.0850378,7.3389729,node,3618284528
+Colmar,restaurant,La Storia,48.0680109,7.3443769,node,3619696130
+Colmar,restaurant,La Table de Louise,48.0792696,7.351988,node,3914081864
+Colmar,restaurant,Le Petit Bidon,48.0792033,7.3599949,node,3914107878
+Colmar,restaurant,L'Un des Sens,48.076028,7.3560442,node,3914128984
+Colmar,restaurant,Les Racines,48.0778421,7.362786,node,3914128985
+Colmar,restaurant,La Cocotte de Grand-Mère,48.0775528,7.3561914,node,3914163789
+Colmar,restaurant,Schwendi Bier- un Wistub,48.0762968,7.3595789,node,4213390142
+Colmar,restaurant,Europe,48.0779278,7.3302841,node,4242832839
+Colmar,restaurant,Le Caprice,48.0793861,7.3622475,node,4505716689
+Colmar,restaurant,L'Amandine,48.0779054,7.3581038,node,4541087789
+Colmar,restaurant,La Strada,48.0647478,7.4159,node,4568791890
+Colmar,restaurant,l'Etoile,48.0778965,7.3304259,node,4594398132
+Colmar,restaurant,Ô cordon bleu,48.076167,7.355368,node,4887434444
+Colmar,restaurant,Le Comptoir de Georges,48.0739955,7.3570053,node,4922191481
+Colmar,restaurant,La baie de Tien Sa,48.0812676,7.3577158,node,4972590921
+Colmar,restaurant,coulmoer,48.0754232,7.3587012,node,4973369323
+Colmar,restaurant,Taverne Médiévale,48.1252991,7.3660843,node,5000716321
+Colmar,restaurant,Lüser Stub,48.0731397,7.3576268,node,5037097934
+Colmar,restaurant,Restaurant au Chaudron,48.075507,7.3588233,node,5054370134
+Colmar,restaurant,Au Soleil Levant,48.0765453,7.3561838,node,5528490095
+Colmar,restaurant,Vecchia Romagna,48.0534466,7.329708,node,5615181921
+Colmar,restaurant,Djerba La Douce,48.0774774,7.3603318,node,5627958047
+Colmar,restaurant,Winstub Le Cygne,48.0800573,7.3506904,node,5807929496
+Colmar,restaurant,Le Fer Rouge,48.075983,7.3586503,node,5826327245
+Colmar,restaurant,Chick & Nat,48.0849978,7.3570524,node,5992726285
+Colmar,restaurant,Le Stam,48.0782473,7.3573186,node,5992901385
+Colmar,restaurant,Collis Martis,48.0979057,7.3554406,node,6328529504
+Colmar,restaurant,Version Originale 68,48.0745326,7.360531,node,6414636897
+Colmar,restaurant,Le Bistrot des Copains,48.0770276,7.357729,node,6422009733
+Colmar,restaurant,La Pizza du Coin,48.073309,7.3475593,node,6641119694
+Colmar,restaurant,Au tonneau d'or,48.1128881,7.4218219,node,6665003486
+Colmar,restaurant,Mamma Giovanna,48.0772121,7.3566733,node,6694248645
+Colmar,restaurant,La Stub,48.0749397,7.357192,node,6852401764
+Colmar,restaurant,Le Petit Tanneur,48.0757111,7.3591382,node,7006667297
+Colmar,restaurant,Les délices du Maroc,48.0796652,7.3575863,node,7090811085
+Colmar,restaurant,Jadis et Gourmande,48.0758516,7.3585275,node,7168267788
+Colmar,restaurant,Café Restaurant Schongauer,48.080365,7.3556834,node,7209049771
+Colmar,restaurant,Le Quai 21,48.0745068,7.360453,node,7230513485
+Colmar,restaurant,Le Ramloc,48.0768413,7.3615983,node,7448621513
+Colmar,restaurant,L'atelier des Saveurs,48.0746718,7.3571799,node,7448729484
+Colmar,restaurant,Sans nom,48.0921938,7.4337794,node,7781532506
+Colmar,restaurant,Cuit Lu Cru,48.0745552,7.3595661,node,7993096321
+Colmar,restaurant,Tabula Rasa,48.077058,7.3526322,node,7993096322
+Colmar,restaurant,Hammana Café,48.0792658,7.3551664,node,7993116354
+Colmar,restaurant,La Soï,48.0763265,7.358456,node,8034183672
+Colmar,restaurant,Chez Hansi,48.0761507,7.3586143,node,8034224075
+Colmar,restaurant,La Romantica,48.0763713,7.3592736,node,8112240148
+Colmar,restaurant,Chez Félix,48.1598299,7.3712951,node,8721701503
+Colmar,restaurant,Au Cerf,48.145093,7.3238187,node,8721701510
+Colmar,restaurant,Adriatico,48.0797932,7.3628955,node,9089424840
+Colmar,restaurant,Pizzeria Da Maurizio,48.079781,7.3619204,node,9089424842
+Colmar,restaurant,Au Petit Vauban,48.0785239,7.361288,node,9089424843
+Colmar,restaurant,Au Chasseur,48.0771043,7.3613266,node,9162302020
+Colmar,restaurant,La Baie d'Halong,48.0784829,7.3606828,node,9165752878
+Colmar,restaurant,Crêp’ôz,48.0802735,7.3563895,node,9311762630
+Colmar,restaurant,La Petite Alsace,48.0802271,7.3563698,node,9311767317
+Colmar,restaurant,Au nid de Cigogne,48.1592031,7.3711823,node,9623176221
+Colmar,restaurant,L'Esprit Libre,48.0810866,7.3940546,node,10124204441
+Colmar,restaurant,Le palais gourmand,48.0772285,7.360217,node,10286404309
+Colmar,restaurant,Ô tour du Grill,48.1070555,7.3711923,node,10554658485
+Colmar,restaurant,Brasserie Winstub,48.077927,7.402913,node,10798809670
+Colmar,restaurant,Sushia,48.0776986,7.3596679,node,11074915105
+Colmar,restaurant,Dussourd,48.0779657,7.3568655,node,11150962770
+Colmar,restaurant,La Place 23,48.0777231,7.3576783,node,11196155652
+Colmar,restaurant,Bö & Zine,48.080607,7.3638949,node,11285642813
+Colmar,restaurant,Sushi Burn,48.0795884,7.3621653,node,11296433588
+Colmar,restaurant,Savannah Café Restaurant,48.0789276,7.3617247,node,11311290981
+Colmar,restaurant,Suki,48.0782115,7.3612501,node,11311294802
+Colmar,restaurant,Sans nom,48.0852848,7.320585,node,11328009541
+Colmar,restaurant,Le Palmyre,48.0744453,7.3567645,node,11463459869
+Colmar,restaurant,Brasserie du Musée,48.0789786,7.3564917,node,11472948572
+Colmar,restaurant,La Villa des Saveurs,48.0409842,7.409965,node,11765868103
+Colmar,restaurant,Nooï,48.0743428,7.3567879,node,11765943244
+Colmar,restaurant,A la Schtouwa,48.1271797,7.3694589,node,11795253844
+Colmar,restaurant,Maison Rouge,48.0748545,7.3588336,node,11901220290
+Colmar,restaurant,La Taverne,48.0751825,7.3582993,node,11901220294
+Colmar,restaurant,Au Bureau,48.0821031,7.3556885,node,11901871858
+Colmar,restaurant,Muang Thai,48.0825579,7.3553614,node,11958852969
+Colmar,restaurant,Le théâtre,48.0795296,7.3542577,node,12078050431
+Colmar,restaurant,Brasserie des Tanneurs,48.0752913,7.3593562,node,12144197050
+Colmar,restaurant,Airlunch,48.1019544,7.367249,node,12492863811
+Colmar,restaurant,Sushi Chez Na ＆ Hana Kiri,48.0806695,7.3574116,node,12610472757
+Colmar,restaurant,Pizza Dos,48.0775991,7.3602335,node,12625800585
+Colmar,restaurant,Marché Frais,48.0655369,7.3617174,node,12855645501
+Colmar,restaurant,Restaurant Aras,48.0816443,7.3911478,node,12901734533
+Colmar,restaurant,L’Escale,48.076315,7.3592194,node,13015780602
+Colmar,restaurant,Les Bateliers,48.0738057,7.3572289,node,13016852927
+Colmar,restaurant,Nagoya,48.0791656,7.3558189,node,13019156802
+Colmar,restaurant,Little Italy,48.0781239,7.3589676,node,13088868896
+Colmar,restaurant,La Pergola,48.076838,7.3574838,node,13267263890
+Colmar,restaurant,L'atelier des saveurs,48.0745905,7.3573325,node,13267330666
+Colmar,restaurant,La Kilbe,48.0801036,7.3658172,node,13268374049
+Colmar,restaurant,Restaurant Universitaire,48.0772597,7.3717504,way,47909272
+Colmar,restaurant,Anadolu,48.0790686,7.3615379,way,48359437
+Colmar,restaurant,La Cour des Anges,48.0759456,7.3601502,way,48392542
+Colmar,restaurant,Aux Armes de Colmar,48.0760277,7.3598466,way,48392552
+Colmar,restaurant,L'Atelier du Peintre,48.0763227,7.3580011,way,48400146
+Colmar,restaurant,Chez Kuna - Au Canon d'Or,48.081354,7.353761,way,48438550
+Colmar,restaurant,Les Dominicains,48.0786839,7.3572698,way,48502995
+Colmar,restaurant,Restaurant du Marché,48.0774877,7.357086,way,48507898
+Colmar,restaurant,Le Ginko,48.0768637,7.3572242,way,48507906
+Colmar,restaurant,Le Bartholdi,48.0781214,7.3559846,way,48509843
+Colmar,restaurant,Sézanne,48.0767837,7.3595721,way,48535329
+Colmar,restaurant,La Loge,48.0785631,7.3544183,way,48546430
+Colmar,restaurant,Le Meistermann,48.0779733,7.3534667,way,48549563
+Colmar,restaurant,Palmyre,48.0744447,7.3567034,way,48672715
+Colmar,restaurant,Maharaja,48.0745455,7.356752,way,48672721
+Colmar,restaurant,Sans nom,48.0737266,7.3568834,way,48674207
+Colmar,restaurant,La Petite Venise,48.0739726,7.3580403,way,48755436
+Colmar,restaurant,Winstub La Krutenau,48.0740879,7.3577993,way,48755440
+Colmar,restaurant,Wistub Brenner,48.0739195,7.3577849,way,48755443
+Colmar,restaurant,JY'S,48.0741043,7.3587061,way,48755450
+Colmar,restaurant,La Fleur de Sel,48.0739939,7.3593988,way,48755456
+Colmar,restaurant,L'Epicurien,48.0741388,7.3603367,way,48755466
+Colmar,restaurant,Aux Trois Poissons,48.0742543,7.360097,way,48755506
+Colmar,restaurant,Le Clos Alexi,48.0458159,7.3464973,way,50672507
+Colmar,restaurant,Au Pont de la Fecht,48.1208656,7.3356182,way,50751336
+Colmar,restaurant,Auberge du Dachsbuhl,48.0597784,7.3804273,way,50999895
+Colmar,restaurant,Auberge du Neuland,48.059055,7.3809028,way,50999897
+Colmar,restaurant,"Restaurant ""Waldeslust""",48.1129993,7.337156,way,51097929
+Colmar,restaurant,Restaurant du Ladhof,48.1069717,7.3860063,way,51256062
+Colmar,restaurant,Wok 168,48.101477,7.3615255,way,51256991
+Colmar,restaurant,Léon de Bruxelles,48.102177,7.3617476,way,53157683
+Colmar,restaurant,Le Mandelberg,48.1524302,7.3219186,way,72518799
+Colmar,restaurant,Le Mittelwihr,48.1505994,7.320328,way,72519544
+Colmar,restaurant,A l'Agneau Blanc,48.1584014,7.3259139,way,73988065
+Colmar,restaurant,Le Clos des Raisins,48.1578959,7.3265273,way,73988685
+Colmar,restaurant,Le Gambrinus,48.1577574,7.3267031,way,73988707
+Colmar,restaurant,Le Bouc Bleu,48.1579632,7.3244621,way,74018005
+Colmar,restaurant,Auberge du Froehn,48.1686608,7.3209212,way,74041245
+Colmar,restaurant,Maximilien,48.1693264,7.3189318,way,74127464
+Colmar,restaurant,Hôtel Au Riesling,48.1717086,7.3219515,way,74127591
+Colmar,restaurant,Le Schlossberg,48.1679877,7.3189599,way,74127632
+Colmar,restaurant,Au Trou du Cru,48.041517,7.4115681,way,83676253
+Colmar,restaurant,Bim Hudsala,48.0412893,7.4124393,way,83676257
+Colmar,restaurant,Restaurant de la Gare,48.0462474,7.419471,way,83701680
+Colmar,restaurant,Baran Kebap,48.0806689,7.3948521,way,108563054
+Colmar,restaurant,Café Rapp,48.0772622,7.3534756,way,388095685
+Colmar,restaurant,Auberge du Lac,48.0540303,7.3629307,way,395119726
+Colmar,restaurant,Kinii,48.0769521,7.4025806,way,687543195
+Colmar,restaurant,Au p'tit Muntz,48.1030372,7.4649225,way,1423058150
+Colmar,restaurant,La Maison des têtes,48.0784638,7.3556143,relation,377117
+Colmar,station,Colmar,48.0726525,7.3465192,node,398836628
+Colmar,station,Logelbach,48.0872736,7.3212244,node,9200872124
+Colmar,station,Colmar Mésanges,48.0859722,7.3336678,node,9200872125
+Colmar,station,Colmar Saint-Joseph,48.0816901,7.3453008,node,9200872126
+Colmar,historic,Statue du Général Jean Rapp,48.0770127,7.354183,node,268944838
+Colmar,historic,Statue d'Armand Joseph Bruat,48.0755785,7.3527612,node,268944859
+Colmar,historic,Théophile Conrad Pfeffel,48.0755368,7.3577627,node,269137668
+Colmar,historic,Statue de la Liberté,48.1084062,7.3636331,node,470199589
+Colmar,historic,Diable Rouge,48.0941319,7.3612755,node,575678502
+Colmar,historic,Maréchal de Lattre de Tassigny,48.077344,7.3511561,node,605309641
+Colmar,historic,Gustave Adolphe Hirn,48.0734677,7.3548399,node,605463218
+Colmar,historic,Statue de Frédéric Auguste Bartholdi,48.0704895,7.3531423,node,609085866
+Colmar,historic,Sans nom,48.0827431,7.346485,node,655274770
+Colmar,historic,Sans nom,48.0719518,7.3371377,node,659392861
+Colmar,historic,Buste de Charles- Xavier Thomas,48.0755058,7.354044,node,690531215
+Colmar,historic,Jean-Jacques Waltz (alias Hansi),48.0774127,7.3546466,node,690531629
+Colmar,historic,Calvaire,48.1244748,7.3754245,node,854528087
+Colmar,historic,Calvaire,48.1285221,7.3825255,node,860083218
+Colmar,historic,Calvaire,48.1426455,7.3250216,node,860211688
+Colmar,historic,Monument de la Fidélité,48.1448138,7.3245527,node,860212344
+Colmar,historic,Croix,48.1481616,7.3219268,node,860958338
+Colmar,historic,Calvaire,48.1426454,7.3250213,node,861313677
+Colmar,historic,Sans nom,48.1316855,7.4388274,node,954319183
+Colmar,historic,La Croix du Moulin,48.1394695,7.4634024,node,954321663
+Colmar,historic,Monument,48.0620356,7.4152855,node,1251307569
+Colmar,historic,Calvaire,48.1342417,7.3188498,node,1351134893
+Colmar,historic,Croix Blanche,48.0671452,7.3229745,node,1387610676
+Colmar,historic,Sans nom,48.1272526,7.4455683,node,1388197537
+Colmar,historic,Sans nom,48.127339,7.4446148,node,1388198799
+Colmar,historic,Monument aux Morts,48.0978892,7.4376135,node,1392614141
+Colmar,historic,Monument aux Morts,48.0894013,7.4498289,node,1393522316
+Colmar,historic,Sculpture Liebherr (Exclos 72),48.0932116,7.355822,node,1434120808
+Colmar,historic,Calvaire,48.1093482,7.4292221,node,1473100802
+Colmar,historic,Calvaire,48.1105117,7.4183164,node,1473100803
+Colmar,historic,Sans nom,48.0609602,7.3375999,node,1487317101
+Colmar,historic,Calvaire,48.0935601,7.3728366,node,1700803128
+Colmar,historic,Sans nom,48.0544759,7.4465297,node,3503187477
+Colmar,historic,Calvaire,48.0797821,7.3780602,node,3553955193
+Colmar,historic,"M10 Tank Destroyer ""Porc-Epic""",48.1745643,7.4504181,node,3701464815
+Colmar,historic,Stèle Préfet Erignac,48.0747027,7.3518327,node,3912941571
+Colmar,historic,Calvaire,48.0866767,7.3679921,node,4071248676
+Colmar,historic,Calvaire,48.087533,7.3316514,node,4842035416
+Colmar,historic,Sans nom,48.0767716,7.3598273,node,5070839107
+Colmar,historic,Sans nom,48.0768301,7.3599044,node,5070839108
+Colmar,historic,Sans nom,48.0768749,7.3599705,node,5070839109
+Colmar,historic,Sans nom,48.0769307,7.3600459,node,5070839110
+Colmar,historic,Sans nom,48.0769903,7.3601203,node,5070839111
+Colmar,historic,Sans nom,48.0776639,7.3593796,node,5833468793
+Colmar,historic,Sans nom,48.0774974,7.3706675,node,8225575390
+Colmar,historic,Sans nom,48.0545577,7.4463812,node,9405148720
+Colmar,historic,Mémorial Audie Murphy,48.1227961,7.420888,node,9610853517
+Colmar,historic,Mémorial du Lancaster PB 765,48.125775,7.4275705,node,9878917949
+Colmar,historic,Sans nom,48.076398,7.3608157,node,11285642807
+Colmar,historic,Place du Capitaine Dreyfus,48.0757229,7.3444652,node,11323264494
+Colmar,historic,Monument aux Morts,48.1258162,7.3792519,node,12539776453
+Colmar,historic,Mémorial des Malgré-Nous,48.1257531,7.3792385,node,12550224353
+Colmar,historic,Sans nom,48.0780879,7.3630446,node,12855865448
+Colmar,historic,Sans nom,48.0796689,7.353268,node,12855942890
+Colmar,historic,Sans nom,48.1695142,7.3163415,node,12964701140
+Colmar,historic,Théodore Lévy,48.081324,7.3913466,node,13119348506
+Colmar,historic,Lucie Carpe,48.0813271,7.3913473,node,13119348507
+Colmar,historic,Marguerite Lévy née Bickart,48.0813253,7.3913469,node,13119348508
+Colmar,historic,Émilie Dreyfus née Worms,48.0810612,7.3930166,node,13119348509
+Colmar,historic,Claude Dreyfus,48.0810616,7.3930147,node,13119348510
+Colmar,historic,Adolphe Dreyfus,48.0810608,7.3930185,node,13119348511
+Colmar,historic,Jeanne Brunschwig née Wertenschlag,48.0791825,7.3913819,node,13119348512
+Colmar,historic,Camille Judas,48.0791824,7.3913868,node,13119348513
+Colmar,historic,Yvonne Judas née Brunschwig,48.0791816,7.3913844,node,13119348514
+Colmar,historic,Pierre Martin Lippmann,48.0791815,7.3913892,node,13119348515
+Colmar,historic,Sans nom,48.0776229,7.3575635,way,48503139
+Colmar,historic,Sans nom,48.0772468,7.3595816,way,48535320
+Colmar,historic,Monument aux Morts,48.081854,7.3656047,way,48591620
+Colmar,historic,Maison Pfeffel,48.0750163,7.3557558,way,48672388
+Colmar,historic,Château Kiener,48.066601,7.3499384,way,49689040
+Colmar,historic,Monument aux Morts,48.1577293,7.3200704,way,73887824
+Colmar,historic,Monument,48.1595377,7.3706587,way,74728729
+Colmar,historic,Fontaine Bruat,48.0755789,7.3527575,way,137635328
+Colmar,historic,Couvent des Unterlinden,48.0796551,7.355455,relation,364243
+Colmar,historic,Voie Romaine,48.2525573,7.3787645,relation,12699061

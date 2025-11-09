@@ -1,0 +1,35 @@
+restaurant_id,city,name,latitude,longitude,rating,total_ratings,price_range,cuisine_type,address,phone,website,opening_hours,data_source
+cannes_resto_001,Cannes,Le Café Cannes,43.52038,7.036135,3.9,181,€,Gastronomique,198 Rue Victor Hugo,0222811112,https://www.cannes-restaurant-1.fr,"12:00-14:30, 19:00-22:30",generated_data
+cannes_resto_002,Cannes,Le Table du Cannes,43.574947,6.993745,4.6,286,€€,Méditerranéenne,61 Rue Victor Hugo,0324372041,https://www.cannes-restaurant-2.fr,"12:00-14:30, 19:00-22:30",generated_data
+cannes_resto_003,Cannes,Les Petit Café,43.549964,7.017061,3.6,352,€€€,Méditerranéenne,52 Rue de Paris,0277269833,https://www.cannes-restaurant-3.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_004,Cannes,La Cuisine du Cannes,43.569382,6.987422,4.1,468,€€€,Gastronomique,29 Rue du Centre,0438214593,https://www.cannes-restaurant-4.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_005,Cannes,Le Grand Café,43.589745,7.013375,3.5,66,€€,Gastronomique,94 Rue Principale,0219863674,https://www.cannes-restaurant-5.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_006,Cannes,La Nouveau Café,43.593174,7.056836,3.5,304,€,Provençale,109 Rue du Centre,0430926663,https://www.cannes-restaurant-6.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_007,Cannes,Les Typique Bistro,43.554323,6.996401,3.6,441,€,Méditerranéenne,127 Rue de Paris,0459907267,https://www.cannes-restaurant-7.fr,"12:00-14:30, 19:00-22:30",generated_data
+cannes_resto_008,Cannes,Chez Bouchon Cannes,43.521116,7.060717,3.8,206,€€€,Gastronomique,38 Rue de Paris,0493263413,https://www.cannes-restaurant-8.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_009,Cannes,La Table de Cannes,43.573269,7.020358,3.5,39,€€€,Provençale,194 Rue du Centre,0376389740,https://www.cannes-restaurant-9.fr,"12:00-14:30, 19:00-22:30",generated_data
+cannes_resto_010,Cannes,Chez Bouchon Cannes,43.523626,6.977635,4.4,312,€€€,Méditerranéenne,120 Rue Principale,0377135238,https://www.cannes-restaurant-10.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_011,Cannes,Le Comptoir Cannes,43.57312,7.054095,3.4,290,€,Provençale,34 Rue Principale,0584805152,https://www.cannes-restaurant-11.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_012,Cannes,Le Bouchon Cannes,43.589336,7.029577,4.5,332,€€,Méditerranéenne,114 Rue Victor Hugo,0435526187,https://www.cannes-restaurant-12.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_013,Cannes,Restaurant Au de la Gare,43.568104,6.997195,3.5,351,€€€,Provençale,107 Rue Victor Hugo,0243679446,https://www.cannes-restaurant-13.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_014,Cannes,La Table du Cannes,43.521313,7.01719,3.7,81,€€,Gastronomique,71 Rue du Centre,0336788847,https://www.cannes-restaurant-14.fr,"12:00-14:30, 19:00-22:30",generated_data
+cannes_resto_015,Cannes,Chez Café Cannes,43.547323,6.971335,3.6,162,€€,Provençale,58 Rue de Paris,0194282677,https://www.cannes-restaurant-15.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_016,Cannes,Le Bouchon Cannes,43.54344,7.019278,4.8,191,€€€,Gastronomique,137 Rue Victor Hugo,0253778156,https://www.cannes-restaurant-16.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_017,Cannes,Au Bon Brasserie,43.556091,7.003535,4.7,170,€€€,Provençale,16 Rue Principale,0596197796,https://www.cannes-restaurant-17.fr,"12:00-14:30, 19:00-22:30",generated_data
+cannes_resto_018,Cannes,Les Nouveau Brasserie,43.574592,7.048988,3.7,219,€€€,Gastronomique,84 Rue du Centre,0397423843,https://www.cannes-restaurant-18.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_019,Cannes,La Nouveau Bistro,43.593026,6.990242,4.1,10,€€€,Provençale,100 Rue de Paris,0120811942,https://www.cannes-restaurant-19.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_020,Cannes,Le Typique Bistro,43.5701,6.992033,4.7,42,€,Gastronomique,41 Rue Principale,0310564638,https://www.cannes-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_021,Cannes,Au Comptoir Cannes,43.549193,6.991505,4.6,141,€,Gastronomique,118 Rue Principale,0152232682,https://www.cannes-restaurant-21.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_022,Cannes,Au Comptoir Cannes,43.554944,6.983316,3.4,327,€€,Provençale,77 Rue Principale,0238276692,https://www.cannes-restaurant-22.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_023,Cannes,La Cuisine du Cannes,43.564998,6.971854,4.1,52,€€,Méditerranéenne,6 Rue du Centre,0134186693,https://www.cannes-restaurant-23.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_024,Cannes,Restaurant Au Cannes,43.582046,6.972753,4.1,410,€€,Gastronomique,52 Rue de Paris,0350833443,https://www.cannes-restaurant-24.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_025,Cannes,La Bon Café,43.553765,7.024309,4.6,466,€,Méditerranéenne,177 Rue Principale,0577494136,https://www.cannes-restaurant-25.fr,"12:00-14:30, 19:00-22:30",generated_data
+cannes_resto_026,Cannes,Au Grand Comptoir,43.600069,7.064841,3.5,35,€€€,Méditerranéenne,131 Rue de Paris,0369797970,https://www.cannes-restaurant-26.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_027,Cannes,La Comptoir Cannes,43.508333,7.040961,4.2,63,€€€,Méditerranéenne,184 Rue Victor Hugo,0187753541,https://www.cannes-restaurant-27.fr,"12:00-14:30, 19:00-22:30",generated_data
+cannes_resto_028,Cannes,Les Comptoir Cannes,43.571876,6.975449,3.3,249,€,Provençale,88 Rue de Paris,0444624579,https://www.cannes-restaurant-28.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_029,Cannes,Le Comptoir Cannes,43.561122,6.999676,4.2,424,€€,Provençale,23 Rue du Centre,0435599089,https://www.cannes-restaurant-29.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_030,Cannes,La Café Cannes,43.555667,7.000689,4.1,88,€,Gastronomique,155 Rue Victor Hugo,0286856838,https://www.cannes-restaurant-30.fr,"12:00-14:30, 19:00-22:30",generated_data
+cannes_resto_031,Cannes,Le Table de Cannes,43.563815,6.971857,3.6,160,€,Provençale,139 Rue Victor Hugo,0663902213,https://www.cannes-restaurant-31.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_032,Cannes,Le Table de Cannes,43.562793,7.041018,3.8,258,€€,Gastronomique,54 Rue Victor Hugo,0495205716,https://www.cannes-restaurant-32.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_033,Cannes,La Cuisine de Cannes,43.554926,6.985615,4.1,318,€€€,Provençale,177 Rue de Paris,0250848161,https://www.cannes-restaurant-33.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_034,Cannes,Comptoir La Cannes,43.543434,6.982665,4.4,261,€€€,Méditerranéenne,46 Rue du Centre,0298796236,https://www.cannes-restaurant-34.fr,"12:00-14:00, 19:00-22:00",generated_data

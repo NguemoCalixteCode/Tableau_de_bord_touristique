@@ -1,0 +1,664 @@
+city,category,name,lat,lon,osm_type,osm_id
+Arles,museum,Musée de la Maison Romane,43.6769345,4.4310858,node,3549720940
+Arles,museum,Musée Yves Brayer,43.7436927,4.794548,node,4442406048
+Arles,museum,Maison du Riz,43.6136072,4.4547978,node,6002841722
+Arles,museum,Conservatoire du santon provençal,43.6781148,4.6301021,node,6178341785
+Arles,museum,Lee Ufan,43.6779567,4.6281607,node,11835929698
+Arles,museum,Chapelle des Trinitaires,43.676316,4.6258436,node,11842349554
+Arles,museum,Le Grenier à Olives,43.7239407,4.8003821,node,12715391506
+Arles,museum,Le CERCO,43.673154,4.6390656,way,102077401
+Arles,museum,Musée de la Camargue,43.624218,4.5286308,way,102094949
+Arles,museum,Maison de la Transhumance,43.5965665,4.7887453,way,158387935
+Arles,museum,Maison de la Crau,43.6370776,4.8061041,way,158402806
+Arles,museum,Rétro Musée,43.6371605,4.805663,way,158403771
+Arles,museum,Musée Paul Ricard,43.5697749,4.5025305,way,163448780
+Arles,museum,Musée de l'eau,43.7600348,4.5070259,way,287072549
+Arles,museum,Musée des Santons,43.7447407,4.7949958,way,446697908
+Arles,museum,Musée Réattu,43.679281,4.6277462,relation,1451755
+Arles,museum,Musée Arlaten,43.6766678,4.6261157,relation,1451761
+Arles,museum,Musée de l'Arles antique,43.6727217,4.6163447,relation,5944281
+Arles,park,Le Bois Francois,43.3930806,4.7915595,node,5320874710
+Arles,park,Sans nom,43.4077749,4.7318678,node,5341440491
+Arles,park,Sans nom,43.6353375,4.7960155,node,8169996802
+Arles,park,Sans nom,43.7548609,4.4721186,way,41739034
+Arles,park,Sans nom,43.7234231,4.8044744,way,176021664
+Arles,park,Sans nom,43.7210488,4.7863657,way,205228881
+Arles,park,Sans nom,43.6771958,4.43424,way,218624390
+Arles,park,Sans nom,43.6823304,4.4347671,way,219639266
+Arles,park,Parc du Moulin Peyre,43.6911332,4.8706998,way,245052251
+Arles,park,Jardin du Petit Mas,43.6886739,4.8737181,way,245052254
+Arles,park,Sans nom,43.6753482,4.6194723,way,277159349
+Arles,park,Sans nom,43.6718872,4.6161335,way,300574496
+Arles,park,Jardin public,43.6365591,4.8109212,way,374444265
+Arles,park,Sans nom,43.741647,4.7884323,way,446788129
+Arles,park,Parc de la Révolution,43.3878692,4.8006547,way,467736499
+Arles,park,Sans nom,43.3843475,4.805649,way,467736504
+Arles,park,Sans nom,43.6352858,4.7960164,way,499489340
+Arles,park,Sans nom,43.6836425,4.6321738,way,500058333
+Arles,park,Sans nom,43.7571353,4.5156684,way,501738325
+Arles,park,Sans nom,43.7578072,4.5045021,way,501738326
+Arles,park,Domaine de l'étang des Aulnes,43.597462,4.7872452,way,536874902
+Arles,park,Sans nom,43.6393831,4.8098708,way,549914732
+Arles,park,Sans nom,43.6983147,4.7897596,way,550400320
+Arles,park,Sans nom,43.6983797,4.7877723,way,550400329
+Arles,park,Sans nom,43.6979354,4.7894075,way,550400331
+Arles,park,Sans nom,43.699315,4.7860585,way,550403795
+Arles,park,Sans nom,43.6975733,4.7888573,way,550404528
+Arles,park,Sans nom,43.7051858,4.7688158,way,550415668
+Arles,park,Sans nom,43.7354418,4.7430229,way,551649622
+Arles,park,Sans nom,43.6720489,4.615106,way,552007406
+Arles,park,Sans nom,43.6538519,4.692834,way,553061690
+Arles,park,Sans nom,43.416619,4.7317348,way,553332928
+Arles,park,Sans nom,43.4182488,4.7343837,way,553336927
+Arles,park,Sans nom,43.7196042,4.835769,way,554068423
+Arles,park,Sans nom,43.6390437,4.8086129,way,557070095
+Arles,park,clauzel,43.6710413,4.4279927,way,558332713
+Arles,park,Tamaris,43.6723432,4.427034,way,558333020
+Arles,park,Sans nom,43.6591091,4.8390826,way,604043715
+Arles,park,Sans nom,43.6190829,4.6572512,way,650286192
+Arles,park,Sans nom,43.745864,4.6544067,way,684944312
+Arles,park,Sans nom,43.6679008,4.6105935,way,686650782
+Arles,park,Sans nom,43.6676571,4.6108243,way,686650783
+Arles,park,Sans nom,43.672916,4.642764,way,691307586
+Arles,park,Sans nom,43.6710166,4.6373359,way,691311081
+Arles,park,Sans nom,43.7260932,4.7141585,way,708212257
+Arles,park,"La Verrerie, tiers-lieu culturel & citoyen",43.6817883,4.6207471,way,710727648
+Arles,park,Sans nom,43.5674965,4.6678987,way,726949293
+Arles,park,Sans nom,43.5088737,4.6681635,way,766323112
+Arles,park,Sans nom,43.7246351,4.7805631,way,780557573
+Arles,park,Sans nom,43.5707621,4.8201151,way,781620188
+Arles,park,Sans nom,43.6729231,4.5979903,way,782192598
+Arles,park,Sans nom,43.7056486,4.8666307,way,783091528
+Arles,park,L'Ile aux loisirs,43.6485873,4.6394415,way,785075907
+Arles,park,Sans nom,43.6942174,4.612188,way,790318163
+Arles,park,Sans nom,43.6460264,4.7224139,way,896451234
+Arles,park,Sans nom,43.6562681,4.6386317,way,928881807
+Arles,park,Jardin Public Fernand Benoît,43.4119127,4.7295092,way,959116455
+Arles,park,Sans nom,43.4100349,4.7275523,way,975910096
+Arles,park,Institut Médico-Educatif les Abeilles,43.7223276,4.7190992,way,1054817193
+Arles,park,Centre aéré l’Écureuil,43.7239372,4.7199284,way,1054818163
+Arles,park,Jardin d'été,43.6756383,4.6303151,way,1128217045
+Arles,park,Square des Anciens Combattants,43.6930544,4.868949,way,1162265556
+Arles,park,Jardins de Quiqueran,43.742554,4.7948576,way,1171486289
+Arles,park,Parc du Grand Gallègue,43.6852925,4.6111546,way,1444249170
+Arles,park,Parc du Ponant,43.3967014,4.7944666,relation,10906771
+Arles,park,Parc paysagé de la baisse de Raillon,43.6302534,4.7861158,relation,12267069
+Arles,park,Espace de loisirs de la Baisse de Raillon,43.6343146,4.7941885,relation,14879797
+Arles,park,Espace Benjamin Priaulet,43.7221486,4.8040443,relation,15845169
+Arles,restaurant,La Medina,43.6788178,4.6199788,node,332189806
+Arles,restaurant,La Pirate,43.4519489,4.4284933,node,510116610
+Arles,restaurant,Bistrot des Canisses,43.725854,4.7082459,node,677813393
+Arles,restaurant,La Câchette,43.6773891,4.6254464,node,1029953532
+Arles,restaurant,La Cantine Végétale,43.6755869,4.625747,node,1030007981
+Arles,restaurant,La Playa,43.4553728,4.4418555,node,1362712342
+Arles,restaurant,Apostrophe Café,43.677683,4.627231,node,1416483516
+Arles,restaurant,Le Bautezar,43.7441194,4.7951951,node,1450119955
+Arles,restaurant,La Bergerie de Méjanes,43.5701862,4.5055994,node,1660001260
+Arles,restaurant,LeRemake,43.452106,4.4271039,node,1660001261
+Arles,restaurant,Le Tourne Broche,43.4519326,4.4272045,node,1660001269
+Arles,restaurant,L'abbaye de Montmajour,43.7066232,4.6645765,node,1660321010
+Arles,restaurant,Hôtel Le Cours,43.673455,4.4321486,node,1706911963
+Arles,restaurant,La Halte Nautique,43.7446153,4.5207914,node,1871591875
+Arles,restaurant,Chez Toni,43.6734019,4.4343105,node,1952180687
+Arles,restaurant,Du Bar à l'Huitre,43.6773472,4.6267798,node,2122667398
+Arles,restaurant,Bec Restaurant,43.7206691,4.7866104,node,2151749302
+Arles,restaurant,Le Bistrot du Paradou,43.7204309,4.7848316,node,2151749405
+Arles,restaurant,Le Resto de la Gare,43.6225299,4.8009505,node,2151968736
+Arles,restaurant,Pizza Brun,43.7218516,4.8006756,node,2152011243
+Arles,restaurant,Chez Mam Goz,43.6766192,4.6304142,node,2241171450
+Arles,restaurant,Bibine & Ripaille,43.6751284,4.4315954,node,2401825298
+Arles,restaurant,Sans nom,43.6746866,4.4317905,node,2401825303
+Arles,restaurant,Sans nom,43.673651,4.4327978,node,2401825317
+Arles,restaurant,La Restanque,43.6729395,4.4341583,node,2401825321
+Arles,restaurant,Les Goûts orientaux,43.6796327,4.6307644,node,2486682704
+Arles,restaurant,La Terrasse des Baux,43.743927,4.7949822,node,2929379148
+Arles,restaurant,Du côté des olivades,43.7233878,4.7969882,node,3056980900
+Arles,restaurant,Le Chiangmaiï,43.6356767,4.8145898,node,3118228772
+Arles,restaurant,La Bodega,43.45204,4.4291853,node,3346369106
+Arles,restaurant,La Siesta,43.4504992,4.4284026,node,3346369108
+Arles,restaurant,Le Penequet,43.4506138,4.4293613,node,3346369109
+Arles,restaurant,Lou Gabian,43.4516349,4.4302958,node,3346369111
+Arles,restaurant,Le Baux Gourmand,43.7444188,4.7953718,node,3380969015
+Arles,restaurant,Brasserie La Fontaine,43.452067,4.4277934,node,3717106760
+Arles,restaurant,La Grange,43.4518477,4.4266621,node,3717106762
+Arles,restaurant,La Maison de Jeanne,43.4518161,4.4271573,node,3717106763
+Arles,restaurant,Le Napoli,43.451982,4.428248,node,3717250823
+Arles,restaurant,La Chassagnette,43.5676344,4.6674351,node,3810989002
+Arles,restaurant,Au bonheur d'Emilie,43.6774768,4.6250552,node,3829998133
+Arles,restaurant,Le Plaza,43.6782607,4.6263833,node,4265707058
+Arles,restaurant,L'Oustaù de Baumanière,43.7470213,4.7955483,node,4462926857
+Arles,restaurant,La Cabro d'Or,43.740138,4.7873357,node,4462926858
+Arles,restaurant,La Reine Jeanne,43.7449176,4.7953632,node,4706506992
+Arles,restaurant,La bella vista,43.7440063,4.794764,node,4706506994
+Arles,restaurant,Au Porte Mages,43.7449226,4.7956016,node,4706641761
+Arles,restaurant,Les Saladelles,43.4144054,4.734673,node,4729240350
+Arles,restaurant,Le Criquet,43.6763869,4.630598,node,4798785428
+Arles,restaurant,L'Escaladou,43.6763271,4.6305807,node,4798788892
+Arles,restaurant,La bouvine,43.4519165,4.4269125,node,4876392525
+Arles,restaurant,La taverne Italienne,43.4521459,4.4270132,node,4876392622
+Arles,restaurant,Le Rouget,43.451303,4.4264997,node,4876402321
+Arles,restaurant,La Casita,43.4507916,4.4271858,node,4876452521
+Arles,restaurant,Les flots bleus,43.4510263,4.4266439,node,4876455825
+Arles,restaurant,Les Salicornes,43.5738403,4.622833,node,4880159621
+Arles,restaurant,Le Mazet du Vaccarès,43.5577623,4.490796,node,4880159622
+Arles,restaurant,Les Embruns,43.4504401,4.4297648,node,4880364721
+Arles,restaurant,La Mama Sita,43.4508009,4.4298066,node,4881632728
+Arles,restaurant,Le Fournelet,43.4508156,4.4301099,node,4881632729
+Arles,restaurant,Memphis,43.6513638,4.6694516,node,4938177333
+Arles,restaurant,Café de la Roquette,43.6767024,4.6232075,node,4979366188
+Arles,restaurant,La Placette,43.6769327,4.6235569,node,4979366189
+Arles,restaurant,Páou,43.6767074,4.6234877,node,4979366199
+Arles,restaurant,Vivotto,43.6768982,4.6248398,node,4979405911
+Arles,restaurant,Arles Pizza,43.6769586,4.6237515,node,4979405914
+Arles,restaurant,Romarin,43.4521974,4.4267865,node,4992109149
+Arles,restaurant,L'Esperado,43.4510275,4.4264491,node,4992109150
+Arles,restaurant,Le Mistral,43.4508011,4.4263977,node,4992109151
+Arles,restaurant,L'Estanco,43.4516879,4.426607,node,4992109152
+Arles,restaurant,L'Escaladou,43.4516182,4.4269824,node,4992635407
+Arles,restaurant,Ô Pica Pica,43.4504105,4.4275753,node,4995950887
+Arles,restaurant,Le Camargue,43.450853,4.4281966,node,4995950893
+Arles,restaurant,La Cabane aux Coquillages,43.4504134,4.4276533,node,4995950894
+Arles,restaurant,La Laupio,43.4505251,4.4279406,node,4995950895
+Arles,restaurant,Le Bistrot de l'Église,43.4514506,4.4281758,node,5184858429
+Arles,restaurant,L’entrevue,43.6784883,4.6248283,node,5205926635
+Arles,restaurant,La Chamade,43.4504114,4.427836,node,5255624221
+Arles,restaurant,La Tour de Pise,43.6758533,4.6261361,node,5281652279
+Arles,restaurant,L'ingénu,43.6799334,4.6317509,node,5281778341
+Arles,restaurant,La Bergerie Provencale,43.6489321,4.7051534,node,5299700181
+Arles,restaurant,Le Bistrot de Mogador,43.7355997,4.742256,node,5327934619
+Arles,restaurant,Chez Vincent,43.6450349,4.716257,node,5350859487
+Arles,restaurant,Chez Marco,43.6374319,4.8074609,node,5351512223
+Arles,restaurant,Hoi-An,43.6375885,4.80791,node,5351530782
+Arles,restaurant,Le Saint'M,43.6383427,4.8101995,node,5351544536
+Arles,restaurant,Café de la Fontaine,43.7208247,4.8052232,node,5470513475
+Arles,restaurant,Au Bistrot Marin,43.7208489,4.80514,node,5470517582
+Arles,restaurant,O'fil de l'eau,43.6379401,4.8094034,node,5552059641
+Arles,restaurant,Une Table au Soleil,43.7434161,4.7946185,node,5703880523
+Arles,restaurant,Saveurs et Terroirs,43.6774468,4.6301035,node,5703904922
+Arles,restaurant,El Paséo,43.67799,4.6269239,node,5729002362
+Arles,restaurant,Le Galoubet,43.6782434,4.6268683,node,5729002363
+Arles,restaurant,Le Bistro Arlésrien,43.6777839,4.6272077,node,5731740607
+Arles,restaurant,Mezza Luna,43.6778751,4.6270347,node,5731740608
+Arles,restaurant,Pizza di Napoli,43.6330441,4.8044083,node,5757210505
+Arles,restaurant,La petite table,43.6806799,4.6313889,node,5814613753
+Arles,restaurant,Cuisine de comptoir,43.6778202,4.6263733,node,5825254253
+Arles,restaurant,Cuit Cuit,43.6783048,4.6276008,node,5981777605
+Arles,restaurant,Brasserie des arènes,43.4504438,4.4272557,node,6002816012
+Arles,restaurant,Le rendez-vous,43.6426339,4.7970974,node,6111102143
+Arles,restaurant,Izakayan,43.6809102,4.6314216,node,6113889082
+Arles,restaurant,Euro d'Asie,43.6641186,4.6395831,node,6116862899
+Arles,restaurant,A Côté Le Bistro,43.675796,4.6268788,node,6126976475
+Arles,restaurant,Salle à manger,43.6758183,4.6271089,node,6126976476
+Arles,restaurant,Le Café de la place,43.6757394,4.6262003,node,6126988846
+Arles,restaurant,Enjoy Tacos,43.6753036,4.6265254,node,6126994298
+Arles,restaurant,Café Belini,43.6754113,4.6274045,node,6126996776
+Arles,restaurant,Lib'En Arles,43.6808304,4.6314061,node,6139968447
+Arles,restaurant,Le Vietnam,43.6808641,4.6311445,node,6139968449
+Arles,restaurant,Menara,43.6804227,4.6313352,node,6139984636
+Arles,restaurant,Le Cochon qui fume,43.6800865,4.6309173,node,6140017216
+Arles,restaurant,Le Ginestre,43.6796666,4.6317227,node,6140017220
+Arles,restaurant,La Maison du Mochi,43.6784527,4.627904,node,6140724514
+Arles,restaurant,Pizza Moulin's,43.6449393,4.718537,node,6142324502
+Arles,restaurant,Le Vingt-Quatre,43.6750083,4.6354253,node,6147018743
+Arles,restaurant,Les Ateliers,43.6746558,4.6350457,node,6147018745
+Arles,restaurant,All'Oro,43.676485,4.6254008,node,6153576661
+Arles,restaurant,L'Autruche,43.6764187,4.6253821,node,6153576662
+Arles,restaurant,Lou Marquès,43.6749185,4.6282548,node,6165849235
+Arles,restaurant,Jardin des Arts,43.676458,4.6258102,node,6166963727
+Arles,restaurant,La Maison des Gourmants,43.6769785,4.6306328,node,6178367296
+Arles,restaurant,Chez Félix,43.6769749,4.6310522,node,6178367298
+Arles,restaurant,Sakura,43.6769793,4.6309792,node,6178367299
+Arles,restaurant,Les Collectionneurs,43.6532267,4.6825309,node,6217157362
+Arles,restaurant,Chez Toinou,43.3854063,4.8053095,node,6455896713
+Arles,restaurant,Brasserie les Pins,43.3876689,4.8025067,node,6455960164
+Arles,restaurant,Mas Saint Bertrand,43.4488329,4.6614848,node,6482067186
+Arles,restaurant,Palace grill,43.637918,4.8093046,node,6513213749
+Arles,restaurant,Casa Marina,43.4510171,4.4308515,node,6596578102
+Arles,restaurant,Gaudina,43.6777384,4.627812,node,6621123181
+Arles,restaurant,La Cuisine de Daudet,43.7260909,4.71428,node,6654737613
+Arles,restaurant,La Salsa,43.4515982,4.4271784,node,6720600067
+Arles,restaurant,L'Épicerie du Cloître,43.6759658,4.6285537,node,6727069552
+Arles,restaurant,i Cocorrico !,43.6760484,4.6304333,node,6727082406
+Arles,restaurant,Le pueblo,43.5852605,4.4575139,node,6776736886
+Arles,restaurant,Le Patio des Alyscamps,43.67339,4.6325297,node,6820038985
+Arles,restaurant,La Casa Romana,43.4523194,4.4278556,node,6821695685
+Arles,restaurant,Kaly Sushi,43.7037938,4.6440508,node,6863551313
+Arles,restaurant,Emilie and the Cool Kids,43.7051258,4.6444381,node,6863608263
+Arles,restaurant,Chez Etienne,43.7051944,4.6439276,node,6863679722
+Arles,restaurant,La Meunerie,43.7055069,4.6443081,node,6863710920
+Arles,restaurant,Sans nom,43.7055338,4.6439691,node,6863710923
+Arles,restaurant,La Taverne du Forum,43.6778677,4.6271495,node,6919657818
+Arles,restaurant,Pitalito,43.6777579,4.6275501,node,6919776021
+Arles,restaurant,Bodeguita,43.6776545,4.6276975,node,6919776022
+Arles,restaurant,Goûts et saveurs du midi,43.6762701,4.4312277,node,6927587085
+Arles,restaurant,Jaipur Palace,43.676192,4.6304967,node,7054329269
+Arles,restaurant,La Telline,43.5779201,4.621604,node,7061418749
+Arles,restaurant,Le By Pass,43.4147137,4.7344032,node,7074407978
+Arles,restaurant,Le Bigouden,43.675702,4.6257839,node,7078361586
+Arles,restaurant,La Mule Blanche,43.6760285,4.6263763,node,7078377719
+Arles,restaurant,Inari,43.6798994,4.6310439,node,7080641015
+Arles,restaurant,L'oriental,43.6805662,4.6313598,node,7080641016
+Arles,restaurant,Sô Sushi,43.6754229,4.6275262,node,7080801646
+Arles,restaurant,Le Petit Arles,43.6772363,4.6278336,node,7084629457
+Arles,restaurant,Dim-Mui,43.677443,4.6277137,node,7101090866
+Arles,restaurant,Pia,43.6752624,4.6262266,node,7105340781
+Arles,restaurant,La Comédie,43.675267,4.6260346,node,7105361877
+Arles,restaurant,Café George,43.6753124,4.6257357,node,7105413109
+Arles,restaurant,La Succulente,43.6793662,4.631079,node,7107793965
+Arles,restaurant,Volubilis,43.678797,4.6308776,node,7107817189
+Arles,restaurant,L'Hostellerie des Arènes,43.6783924,4.6315805,node,7107820767
+Arles,restaurant,Crok'Panda,43.6795996,4.6309725,node,7107838888
+Arles,restaurant,Le Pitchounet,43.6797351,4.6310069,node,7107838889
+Arles,restaurant,L'Oriel,43.6775697,4.6264452,node,7122952182
+Arles,restaurant,La Caravelle,43.6790759,4.6267524,node,7137263689
+Arles,restaurant,La Gueule du Loup,43.6777369,4.6279747,node,7137515909
+Arles,restaurant,Chardon,43.6777182,4.6280828,node,7137528082
+Arles,restaurant,Chez ta Mère,43.6778407,4.627524,node,7137530664
+Arles,restaurant,La Bohême,43.6769589,4.6265356,node,7138765344
+Arles,restaurant,Chez Fabrice,43.6388019,4.8162198,node,7147642316
+Arles,restaurant,Le Restaurant Pluvinel,43.7091214,4.8072775,node,7286408976
+Arles,restaurant,Le Bistrot du Marché,43.3878201,4.8079544,node,7432977498
+Arles,restaurant,Le Constantin,43.6787599,4.627505,node,7762465072
+Arles,restaurant,N'Apo,43.6775699,4.6272446,node,7788067027
+Arles,restaurant,Le Jardin Secret,43.6731537,4.4319091,node,7791952110
+Arles,restaurant,Crêperie La Terre Est Ronde,43.7541631,4.5138636,node,7844725057
+Arles,restaurant,Le Bouchon Rouge,43.7433751,4.7948237,node,7885097090
+Arles,restaurant,Aki Poke,43.6767726,4.6251332,node,8013732747
+Arles,restaurant,L'Ami Provençal,43.7263429,4.70936,node,8578779562
+Arles,restaurant,Le Bistro Populaire,43.6769899,4.6312759,node,8892432655
+Arles,restaurant,Le Gard'Manger,43.754116,4.5137378,node,8927626865
+Arles,restaurant,Sans nom,43.7451777,4.7995562,node,9015414981
+Arles,restaurant,Les Baux Jus,43.7442433,4.7949844,node,9029685886
+Arles,restaurant,La Camarque,43.4100203,4.7269743,node,9031317116
+Arles,restaurant,Brasserie L'Arôme,43.674776,4.6328558,node,9236079048
+Arles,restaurant,Dans la Cuisine,43.6768143,4.6429625,node,9287745896
+Arles,restaurant,La Péniche,43.6800218,4.6242963,node,9352451460
+Arles,restaurant,Ô Pat'Thaï,43.6796692,4.6308767,node,9379892469
+Arles,restaurant,Dune,43.678816,4.6280938,node,9380024518
+Arles,restaurant,Du début à la faim,43.6761681,4.6260426,node,9555793746
+Arles,restaurant,Le Clos Saint Roch,43.7205489,4.8073919,node,9602520476
+Arles,restaurant,Pizza KBO,43.4101387,4.7264989,node,9657797317
+Arles,restaurant,Le Forum,43.6493607,4.6382019,node,9673936623
+Arles,restaurant,Café Restaurant de l'Avenir,43.5587602,4.7277741,node,9707558899
+Arles,restaurant,L'Embuscadère,43.4508279,4.4306614,node,9727008941
+Arles,restaurant,La Cuisine au Planet,43.7264153,4.7074211,node,9763839719
+Arles,restaurant,La ginguette aux perroquets,43.5511111,4.7240842,node,9796572008
+Arles,restaurant,Chez Nina,43.4150464,4.7344716,node,9813016630
+Arles,restaurant,QG,43.6799614,4.6307686,node,9831564069
+Arles,restaurant,O Jinko,43.6767956,4.6231991,node,9859125220
+Arles,restaurant,Pizzeria La Mamma,43.6792791,4.630293,node,9862769997
+Arles,restaurant,La Pergula,43.6763942,4.6304622,node,9862769998
+Arles,restaurant,Le Médina,43.676858,4.6236705,node,9864323477
+Arles,restaurant,Family's Pizza,43.6408665,4.7973652,node,9967410770
+Arles,restaurant,Padthai-ya,43.6412812,4.7971429,node,10066478325
+Arles,restaurant,Ho Sushi,43.6412607,4.7972456,node,10066478326
+Arles,restaurant,Le Maquis Akwaba,43.6769882,4.6306758,node,10221759902
+Arles,restaurant,Pizza Vero,43.6436714,4.8186837,node,10253080911
+Arles,restaurant,La Fabrique Des Sens,43.4522572,4.4334703,node,10282352209
+Arles,restaurant,Sotheary,43.6794938,4.6309604,node,10314514434
+Arles,restaurant,L'Arlatan,43.6784029,4.6270921,node,10779331301
+Arles,restaurant,L'antonelle,43.6769807,4.624335,node,10792196302
+Arles,restaurant,Le Gibolin,43.6769522,4.6241589,node,10792226614
+Arles,restaurant,Maussane-les-Alpilles,43.7215842,4.8031157,node,10812417505
+Arles,restaurant,Le Commerce,43.6897065,4.8707466,node,10814887769
+Arles,restaurant,La casa de Pizza,43.6891523,4.8713468,node,10814896870
+Arles,restaurant,Song Long,43.6890376,4.8717839,node,10815012576
+Arles,restaurant,Bar Hôtel Restautant L'Agachon,43.6097333,4.4772601,node,10816738958
+Arles,restaurant,Le Flamant Rose,43.6115734,4.475631,node,10816814334
+Arles,restaurant,Pizzeria de la Tour,43.3852386,4.805219,node,10912061191
+Arles,restaurant,Le Comptoir des Gourmands,43.3869555,4.8061814,node,10914573427
+Arles,restaurant,Rest'O Bout du Monde,43.3870139,4.8063155,node,10914668265
+Arles,restaurant,Crêperie du Port,43.3868659,4.8060873,node,10914713920
+Arles,restaurant,Sushi Bar,43.3868304,4.8059482,node,10914713921
+Arles,restaurant,Sans nom,43.3851477,4.8050089,node,10916572920
+Arles,restaurant,La Guinguette des Baux,43.7493522,4.7954229,node,10989217178
+Arles,restaurant,Chez Adrien,43.7265491,4.7084782,node,10998263813
+Arles,restaurant,Monstre,43.6770994,4.6256171,node,11012962805
+Arles,restaurant,La Table du Meunier,43.7264913,4.710328,node,11044441485
+Arles,restaurant,Sans nom,43.6929561,4.6109069,node,11069711479
+Arles,restaurant,Lulu's Kitchen,43.6762535,4.6305156,node,11159221106
+Arles,restaurant,Snack Camargue,43.4520895,4.4271985,node,11240491343
+Arles,restaurant,Lou Planet Provençal,43.451885,4.4269942,node,11240491344
+Arles,restaurant,Le Cabanon,43.6976118,4.6354353,node,11336261435
+Arles,restaurant,Krystal,43.6657036,4.7492517,node,11336333314
+Arles,restaurant,Côté Jardin,43.4507046,4.4263849,node,11741698166
+Arles,restaurant,L'Apsara,43.6794422,4.6315523,node,11892105869
+Arles,restaurant,Le Chalut,43.4524036,4.4270483,node,11893549570
+Arles,restaurant,L'escaluna,43.4523306,4.4268637,node,11893549571
+Arles,restaurant,La Cour,43.4522445,4.4268425,node,11893549572
+Arles,restaurant,Coco Fuego,43.4523466,4.4269909,node,11893562570
+Arles,restaurant,Andaluz,43.4526562,4.4272886,node,11893564769
+Arles,restaurant,A fleur de sel,43.4524899,4.4271629,node,11893564770
+Arles,restaurant,Le Miramar,43.4505882,4.4263587,node,11893564771
+Arles,restaurant,La Bohème,43.4516375,4.4282689,node,11894822470
+Arles,restaurant,Hosteria,43.4509041,4.4273474,node,11894823073
+Arles,restaurant,Le Delta,43.4523367,4.4282149,node,11895170269
+Arles,restaurant,Colosseo Pinsa Romana,43.6781243,4.6316601,node,11895544069
+Arles,restaurant,Mon Chou,43.6799561,4.6314112,node,11895548169
+Arles,restaurant,Le Chante Clair,43.4521839,4.4275422,node,11899275570
+Arles,restaurant,Le Tamaris,43.4523386,4.4276579,node,11899284970
+Arles,restaurant,Nord-Pinus,43.6773832,4.6269576,node,11940206009
+Arles,restaurant,Le Patio,43.7279029,4.7123419,node,11953197591
+Arles,restaurant,L'O à la bouche,43.680757,4.6313927,node,11967543843
+Arles,restaurant,La Caye,43.677553,4.6265963,node,12041354669
+Arles,restaurant,Oboulaba,43.6769341,4.631114,node,12099562101
+Arles,restaurant,Sans nom,43.4124003,4.740108,node,12234347855
+Arles,restaurant,Meinado,43.6750923,4.6246195,node,12388655447
+Arles,restaurant,La Pause du Port,43.6746107,4.435381,node,12626641001
+Arles,restaurant,Le saint Pierre,43.6803865,4.6217365,node,12686573667
+Arles,restaurant,Gestion de patrimoine à Arles,43.6674997,4.6237576,node,12704416707
+Arles,restaurant,Dim-Mui,43.6774552,4.6277262,node,12722366101
+Arles,restaurant,4M,43.618506,4.79455,node,12757793533
+Arles,restaurant,L'espianada restaurant sarde,43.7219393,4.8001129,node,12765476001
+Arles,restaurant,La Rumba,43.4518049,4.4266449,node,12806176601
+Arles,restaurant,Le Petit Rocher,43.7433241,4.7947549,node,12862414121
+Arles,restaurant,Le Café du Musée,43.744059,4.7951897,node,12862451327
+Arles,restaurant,RoadHouse en Camargue,43.4551078,4.433698,node,12873937020
+Arles,restaurant,Le Clément IV,43.6742259,4.4350347,node,13040979469
+Arles,restaurant,Sans nom,43.6854341,4.6339795,node,13128049598
+Arles,restaurant,La braise de mer,43.4504445,4.4271584,node,13189074549
+Arles,restaurant,Pizzeria Chez Robert,43.680006,4.6199565,node,13261689977
+Arles,restaurant,Le Coin des Amis,43.7269188,4.7108607,node,13264504653
+Arles,restaurant,Le Vallon de Gayet,43.6997812,4.8640276,way,101444060
+Arles,restaurant,Aux délices des Alpilles,43.7207767,4.8095503,way,101449865
+Arles,restaurant,Aux Ateliers « Chez Franck et Flo »,43.7203203,4.8103143,way,101451641
+Arles,restaurant,Grand Café Malarte,43.6754923,4.628215,way,102063909
+Arles,restaurant,L'Atelier,43.6759616,4.6269836,way,102064258
+Arles,restaurant,Noemys,43.6654624,4.6334911,way,102074332
+Arles,restaurant,La Guinguette Arlésienne,43.6309548,4.7432624,way,102075937
+Arles,restaurant,Sans nom,43.438647,4.6722501,way,102088608
+Arles,restaurant,Buffalo Grill,43.6630071,4.6369338,way,102092419
+Arles,restaurant,La Civette Portagnel,43.6782755,4.6334402,way,102101650
+Arles,restaurant,Siècle d'Or,43.6649018,4.6443562,way,102103179
+Arles,restaurant,La Bastide,43.6506658,4.6424303,way,102107260
+Arles,restaurant,Le Saint Laurent,43.6627173,4.6385161,way,102109772
+Arles,restaurant,Le Réfectoire,43.6745255,4.6353013,way,102110656
+Arles,restaurant,Mécha Uma,43.677605,4.6274629,way,102116363
+Arles,restaurant,La Lagune,43.3870917,4.849645,way,109129417
+Arles,restaurant,Yacht Club Restaurant,43.385487,4.8340725,way,109129734
+Arles,restaurant,Au duo,43.3885863,4.8108408,way,109133230
+Arles,restaurant,Le Passeport,43.3838055,4.8067635,way,109134551
+Arles,restaurant,La Guinguette Du Pont De Broussant,43.7356462,4.4806681,way,287069419
+Arles,restaurant,Le Patio de Camargue,43.6676646,4.6107328,way,318184027
+Arles,restaurant,Tonton Gust,43.6286221,4.8009771,way,499654041
+Arles,restaurant,Roulotte-Snack,43.7231758,4.7183543,way,550390331
+Arles,restaurant,Del Arte,43.6677615,4.6357323,way,597051888
+Arles,restaurant,Le Cabanon,43.3849387,4.8046219,way,688453231
+Arles,restaurant,Drum Café,43.6744148,4.6369565,way,700884849
+Arles,restaurant,Parc des Cordes,43.7096748,4.6839676,way,779929192
+Arles,restaurant,Les Filles d'à côté,43.707295,4.6439115,way,1051585626
+Arles,restaurant,La Pataterie,43.6655783,4.6385119,way,1051904765
+Arles,station,Arles,43.6848994,4.6322332,node,10933963119
+Arles,station,Saint-Martin-de-Crau,43.6221642,4.8004947,node,10936277754
+Arles,station,Fontvieille,43.728478,4.706596,way,102090996
+Arles,historic,Monument aux morts,43.3870174,4.8039568,node,534459711
+Arles,historic,Monument Docteur Paolantonacci,43.3898599,4.8014653,node,534459750
+Arles,historic,Sans nom,43.4496097,4.4275871,node,669997974
+Arles,historic,La Vieille Font,43.725784,4.7002512,node,674759097
+Arles,historic,Cimetière,43.7292176,4.7142039,node,674768575
+Arles,historic,Sans nom,43.7239347,4.6916754,node,678874765
+Arles,historic,Tour,43.7257954,4.7018003,node,679076586
+Arles,historic,Buste de César,43.6774246,4.6192791,node,1029978597
+Arles,historic,Abbaye de Montmajour,43.7059437,4.6642559,node,1327818364
+Arles,historic,Sans nom,43.7215509,4.8053371,node,1838089753
+Arles,historic,Saint-Élois,43.7176917,4.8070809,node,1887461396
+Arles,historic,Sans nom,43.3876078,4.8497896,node,2429010648
+Arles,historic,Sans nom,43.4499666,4.4263672,node,2429201283
+Arles,historic,Sans nom,43.450418,4.4280711,node,2429201287
+Arles,historic,Sans nom,43.4517326,4.4271801,node,2429201304
+Arles,historic,Sans nom,43.4523774,4.4286998,node,2429201320
+Arles,historic,Sans nom,43.6776201,4.6320844,node,3127937833
+Arles,historic,Porterie du grand couvent,43.6762266,4.6316493,node,3127937836
+Arles,historic,Sans nom,43.6778475,4.6325911,node,3127937837
+Arles,historic,Sainte-Geneviève,43.7275523,4.6232213,node,3244963212
+Arles,historic,Tours de Castillon,43.704697,4.7894001,node,3707991038
+Arles,historic,Sans nom,43.4511988,4.4278932,node,3717106768
+Arles,historic,Sans nom,43.452209,4.4283559,node,3717258755
+Arles,historic,Sans nom,43.4522853,4.4285653,node,3718806512
+Arles,historic,Équipages alliés,43.6554656,4.7673092,node,3824891823
+Arles,historic,Monument Jaubert,43.7289569,4.7370147,node,3826571559
+Arles,historic,Carré des Zouaves,43.6771131,4.6337753,node,4076789982
+Arles,historic,Sans nom,43.6770733,4.633892,node,4076804584
+Arles,historic,Les Cryptoportiques,43.6767939,4.6274309,node,4286186489
+Arles,historic,Hôtel Laurens de Beaujeu,43.6767757,4.6256985,node,4323512915
+Arles,historic,Sans nom,43.677188,4.6272756,node,4323512916
+Arles,historic,Hôtel de la tour du Brau,43.7431632,4.7943993,node,4337116888
+Arles,historic,Sans nom,43.5657676,4.5772548,node,4367543318
+Arles,historic,Sans nom,43.567343,4.5783226,node,4367543319
+Arles,historic,Croix de Méjanes,43.5695455,4.5029394,node,4367543320
+Arles,historic,Sans nom,43.7443767,4.7945229,node,4439356175
+Arles,historic,Sans nom,43.7440483,4.7943164,node,4439356504
+Arles,historic,Sans nom,43.7451368,4.7954459,node,4439356579
+Arles,historic,Esplanade du château,43.7423159,4.7949242,node,4442406047
+Arles,historic,Chapelle Saint-Victor (restes),43.7172136,4.6942413,node,4879752644
+Arles,historic,Croix du cimetière,43.7225726,4.7859192,node,4880054093
+Arles,historic,École du Lau,43.6793712,4.629965,node,5027129074
+Arles,historic,Ancienne Abbaye,43.6765234,4.4317484,node,5027129075
+Arles,historic,Sans nom,43.6450182,4.7175117,node,5299352540
+Arles,historic,Sans nom,43.6650001,4.6478612,node,5339224013
+Arles,historic,Sans nom,43.6793489,4.4324718,node,5418609728
+Arles,historic,Gilbert le Roy,43.457508,4.4470114,node,5426745169
+Arles,historic,Sans nom,43.4535008,4.4364081,node,5431356603
+Arles,historic,Aqueduc Romain des Alpilles,43.6760675,4.6330586,node,5444117951
+Arles,historic,Aqueduc Romain des Alpilles,43.6763028,4.6326572,node,5446727049
+Arles,historic,Oratoire Saint-Roch et Saint-Victor,43.7202707,4.6974157,node,5490841455
+Arles,historic,Oratoire Notre-Dame,43.7285307,4.7383037,node,5490841456
+Arles,historic,Autel de la Coquille,43.7266831,4.7437278,node,5494458753
+Arles,historic,Grotte-Dolmen de la Source,43.7093443,4.6848723,node,5494581587
+Arles,historic,Dolmen de la Mérindole,43.6976151,4.7422609,node,5494581588
+Arles,historic,Dolmen dit du Mas d'Agard,43.7038028,4.7138335,node,5494581589
+Arles,historic,Sans nom,43.6369997,4.8015861,node,5545790330
+Arles,historic,Le jardin de la Paix,43.7346047,4.8366555,node,5918023209
+Arles,historic,Vestige du forum,43.6774121,4.6270617,node,6102492822
+Arles,historic,Sans nom,43.6852307,4.6320512,node,6102571611
+Arles,historic,Sans nom,43.4144453,4.7313416,node,6427516930
+Arles,historic,Sans nom,43.7576084,4.5157342,node,6600189415
+Arles,historic,Sans nom,43.7082566,4.5473957,node,6622394272
+Arles,historic,Memorial,43.7027078,4.568487,node,6632923877
+Arles,historic,Le vilage de la Capelière,43.5324914,4.6464166,node,6815949478
+Arles,historic,Crypte Saint-Benoit,43.7056299,4.6643355,node,7086058496
+Arles,historic,Chaland Arles-Rhône 3,43.6766284,4.6174415,node,7179650971
+Arles,historic,Sans nom,43.731669,4.6942274,node,7294022942
+Arles,historic,bassin de convergence des aqueducs,43.7059556,4.7217867,node,7666464912
+Arles,historic,Epave de peniche en bois,43.7012262,4.612801,node,8190643083
+Arles,historic,Sans nom,43.7206594,4.7861559,node,8809194195
+Arles,historic,Sans nom,43.7244524,4.7842189,node,8809286786
+Arles,historic,Sans nom,43.724088,4.7778315,node,8809295248
+Arles,historic,Ancienne abbaye d'Ulmet,43.4658637,4.6346348,node,8818809013
+Arles,historic,Sans nom,43.6459599,4.7127358,node,8857471685
+Arles,historic,Sans nom,43.7141499,4.7796196,node,8857643714
+Arles,historic,Sans nom,43.7180212,4.783888,node,8857676035
+Arles,historic,La Vierge Noire,43.7430692,4.7929582,node,8883606570
+Arles,historic,Sans nom,43.6920858,4.6114329,node,8931101294
+Arles,historic,Sans nom,43.6947297,4.6098948,node,8931131056
+Arles,historic,Sans nom,43.694826,4.6098084,node,8931131057
+Arles,historic,Sans nom,43.6949855,4.6097159,node,8931131058
+Arles,historic,Sans nom,43.6951269,4.6096585,node,8931131059
+Arles,historic,Sans nom,43.6952864,4.609566,node,8931131060
+Arles,historic,Sans nom,43.6958272,4.6093149,node,8931131061
+Arles,historic,Sans nom,43.6960205,4.6092184,node,8931131062
+Arles,historic,Sans nom,43.6961866,4.6091432,node,8931131063
+Arles,historic,Sans nom,43.6963526,4.6090649,node,8931131064
+Arles,historic,Sans nom,43.6965026,4.6089938,node,8931131065
+Arles,historic,Charloun Rieu,43.7414767,4.7935883,node,9098595417
+Arles,historic,2.06,43.6546057,4.7884343,node,9169984729
+Arles,historic,21.40,43.6540937,4.7876298,node,9169984731
+Arles,historic,23.00,43.6555851,4.7886905,node,9170164480
+Arles,historic,Sans nom,43.7201931,4.8092481,node,9600159317
+Arles,historic,Sans nom,43.7427687,4.7945606,node,9600751053
+Arles,historic,Mémorial du GB 11,43.6554456,4.7672833,node,10126583436
+Arles,historic,monument aux morts,43.7210548,4.8051305,node,10298239365
+Arles,historic,Monument aux morts,43.6889151,4.8716401,node,10298260240
+Arles,historic,Camp de Saliers,43.6362701,4.475779,node,10676378719
+Arles,historic,Sans nom,43.6886957,4.8717443,node,10814932082
+Arles,historic,Sans nom,43.6937549,4.7146162,node,11735212343
+Arles,historic,Alyscamps,43.67271,4.6342444,node,11831252178
+Arles,historic,Mémorial aux déportés,43.676618,4.6328588,node,11896619369
+Arles,historic,Sans nom,43.384081,4.8090437,node,12585317780
+Arles,historic,Stèle des rapatriés,43.3888864,4.8355777,node,12585317781
+Arles,historic,Sans nom,43.6734972,4.6061952,node,12707783290
+Arles,historic,Sans nom,43.6750332,4.631076,node,12707873224
+Arles,historic,Sans nom,43.6749389,4.6277303,node,12877621258
+Arles,historic,Sans nom,43.7441755,4.7945383,node,12982381751
+Arles,historic,Porte d'Auguste,43.6762532,4.6325962,node,13030436325
+Arles,historic,Agents victimes des deux guerres,43.6725843,4.6362485,node,13050634949
+Arles,historic,Sans nom,43.6754274,4.6306665,node,13083767355
+Arles,historic,A TOUT LES FRANCAIS,43.6370506,4.8082076,node,13196244828
+Arles,historic,Cryptoportiques d'Arles,43.6770452,4.6270298,way,88736587
+Arles,historic,Château d'Escanin,43.7249758,4.7818829,way,101437066
+Arles,historic,Mas de Brau,43.6904905,4.8610354,way,101443610
+Arles,historic,Sans nom,43.7457441,4.6411331,way,102059076
+Arles,historic,Hôtel Boussicaud,43.6751508,4.6211391,way,102060266
+Arles,historic,Bâtiments conventuels,43.7053879,4.6638043,way,102061523
+Arles,historic,Remparts de Villeneuve,43.6772617,4.6328674,way,102062597
+Arles,historic,Sans nom,43.6809713,4.6328694,way,102063093
+Arles,historic,Sans nom,43.4081177,4.7327847,way,102064898
+Arles,historic,Église Saint-Honorat,43.6712887,4.6372289,way,102064935
+Arles,historic,Sans nom,43.6785191,4.6244094,way,102072950
+Arles,historic,Tour de la Roquette,43.6753921,4.6192857,way,102073914
+Arles,historic,Sans nom,43.6780035,4.6330457,way,102075653
+Arles,historic,Chapelle Saint-Jean de Moustiers,43.6758613,4.6314745,way,102076130
+Arles,historic,Sans nom,43.4077769,4.7321067,way,102076310
+Arles,historic,Sans nom,43.4080709,4.7327974,way,102077531
+Arles,historic,Église Saint-Blaise,43.6756544,4.6316473,way,102081274
+Arles,historic,Chapelle (restes),43.7135006,4.6842393,way,102087918
+Arles,historic,Château de Barbegal,43.6974072,4.7149346,way,102088663
+Arles,historic,Sans nom,43.4079678,4.7328456,way,102089059
+Arles,historic,Sans nom,43.4138273,4.7291139,way,102090331
+Arles,historic,Palais de l'Archevêché,43.676384,4.6279695,way,102090982
+Arles,historic,Pigeonnier,43.7227685,4.7011829,way,102092255
+Arles,historic,Moulin de Daudet,43.7209774,4.7128237,way,102093172
+Arles,historic,Château de Montauban,43.7261414,4.7142375,way,102093267
+Arles,historic,Sans nom,43.6758293,4.6324935,way,102094456
+Arles,historic,Chapelle de l'Hôpital (ancienne),43.6761432,4.6253286,way,102095293
+Arles,historic,Sans nom,43.4075687,4.7321931,way,102097508
+Arles,historic,Sans nom,43.4183741,4.7341784,way,102098811
+Arles,historic,Cathédrale Saint-Trophime d'Arles,43.6766406,4.6282766,way,102099277
+Arles,historic,Sans nom,43.4080177,4.7325908,way,102102960
+Arles,historic,Sans nom,43.4079143,4.7326391,way,102104150
+Arles,historic,Palais de Luppé,43.6775152,4.6300517,way,102104884
+Arles,historic,Chapelle de la Charité,43.6750802,4.6288104,way,102106749
+Arles,historic,Sans nom,43.4076222,4.7323955,way,102106952
+Arles,historic,Hôtel Particulier de Viguier,43.6771075,4.6279277,way,102107731
+Arles,historic,Sans nom,43.6759934,4.6324204,way,102108475
+Arles,historic,Chapelle des Trinitaires,43.6763177,4.6258495,way,102109425
+Arles,historic,Remparts de Villeneuve,43.676535,4.6326489,way,102110929
+Arles,historic,Obélisque d'Arles,43.6764236,4.6276018,way,102114962
+Arles,historic,Église des Frères Prêcheurs,43.6786021,4.6260789,way,102115303
+Arles,historic,Sans nom,43.6756423,4.6322091,way,102116254
+Arles,historic,Sans nom,43.6914828,4.6446023,way,102116387
+Arles,historic,Sans nom,43.676946,4.4340945,way,114999887
+Arles,historic,Église abbatiale de Saint-Gilles du Gard,43.676799,4.432253,way,115000513
+Arles,historic,Chapelle Saint-Joseph,43.7551545,4.565603,way,130179198
+Arles,historic,Aqueduc Romain de Barbegal,43.7054831,4.7217084,way,153291489
+Arles,historic,Théâtre antique,43.6764816,4.6299351,way,155036483
+Arles,historic,Château de Vilpail,43.658968,4.839498,way,158391202
+Arles,historic,Château de Vergière,43.5711305,4.8192015,way,158401574
+Arles,historic,Ancien Hôtel de Ville,43.45125,4.427593,way,163436587
+Arles,historic,Mas des Templiers,43.5698218,4.5029644,way,163436917
+Arles,historic,Tour de la Madonne,43.7525723,4.5098925,way,180918121
+Arles,historic,Oratoire Saint-Roch,43.7179103,4.7878367,way,205196378
+Arles,historic,Sans nom,43.7047137,4.7890246,way,205196498
+Arles,historic,Acqueduc romain,43.7212606,4.777207,way,205229597
+Arles,historic,Aqueduc Romain de Barbegal,43.7039398,4.7210884,way,213778652
+Arles,historic,Nécropole des Alyscamps,43.6722167,4.6353189,way,236818153
+Arles,historic,Prieuré de Saint-Peyre d'Entremonts,43.7567672,4.7377599,way,266852116
+Arles,historic,Cirque romain,43.6734554,4.6185175,way,301571362
+Arles,historic,Château des Baux-de-Provence,43.7439773,4.7965861,way,329862230
+Arles,historic,Sans nom,43.6371321,4.8063497,way,374443929
+Arles,historic,Château d'Estoublon,43.7357152,4.7419529,way,446697730
+Arles,historic,Chapelle Saint-Blaise (ancienne),43.7428789,4.7945959,way,446697759
+Arles,historic,Chapelle des Pénitents Blancs,43.7435863,4.7941053,way,446697763
+Arles,historic,Hôtel de Porcelet,43.7436689,4.7945135,way,446697871
+Arles,historic,Pompe du Tonkin,43.4620295,4.859148,way,489104180
+Arles,historic,Sans nom,43.6811637,4.6308491,way,540518205
+Arles,historic,Sans nom,43.6810962,4.6317651,way,540518206
+Arles,historic,Meunerie Romaine de Barbegal,43.7027267,4.7211637,way,545216022
+Arles,historic,Sans nom,43.7033002,4.720977,way,545424412
+Arles,historic,Aqueduc des Sumians,43.7110617,4.6995478,way,545427430
+Arles,historic,Sans nom,43.7048892,4.7898086,way,550407893
+Arles,historic,Sans nom,43.7044487,4.7897198,way,550407894
+Arles,historic,Nécropole,43.7054622,4.6643478,way,560555850
+Arles,historic,Sans nom,43.6767379,4.4327943,way,562030375
+Arles,historic,Sans nom,43.6725462,4.6171862,way,643063673
+Arles,historic,Sans nom,43.6837652,4.63007,way,650546472
+Arles,historic,Sans nom,43.683734,4.6261206,way,650553813
+Arles,historic,Sans nom,43.6836914,4.6261414,way,650553815
+Arles,historic,Sans nom,43.683807,4.6300262,way,650553817
+Arles,historic,Sans nom,43.6837248,4.6300276,way,650553818
+Arles,historic,Sans nom,43.6837288,4.6268383,way,650555471
+Arles,historic,Sans nom,43.6837533,4.6293578,way,650555472
+Arles,historic,Sans nom,43.6764238,4.6276022,way,651564537
+Arles,historic,Porte des Maréchaux,43.6770865,4.429987,way,753724626
+Arles,historic,Cryptoportiques d'Arles - Emplacement de l'Ancien Forum,43.6773452,4.6270886,way,755399169
+Arles,historic,Les Deux Colonnes,43.6764537,4.6295603,way,757783474
+Arles,historic,Sans nom,43.676516,4.6295628,way,757783475
+Arles,historic,Sans nom,43.6764608,4.6295602,way,757783476
+Arles,historic,Sans nom,43.6764464,4.6295597,way,757783477
+Arles,historic,Tour des Mourgues,43.6754546,4.6324,way,761068123
+Arles,historic,Ruines de Chateau,43.7465517,4.799041,way,771413562
+Arles,historic,Sans nom,43.7035324,4.7213366,way,779306496
+Arles,historic,Sans nom,43.7038097,4.7213799,way,779306498
+Arles,historic,Sans nom,43.7040657,4.7214269,way,779306499
+Arles,historic,Sans nom,43.7046681,4.7215339,way,779306501
+Arles,historic,Sans nom,43.7049953,4.721592,way,779306502
+Arles,historic,Sans nom,43.7053379,4.721679,way,779306503
+Arles,historic,Sans nom,43.7054567,4.7216613,way,779306504
+Arles,historic,Sans nom,43.7057927,4.7217636,way,779306505
+Arles,historic,Sans nom,43.7048561,4.7215657,way,779306506
+Arles,historic,La citerne,43.7403962,4.757,way,781118005
+Arles,historic,Sans nom,43.5658573,4.6424084,way,783372801
+Arles,historic,Sans nom,43.7601253,4.5066774,way,839296609
+Arles,historic,Portail Historique,43.6746124,4.6353305,way,882790240
+Arles,historic,Sans nom,43.704455,4.7214952,way,904057570
+Arles,historic,Vestige de l'aqueduc romain,43.7076204,4.7119678,way,904993828
+Arles,historic,Vestige de l'aqueduc romain,43.7082829,4.7065385,way,934985753
+Arles,historic,Sans nom,43.7093806,4.7024991,way,934985758
+Arles,historic,Le moulin,43.7416832,4.7931216,way,963210472
+Arles,historic,Aqueduc romain,43.7112742,4.6990305,way,991100755
+Arles,historic,Hypogée du Castelet,43.7093433,4.6761095,way,996142385
+Arles,historic,Pont de Constantin,43.6820684,4.6267857,way,1013692074
+Arles,historic,Site archéologique de la Verrerie de Trinquetaille,43.6815288,4.6206033,way,1050843744
+Arles,historic,La Croix de Camargue,43.5695693,4.5053276,way,1053842248
+Arles,historic,Exèdre romaine,43.6766862,4.6261595,way,1066962619
+Arles,historic,Plan dallé,43.7420007,4.7934403,way,1076504143
+Arles,historic,Sans nom,43.7434521,4.7940388,way,1125053479
+Arles,historic,Porte Eyguières,43.7441221,4.7946418,way,1126008975
+Arles,historic,Castrum de Montpaon,43.7402725,4.7571722,way,1147133831
+Arles,historic,La Marianne,43.7262209,4.7094888,way,1189606232
+Arles,historic,Sans nom,43.6750141,4.6302499,way,1267224443
+Arles,historic,Sans nom,43.6715363,4.6366715,way,1298895046
+Arles,historic,Sans nom,43.6715441,4.6366202,way,1298895047
+Arles,historic,Sans nom,43.6715516,4.6365638,way,1298895048
+Arles,historic,Sans nom,43.671528,4.6367204,way,1298895049
+Arles,historic,Sans nom,43.6715205,4.6367718,way,1298895050
+Arles,historic,Sans nom,43.6715144,4.6368219,way,1298895051
+Arles,historic,Sans nom,43.6715094,4.6368514,way,1298895052
+Arles,historic,Sans nom,43.6715051,4.6368791,way,1298895053
+Arles,historic,Sans nom,43.671499,4.6369223,way,1298895054
+Arles,historic,Sans nom,43.6714913,4.6369697,way,1298895055
+Arles,historic,Porte d'Auguste,43.6761131,4.6324036,way,1308675629
+Arles,historic,Sans nom,43.6761497,4.6324127,way,1308675630
+Arles,historic,Sans nom,43.7470427,4.7255747,way,1358409173
+Arles,historic,Sans nom,43.6747013,4.6203952,way,1381615097
+Arles,historic,Sans nom,43.7042381,4.721462,way,1387939482
+Arles,historic,Sans nom,43.7048741,4.7216023,way,1387939483
+Arles,historic,Ancienne bergerie romaine,43.5614984,4.8215562,way,1443755645
+Arles,historic,Cloître Saint-Trophime,43.6763136,4.6286893,relation,1451742
+Arles,historic,Cloître,43.70555,4.6638179,relation,1451754
+Arles,historic,Tour Saint-Louis,43.384691,4.8049805,relation,1547806
+Arles,historic,Remparts du castrum romain,43.6767481,4.6325589,relation,3186518
+Arles,historic,"Arles, monuments romains et romans",43.675624,4.6292545,relation,3186519
+Arles,historic,Arènes d'Arles,43.6777512,4.6309275,relation,3371341
+Arles,historic,Château Boissy d'Anglas,43.6942805,4.612116,relation,4023166
+Arles,historic,Via Agrippa,47.3039138,5.6475217,relation,5612334
+Arles,historic,Château de la Jansonne,43.6544499,4.7001698,relation,9604476
+Arles,historic,Vestige de l'aqueduc romain,43.7079258,4.7089118,relation,12627387
+Arles,historic,Vestige de l'aqueduc romain,43.7092361,4.7032401,relation,12627388
+Arles,historic,Pont Peyssonier - Vestige de l'aqueduc romain,43.7092848,4.7028104,relation,12627389
+Arles,historic,Porte de la Cavalerie,43.6811479,4.631336,relation,13102892
+Arles,historic,Monastère Saint-Maur,43.7055588,4.6631896,relation,13365267
+Arles,historic,Sans nom,43.7054735,4.662761,relation,13365704
+Arles,historic,Thermes de Constantin,43.6789752,4.6272139,relation,13931761
+Arles,historic,Grande halle,43.6818655,4.6208207,relation,14026448
+Arles,historic,Sans nom,43.748686,4.7601494,relation,18614102

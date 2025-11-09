@@ -1,0 +1,70 @@
+restaurant_id,city,name,latitude,longitude,rating,total_ratings,price_range,cuisine_type,address,phone,website,opening_hours,data_source
+lyon_resto_001,Lyon,Comptoir Chez Lyon,45.733243,4.846869,3.4,221,€,Brasserie,126 Rue Principale,0322138927,https://www.lyon-restaurant-1.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_002,Lyon,Au Café Lyon,45.786242,4.856276,4.7,135,€€,Française,102 Rue Principale,0435894071,https://www.lyon-restaurant-2.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_003,Lyon,Les Nouveau Bistro,45.804961,4.841798,3.5,186,€€€,Bouchon Lyonnais,111 Rue de Paris,0370333391,https://www.lyon-restaurant-3.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_004,Lyon,Chez Comptoir Lyon,45.774622,4.788695,4.0,375,€€€,Brasserie,71 Rue Victor Hugo,0432226493,https://www.lyon-restaurant-4.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_005,Lyon,Brasserie Le du Marché,45.767225,4.832277,3.3,228,€€,Bouchon Lyonnais,94 Rue Victor Hugo,0675243516,https://www.lyon-restaurant-5.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_006,Lyon,Chez Typique Brasserie,45.768144,4.88118,4.1,148,€€€,Vins,187 Rue Principale,0156908784,https://www.lyon-restaurant-6.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_007,Lyon,Au Typique Comptoir,45.744204,4.854708,4.0,308,€,Vins,46 Rue du Centre,0679868258,https://www.lyon-restaurant-7.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_008,Lyon,Brasserie Au des Arts,45.724639,4.875852,4.3,317,€€,Bouchon Lyonnais,125 Rue Principale,0158437865,https://www.lyon-restaurant-8.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_009,Lyon,Au Nouveau Brasserie,45.802111,4.845822,4.1,434,€,Traditionnelle,188 Rue du Centre,0150339745,https://www.lyon-restaurant-9.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_010,Lyon,Comptoir Le du Port,45.809819,4.858462,3.6,227,€€,Vins,171 Rue du Centre,0222297315,https://www.lyon-restaurant-10.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_011,Lyon,Les Nouveau Comptoir,45.736082,4.841292,3.9,418,€,Française,13 Rue Victor Hugo,0576384352,https://www.lyon-restaurant-11.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_012,Lyon,Table Au de la Gare,45.742829,4.824785,3.7,432,€€,Bouchon Lyonnais,40 Rue Victor Hugo,0319205980,https://www.lyon-restaurant-12.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_013,Lyon,Chez Café Lyon,45.752467,4.820128,3.6,264,€,Traditionnelle,133 Rue Victor Hugo,0310495638,https://www.lyon-restaurant-13.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_014,Lyon,La Nouveau Bistro,45.731479,4.876524,3.7,79,€€,Bouchon Lyonnais,54 Rue Principale,0614322015,https://www.lyon-restaurant-14.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_015,Lyon,Les Vieux Restaurant,45.777066,4.786082,4.7,86,€€,Vins,163 Rue Victor Hugo,0524887194,https://www.lyon-restaurant-15.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_016,Lyon,Table Chez Lyon,45.797244,4.804523,4.7,14,€,Traditionnelle,133 Rue du Centre,0193495459,https://www.lyon-restaurant-16.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_017,Lyon,Au Bouchon Lyon,45.719494,4.84547,4.0,132,€,Bouchon Lyonnais,196 Rue de Paris,0111416953,https://www.lyon-restaurant-17.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_018,Lyon,Au Bouchon Lyon,45.800101,4.825101,4.4,387,€€,Vins,54 Rue du Centre,0244483272,https://www.lyon-restaurant-18.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_019,Lyon,Au Petit Bistro,45.743522,4.799695,4.0,240,€€€,Brasserie,113 Rue du Centre,0287178020,https://www.lyon-restaurant-19.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_020,Lyon,Le Café Lyon,45.79895,4.872481,3.6,236,€€,Traditionnelle,170 Rue du Centre,0680896718,https://www.lyon-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_021,Lyon,Chez Traditionnel Restaurant,45.728901,4.798091,3.5,189,€€,Traditionnelle,1 Rue de Paris,0597798179,https://www.lyon-restaurant-21.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_022,Lyon,Restaurant La Central,45.773888,4.821076,4.3,254,€€€,Traditionnelle,103 Rue Victor Hugo,0239213364,https://www.lyon-restaurant-22.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_023,Lyon,Le Table du Lyon,45.778918,4.816344,4.3,196,€,Vins,121 Rue Victor Hugo,0440185247,https://www.lyon-restaurant-23.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_024,Lyon,Restaurant La Central,45.757945,4.871742,3.9,236,€,Française,161 Rue Victor Hugo,0589261374,https://www.lyon-restaurant-24.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_025,Lyon,Chez Traditionnel Table,45.721527,4.834313,3.9,442,€€,Française,155 Rue Victor Hugo,0187153999,https://www.lyon-restaurant-25.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_026,Lyon,Le Cuisine de Lyon,45.792347,4.821037,3.9,280,€€€,Vins,196 Rue de Paris,0421771225,https://www.lyon-restaurant-26.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_027,Lyon,Le Cuisine de Lyon,45.715708,4.885024,3.7,422,€€€,Traditionnelle,79 Rue du Centre,0375275573,https://www.lyon-restaurant-27.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_028,Lyon,Le Grand Restaurant,45.73251,4.798479,4.5,173,€,Brasserie,71 Rue Victor Hugo,0259957778,https://www.lyon-restaurant-28.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_029,Lyon,La Cuisine du Lyon,45.757928,4.870073,4.6,232,€,Traditionnelle,120 Rue Victor Hugo,0116987199,https://www.lyon-restaurant-29.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_030,Lyon,La Comptoir Lyon,45.764235,4.854876,4.2,181,€€€,Traditionnelle,104 Rue Victor Hugo,0151955169,https://www.lyon-restaurant-30.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_031,Lyon,Chez Café Lyon,45.740325,4.852871,3.9,352,€€,Bouchon Lyonnais,76 Rue du Centre,0293397935,https://www.lyon-restaurant-31.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_032,Lyon,Café La du Marché,45.748536,4.836917,3.3,377,€€€,Brasserie,46 Rue Principale,0526496342,https://www.lyon-restaurant-32.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_033,Lyon,La Vieux Café,45.765706,4.80996,4.2,168,€€€,Brasserie,135 Rue Victor Hugo,0329921563,https://www.lyon-restaurant-33.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_034,Lyon,Café La de la Gare,45.786801,4.794604,3.7,265,€€,Traditionnelle,77 Rue du Centre,0162604321,https://www.lyon-restaurant-34.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_035,Lyon,Le Nouveau Comptoir,45.801663,4.851755,3.6,157,€€,Française,182 Rue de Paris,0637384650,https://www.lyon-restaurant-35.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_036,Lyon,Le Grand Table,45.748319,4.822431,3.6,124,€,Traditionnelle,181 Rue du Centre,0218393874,https://www.lyon-restaurant-36.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_037,Lyon,La Petit Comptoir,45.745435,4.821536,3.6,403,€€,Brasserie,182 Rue du Centre,0295472450,https://www.lyon-restaurant-37.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_038,Lyon,Les Typique Bistro,45.809611,4.787134,3.4,307,€€€,Vins,179 Rue Principale,0458641719,https://www.lyon-restaurant-38.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_039,Lyon,Restaurant Le du Marché,45.752697,4.800557,4.4,283,€€€,Traditionnelle,141 Rue du Centre,0151291134,https://www.lyon-restaurant-39.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_040,Lyon,Brasserie Au Central,45.755247,4.805196,4.4,428,€€,Vins,156 Rue Victor Hugo,0276375479,https://www.lyon-restaurant-40.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_041,Lyon,Les Bon Bistro,45.757404,4.828358,4.7,253,€,Brasserie,169 Rue de Paris,0362929568,https://www.lyon-restaurant-41.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_042,Lyon,Le Cuisine de Lyon,45.714055,4.855317,4.0,269,€€,Française,11 Rue Victor Hugo,0588154034,https://www.lyon-restaurant-42.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_043,Lyon,Bistro Au Central,45.769208,4.8269,3.9,458,€,Brasserie,17 Rue Principale,0358435068,https://www.lyon-restaurant-43.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_044,Lyon,Au Café Lyon,45.768902,4.846709,4.6,438,€€,Bouchon Lyonnais,24 Rue du Centre,0133717256,https://www.lyon-restaurant-44.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_045,Lyon,Le Bon Brasserie,45.733505,4.875241,3.3,234,€€€,Brasserie,126 Rue Victor Hugo,0276347519,https://www.lyon-restaurant-45.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_046,Lyon,Bistro La des Arts,45.747393,4.852048,3.8,67,€€,Française,191 Rue Principale,0171968370,https://www.lyon-restaurant-46.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_047,Lyon,Les Comptoir Lyon,45.785653,4.824164,4.4,233,€€,Brasserie,137 Rue de Paris,0660444353,https://www.lyon-restaurant-47.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_048,Lyon,Le Petit Comptoir,45.795129,4.855623,3.5,417,€€€,Vins,109 Rue Victor Hugo,0367925494,https://www.lyon-restaurant-48.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_049,Lyon,La Cuisine du Lyon,45.780205,4.815026,3.8,452,€€,Vins,143 Rue du Centre,0575987173,https://www.lyon-restaurant-49.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_050,Lyon,La Typique Brasserie,45.777826,4.877214,4.7,199,€€€,Vins,76 Rue Victor Hugo,0311831711,https://www.lyon-restaurant-50.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_051,Lyon,Le Table de Lyon,45.767144,4.883202,4.2,52,€,Traditionnelle,118 Rue Victor Hugo,0556401733,https://www.lyon-restaurant-51.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_052,Lyon,La Cuisine du Lyon,45.765238,4.884861,3.3,386,€€€,Traditionnelle,169 Rue Principale,0171354620,https://www.lyon-restaurant-52.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_053,Lyon,La Typique Comptoir,45.743989,4.820946,3.5,426,€,Traditionnelle,156 Rue Victor Hugo,0287925534,https://www.lyon-restaurant-53.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_054,Lyon,La Table du Lyon,45.740458,4.807507,3.4,112,€,Vins,190 Rue Principale,0345967379,https://www.lyon-restaurant-54.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_055,Lyon,Le Cuisine de Lyon,45.752793,4.82646,3.7,498,€€€,Traditionnelle,49 Rue de Paris,0539657228,https://www.lyon-restaurant-55.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_056,Lyon,Au Comptoir Lyon,45.779785,4.786235,4.1,498,€,Française,68 Rue Victor Hugo,0352271387,https://www.lyon-restaurant-56.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_057,Lyon,Au Petit Bistro,45.761579,4.86451,3.5,494,€,Française,37 Rue Victor Hugo,0541548326,https://www.lyon-restaurant-57.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_058,Lyon,Le Cuisine de Lyon,45.789536,4.817024,4.1,135,€€€,Traditionnelle,186 Rue Principale,0611495691,https://www.lyon-restaurant-58.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_059,Lyon,La Cuisine du Lyon,45.756797,4.874444,4.7,144,€€€,Bouchon Lyonnais,114 Rue du Centre,0677906727,https://www.lyon-restaurant-59.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_060,Lyon,La Bouchon Lyon,45.721914,4.853597,4.7,224,€,Bouchon Lyonnais,78 Rue Principale,0626611538,https://www.lyon-restaurant-60.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_061,Lyon,Le Cuisine du Lyon,45.773784,4.856198,3.8,231,€,Brasserie,160 Rue Victor Hugo,0570633953,https://www.lyon-restaurant-61.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_062,Lyon,Table Les des Arts,45.72697,4.789473,3.6,497,€,Vins,60 Rue Victor Hugo,0256149720,https://www.lyon-restaurant-62.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_063,Lyon,Chez Bouchon Lyon,45.765612,4.880827,3.9,66,€,Française,131 Rue de Paris,0436143992,https://www.lyon-restaurant-63.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_064,Lyon,Le Vieux Restaurant,45.774011,4.801597,4.5,110,€€€,Brasserie,143 Rue Victor Hugo,0447863546,https://www.lyon-restaurant-64.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_065,Lyon,Chez Petit Bistro,45.789808,4.829879,3.8,33,€€€,Vins,122 Rue Principale,0137916628,https://www.lyon-restaurant-65.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_066,Lyon,Au Grand Brasserie,45.767118,4.817488,3.9,254,€€,Française,144 Rue Principale,0612248762,https://www.lyon-restaurant-66.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_067,Lyon,Chez Grand Café,45.73881,4.8848,4.5,108,€,Brasserie,17 Rue Victor Hugo,0415178040,https://www.lyon-restaurant-67.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_068,Lyon,La Café Lyon,45.714057,4.811972,3.9,480,€€,Brasserie,195 Rue de Paris,0335402594,https://www.lyon-restaurant-68.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_069,Lyon,Brasserie La Central,45.801969,4.866953,4.1,456,€€,Française,188 Rue de Paris,0555446585,https://www.lyon-restaurant-69.fr,"11:30-15:00, 18:30-23:00",generated_data

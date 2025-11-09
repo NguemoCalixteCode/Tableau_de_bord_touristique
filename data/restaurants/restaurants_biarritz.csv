@@ -1,0 +1,37 @@
+restaurant_id,city,name,latitude,longitude,rating,total_ratings,price_range,cuisine_type,address,phone,website,opening_hours,data_source
+biarritz_resto_001,Biarritz,La Bouchon Biarritz,43.470223,-1.578072,4.5,341,€€€,Basque,142 Rue Victor Hugo,0520222548,https://www.biarritz-restaurant-1.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_002,Biarritz,Le Bon Bistro,43.453114,-1.527247,4.5,90,€€€,Produits de la mer,13 Rue du Centre,0356605078,https://www.biarritz-restaurant-2.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_003,Biarritz,Table Le du Port,43.482542,-1.58167,3.6,224,€,Basque,156 Rue de Paris,0346348530,https://www.biarritz-restaurant-3.fr,"12:00-14:30, 19:00-22:30",generated_data
+biarritz_resto_004,Biarritz,La Cuisine de Biarritz,43.52701,-1.511512,4.5,134,€€€,Basque,133 Rue Principale,0224402611,https://www.biarritz-restaurant-4.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_005,Biarritz,Le Table du Biarritz,43.479196,-1.550014,3.7,391,€€,Basque,131 Rue de Paris,0425553564,https://www.biarritz-restaurant-5.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_006,Biarritz,Au Traditionnel Comptoir,43.439143,-1.52944,3.8,58,€€€,Produits de la mer,24 Rue Victor Hugo,0240116535,https://www.biarritz-restaurant-6.fr,"12:00-14:30, 19:00-22:30",generated_data
+biarritz_resto_007,Biarritz,Au Bouchon Biarritz,43.438404,-1.543402,4.1,489,€€,Française,168 Rue Victor Hugo,0468655655,https://www.biarritz-restaurant-7.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_008,Biarritz,Café Les Biarritz,43.530599,-1.537105,4.1,341,€,Française,164 Rue de Paris,0130784428,https://www.biarritz-restaurant-8.fr,"12:00-14:30, 19:00-22:30",generated_data
+biarritz_resto_009,Biarritz,La Table du Biarritz,43.438775,-1.52309,3.3,147,€€,Française,64 Rue Principale,0514242837,https://www.biarritz-restaurant-9.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_010,Biarritz,La Bouchon Biarritz,43.520471,-1.553878,4.1,178,€,Française,140 Rue du Centre,0372579445,https://www.biarritz-restaurant-10.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_011,Biarritz,La Table du Biarritz,43.504957,-1.595652,3.5,250,€€,Basque,87 Rue Victor Hugo,0464987874,https://www.biarritz-restaurant-11.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_012,Biarritz,Le Traditionnel Comptoir,43.490751,-1.600197,3.3,450,€€,Produits de la mer,147 Rue du Centre,0654881791,https://www.biarritz-restaurant-12.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_013,Biarritz,Le Traditionnel Bistro,43.517215,-1.546857,4.8,116,€€,Basque,50 Rue Principale,0115232339,https://www.biarritz-restaurant-13.fr,"12:00-14:30, 19:00-22:30",generated_data
+biarritz_resto_014,Biarritz,Brasserie La Central,43.464079,-1.550972,4.4,487,€€,Basque,190 Rue Principale,0217564452,https://www.biarritz-restaurant-14.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_015,Biarritz,La Cuisine de Biarritz,43.448499,-1.569033,3.9,427,€€,Produits de la mer,101 Rue Victor Hugo,0596305014,https://www.biarritz-restaurant-15.fr,"12:00-14:30, 19:00-22:30",generated_data
+biarritz_resto_016,Biarritz,La Comptoir Biarritz,43.484223,-1.529616,3.5,74,€€,Française,49 Rue Victor Hugo,0468669415,https://www.biarritz-restaurant-16.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_017,Biarritz,Chez Bouchon Biarritz,43.531946,-1.51143,3.8,66,€€,Française,198 Rue du Centre,0626565225,https://www.biarritz-restaurant-17.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_018,Biarritz,Chez Bouchon Biarritz,43.508327,-1.571627,3.5,55,€,Basque,124 Rue Principale,0331468493,https://www.biarritz-restaurant-18.fr,"12:00-14:30, 19:00-22:30",generated_data
+biarritz_resto_019,Biarritz,La Table du Biarritz,43.466836,-1.515318,4.6,479,€€,Produits de la mer,192 Rue de Paris,0489716718,https://www.biarritz-restaurant-19.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_020,Biarritz,Le Bouchon Biarritz,43.471054,-1.526279,4.2,239,€€,Produits de la mer,159 Rue de Paris,0583902355,https://www.biarritz-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_021,Biarritz,Le Typique Comptoir,43.497761,-1.529773,3.3,485,€€,Française,184 Rue Principale,0467738775,https://www.biarritz-restaurant-21.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_022,Biarritz,Chez Bouchon Biarritz,43.47175,-1.547296,4.1,333,€€,Produits de la mer,169 Rue du Centre,0684769889,https://www.biarritz-restaurant-22.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_023,Biarritz,Le Cuisine de Biarritz,43.526353,-1.57896,3.6,62,€€,Produits de la mer,154 Rue de Paris,0341803584,https://www.biarritz-restaurant-23.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_024,Biarritz,Restaurant Les des Arts,43.524066,-1.539196,4.4,395,€,Basque,51 Rue de Paris,0251254073,https://www.biarritz-restaurant-24.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_025,Biarritz,Les Typique Table,43.521139,-1.554094,4.3,215,€€€,Basque,124 Rue du Centre,0690854154,https://www.biarritz-restaurant-25.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_026,Biarritz,Restaurant Le Central,43.491729,-1.526137,4.4,191,€€€,Basque,112 Rue de Paris,0467152840,https://www.biarritz-restaurant-26.fr,"12:00-14:30, 19:00-22:30",generated_data
+biarritz_resto_027,Biarritz,La Cuisine de Biarritz,43.461105,-1.581083,3.9,209,€€,Produits de la mer,70 Rue Principale,0171321026,https://www.biarritz-restaurant-27.fr,"12:00-14:30, 19:00-22:30",generated_data
+biarritz_resto_028,Biarritz,Au Petit Brasserie,43.522508,-1.567591,3.2,18,€€,Française,87 Rue du Centre,0243102939,https://www.biarritz-restaurant-28.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_029,Biarritz,Le Café Biarritz,43.517932,-1.521257,4.7,394,€€€,Basque,29 Rue du Centre,0659742610,https://www.biarritz-restaurant-29.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_030,Biarritz,Les Café Biarritz,43.52969,-1.570535,3.8,345,€€,Basque,145 Rue Victor Hugo,0342406261,https://www.biarritz-restaurant-30.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_031,Biarritz,Comptoir Le Central,43.447743,-1.557041,3.4,80,€€,Française,192 Rue du Centre,0293317470,https://www.biarritz-restaurant-31.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_032,Biarritz,Les Bouchon Biarritz,43.52721,-1.517033,4.6,234,€€€,Française,118 Rue de Paris,0190588690,https://www.biarritz-restaurant-32.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_033,Biarritz,La Cuisine de Biarritz,43.464554,-1.588326,3.3,259,€€€,Basque,148 Rue de Paris,0627214685,https://www.biarritz-restaurant-33.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_034,Biarritz,Au Vieux Restaurant,43.510659,-1.560874,4.6,262,€€€,Produits de la mer,4 Rue Victor Hugo,0389499922,https://www.biarritz-restaurant-34.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_035,Biarritz,Le Cuisine de Biarritz,43.460788,-1.534026,4.6,141,€€,Basque,149 Rue Victor Hugo,0414477310,https://www.biarritz-restaurant-35.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_036,Biarritz,Le Cuisine de Biarritz,43.530183,-1.602017,4.7,99,€€,Française,188 Rue Victor Hugo,0236978668,https://www.biarritz-restaurant-36.fr,"11:30-15:00, 18:30-23:00",generated_data

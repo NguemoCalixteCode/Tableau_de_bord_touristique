@@ -1,0 +1,1598 @@
+city,category,name,lat,lon,osm_type,osm_id
+Strasbourg,museum,Musée Alsacien,48.5791319,7.7506043,node,239813123
+Strasbourg,museum,Musée archéologique,48.5808521,7.7525857,node,239825772
+Strasbourg,museum,Musée des arts décoratifs,48.5807532,7.7523558,node,239825781
+Strasbourg,museum,Musée des Beaux-Arts,48.5806606,7.7521404,node,239830896
+Strasbourg,museum,Lieu d'Europe,48.5972406,7.777696,node,2987788808
+Strasbourg,museum,Hanauer Museum,48.5710761,7.8198776,node,3264366175
+Strasbourg,museum,Musée de Minéralogie,48.5834746,7.7627726,node,6482311825
+Strasbourg,museum,Aubette 1928,48.5838791,7.7460817,node,6620864935
+Strasbourg,museum,Musée du Bain Rituel Juif,48.6146251,7.7554028,node,8130311014
+Strasbourg,museum,Château Vodou,48.5803834,7.728755,node,10159087425
+Strasbourg,museum,Cabinet des Estampes et des Dessins,48.5811359,7.7506016,node,13069139400
+Strasbourg,museum,Musée de Sismologie et de Magnétisme Terrestre,48.5839194,7.7656424,way,19794129
+Strasbourg,museum,Musée Historique,48.5799461,7.7509819,way,22290183
+Strasbourg,museum,Musée d'Art Moderne et Contemporain,48.5794732,7.7361604,way,40220422
+Strasbourg,museum,Le Vaisseau,48.5728899,7.7721569,way,43949526
+Strasbourg,museum,Les Secrets du Chocolat,48.5209256,7.6983186,way,91560248
+Strasbourg,museum,Ufo,48.5638448,7.8069273,way,298454931
+Strasbourg,museum,Musée Tomi Ungerer Centre International de l'Illustration,48.585689,7.7550092,way,486650189
+Strasbourg,museum,Musée de l'Œuvre Notre-Dame,48.580867,7.751182,way,491674514
+Strasbourg,park,Parc du Glacis,48.5882254,7.730094,node,502508166
+Strasbourg,park,Sans nom,48.5718744,7.7631748,node,1728878125
+Strasbourg,park,Parc Marguerite de Navarre,48.5980226,7.6990362,node,9761713266
+Strasbourg,park,Place d'Ostwald,48.5647559,7.706781,node,12317640695
+Strasbourg,park,Les folies du Muehlbach,48.5762799,7.7032558,node,12334671379
+Strasbourg,park,Sentier sauvage,48.4954144,7.7849431,node,12334752958
+Strasbourg,park,Parc de la Citadelle,48.575766,7.7749163,way,19797770
+Strasbourg,park,Place Adrien Zeller,48.5986446,7.7614428,way,22276055
+Strasbourg,park,Parc du Château,48.6017693,7.7498835,way,22721989
+Strasbourg,park,Parc de la Roseraie,48.602512,7.7531767,way,22722577
+Strasbourg,park,Square Saint-Florent,48.5967898,7.7220537,way,22795678
+Strasbourg,park,Square Hochfelden,48.5974534,7.7259483,way,23002192
+Strasbourg,park,Place de Haguenau,48.592029,7.742771,way,23048790
+Strasbourg,park,Parc de l'Extenwoerthfeld,48.5580521,7.7548012,way,23207067
+Strasbourg,park,Parc Schulmeister,48.5484805,7.7597327,way,23237244
+Strasbourg,park,Square du Lazaret de Cronenbourg,48.5983569,7.7032099,way,24430548
+Strasbourg,park,Place de la Porte Blanche,48.5797869,7.7314547,way,24481573
+Strasbourg,park,Parc Eugène Imbs,48.5751847,7.7250953,way,24509805
+Strasbourg,park,Place des Tripiers,48.5803787,7.7493184,way,24912879
+Strasbourg,park,Sans nom,48.5722091,7.7271093,way,24959438
+Strasbourg,park,Square Nicolas Appert,48.5789093,7.7164437,way,24960513
+Strasbourg,park,Parc Albert Schweitzer,48.5746592,7.7124363,way,25074297
+Strasbourg,park,Sans nom,48.5664639,7.6984326,way,25158465
+Strasbourg,park,Sans nom,48.5677264,7.6969053,way,25158507
+Strasbourg,park,Parc de Pourtalès,48.609151,7.8005634,way,25160094
+Strasbourg,park,Sans nom,48.6298362,7.7989037,way,25909373
+Strasbourg,park,Square des Malgré-Nous,48.5920628,7.73243,way,26371365
+Strasbourg,park,Sans nom,48.5579539,7.6886953,way,26473472
+Strasbourg,park,Parc de la Bergerie,48.5998827,7.7200375,way,27045855
+Strasbourg,park,Rosengarten,48.5720075,7.8089292,way,28443390
+Strasbourg,park,Sans nom,48.5669613,7.8114975,way,28444133
+Strasbourg,park,Parc de la Mairie,48.6408269,7.7151246,way,29568437
+Strasbourg,park,Sans nom,48.5857496,7.7464915,way,39540478
+Strasbourg,park,Place du Frère Médard,48.5828772,7.7551535,way,39656838
+Strasbourg,park,Sans nom,48.6028493,7.6972073,way,39887880
+Strasbourg,park,Place du Vieux Marché aux Vins,48.5836692,7.7417783,way,40110805
+Strasbourg,park,Sans nom,48.5782177,7.7381125,way,40224267
+Strasbourg,park,Sans nom,48.5785827,7.7376115,way,40237316
+Strasbourg,park,Sans nom,48.5774642,7.747962,way,40314908
+Strasbourg,park,Sans nom,48.5860152,7.7610512,way,40519930
+Strasbourg,park,Sans nom,48.5848998,7.7601003,way,40519934
+Strasbourg,park,Sans nom,48.5849219,7.7606005,way,40519935
+Strasbourg,park,Sans nom,48.5845223,7.7607718,way,40519936
+Strasbourg,park,Sans nom,48.584981,7.7617262,way,40519939
+Strasbourg,park,Sans nom,48.5756853,7.7535652,way,40587969
+Strasbourg,park,Sans nom,48.5758184,7.7542041,way,40587970
+Strasbourg,park,Sans nom,48.5789872,7.7707603,way,40763506
+Strasbourg,park,Sans nom,48.5792352,7.7710771,way,40763508
+Strasbourg,park,Sans nom,48.5793928,7.7712508,way,40763509
+Strasbourg,park,Sans nom,48.5794725,7.7710479,way,40763510
+Strasbourg,park,Sans nom,48.5844587,7.7646697,way,40816924
+Strasbourg,park,Sans nom,48.5843234,7.7641615,way,40816925
+Strasbourg,park,Sans nom,48.5844979,7.7635237,way,40816926
+Strasbourg,park,Sans nom,48.5840063,7.7653162,way,40816927
+Strasbourg,park,Sans nom,48.5838553,7.7658979,way,40816928
+Strasbourg,park,Sans nom,48.5842191,7.7636828,way,40816929
+Strasbourg,park,Sans nom,48.5848504,7.7636996,way,40816930
+Strasbourg,park,Sans nom,48.5842235,7.7627251,way,40816993
+Strasbourg,park,Sans nom,48.5842675,7.7623895,way,40816994
+Strasbourg,park,Sans nom,48.5841151,7.7623826,way,40816995
+Strasbourg,park,Sans nom,48.5850676,7.7632851,way,40816996
+Strasbourg,park,Sans nom,48.585083,7.7630591,way,40816997
+Strasbourg,park,Sans nom,48.5851979,7.7629951,way,40816998
+Strasbourg,park,Sans nom,48.5853173,7.7631064,way,40816999
+Strasbourg,park,Sans nom,48.5775333,7.7594256,way,40828459
+Strasbourg,park,Sans nom,48.5773931,7.7597936,way,40828460
+Strasbourg,park,Sans nom,48.5773739,7.7594659,way,40828461
+Strasbourg,park,Sans nom,48.5772907,7.7592865,way,40828462
+Strasbourg,park,Sans nom,48.5771359,7.7593857,way,40828463
+Strasbourg,park,Sans nom,48.5771556,7.759734,way,40828464
+Strasbourg,park,Sans nom,48.5770953,7.7600821,way,40828465
+Strasbourg,park,Sans nom,48.5772626,7.7601368,way,40828466
+Strasbourg,park,Sans nom,48.5771806,7.7602091,way,40828467
+Strasbourg,park,Sans nom,48.5778907,7.7595083,way,40828489
+Strasbourg,park,Sans nom,48.5778636,7.7597787,way,40828490
+Strasbourg,park,Sans nom,48.5779884,7.7598601,way,40828491
+Strasbourg,park,Sans nom,48.5781506,7.7597729,way,40828492
+Strasbourg,park,Sans nom,48.5777884,7.7607462,way,40828493
+Strasbourg,park,Sans nom,48.5775918,7.760605,way,40828494
+Strasbourg,park,Square du Général Berthelot,48.5762053,7.7721216,way,40868824
+Strasbourg,park,Sans nom,48.5819844,7.7788744,way,40876667
+Strasbourg,park,Place Sainte-Aurélie,48.5818105,7.7326518,way,40981618
+Strasbourg,park,Sans nom,48.5845396,7.7351599,way,41151902
+Strasbourg,park,Sans nom,48.5845398,7.7354366,way,41151903
+Strasbourg,park,Sans nom,48.5845753,7.7358933,way,41151905
+Strasbourg,park,Sans nom,48.5846916,7.7359722,way,41151906
+Strasbourg,park,Sans nom,48.5849882,7.7359274,way,41151907
+Strasbourg,park,Sans nom,48.5851691,7.7359278,way,41151908
+Strasbourg,park,Sans nom,48.5846935,7.7354682,way,41151909
+Strasbourg,park,Sans nom,48.5842582,7.7352343,way,41151911
+Strasbourg,park,Sans nom,48.5842359,7.7354996,way,41151912
+Strasbourg,park,Sans nom,48.5842161,7.7357612,way,41151913
+Strasbourg,park,Sans nom,48.5827053,7.7781361,way,41204352
+Strasbourg,park,Sans nom,48.5876528,7.7697809,way,41398391
+Strasbourg,park,Sans nom,48.5860434,7.7777126,way,41405297
+Strasbourg,park,Sans nom,48.5863779,7.7770655,way,41405298
+Strasbourg,park,Sans nom,48.5856206,7.7775416,way,41405299
+Strasbourg,park,Sans nom,48.5856722,7.7779219,way,41405300
+Strasbourg,park,Sans nom,48.5822966,7.7682572,way,41407611
+Strasbourg,park,Sans nom,48.5840953,7.7780528,way,41437241
+Strasbourg,park,Sans nom,48.5852385,7.7812202,way,41439595
+Strasbourg,park,Sans nom,48.584142,7.7804569,way,41439596
+Strasbourg,park,Sans nom,48.5842394,7.7830293,way,41496034
+Strasbourg,park,Sans nom,48.5848088,7.7819981,way,41496035
+Strasbourg,park,Parc de Hautepierre,48.596835,7.6932909,way,41834293
+Strasbourg,park,Sans nom,48.589643,7.7278355,way,42105163
+Strasbourg,park,Parc Résidence Lys,48.5816851,7.7163794,way,42114123
+Strasbourg,park,Sans nom,48.5824209,7.6964778,way,42231721
+Strasbourg,park,Sans nom,48.582377,7.6977638,way,42231723
+Strasbourg,park,Place Saint-Jean Bosco,48.5816309,7.7035346,way,42232634
+Strasbourg,park,Sans nom,48.57799,7.6979847,way,42322865
+Strasbourg,park,Place des Romains,48.5799087,7.704442,way,42326998
+Strasbourg,park,Sans nom,48.5752653,7.7111584,way,42800993
+Strasbourg,park,Sans nom,48.571899,7.7337552,way,42886056
+Strasbourg,park,Sans nom,48.5723514,7.7342394,way,42886772
+Strasbourg,park,Sans nom,48.5728965,7.722008,way,42902265
+Strasbourg,park,Sans nom,48.5617797,7.7256111,way,43179093
+Strasbourg,park,Place Memling,48.5637825,7.7202295,way,43189490
+Strasbourg,park,Sans nom,48.5649848,7.725818,way,43306054
+Strasbourg,park,Sans nom,48.5631406,7.7470323,way,43712957
+Strasbourg,park,Sans nom,48.5735076,7.7519336,way,43738204
+Strasbourg,park,Sans nom,48.5702874,7.7665803,way,43954942
+Strasbourg,park,Sans nom,48.5700628,7.767129,way,43954943
+Strasbourg,park,Sans nom,48.5700363,7.7666365,way,43954951
+Strasbourg,park,Sans nom,48.5713361,7.7693242,way,43961588
+Strasbourg,park,Sans nom,48.5678525,7.774083,way,43974912
+Strasbourg,park,Sans nom,48.5680802,7.7742002,way,43974918
+Strasbourg,park,Sans nom,48.5687643,7.7740402,way,43974920
+Strasbourg,park,Sans nom,48.5679564,7.774523,way,43974925
+Strasbourg,park,Sans nom,48.5677836,7.7742584,way,43974926
+Strasbourg,park,Sans nom,48.5680963,7.7748551,way,43974927
+Strasbourg,park,Sans nom,48.5683121,7.7752047,way,43974929
+Strasbourg,park,Sans nom,48.5686381,7.7742975,way,43974931
+Strasbourg,park,Sans nom,48.5686959,7.7744812,way,43974932
+Strasbourg,park,Sans nom,48.5675371,7.7751931,way,43975340
+Strasbourg,park,Sans nom,48.5689434,7.7693307,way,43976784
+Strasbourg,park,Sans nom,48.5663179,7.759546,way,44024654
+Strasbourg,park,Sans nom,48.5662217,7.7592175,way,44024655
+Strasbourg,park,Sans nom,48.5649298,7.7708104,way,44361119
+Strasbourg,park,Sans nom,48.5646309,7.771409,way,44361120
+Strasbourg,park,Sans nom,48.5646744,7.7703666,way,44361121
+Strasbourg,park,Sans nom,48.5645842,7.7708685,way,44361122
+Strasbourg,park,Sans nom,48.5645568,7.7710251,way,44361123
+Strasbourg,park,Sans nom,48.5645212,7.7715816,way,44361124
+Strasbourg,park,Sans nom,48.5642591,7.7712028,way,44361125
+Strasbourg,park,Sans nom,48.5648307,7.7714074,way,44361126
+Strasbourg,park,Sans nom,48.5869677,7.7537851,way,44502665
+Strasbourg,park,Sans nom,48.5871053,7.7535229,way,44502666
+Strasbourg,park,Sans nom,48.5877021,7.7523186,way,44502668
+Strasbourg,park,Sans nom,48.5869474,7.7541488,way,44502675
+Strasbourg,park,Sans nom,48.5879768,7.753576,way,44502677
+Strasbourg,park,Sans nom,48.5876683,7.7537586,way,44502678
+Strasbourg,park,Sans nom,48.5875193,7.7537524,way,44502681
+Strasbourg,park,Sans nom,48.5875011,7.7541206,way,44502682
+Strasbourg,park,Sans nom,48.5873578,7.7543916,way,44502683
+Strasbourg,park,Sans nom,48.587396,7.7545795,way,44502684
+Strasbourg,park,Sans nom,48.5874482,7.755183,way,44502685
+Strasbourg,park,Parc Henri Will,48.5613459,7.7604907,way,44505274
+Strasbourg,park,Sans nom,48.554988,7.7560225,way,44864039
+Strasbourg,park,Sans nom,48.5524411,7.7564529,way,44864040
+Strasbourg,park,Sans nom,48.5532355,7.751943,way,44864041
+Strasbourg,park,Square Louise Weiss,48.58074,7.7401842,way,45043538
+Strasbourg,park,Garten der zwei Ufer,48.5678745,7.8057548,way,45679337
+Strasbourg,park,Sans nom,48.5799294,7.7637139,way,46675560
+Strasbourg,park,Sans nom,48.5798497,7.7632617,way,46675561
+Strasbourg,park,Sans nom,48.5847441,7.7529867,way,46786204
+Strasbourg,park,Sans nom,48.5888791,7.7583039,way,46837923
+Strasbourg,park,Parc de la Petite Orangerie,48.6026125,7.784277,way,46989167
+Strasbourg,park,Sans nom,48.6028626,7.788864,way,47009727
+Strasbourg,park,Sans nom,48.6034735,7.787624,way,47009728
+Strasbourg,park,Sans nom,48.6014783,7.7884322,way,47009730
+Strasbourg,park,Sans nom,48.6016443,7.7895398,way,47009731
+Strasbourg,park,Sans nom,48.6020144,7.7882567,way,47009732
+Strasbourg,park,Sans nom,48.6019799,7.7886976,way,47009733
+Strasbourg,park,Sans nom,48.6032338,7.7877386,way,47009734
+Strasbourg,park,Sans nom,48.6029096,7.7875117,way,47009735
+Strasbourg,park,Sans nom,48.6027631,7.7876755,way,47009736
+Strasbourg,park,Sans nom,48.6024134,7.787545,way,47009738
+Strasbourg,park,Sans nom,48.6030043,7.7876538,way,47009739
+Strasbourg,park,Sans nom,48.6032849,7.7872306,way,47009740
+Strasbourg,park,Sans nom,48.602225,7.7897928,way,47009741
+Strasbourg,park,Sans nom,48.6012413,7.7908278,way,47009743
+Strasbourg,park,Sans nom,48.6036008,7.7875507,way,47009744
+Strasbourg,park,Sans nom,48.6021399,7.7905891,way,47010267
+Strasbourg,park,Sans nom,48.6020376,7.7908847,way,47010268
+Strasbourg,park,Sans nom,48.6020217,7.7914308,way,47010270
+Strasbourg,park,Sans nom,48.6020402,7.7916824,way,47010272
+Strasbourg,park,Sans nom,48.6018539,7.7920521,way,47010273
+Strasbourg,park,Sans nom,48.6027772,7.7912726,way,47010274
+Strasbourg,park,Sans nom,48.6016515,7.7914858,way,47010275
+Strasbourg,park,Sans nom,48.6017546,7.7906564,way,47010276
+Strasbourg,park,Sans nom,48.6014718,7.7902961,way,47010277
+Strasbourg,park,Sans nom,48.601613,7.7901221,way,47010278
+Strasbourg,park,Sans nom,48.6016649,7.790959,way,47010279
+Strasbourg,park,Sans nom,48.6022172,7.7906183,way,47010280
+Strasbourg,park,Sans nom,48.6023238,7.7905008,way,47010281
+Strasbourg,park,Sans nom,48.6025166,7.7904146,way,47010282
+Strasbourg,park,Sans nom,48.6029817,7.7916693,way,47010283
+Strasbourg,park,Sans nom,48.5940983,7.7804814,way,47037240
+Strasbourg,park,Parc de l'Anguille,48.6130538,7.7790914,way,47058060
+Strasbourg,park,Jardin des Senteurs et du Toucher,48.5499091,7.7397489,way,47439526
+Strasbourg,park,Sans nom,48.5500962,7.7503678,way,47642833
+Strasbourg,park,Sans nom,48.550596,7.7506769,way,47642834
+Strasbourg,park,Place de l'Île de France,48.5503447,7.750754,way,47642835
+Strasbourg,park,Sans nom,48.5503232,7.7511264,way,47642907
+Strasbourg,park,Sans nom,48.5510364,7.7572746,way,47845422
+Strasbourg,park,Square de la Peupleraie,48.5471254,7.7558648,way,47853891
+Strasbourg,park,Sans nom,48.5594112,7.7850876,way,48150954
+Strasbourg,park,Sans nom,48.5583045,7.7846205,way,48150958
+Strasbourg,park,Sans nom,48.5590059,7.7857283,way,48150960
+Strasbourg,park,Sans nom,48.5601831,7.7865018,way,48150961
+Strasbourg,park,Sans nom,48.5607655,7.7856376,way,48150964
+Strasbourg,park,Sans nom,48.559884,7.7845088,way,48150966
+Strasbourg,park,Sans nom,48.5598029,7.7871195,way,48150967
+Strasbourg,park,Sans nom,48.560447,7.7875697,way,48150970
+Strasbourg,park,Sans nom,48.5603231,7.788176,way,48150972
+Strasbourg,park,Jardin des Deux Rives,48.567621,7.7996292,way,48247221
+Strasbourg,park,Place Saint-Christophe,48.5512298,7.7667445,way,48715224
+Strasbourg,park,Sans nom,48.5501628,7.7708012,way,48715336
+Strasbourg,park,Square Maryse Hilsz,48.551647,7.7685047,way,48715903
+Strasbourg,park,Square Icare,48.5518427,7.7708621,way,48715905
+Strasbourg,park,Sans nom,48.5483459,7.7615837,way,48760545
+Strasbourg,park,Place Adrienne Bolland,48.5543092,7.7669301,way,48773881
+Strasbourg,park,Sans nom,48.5262524,7.7702051,way,49023071
+Strasbourg,park,Square Gaston Fleischel,48.6031381,7.7110404,way,49207522
+Strasbourg,park,Sans nom,48.5951343,7.7175228,way,49533096
+Strasbourg,park,Parc Klinglin,48.5319952,7.7154188,way,50304628
+Strasbourg,park,Place du Général de Gaulle,48.5260102,7.7140309,way,50381281
+Strasbourg,park,Parc des Bonnes Gens,48.5401208,7.7250121,way,50811388
+Strasbourg,park,Sans nom,48.5305359,7.7253031,way,51012658
+Strasbourg,park,Parc Malraux,48.5260986,7.721745,way,51025996
+Strasbourg,park,Sans nom,48.5225612,7.7433646,way,51077086
+Strasbourg,park,Sans nom,48.5187266,7.7227005,way,51096043
+Strasbourg,park,Sans nom,48.5164548,7.7162651,way,51145553
+Strasbourg,park,Sans nom,48.5167611,7.7198481,way,51154680
+Strasbourg,park,Parc du Docteur Albert Schweitzer,48.5155398,7.7231469,way,51164797
+Strasbourg,park,Parc Friedel,48.5175201,7.7053813,way,51308358
+Strasbourg,park,Sans nom,48.5421357,7.7122034,way,51505120
+Strasbourg,park,Parcours de santé d'Ostwald,48.5404226,7.7179395,way,51552289
+Strasbourg,park,Parc Henri-Louis Kayser,48.5972195,7.7779657,way,52291148
+Strasbourg,park,Parc des Musiciens,48.6461283,7.7441316,way,60635603
+Strasbourg,park,Sans nom,48.5663716,7.8090953,way,62061469
+Strasbourg,park,Parc de l'Étoile,48.5733505,7.754708,way,97078812
+Strasbourg,park,Sans nom,48.5775713,7.7617945,way,143310928
+Strasbourg,park,Sans nom,48.5776179,7.7613102,way,143967340
+Strasbourg,park,Sans nom,48.5775979,7.7625927,way,143967342
+Strasbourg,park,Sans nom,48.5776874,7.7618806,way,143967345
+Strasbourg,park,Sans nom,48.5778156,7.7613781,way,143969997
+Strasbourg,park,Parc Eugène Imbs,48.574231,7.7216296,way,150256039
+Strasbourg,park,Square du Tivoli - Tomi Ungerer,48.5958506,7.75965,way,152594209
+Strasbourg,park,Sans nom,48.5658642,7.7219212,way,157916061
+Strasbourg,park,Sans nom,48.5298081,7.700317,way,173330348
+Strasbourg,park,Sans nom,48.5302387,7.7014585,way,173331015
+Strasbourg,park,Sans nom,48.5760952,7.7676288,way,183875309
+Strasbourg,park,Sans nom,48.5764166,7.7689586,way,183875310
+Strasbourg,park,Sans nom,48.5757704,7.7679304,way,183875311
+Strasbourg,park,Sans nom,48.5764021,7.7694744,way,183875314
+Strasbourg,park,Sans nom,48.5761943,7.7688134,way,183875315
+Strasbourg,park,Sans nom,48.575538,7.7682779,way,183875319
+Strasbourg,park,Sans nom,48.5758542,7.7657934,way,183877044
+Strasbourg,park,Sans nom,48.5763329,7.7658736,way,183877060
+Strasbourg,park,Parc Wodli,48.6166798,7.7549398,way,191006042
+Strasbourg,park,Sans nom,48.6154268,7.7625421,way,191049857
+Strasbourg,park,Square Peymeinade,48.6316836,7.7406967,way,191805871
+Strasbourg,park,Sans nom,48.6432772,7.7593537,way,198765952
+Strasbourg,park,Square Adjudant-Chef Jean-Pierre Lavaud,48.5789144,7.74444,way,227832948
+Strasbourg,park,Sans nom,48.579262,7.7707923,way,227833893
+Strasbourg,park,Square Saint-Jean,48.5845075,7.7395847,way,228926500
+Strasbourg,park,Place du Marché,48.5660171,7.7593922,way,251709705
+Strasbourg,park,Sans nom,48.566246,7.7589066,way,251709706
+Strasbourg,park,Sans nom,48.5660152,7.758557,way,251709707
+Strasbourg,park,Sans nom,48.4910711,7.6963197,way,252432185
+Strasbourg,park,Sans nom,48.4942057,7.6950841,way,253293151
+Strasbourg,park,Square Caius Largennius,48.5835226,7.6966936,way,253763568
+Strasbourg,park,Parc des Soupirs,48.5990442,7.7590083,way,274284999
+Strasbourg,park,Parc de L'Aar,48.6027559,7.7594578,way,274286972
+Strasbourg,park,Square Émile Stahl,48.6025856,7.7570006,way,274286976
+Strasbourg,park,Sans nom,48.5803897,7.7668845,way,299633806
+Strasbourg,park,Sans nom,48.5762051,7.7431352,way,300718558
+Strasbourg,park,Sans nom,48.576349,7.7422601,way,300718570
+Strasbourg,park,Jardin partagé du Square St Jean,48.5845046,7.7388828,way,301140160
+Strasbourg,park,Sans nom,48.5707151,7.7534943,way,303178799
+Strasbourg,park,Sans nom,48.5994938,7.7449969,way,318544833
+Strasbourg,park,Parc de l'Hôpital,48.6003021,7.7507971,way,318547036
+Strasbourg,park,Sans nom,48.5880471,7.7413144,way,318709155
+Strasbourg,park,Parc du Heyritz,48.5730462,7.7450197,way,319285400
+Strasbourg,park,Sans nom,48.5800696,7.7405947,way,320754786
+Strasbourg,park,Sans nom,48.5788826,7.74155,way,320755423
+Strasbourg,park,Square Jaroslav Hasek,48.5845319,7.7018733,way,342379953
+Strasbourg,park,Jardin de la Résistance,48.6083377,7.7489388,way,378666116
+Strasbourg,park,Sans nom,48.6182849,7.7911601,way,382714872
+Strasbourg,park,Sans nom,48.6338234,7.7110325,way,387386223
+Strasbourg,park,Square Chautodest,48.6045322,7.7526306,way,400983811
+Strasbourg,park,Sans nom,48.5098574,7.6983343,way,403436169
+Strasbourg,park,Square rue de la Glacière,48.6057902,7.7541433,way,403491372
+Strasbourg,park,Zone à occuper,48.5725609,7.7689995,way,405336221
+Strasbourg,park,Square de la Lune,48.6073461,7.7561993,way,405891486
+Strasbourg,park,Parc Léo Delibes,48.6105423,7.7491913,way,405978844
+Strasbourg,park,Square Terrain des Malteries,48.6040533,7.7442119,way,407248472
+Strasbourg,park,Sans nom,48.5265632,7.7108597,way,425203872
+Strasbourg,park,Parc de loisirs du Marais,48.606425,7.763568,way,428057043
+Strasbourg,park,Sans nom,48.6101039,7.7606123,way,439458023
+Strasbourg,park,Sans nom,48.5783658,7.7784154,way,451348345
+Strasbourg,park,Sans nom,48.5782305,7.7798117,way,451349388
+Strasbourg,park,Sans nom,48.5776672,7.7791703,way,451349390
+Strasbourg,park,Sans nom,48.5835433,7.7626093,way,468723955
+Strasbourg,park,Sans nom,48.5709262,7.7966003,way,480607409
+Strasbourg,park,Sans nom,48.5706218,7.7967939,way,480607410
+Strasbourg,park,Sans nom,48.570386,7.79694,way,480607411
+Strasbourg,park,Sans nom,48.5701459,7.7970941,way,480607412
+Strasbourg,park,Sans nom,48.5723435,7.7951255,way,480607415
+Strasbourg,park,Sans nom,48.5725037,7.7955837,way,480607416
+Strasbourg,park,Sans nom,48.572184,7.7952512,way,480607417
+Strasbourg,park,Sans nom,48.5717938,7.7961061,way,480607418
+Strasbourg,park,Sans nom,48.5718069,7.7954554,way,480607419
+Strasbourg,park,Sans nom,48.5722867,7.7957739,way,480607420
+Strasbourg,park,Sans nom,48.5724159,7.7997308,way,480809152
+Strasbourg,park,Sans nom,48.608986,7.7488823,way,487437117
+Strasbourg,park,Parc des Oiseaux,48.6037624,7.7333755,way,488451447
+Strasbourg,park,Square Gribouille,48.5966763,7.7019499,way,488664034
+Strasbourg,park,Parc Sindbad,48.5958626,7.7032556,way,488664035
+Strasbourg,park,Parc de l'Érable,48.6089075,7.7280275,way,490069534
+Strasbourg,park,Parc des Frères Grimm,48.5949382,7.7021156,way,490481713
+Strasbourg,park,Sans nom,48.5057625,7.8311725,way,496089959
+Strasbourg,park,Spielplatz Goldscheuer,48.5143545,7.8241086,way,496091123
+Strasbourg,park,Square d'Auvergne,48.6062619,7.7661126,way,509592947
+Strasbourg,park,Sans nom,48.6046337,7.7555951,way,537927050
+Strasbourg,park,Terrain d'aventures,48.6254294,7.7626409,way,553548658
+Strasbourg,park,Dampfbahn-Club Auenheim,48.6076725,7.8310094,way,573116163
+Strasbourg,park,Sans nom,48.5758645,7.7629237,way,583047779
+Strasbourg,park,Sans nom,48.5758326,7.7632902,way,583047781
+Strasbourg,park,Sans nom,48.5708618,7.7148142,way,641345861
+Strasbourg,park,Square Gabrielle et Charles Kayser,48.5691234,7.7606459,way,672658390
+Strasbourg,park,Sans nom,48.583208,7.7638682,way,685104388
+Strasbourg,park,Square des Fusillés du 15 Juillet 1943,48.5718731,7.7940859,way,701363145
+Strasbourg,park,Sans nom,48.6307504,7.7781544,way,702877283
+Strasbourg,park,Sans nom,48.6321262,7.7819903,way,702877285
+Strasbourg,park,Sans nom,48.5667721,7.7755321,way,712374145
+Strasbourg,park,Square Markos Botzaris,48.5862874,7.7519814,way,746434402
+Strasbourg,park,Square Marcel Rudloff,48.5857784,7.7616102,way,746438346
+Strasbourg,park,Square Raymond Klee,48.5668668,7.7736535,way,746494322
+Strasbourg,park,Sans nom,48.5842229,7.7645252,way,749007461
+Strasbourg,park,Sans nom,48.5841271,7.764885,way,749007462
+Strasbourg,park,Sans nom,48.5837654,7.7647605,way,749010567
+Strasbourg,park,Sans nom,48.5835923,7.765292,way,749010568
+Strasbourg,park,Sans nom,48.5674035,7.7496914,way,750712872
+Strasbourg,park,Parc Olympe de Gouges,48.5585248,7.6985726,way,753418532
+Strasbourg,park,Place Simone Veil,48.559419,7.6995365,way,753418535
+Strasbourg,park,Square du Président Allende,48.5790322,7.761029,way,756254503
+Strasbourg,park,Square Waldteufel,48.6122148,7.7523867,way,758739458
+Strasbourg,park,Place de la Synagogue,48.6125046,7.7557789,way,758739817
+Strasbourg,park,Square du Manège Solignac,48.5523212,7.7628454,way,768736446
+Strasbourg,park,Square des Cannoniers,48.5548566,7.7660127,way,768737630
+Strasbourg,park,Square de la Corse,48.545106,7.7558782,way,769026937
+Strasbourg,park,Square du Neufeld,48.5665645,7.7559974,way,769028838
+Strasbourg,park,Sans nom,48.4922169,7.7288475,way,776239023
+Strasbourg,park,Sans nom,48.5503883,7.6885351,way,785626495
+Strasbourg,park,Sans nom,48.6134715,7.7651086,way,785742315
+Strasbourg,park,Square Europa,48.5544518,7.6917795,way,787957209
+Strasbourg,park,Sans nom,48.5116293,7.7233833,way,852496907
+Strasbourg,park,Sans nom,48.5107924,7.7235496,way,852496908
+Strasbourg,park,Sans nom,48.5449593,7.7131315,way,862139538
+Strasbourg,park,Sans nom,48.5946508,7.7164351,way,867268868
+Strasbourg,park,Sans nom,48.5616952,7.7608249,way,871368755
+Strasbourg,park,Sans nom,48.5830804,7.6931767,way,909347255
+Strasbourg,park,Sans nom,48.5826311,7.7042798,way,938794212
+Strasbourg,park,Sans nom,48.5454356,7.7727332,way,939105514
+Strasbourg,park,Sans nom,48.5622163,7.8181474,way,943341711
+Strasbourg,park,Sans nom,48.5719475,7.7835721,way,955323578
+Strasbourg,park,Sans nom,48.5905179,7.7625838,way,956125594
+Strasbourg,park,Sans nom,48.5766218,7.7280078,way,957251191
+Strasbourg,park,Sans nom,48.5311941,7.7739681,way,959848331
+Strasbourg,park,Sans nom,48.5898646,7.7233785,way,966424576
+Strasbourg,park,Parc Contades,48.5905586,7.7582765,way,970095616
+Strasbourg,park,Sans nom,48.6075766,7.6873936,way,978177588
+Strasbourg,park,Square du Guirbaden,48.624377,7.752346,way,982287408
+Strasbourg,park,Square des Émailleries,48.6238775,7.7572585,way,982415459
+Strasbourg,park,Sans nom,48.566857,7.7127287,way,983833047
+Strasbourg,park,Sans nom,48.5683049,7.7124739,way,983876954
+Strasbourg,park,Jardin des Coteaux,48.6252588,7.7022972,way,984878815
+Strasbourg,park,Sans nom,48.5706946,7.7961478,way,993513013
+Strasbourg,park,Sans nom,48.5702732,7.7964078,way,993513015
+Strasbourg,park,Sans nom,48.5600205,7.7608651,way,1031130785
+Strasbourg,park,Sans nom,48.5400633,7.7130311,way,1058916211
+Strasbourg,park,Jardin interreligieux de la meinau,48.5495975,7.7523058,way,1070593257
+Strasbourg,park,Sans nom,48.5981197,7.7656669,way,1073517811
+Strasbourg,park,Parc des Romains,48.5836559,7.7213359,way,1085626461
+Strasbourg,park,Sans nom,48.6083421,7.6912963,way,1097466458
+Strasbourg,park,Sans nom,48.5455228,7.7712158,way,1109215392
+Strasbourg,park,Sans nom,48.5914351,7.706319,way,1117109701
+Strasbourg,park,Sans nom,48.5899849,7.703003,way,1120054146
+Strasbourg,park,Sans nom,48.5885761,7.6938898,way,1124155843
+Strasbourg,park,Stade Walter,48.5398831,7.7735274,way,1154264077
+Strasbourg,park,Sans nom,48.5197361,7.7277115,way,1192728934
+Strasbourg,park,Sans nom,48.6070052,7.7429517,way,1204761395
+Strasbourg,park,Sans nom,48.5450079,7.7619418,way,1224584619
+Strasbourg,park,Parc des sports,48.5969104,7.6921877,way,1234968068
+Strasbourg,park,Place Saint-Antoine,48.5984196,7.7081861,way,1266453419
+Strasbourg,park,Sans nom,48.5523696,7.8356616,way,1302815577
+Strasbourg,park,Square Châteaubriand,48.6142086,7.7362694,way,1305904355
+Strasbourg,park,Promenade Citadelle,48.571452,7.7821285,way,1324641286
+Strasbourg,park,Square Redslob,48.6094694,7.7829096,way,1324952825
+Strasbourg,park,Sans nom,48.566172,7.7589761,way,1427927896
+Strasbourg,park,Parc de l'Orangerie,48.5917374,7.7761832,relation,274225
+Strasbourg,park,Parc des Poteries,48.5862085,7.6938899,relation,280383
+Strasbourg,park,Square René Laënnec,48.5590778,7.7084178,relation,306857
+Strasbourg,park,Place du Bois de Rose,48.569546,7.7506103,relation,308077
+Strasbourg,park,Sans nom,48.5846874,7.7613911,relation,368597
+Strasbourg,park,Sans nom,48.5853627,7.7617743,relation,368598
+Strasbourg,park,Place Arnold,48.5846737,7.7699844,relation,5758509
+Strasbourg,park,Sans nom,48.511257,7.7222521,relation,11684276
+Strasbourg,park,Kurgarten,48.5619297,7.7743577,relation,12635817
+Strasbourg,park,Jardin du Schloessel,48.5762378,7.7145024,relation,13161536
+Strasbourg,restaurant,La Taverne de Saint-Malo,48.6024117,7.7542772,node,243723242
+Strasbourg,restaurant,L'Écrin des Saveurs,48.5594435,7.7515147,node,251005717
+Strasbourg,restaurant,Li & Li,48.5650342,7.7644758,node,263359311
+Strasbourg,restaurant,Au Cheval Blanc,48.5660853,7.7689462,node,263359317
+Strasbourg,restaurant,Restaurant Cafe am Yachthafen,48.5778587,7.803231,node,276145625
+Strasbourg,restaurant,Brasserie de la Bourse,48.5764146,7.7536619,node,288171145
+Strasbourg,restaurant,À l'Ancienne Douane,48.5795031,7.7500512,node,288171147
+Strasbourg,restaurant,Flam's,48.5783919,7.7527939,node,288171148
+Strasbourg,restaurant,Le Najiba,48.5913473,7.7235394,node,288890519
+Strasbourg,restaurant,Le Monastir,48.5912413,7.7548478,node,289483542
+Strasbourg,restaurant,Gasthaus Ochsen,48.5203726,7.8215579,node,301976391
+Strasbourg,restaurant,Pizzeria Piccolo Mondo,48.5179971,7.8309846,node,301984636
+Strasbourg,restaurant,Essig Brauhaus,48.5231664,7.81861,node,302004618
+Strasbourg,restaurant,Grieshabers Rebstock,48.5678554,7.8238475,node,316845445
+Strasbourg,restaurant,La Louisiane,48.5726312,7.7288194,node,432826549
+Strasbourg,restaurant,Le Fossile,48.5785496,7.7537573,node,471431749
+Strasbourg,restaurant,Léonor Hôtel,48.5859287,7.7472308,node,474726529
+Strasbourg,restaurant,Pfifferbriader,48.580241,7.7511713,node,475337701
+Strasbourg,restaurant,Crep'ess,48.5831007,7.7551949,node,475378678
+Strasbourg,restaurant,La Rizière,48.5831258,7.7549984,node,475378686
+Strasbourg,restaurant,Au Cruchon,48.5839052,7.7538938,node,476032564
+Strasbourg,restaurant,Zuem Strissel,48.5801763,7.7507716,node,476622524
+Strasbourg,restaurant,Zehnerglock,48.5804363,7.7505462,node,476622543
+Strasbourg,restaurant,Le Platz,48.581161,7.7502537,node,477829059
+Strasbourg,restaurant,Alte Zunft,48.5721606,7.8098298,node,477935381
+Strasbourg,restaurant,Les Savons d'Hélène,48.5820439,7.7442385,node,481251218
+Strasbourg,restaurant,One Street,48.5789511,7.7430828,node,485869849
+Strasbourg,restaurant,Pierrofino,48.5928239,7.7231069,node,486378215
+Strasbourg,restaurant,Sushido,48.5799143,7.7523904,node,488631647
+Strasbourg,restaurant,Palais de Chine,48.5800907,7.7527353,node,488631656
+Strasbourg,restaurant,Maharaja,48.5801937,7.7529872,node,488631662
+Strasbourg,restaurant,Aux Trois Chevaliers,48.5795603,7.7517584,node,488631667
+Strasbourg,restaurant,Aida,48.5814907,7.7613766,node,490256397
+Strasbourg,restaurant,Pan y vino,48.5784808,7.7536387,node,492886187
+Strasbourg,restaurant,Le Purgatoire,48.5795454,7.7574719,node,493774595
+Strasbourg,restaurant,Villa Bianca,48.5814837,7.7706614,node,498332915
+Strasbourg,restaurant,Restaurant Brasserie L'Anatolie (Titan),48.5839098,7.7370412,node,501850511
+Strasbourg,restaurant,de:ja,48.5873526,7.7685662,node,505383839
+Strasbourg,restaurant,Anatolian garden,48.5852473,7.7775658,node,506375258
+Strasbourg,restaurant,Resto Kool,48.5744969,7.7256192,node,536733107
+Strasbourg,restaurant,L'Eveil des Sens,48.5809118,7.7433053,node,538810549
+Strasbourg,restaurant,Le Thomasien,48.5807528,7.7432108,node,538810591
+Strasbourg,restaurant,Fischerstub,48.5998931,7.7428636,node,538823823
+Strasbourg,restaurant,La Cour des Brasseurs,48.6008918,7.7447936,node,538823848
+Strasbourg,restaurant,Cave Schutzenberger,48.6019672,7.745551,node,538843837
+Strasbourg,restaurant,Chez Lili,48.6022303,7.7454139,node,538843843
+Strasbourg,restaurant,Le Massala,48.6029189,7.7463249,node,538862422
+Strasbourg,restaurant,Chez Chevin,48.6029431,7.7460315,node,538862425
+Strasbourg,restaurant,Aux Quatre Vents,48.6042118,7.7477054,node,538992246
+Strasbourg,restaurant,Le Schluthfeld,48.568482,7.7513216,node,549859969
+Strasbourg,restaurant,La Couscousserie,48.6141763,7.7468779,node,558989303
+Strasbourg,restaurant,Restaurant Napoli,48.5671552,7.7586566,node,559741400
+Strasbourg,restaurant,Lard et Crème,48.5672116,7.7588658,node,559741401
+Strasbourg,restaurant,Le Divanoo,48.6133231,7.7515715,node,560110764
+Strasbourg,restaurant,Au Bon Coin,48.6146813,7.7328688,node,560843038
+Strasbourg,restaurant,Belfiore,48.6148906,7.732736,node,560843039
+Strasbourg,restaurant,Asian Box Epicerie,48.616215,7.7323449,node,560843048
+Strasbourg,restaurant,Le Scala,48.565476,7.7592597,node,560862254
+Strasbourg,restaurant,A l'Orientale,48.567166,7.7666388,node,561515733
+Strasbourg,restaurant,Au Rocher du Sapin,48.6142405,7.7494747,node,563973404
+Strasbourg,restaurant,Au Bistro du Quai,48.5831183,7.7580969,node,564910236
+Strasbourg,restaurant,Mlle 10,48.5830212,7.7579472,node,564910240
+Strasbourg,restaurant,Place de la République,48.6141173,7.7571021,node,564957173
+Strasbourg,restaurant,La Taverne du Quai,48.5810541,7.7391981,node,566133399
+Strasbourg,restaurant,Au Petit Bois Vert,48.5809397,7.7389403,node,566133507
+Strasbourg,restaurant,Côté Lac,48.6106992,7.7116144,node,567243983
+Strasbourg,restaurant,Le Männele,48.5979981,7.7609014,node,572451796
+Strasbourg,restaurant,L'Amuse Bouche,48.5882141,7.7577757,node,574447019
+Strasbourg,restaurant,La Rotonde,48.5923955,7.7247856,node,583243084
+Strasbourg,restaurant,L'Albatros,48.5920367,7.7198865,node,585297768
+Strasbourg,restaurant,Crêperie Le Moulin Du Diable,48.5790691,7.7416235,node,589018818
+Strasbourg,restaurant,La Grande Vitesse,48.5827572,7.7333949,node,597296436
+Strasbourg,restaurant,Pho Kim Saigon,48.5856856,7.7403486,node,597329597
+Strasbourg,restaurant,Au Crocodile,48.5836422,7.7474524,node,597452452
+Strasbourg,restaurant,La Vignette,48.6038566,7.7852661,node,599573218
+Strasbourg,restaurant,L'Ottoman,48.5687888,7.7355286,node,602633042
+Strasbourg,restaurant,Ristorante Francesca,48.5852265,7.7561596,node,610318717
+Strasbourg,restaurant,Maï Thai,48.573824,7.79378,node,613667908
+Strasbourg,restaurant,Colbert,48.5959275,7.7165137,node,617835449
+Strasbourg,restaurant,Le Pavot,48.5955635,7.7173091,node,617835456
+Strasbourg,restaurant,Kimga,48.5925625,7.7160178,node,619787401
+Strasbourg,restaurant,Chez Gopi,48.6002886,7.7118435,node,620845078
+Strasbourg,restaurant,La Villa d'Asie,48.6001447,7.712173,node,620845080
+Strasbourg,restaurant,La Taverne,48.6017829,7.7088902,node,621430467
+Strasbourg,restaurant,Au Plaisirs d'Asie,48.5975875,7.7363601,node,621842919
+Strasbourg,restaurant,À l'Abattoir,48.5996775,7.7344013,node,621842993
+Strasbourg,restaurant,Mermoz,48.6003044,7.7396005,node,621843168
+Strasbourg,restaurant,Les Plaisirs Gourmands,48.6005629,7.7391378,node,622052388
+Strasbourg,restaurant,Secrets de table,48.582732,7.744598,node,625536927
+Strasbourg,restaurant,San-Marco,48.5625516,7.6991498,node,634730406
+Strasbourg,restaurant,Saveurs & Saisons,48.5244391,7.708172,node,642228673
+Strasbourg,restaurant,Au Boin Coin,48.5228092,7.707102,node,642433842
+Strasbourg,restaurant,Shamrock,48.5212892,7.7051266,node,643987163
+Strasbourg,restaurant,La Tankstell,48.5398043,7.7339974,node,648527096
+Strasbourg,restaurant,Le Gaulois,48.5336051,7.7324019,node,650101119
+Strasbourg,restaurant,Le Percheron,48.5456698,7.709826,node,655432094
+Strasbourg,restaurant,Le Belle Vue,48.5402929,7.7103723,node,658443482
+Strasbourg,restaurant,Restaurant Monteleone,48.5886991,7.7469221,node,661188943
+Strasbourg,restaurant,Yapan sushi,48.5858895,7.7469782,node,661527396
+Strasbourg,restaurant,Ayutthaya,48.5328494,7.6907007,node,664308928
+Strasbourg,restaurant,Pizza Palmariva,48.5425801,7.7076285,node,665114429
+Strasbourg,restaurant,Novotel Café Restaurant,48.5859483,7.7428459,node,665391166
+Strasbourg,restaurant,La Cantinella,48.5864645,7.6958892,node,665411137
+Strasbourg,restaurant,La Semoule d'Or,48.5992641,7.7789862,node,665425426
+Strasbourg,restaurant,La Cocotte,48.6008113,7.7816408,node,665425427
+Strasbourg,restaurant,Les Sales Gosses,48.5915102,7.7514518,node,665487214
+Strasbourg,restaurant,Au Diable Bleu,48.5823712,7.7574478,node,666115064
+Strasbourg,restaurant,Beijing,48.5827259,7.7577184,node,666115080
+Strasbourg,restaurant,Les Culottées,48.5833624,7.7583281,node,666115086
+Strasbourg,restaurant,Maison des Tanneurs,48.5814052,7.7418088,node,680173041
+Strasbourg,restaurant,La Table Chaude,48.6010795,7.7388606,node,686683461
+Strasbourg,restaurant,Odouro,48.6022444,7.7387256,node,686683479
+Strasbourg,restaurant,Banelao,48.6056881,7.7364325,node,686683481
+Strasbourg,restaurant,Au Tilleul,48.6143453,7.6950584,node,706612495
+Strasbourg,restaurant,Au Fil de l'Eau,48.6332105,7.7537138,node,739667765
+Strasbourg,restaurant,La Croix d'Or,48.6353085,7.7416021,node,741546692
+Strasbourg,restaurant,Le Cyrano,48.5884905,7.7405237,node,742346371
+Strasbourg,restaurant,L'Argentoratum,48.5814595,7.7400856,node,759949705
+Strasbourg,restaurant,P'tite fontaine,48.5814307,7.7391863,node,760638824
+Strasbourg,restaurant,À la Vieille Tour,48.5812816,7.7393778,node,760639085
+Strasbourg,restaurant,Zuem Ysehuet,48.589762,7.7633251,node,775973297
+Strasbourg,restaurant,Au Potiron,48.5788826,7.7548356,node,872175040
+Strasbourg,restaurant,Brasserie Au Canon,48.5790157,7.7517065,node,872175044
+Strasbourg,restaurant,L'Ancienne Chapelle,48.5790387,7.7542842,node,872484525
+Strasbourg,restaurant,Gavroche,48.5785215,7.7529674,node,872484611
+Strasbourg,restaurant,Le Cosy,48.5790483,7.7534775,node,872484627
+Strasbourg,restaurant,La Laguna,48.5789076,7.7534433,node,872484632
+Strasbourg,restaurant,Le Banquet des Sophistes,48.5787757,7.7520951,node,872484637
+Strasbourg,restaurant,Italian Trattoria,48.5783306,7.7525186,node,872484653
+Strasbourg,restaurant,Les Canailles,48.5791726,7.7583471,node,872597568
+Strasbourg,restaurant,Ganesha,48.5794233,7.7580999,node,872597600
+Strasbourg,restaurant,Persia,48.5789318,7.7603116,node,873923061
+Strasbourg,restaurant,(Restaurant fermé) Cinecitta,48.5788336,7.7598439,node,873923123
+Strasbourg,restaurant,Brasserie Chez Louise,48.5999432,7.699612,node,897018890
+Strasbourg,restaurant,Au Pont Saint-Martin,48.580024,7.742842,node,899426124
+Strasbourg,restaurant,Brasserie de la Gare,48.6121383,7.742874,node,939503570
+Strasbourg,restaurant,Le Petit Régal,48.6068626,7.748973,node,941870966
+Strasbourg,restaurant,Au Cheval Blanc,48.6062053,7.7518767,node,944541246
+Strasbourg,restaurant,Au Tivoli,48.6005497,7.7806349,node,1164930639
+Strasbourg,restaurant,La Bierstub,48.5869994,7.7409898,node,1179939502
+Strasbourg,restaurant,Monte Cristo,48.576702,7.7681118,node,1198986427
+Strasbourg,restaurant,Le New Capri,48.5912148,7.7462119,node,1207544365
+Strasbourg,restaurant,Le Pacha,48.5858995,7.7497346,node,1207947905
+Strasbourg,restaurant,La Chaumière,48.5857975,7.7498371,node,1207948031
+Strasbourg,restaurant,Sushi Opera & Pokés Bowls,48.5858469,7.7497926,node,1207948057
+Strasbourg,restaurant,Chez Camille,48.5854282,7.7502311,node,1207948084
+Strasbourg,restaurant,Les Innocents,48.5892468,7.74941,node,1210189149
+Strasbourg,restaurant,Sushi's,48.5899569,7.7493576,node,1210189154
+Strasbourg,restaurant,Chez Victor,48.5889616,7.7476801,node,1210841389
+Strasbourg,restaurant,Pierrofino,48.5907626,7.7478287,node,1210841531
+Strasbourg,restaurant,L'Atelier,48.5889872,7.7528608,node,1211016688
+Strasbourg,restaurant,Phanthong,48.5788175,7.7549181,node,1211141262
+Strasbourg,restaurant,Les toqués du coin,48.5924874,7.7564838,node,1212831049
+Strasbourg,restaurant,Tong Yuen,48.5901452,7.7443672,node,1214771804
+Strasbourg,restaurant,Le Roi et son Fou,48.5810081,7.7496943,node,1219111220
+Strasbourg,restaurant,FivePizza,48.5774045,7.7686145,node,1230002120
+Strasbourg,restaurant,Romulus,48.5772023,7.7666944,node,1230002130
+Strasbourg,restaurant,Brasserie d'El,48.6072295,7.7228724,node,1239973771
+Strasbourg,restaurant,Au Gobelet d'Or,48.577184,7.7282545,node,1246670006
+Strasbourg,restaurant,La Vallée du Kashmir,48.5906336,7.7442589,node,1246670071
+Strasbourg,restaurant,La Fougère / Thach Thao,48.5914929,7.7414231,node,1246670079
+Strasbourg,restaurant,Le grand Shanghai,48.5840803,7.743117,node,1249709890
+Strasbourg,restaurant,La Grande Muraille,48.5841953,7.7425797,node,1249709892
+Strasbourg,restaurant,Moody's Break,48.5840824,7.7421595,node,1249709918
+Strasbourg,restaurant,Le Resto du Boucher,48.5836615,7.742267,node,1249709932
+Strasbourg,restaurant,Le Bartholdi,48.5842812,7.7429469,node,1249709972
+Strasbourg,restaurant,OKII,48.5842146,7.7426668,node,1249709975
+Strasbourg,restaurant,Les Chefs d’Oeuvre d'Alsace,48.5825797,7.7394326,node,1249709988
+Strasbourg,restaurant,Au Brasseur,48.5826016,7.755537,node,1250274846
+Strasbourg,restaurant,Le Schnockeloch,48.5827794,7.7381002,node,1250345388
+Strasbourg,restaurant,Restaurant la Victoire,48.5839859,7.7588914,node,1262415928
+Strasbourg,restaurant,Le Petit Beefbar,48.587421,7.7584394,node,1263063443
+Strasbourg,restaurant,Au Boudoir de Ly,48.6428898,7.7068552,node,1313169293
+Strasbourg,restaurant,Au Raisin,48.6448128,7.7218734,node,1318633019
+Strasbourg,restaurant,Restaurant à la Gare,48.6447732,7.7205277,node,1319782750
+Strasbourg,restaurant,Aux Armes de Strasbourg,48.5809152,7.7486397,node,1342544037
+Strasbourg,restaurant,Bodega Paco de Maria,48.569806,7.7657575,node,1351757893
+Strasbourg,restaurant,La Mésange,48.5672382,7.7710236,node,1352190839
+Strasbourg,restaurant,Le Chapitre,48.5672555,7.7654376,node,1353480970
+Strasbourg,restaurant,Restaurant Beyrouth,48.5695135,7.7569105,node,1354006040
+Strasbourg,restaurant,Annam,48.5693955,7.7566418,node,1354006065
+Strasbourg,restaurant,Le Continent,48.5794134,7.7140128,node,1445515555
+Strasbourg,restaurant,A la Turca,48.5333016,7.7222262,node,1527903988
+Strasbourg,restaurant,Les Terrasses d'Illkirch,48.5280121,7.7104876,node,1536267633
+Strasbourg,restaurant,À l'Agneau,48.5281906,7.7104989,node,1536268179
+Strasbourg,restaurant,Auberge du Cerf,48.5196677,7.7052877,node,1537346561
+Strasbourg,restaurant,La Piazza,48.5805192,7.7491694,node,1558601771
+Strasbourg,restaurant,Bistrot Coco,48.5796772,7.7487681,node,1588595149
+Strasbourg,restaurant,Le Dahu,48.5795494,7.7487306,node,1588615427
+Strasbourg,restaurant,Iberica,48.579458,7.7490095,node,1588700043
+Strasbourg,restaurant,La Hache,48.5794778,7.7491519,node,1588707744
+Strasbourg,restaurant,Les Baguettes d'Or,48.5803052,7.7571043,node,1602682569
+Strasbourg,restaurant,L'Oignon,48.5814162,7.7414354,node,1605656225
+Strasbourg,restaurant,Aux Trois Fleurs,48.5371085,7.7277606,node,1610637913
+Strasbourg,restaurant,La Bonne Source,48.5631982,7.7597003,node,1639772971
+Strasbourg,restaurant,Ishtar,48.5623499,7.7629019,node,1639772974
+Strasbourg,restaurant,Le Croque Bedaine,48.5648779,7.7598735,node,1639772983
+Strasbourg,restaurant,Le Cannibale,48.5694329,7.7357608,node,1646121488
+Strasbourg,restaurant,Brasserie Trois Épis,48.6068687,7.7362875,node,1659083600
+Strasbourg,restaurant,Brasserie À la Cave Profonde,48.6070558,7.735581,node,1659083610
+Strasbourg,restaurant,Pizzeria Resto Jad,48.5808567,7.7768578,node,1661950919
+Strasbourg,restaurant,Restaurant Pizzeria Schwert;Hotel Schwert,48.5737901,7.8098213,node,1716574914
+Strasbourg,restaurant,La Corde à Linge,48.5812297,7.7425872,node,1716670625
+Strasbourg,restaurant,Le Baeckeoffe d'Alsace,48.5803444,7.7419655,node,1716874571
+Strasbourg,restaurant,Arnaud & Co,48.5887162,7.7791607,node,1716908649
+Strasbourg,restaurant,Café Broglie,48.5842702,7.7494539,node,1770233386
+Strasbourg,restaurant,Le K,48.6118298,7.7136285,node,1818052924
+Strasbourg,restaurant,Pizza Marc'ol,48.5810283,7.7715958,node,1821701974
+Strasbourg,restaurant,Le Tarbouche,48.5812772,7.7570802,node,1846887362
+Strasbourg,restaurant,Chez Paulette,48.5684293,7.7547779,node,1865702225
+Strasbourg,restaurant,Du Lac Du Baggersee,48.5428703,7.7480452,node,1889477149
+Strasbourg,restaurant,Aux Trois Cigognes,48.563154,7.7621079,node,1907030735
+Strasbourg,restaurant,Le Rajustant,48.562988,7.7641868,node,1907030736
+Strasbourg,restaurant,Au Coq Blanc,48.6034067,7.7836902,node,1907954552
+Strasbourg,restaurant,Au Pont d'Anvers,48.5839505,7.7751816,node,1907977817
+Strasbourg,restaurant,Kashmir,48.5789316,7.7511137,node,1970477053
+Strasbourg,restaurant,Nemrut,48.5840072,7.7367918,node,1987095938
+Strasbourg,restaurant,Thai Square,48.586884,7.7431944,node,1988923503
+Strasbourg,restaurant,Shahi Pakwan,48.5789479,7.7426477,node,2000610942
+Strasbourg,restaurant,L'Instant Plaisir,48.5658419,7.7589622,node,2001604212
+Strasbourg,restaurant,La Table Verte,48.6146468,7.6947095,node,2001604213
+Strasbourg,restaurant,Milano Torino MiTo,48.577673,7.7524258,node,2015872088
+Strasbourg,restaurant,La Locomotive,48.6309888,7.7194421,node,2035907991
+Strasbourg,restaurant,Pizzeria San Angelo,48.6312341,7.7194112,node,2035907992
+Strasbourg,restaurant,Steakhouse District,48.5819992,7.7471831,node,2095562598
+Strasbourg,restaurant,Le Square Delicatessen,48.5823339,7.7470122,node,2095562601
+Strasbourg,restaurant,Il Forno,48.5823829,7.7464553,node,2095562603
+Strasbourg,restaurant,Flam's,48.5830935,7.753627,node,2182370494
+Strasbourg,restaurant,Au Saint-Sépulcre,48.5824051,7.7491559,node,2263125802
+Strasbourg,restaurant,Au Petit Mezze,48.5817694,7.7458012,node,2270579612
+Strasbourg,restaurant,Le Petit Bouillon Pharamond,48.5815553,7.7461081,node,2270579647
+Strasbourg,restaurant,S'Thomas Stuebel,48.5808658,7.7438944,node,2270579671
+Strasbourg,restaurant,Le Madras,48.5811465,7.7429424,node,2460847773
+Strasbourg,restaurant,Mensa,48.5818285,7.732936,node,2479333783
+Strasbourg,restaurant,Le Prince,48.5819638,7.7329485,node,2479333787
+Strasbourg,restaurant,Marco Polo,48.5795785,7.7398837,node,2479376241
+Strasbourg,restaurant,Au Fantassin,48.5810152,7.7391147,node,2479376242
+Strasbourg,restaurant,Ondine,48.5816229,7.7430021,node,2481697928
+Strasbourg,restaurant,The Public House,48.5795137,7.7606206,node,2486686641
+Strasbourg,restaurant,Le Jardin du Pourtales,48.606056,7.7994747,node,2510316836
+Strasbourg,restaurant,Au Coucou des Bois,48.5298891,7.7736068,node,2510776894
+Strasbourg,restaurant,Chez l'Oncle Freddy,48.5801733,7.742461,node,2511959416
+Strasbourg,restaurant,La bedaine,48.5800091,7.7425508,node,2511959420
+Strasbourg,restaurant,Le 2 - Franchi Pescara,48.5950333,7.7744028,node,2527308435
+Strasbourg,restaurant,Brasserie Les Haras,48.5776507,7.742889,node,2556379975
+Strasbourg,restaurant,Restaurant Irina,48.6038512,7.7511109,node,2595500450
+Strasbourg,restaurant,China Restaurant Panda,48.49826,7.8219718,node,2603292769
+Strasbourg,restaurant,La Corne d'Or,48.5798386,7.7481108,node,2612160834
+Strasbourg,restaurant,La Pid'zz,48.5372614,7.7281003,node,2628198576
+Strasbourg,restaurant,Chez Yvonne,48.5827666,7.7494911,node,2656224607
+Strasbourg,restaurant,La Vetta,48.5825895,7.7496906,node,2656224618
+Strasbourg,restaurant,Le Torricelli,48.5816656,7.742093,node,2656224622
+Strasbourg,restaurant,Salon de thé Grand'Rue,48.5818239,7.7423203,node,2656224626
+Strasbourg,restaurant,La Petite Mairie,48.584484,7.751358,node,2669740558
+Strasbourg,restaurant,Dolsot,48.5836706,7.7541176,node,2676660697
+Strasbourg,restaurant,Ô Brazil,48.5834202,7.7412714,node,2676662296
+Strasbourg,restaurant,Huntun & Mian,48.5827324,7.7522481,node,2676665040
+Strasbourg,restaurant,Block'Out,48.5905258,7.699338,node,2755562691
+Strasbourg,restaurant,Koholã Espace Européen - poke & salad bar,48.6127192,7.710677,node,2765618624
+Strasbourg,restaurant,Le Dix,48.584455,7.7365257,node,2780843660
+Strasbourg,restaurant,Au pont corbeau,48.5789585,7.7502894,node,2793209877
+Strasbourg,restaurant,L'Homme Sauvage,48.5695071,7.7650893,node,2813387658
+Strasbourg,restaurant,La Cloche à Fromage,48.5805925,7.7486497,node,2831364858
+Strasbourg,restaurant,Schatzi,48.5799655,7.7494121,node,2831364859
+Strasbourg,restaurant,Chan Chira,48.5815258,7.7414234,node,2835258110
+Strasbourg,restaurant,La Petite Alsace,48.5815291,7.7419147,node,2835258111
+Strasbourg,restaurant,Lohkäs,48.5816068,7.7417249,node,2835258112
+Strasbourg,restaurant,Ali Baba,48.5787337,7.7425716,node,2836748467
+Strasbourg,restaurant,La Choucrouterie,48.5779935,7.7452071,node,2839437601
+Strasbourg,restaurant,Le Bistrot des Copains,48.5786352,7.7449231,node,2839437602
+Strasbourg,restaurant,Flunch,48.5441146,7.7399735,node,2877576443
+Strasbourg,restaurant,Utopia,48.5801778,7.749043,node,2884916648
+Strasbourg,restaurant,La Boucherie,48.5739592,7.764492,node,2911187824
+Strasbourg,restaurant,Léon,48.5740817,7.7631214,node,2911189480
+Strasbourg,restaurant,À l'Étoile d'Or,48.6234015,7.6996251,node,2923906880
+Strasbourg,restaurant,Pierre et Gamelles,48.5843566,7.7515273,node,2931514522
+Strasbourg,restaurant,La Bolée de Cidre,48.5820239,7.7431127,node,2967660519
+Strasbourg,restaurant,Pizzeria Sarda,48.6030827,7.7828372,node,2987788771
+Strasbourg,restaurant,Le Violon d'Ingres,48.6039281,7.7821029,node,2987788776
+Strasbourg,restaurant,Sushi's,48.5989377,7.7784591,node,2987788804
+Strasbourg,restaurant,Sandkicht,48.5960521,7.7837109,node,2987788809
+Strasbourg,restaurant,Du Côté de chez Anne,48.5958011,7.7849058,node,2987788811
+Strasbourg,restaurant,Le Sultan,48.583882,7.7470301,node,3014786795
+Strasbourg,restaurant,Memphis Diner,48.5739862,7.7641141,node,3027129062
+Strasbourg,restaurant,Harmonie Bowl and Juice,48.5830585,7.7548925,node,3032950330
+Strasbourg,restaurant,Petite Gallia,48.5840458,7.7598766,node,3033303912
+Strasbourg,restaurant,Fink'Stuebel,48.5788177,7.742645,node,3036687943
+Strasbourg,restaurant,L'oro di napoli,48.5645789,7.7663081,node,3046492388
+Strasbourg,restaurant,Les 15 saveurs,48.5645606,7.7663676,node,3046492389
+Strasbourg,restaurant,Brasserie Au Télégraphe,48.5791344,7.7589662,node,3049131161
+Strasbourg,restaurant,La Patrie,48.5798043,7.7609463,node,3049162321
+Strasbourg,restaurant,Abbiocco,48.5784548,7.7605944,node,3049301880
+Strasbourg,restaurant,Le Luxe,48.5801352,7.7578612,node,3049349834
+Strasbourg,restaurant,Acerola,48.5793864,7.7573302,node,3049357858
+Strasbourg,restaurant,Come A Roma,48.5833541,7.77141,node,3074364226
+Strasbourg,restaurant,Essen Snack,48.5832585,7.7712783,node,3074364740
+Strasbourg,restaurant,Le Barbu,48.5816897,7.7457464,node,3098283503
+Strasbourg,restaurant,Mamama,48.5819074,7.7452456,node,3098283504
+Strasbourg,restaurant,Les Fines Gueules,48.5831194,7.7422754,node,3098283507
+Strasbourg,restaurant,Le Boucanier,48.6060666,7.7530673,node,3164266833
+Strasbourg,restaurant,Scuzi Mamma,48.5819361,7.7466876,node,3182489533
+Strasbourg,restaurant,La Fignette,48.5824216,7.7426478,node,3184155258
+Strasbourg,restaurant,Winstub S'kaechele,48.5822938,7.7427168,node,3184155259
+Strasbourg,restaurant,Villa de Jade,48.5220419,7.6915418,node,3234049485
+Strasbourg,restaurant,Black Sea Restaurant - Karadeniz Restaurant,48.5700592,7.8202823,node,3264392014
+Strasbourg,restaurant,Meyerhof,48.5727701,7.8124492,node,3264392015
+Strasbourg,restaurant,Dorfschenke-Korfu,48.566639,7.825526,node,3264392016
+Strasbourg,restaurant,Kaboul cuisine,48.5824581,7.7362858,node,3273958427
+Strasbourg,restaurant,La Table du Gayot,48.5827037,7.7535521,node,3293108674
+Strasbourg,restaurant,La Panthère,48.6065254,7.734315,node,3303757915
+Strasbourg,restaurant,Eater,48.5828795,7.7528213,node,3334049276
+Strasbourg,restaurant,Tentations,48.5828443,7.7535024,node,3334049279
+Strasbourg,restaurant,Le Troquet des Kneckes,48.5814704,7.7439789,node,3428438776
+Strasbourg,restaurant,Ristorante Paradiso,48.5791618,7.7426939,node,3428438778
+Strasbourg,restaurant,Le Bistrot d'Antoine,48.5835613,7.7552779,node,3464906630
+Strasbourg,restaurant,Chez Yang,48.5319153,7.7170954,node,3467071927
+Strasbourg,restaurant,La Table d'Olivier,48.5319054,7.716894,node,3467071928
+Strasbourg,restaurant,Tsim Sha Tsui,48.5829483,7.7541307,node,3500037034
+Strasbourg,restaurant,La Crêpe Gourmande,48.580064,7.7491031,node,3506150415
+Strasbourg,restaurant,La vieille enseigne,48.5800111,7.7491654,node,3506150416
+Strasbourg,restaurant,Chez Rita,48.5799464,7.7492286,node,3506150417
+Strasbourg,restaurant,Bastardo,48.5802811,7.7489569,node,3506150418
+Strasbourg,restaurant,Au Gutenberg,48.5809764,7.7487312,node,3506150422
+Strasbourg,restaurant,BonBao,48.5810287,7.7429382,node,3510214756
+Strasbourg,restaurant,Caveau Gurtlerhoft,48.5817648,7.7495182,node,3510214757
+Strasbourg,restaurant,Le Jardin de l'Orangerie,48.5902076,7.776191,node,3574974710
+Strasbourg,restaurant,La Binchstub Gayot,48.583175,7.7527276,node,3602705202
+Strasbourg,restaurant,Tsuta Ramen,48.5849368,7.7536644,node,3753358364
+Strasbourg,restaurant,Au Drôle de Zèbre,48.5788164,7.7175881,node,3771834275
+Strasbourg,restaurant,Ristorante Del Arte,48.5452924,7.7406005,node,3778154957
+Strasbourg,restaurant,Naoko,48.5851276,7.7365868,node,3787990755
+Strasbourg,restaurant,Le Clou,48.5827107,7.749111,node,3791427175
+Strasbourg,restaurant,Au Quai de l'Ill,48.5791542,7.7516276,node,3818331777
+Strasbourg,restaurant,Alexandros,48.5710054,7.8119436,node,3821490662
+Strasbourg,restaurant,Manicook,48.5031129,7.6945721,node,3906376849
+Strasbourg,restaurant,Bo & Bun,48.6040722,7.7501836,node,3976168201
+Strasbourg,restaurant,Da Giorgio,48.5223421,7.6912677,node,3982028237
+Strasbourg,restaurant,Pierres et Gamelles,48.6052248,7.7578879,node,4058724554
+Strasbourg,restaurant,La Table du Millesime,48.607152,7.7520695,node,4080268773
+Strasbourg,restaurant,L'Imaginaire,48.604631,7.7506434,node,4080268774
+Strasbourg,restaurant,Taj Mahal,48.6065809,7.7519961,node,4080268777
+Strasbourg,restaurant,À la Couronne,48.607865,7.7520932,node,4080268779
+Strasbourg,restaurant,Les Marmitons,48.6059121,7.7548579,node,4080325253
+Strasbourg,restaurant,Chez Cô Hai,48.5775479,7.7490825,node,4086630088
+Strasbourg,restaurant,La Cerise,48.6042973,7.753285,node,4087213845
+Strasbourg,restaurant,Lamian,48.5824925,7.7550625,node,4088875737
+Strasbourg,restaurant,Hibiki,48.6040233,7.7497812,node,4104002200
+Strasbourg,restaurant,Au Dauphin,48.5818387,7.7495237,node,4135090994
+Strasbourg,restaurant,La Maison Kammerzell,48.5819549,7.7497693,node,4185510603
+Strasbourg,restaurant,Le Tire-Bouchon,48.5805549,7.75059,node,4220761790
+Strasbourg,restaurant,Boki Boki,48.5830848,7.7439911,node,4226135689
+Strasbourg,restaurant,La Maison à Pizza,48.6061497,7.7533541,node,4265938849
+Strasbourg,restaurant,S'kästele,48.6063358,7.7530476,node,4265938850
+Strasbourg,restaurant,La Carambole,48.6034173,7.7568823,node,4266036575
+Strasbourg,restaurant,Zoomza,48.5821653,7.7432273,node,4273041060
+Strasbourg,restaurant,Totoro,48.6098846,7.7125884,node,4283758819
+Strasbourg,restaurant,Aux Quatre Cigognes,48.5801999,7.7508275,node,4340714389
+Strasbourg,restaurant,L'Alsako — Munsterstuewel,48.5804893,7.7512069,node,4340714391
+Strasbourg,restaurant,Allo Pad Thaï,48.5815373,7.7464451,node,4362535373
+Strasbourg,restaurant,À la braise,48.6008161,7.7515637,node,4375566369
+Strasbourg,restaurant,Umami,48.5809302,7.7430415,node,4382987293
+Strasbourg,restaurant,La Grande Dame,48.5814204,7.7495466,node,4406504965
+Strasbourg,restaurant,Say Cheese,48.582899,7.7541476,node,4408251053
+Strasbourg,restaurant,A la Carpe,48.6352685,7.738528,node,4432157559
+Strasbourg,restaurant,La Nouvelle poste,48.5846134,7.75422,node,4435870322
+Strasbourg,restaurant,Villa Casella,48.5801899,7.747901,node,4435908276
+Strasbourg,restaurant,Le Bistronome,48.5807283,7.7740784,node,4454645362
+Strasbourg,restaurant,Pasta e ravioli,48.5808701,7.7565462,node,4463100737
+Strasbourg,restaurant,Le Vintage,48.5803131,7.7464601,node,4463103424
+Strasbourg,restaurant,Sonar Bangla,48.5829698,7.7361545,node,4463108021
+Strasbourg,restaurant,Pop & Lino,48.5834555,7.7533317,node,4485376868
+Strasbourg,restaurant,Brunchie,48.5792841,7.7578439,node,4485615062
+Strasbourg,restaurant,Casa Due,48.578562,7.7589783,node,4486170508
+Strasbourg,restaurant,Matsumotoya,48.5823495,7.7548179,node,4486525647
+Strasbourg,restaurant,Il Girasole,48.5785612,7.7490728,node,4498935680
+Strasbourg,restaurant,Nina,48.5703773,7.7566466,node,4500301771
+Strasbourg,restaurant,La Maison des Mezzés,48.5784628,7.7545301,node,4500311860
+Strasbourg,restaurant,La Grappa,48.5836145,7.7403861,node,4500980737
+Strasbourg,restaurant,Aedaen Place Brasserie,48.5825169,7.7417651,node,4508664517
+Strasbourg,restaurant,Chez Aladdin,48.5403706,7.7678406,node,4538699662
+Strasbourg,restaurant,Suzanne,48.582703,7.7439917,node,4548119724
+Strasbourg,restaurant,Brasserie Le Stern,48.5760415,7.754542,node,4552263197
+Strasbourg,restaurant,Le Stras,48.5810888,7.7430373,node,4558140616
+Strasbourg,restaurant,Le Meiselocker,48.5831501,7.7540889,node,4566926232
+Strasbourg,restaurant,Iskandar,48.5835949,7.7415652,node,4594699365
+Strasbourg,restaurant,22 Mai - Pizzo Social Club,48.5826115,7.7390204,node,4594699366
+Strasbourg,restaurant,Kohola,48.5783511,7.7528726,node,4594699368
+Strasbourg,restaurant,Vert Olive,48.5772658,7.7536008,node,4594699369
+Strasbourg,restaurant,Mandala,48.5855074,7.7404577,node,4598296539
+Strasbourg,restaurant,East Canteen,48.5791202,7.7544244,node,4598296540
+Strasbourg,restaurant,Santa Elena,48.5821096,7.7443914,node,4600450608
+Strasbourg,restaurant,Habibi,48.5775631,7.7711949,node,4600677774
+Strasbourg,restaurant,Snack Traiteur Libanais,48.5776125,7.7712041,node,4600677791
+Strasbourg,restaurant,A l'Oberservatoire,48.582273,7.771699,node,4604739188
+Strasbourg,restaurant,Holy Moly,48.5835812,7.7615403,node,4613004712
+Strasbourg,restaurant,Chez les Lùschtig,48.581824,7.7426872,node,4614043774
+Strasbourg,restaurant,Bistro Polo,48.582014,7.7456624,node,4614387717
+Strasbourg,restaurant,L'Épicerie,48.5818275,7.7468861,node,4614387727
+Strasbourg,restaurant,Houmous & Co,48.5799045,7.7478294,node,4619370470
+Strasbourg,restaurant,PNY Grand’Rue,48.5817355,7.7435886,node,4626054115
+Strasbourg,restaurant,Le Monceau,48.5798567,7.7448622,node,4668485568
+Strasbourg,restaurant,Trattoria da Giovanni,48.5799747,7.7462253,node,4668485572
+Strasbourg,restaurant,Restaurant Aristide,48.5675983,7.7742685,node,4676785079
+Strasbourg,restaurant,Shahi Mahal,48.5786766,7.7547698,node,4691175038
+Strasbourg,restaurant,Momo Tibétain,48.5825604,7.7395453,node,4696193406
+Strasbourg,restaurant,Au pékin,48.5816082,7.7746666,node,4696298723
+Strasbourg,restaurant,Lady Sushi Strasbourg,48.5822831,7.7733651,node,4696298724
+Strasbourg,restaurant,Pho Asia,48.5813176,7.7427107,node,4715854736
+Strasbourg,restaurant,1741,48.5805139,7.7536241,node,4715863743
+Strasbourg,restaurant,Brasserie La Choppe,48.5824662,7.7355551,node,4752240915
+Strasbourg,restaurant,La Binchstub Broglie,48.5851302,7.7495748,node,4752463123
+Strasbourg,restaurant,Caupona,48.5812909,7.7451931,node,4765262156
+Strasbourg,restaurant,La Petite Alsace,48.5816248,7.7415638,node,4817232278
+Strasbourg,restaurant,Au tribunal,48.5874275,7.7477496,node,4817232280
+Strasbourg,restaurant,Yume Sushi,48.5828946,7.7393039,node,4831185264
+Strasbourg,restaurant,Alambar,48.5838744,7.7410259,node,4833415230
+Strasbourg,restaurant,Dim Sum Sam,48.5793656,7.7604766,node,4833564536
+Strasbourg,restaurant,Le Rimini,48.5817337,7.7535038,node,4843584758
+Strasbourg,restaurant,La Pizza de Nico,48.5840955,7.7433715,node,4851081122
+Strasbourg,restaurant,Madeleine,48.5792055,7.7543467,node,4924829138
+Strasbourg,restaurant,Le Kuhn,48.5848679,7.7376281,node,4929565424
+Strasbourg,restaurant,Au Cygne,48.6075942,7.7498764,node,4935910571
+Strasbourg,restaurant,Pizza des Deux Rives - Neudorf,48.5700038,7.7773999,node,4956353864
+Strasbourg,restaurant,Namaste,48.5874692,7.7460547,node,4968835230
+Strasbourg,restaurant,Cokoon,48.5873374,7.7464823,node,4968835231
+Strasbourg,restaurant,Sakhang,48.5873902,7.7464664,node,4968835232
+Strasbourg,restaurant,La Marseillaise,48.5852804,7.7501135,node,4996650523
+Strasbourg,restaurant,Le Galopin,48.5821247,7.7421112,node,5000831837
+Strasbourg,restaurant,Graffateria,48.5833473,7.7356892,node,5037062157
+Strasbourg,restaurant,Al Diwan,48.5820313,7.757103,node,5037078691
+Strasbourg,restaurant,Cinnamon,48.5796657,7.7480542,node,5037090017
+Strasbourg,restaurant,Baldner's Gasthof Schwanen,48.5748502,7.8079695,node,5069292231
+Strasbourg,restaurant,La Maison de Damas,48.6091677,7.7497519,node,5069564938
+Strasbourg,restaurant,À la Tête de Lard,48.5834778,7.7428749,node,5070944136
+Strasbourg,restaurant,Perles de Saveurs,48.5812619,7.7430409,node,5072349084
+Strasbourg,restaurant,La Fabrique,48.6114063,7.7471249,node,5075908013
+Strasbourg,restaurant,Grill Köz Urfa,48.5704915,7.8199106,node,5088086321
+Strasbourg,restaurant,L'Orient,48.5707293,7.8196102,node,5088094421
+Strasbourg,restaurant,Sultan Palace,48.5713789,7.8170179,node,5088159025
+Strasbourg,restaurant,Lava Döner-iskender,48.5715005,7.8165746,node,5088183824
+Strasbourg,restaurant,Star Grill,48.5717964,7.8155192,node,5088284421
+Strasbourg,restaurant,Ocakbasi Grillhaus,48.5717374,7.8165686,node,5088399321
+Strasbourg,restaurant,Brasserie les Glacières,48.5771488,7.7415599,node,5091627933
+Strasbourg,restaurant,Chez Madame Ha,48.6052325,7.7417343,node,5095777220
+Strasbourg,restaurant,Ô 30,48.5838401,7.7532268,node,5097838660
+Strasbourg,restaurant,La Casserole,48.5834879,7.7526372,node,5097838661
+Strasbourg,restaurant,La Table de Christophe,48.5837398,7.7530623,node,5097838662
+Strasbourg,restaurant,Capricciosa,48.581448,7.7567419,node,5102798996
+Strasbourg,restaurant,Au petit tonnelier,48.5801144,7.7492917,node,5132843921
+Strasbourg,restaurant,Au Cèdre,48.5788891,7.756841,node,5171061121
+Strasbourg,restaurant,New Delhi,48.5801049,7.7575875,node,5171061321
+Strasbourg,restaurant,Floderer,48.5836198,7.7472776,node,5174505922
+Strasbourg,restaurant,Baan Thaï,48.5838459,7.738486,node,5190658223
+Strasbourg,restaurant,Le Mikado,48.582444,7.7388086,node,5190858432
+Strasbourg,restaurant,Pierre-Bois et Feu,48.5812513,7.7528383,node,5279419719
+Strasbourg,restaurant,L'Epicier Grand Cru,48.5820578,7.7418172,node,5309033272
+Strasbourg,restaurant,Hanedan,48.5684718,7.7770194,node,5317216163
+Strasbourg,restaurant,Chez Michel,48.5325979,7.7055007,node,5443670573
+Strasbourg,restaurant,Auberge de L'Écluse,48.5454645,7.7313168,node,5443670574
+Strasbourg,restaurant,Au Raisin,48.518309,7.707149,node,5443670575
+Strasbourg,restaurant,La Croix de Savoie,48.5319289,7.7172882,node,5443670577
+Strasbourg,restaurant,Restaurant du Chasseur,48.5325613,7.7195078,node,5443670582
+Strasbourg,restaurant,K-Soii,48.5240139,7.7078736,node,5443670585
+Strasbourg,restaurant,La Charrue d'Or,48.6076894,7.7563489,node,5482649497
+Strasbourg,restaurant,Restaurant des 3 Merlettes,48.6024451,7.7382137,node,5483441898
+Strasbourg,restaurant,La Pizza de Nico,48.6209058,7.755796,node,5546509574
+Strasbourg,restaurant,Le Saint-Fiacre,48.6087333,7.7797782,node,5586499122
+Strasbourg,restaurant,Sans nom,48.5614342,7.808718,node,5590764921
+Strasbourg,restaurant,Bistro Athéna,48.5918681,7.7114019,node,5640388675
+Strasbourg,restaurant,Cerf d'Or,48.5775654,7.7492392,node,5720678334
+Strasbourg,restaurant,Au Gourmet de l'Orangerie,48.5885047,7.7661583,node,5745975191
+Strasbourg,restaurant,Bésame Mucho,48.5832794,7.7608237,node,5745976541
+Strasbourg,restaurant,Asie Gourmand,48.5815298,7.761236,node,5746530896
+Strasbourg,restaurant,Annam Sushi & More,48.5722685,7.8107647,node,5765542953
+Strasbourg,restaurant,Miami,48.5746965,7.8071564,node,5765643953
+Strasbourg,restaurant,Carpe Diem,48.499466,7.8359257,node,5772742653
+Strasbourg,restaurant,Zur alten Schmiede,48.5091695,7.8209513,node,5772922554
+Strasbourg,restaurant,Bella Casa,48.577797,7.7503828,node,5781073577
+Strasbourg,restaurant,Tonneau,48.5832243,7.7440983,node,5783798887
+Strasbourg,restaurant,Bar O Centre,48.5831445,7.7440369,node,5783814773
+Strasbourg,restaurant,Lamian,48.5832186,7.7438512,node,5783902966
+Strasbourg,restaurant,Pétrin,48.5729457,7.7675637,node,5817350201
+Strasbourg,restaurant,Sushi House,48.6131772,7.7515634,node,5819124722
+Strasbourg,restaurant,Le Cheval Blanc,48.6141319,7.7516601,node,5821333064
+Strasbourg,restaurant,O'Pizzicato,48.6155812,7.7530361,node,5824090661
+Strasbourg,restaurant,Istanbul,48.5725128,7.8153887,node,5829557697
+Strasbourg,restaurant,Indiana Café,48.5738635,7.7660966,node,5853220923
+Strasbourg,restaurant,Aux Magots,48.5711471,7.7509121,node,5853329103
+Strasbourg,restaurant,Shoon,48.5701101,7.7511621,node,5853329104
+Strasbourg,restaurant,Kinyam,48.5802166,7.7573053,node,5873085795
+Strasbourg,restaurant,Les Chauvins,48.5834207,7.7531797,node,5873788939
+Strasbourg,restaurant,Le cornichon masqué,48.5824648,7.7532545,node,5899009407
+Strasbourg,restaurant,La cantina,48.5825176,7.7534438,node,5899020605
+Strasbourg,restaurant,Crep'Mili,48.5832734,7.7539976,node,5899223185
+Strasbourg,restaurant,Le Relais - Mangatama,48.583666,7.7354103,node,5901554876
+Strasbourg,restaurant,Little World,48.5790126,7.7428447,node,5918134985
+Strasbourg,restaurant,Papa Lisa,48.5588491,7.737747,node,5927077385
+Strasbourg,restaurant,Tzatzi,48.5819084,7.7456552,node,5965786343
+Strasbourg,restaurant,Boccaccio,48.5787516,7.7422704,node,6042232803
+Strasbourg,restaurant,La Pizza de Nico,48.6108074,7.7117818,node,6043768837
+Strasbourg,restaurant,l'italiano,48.563987,7.7527241,node,6088093299
+Strasbourg,restaurant,Restaurant du Centre Culturel St-Thomas,48.5952329,7.7794578,node,6111692431
+Strasbourg,restaurant,Bistrot Saint-Florent,48.5965026,7.7209335,node,6121945554
+Strasbourg,restaurant,L'Assiette du Vin,48.6095715,7.750655,node,6130609024
+Strasbourg,restaurant,Akabe,48.5762282,7.7316146,node,6178434535
+Strasbourg,restaurant,Autre Part,48.5916251,7.7520776,node,6183192676
+Strasbourg,restaurant,Abyssinia,48.583574,7.7370098,node,6183620906
+Strasbourg,restaurant,Au Wacken,48.6005643,7.7544674,node,6192528689
+Strasbourg,restaurant,Les GaRnements,48.5526794,7.7489855,node,6226677454
+Strasbourg,restaurant,IchiNiSan&GO,48.5844931,7.7432304,node,6243945071
+Strasbourg,restaurant,Villa Schmidt,48.5735455,7.8047709,node,6270874845
+Strasbourg,restaurant,The Saffron Elephant,48.5696345,7.8118232,node,6318360474
+Strasbourg,restaurant,Le Transsibérien,48.5804453,7.7568972,node,6400364590
+Strasbourg,restaurant,Resto Sushi's,48.5739084,7.7654038,node,6407297096
+Strasbourg,restaurant,La pizza de Nico,48.5299199,7.730931,node,6444924335
+Strasbourg,restaurant,Le Frangin,48.5830927,7.7538182,node,6557948388
+Strasbourg,restaurant,La Fabrique à Miam,48.5897278,7.7462349,node,6634211242
+Strasbourg,restaurant,La Fanthaïsie,48.5831992,7.742805,node,6666598149
+Strasbourg,restaurant,Marina,48.6063763,7.8316416,node,6689582241
+Strasbourg,restaurant,Foca & Brother's,48.5702099,7.7511648,node,6720638401
+Strasbourg,restaurant,Resto' U FEC,48.5829442,7.7544849,node,6735600135
+Strasbourg,restaurant,L'Italien du Coin,48.5857793,7.7402668,node,6789170785
+Strasbourg,restaurant,La Cuiller à Pot,48.5787474,7.7424423,node,6854861685
+Strasbourg,restaurant,Pompete,48.5798473,7.7495126,node,6898531585
+Strasbourg,restaurant,Le Météor,48.5825918,7.7409307,node,6960264707
+Strasbourg,restaurant,Aux délices de Didier,48.5880724,7.697399,node,6974342793
+Strasbourg,restaurant,Osaka,48.5837818,7.7433343,node,7067466700
+Strasbourg,restaurant,Falafilo,48.5830482,7.744392,node,7089160915
+Strasbourg,restaurant,Le Laurier,48.5794281,7.7482816,node,7174570465
+Strasbourg,restaurant,Chez Georges,48.6011642,7.7698955,node,7196935549
+Strasbourg,restaurant,Le Verdict,48.5875971,7.7476517,node,7289385395
+Strasbourg,restaurant,Cigkofte Komagene,48.6067624,7.7369961,node,7347045493
+Strasbourg,restaurant,L'Orchidesia,48.551219,7.7516284,node,7385958218
+Strasbourg,restaurant,MUSA Restaurant,48.5825681,7.7395003,node,7434068514
+Strasbourg,restaurant,Sugoi Sushi,48.586174,7.7762082,node,7441841026
+Strasbourg,restaurant,Bowl’Amie,48.5732474,7.7661095,node,7497004369
+Strasbourg,restaurant,Elite Steak House,48.5569124,7.7341497,node,7556871429
+Strasbourg,restaurant,Doy Doy,48.5662447,7.7084774,node,7671665557
+Strasbourg,restaurant,Keis atelier,48.5792142,7.7606792,node,7737597488
+Strasbourg,restaurant,Lalibela,48.5694126,7.7536547,node,7744311271
+Strasbourg,restaurant,Pizza Gourmand,48.5228769,7.7181295,node,7769643785
+Strasbourg,restaurant,Le Massala Dhaba,48.525253,7.7086224,node,7810589490
+Strasbourg,restaurant,Fashion Crêpe,48.5833959,7.7358938,node,7815512123
+Strasbourg,restaurant,La Palme d'Or,48.584672,7.737595,node,7815512128
+Strasbourg,restaurant,WOK Sushi 168,48.5850055,7.7375925,node,7815512129
+Strasbourg,restaurant,Le Petit Casa,48.5852858,7.7378816,node,7815512133
+Strasbourg,restaurant,Au Romain,48.5783267,7.7009205,node,7851613642
+Strasbourg,restaurant,Trio,48.5778662,7.7046803,node,7851613645
+Strasbourg,restaurant,Le Phenicia,48.5728876,7.7933166,node,7873450610
+Strasbourg,restaurant,Al Mandaloun,48.5768746,7.7707714,node,7884463886
+Strasbourg,restaurant,Emporio Casella,48.5896221,7.7678456,node,7885204292
+Strasbourg,restaurant,Resto Onel,48.5776957,7.7707987,node,7897148370
+Strasbourg,restaurant,Mr.Fondue,48.5779433,7.7707036,node,7897153640
+Strasbourg,restaurant,Au matin calme,48.5775185,7.7711862,node,7897184016
+Strasbourg,restaurant,Jabiru Café,48.5787794,7.7587478,node,7982209120
+Strasbourg,restaurant,O'KURI,48.5869638,7.7678717,node,7991655222
+Strasbourg,restaurant,Ô Street Food,48.5949071,7.7183432,node,8082534093
+Strasbourg,restaurant,Taikin,48.5736056,7.7655219,node,8173781658
+Strasbourg,restaurant,Meeting Asian,48.5726807,7.7559843,node,8455588502
+Strasbourg,restaurant,Bol'inn,48.5728368,7.7563616,node,8455588503
+Strasbourg,restaurant,Les Tontons Flambeurs,48.5725695,7.7560218,node,8455588506
+Strasbourg,restaurant,L'Anatolie,48.6089461,7.7463545,node,8689515208
+Strasbourg,restaurant,AMIS 朋友川,48.583498,7.7440542,node,8733850097
+Strasbourg,restaurant,Live Sushi,48.5783939,7.7492578,node,8852731302
+Strasbourg,restaurant,Le B,48.5913485,7.7498735,node,8869354217
+Strasbourg,restaurant,MÂY,48.5779355,7.7543137,node,8950409746
+Strasbourg,restaurant,Ô Baozi,48.5840364,7.7436766,node,8953179201
+Strasbourg,restaurant,Le Café Potager,48.582422,7.7461626,node,8974736669
+Strasbourg,restaurant,Chez Ani,48.5854789,7.7379102,node,8986803415
+Strasbourg,restaurant,Wok Chef,48.5849863,7.7370476,node,9002151506
+Strasbourg,restaurant,La Case de L'Isle Bourbon,48.5823775,7.7405219,node,9009508383
+Strasbourg,restaurant,Comme Chez Soi,48.5537947,7.7373641,node,9016965256
+Strasbourg,restaurant,Andromède,48.557589,7.7375667,node,9016984512
+Strasbourg,restaurant,Le Mekane,48.5567044,7.7394039,node,9016994755
+Strasbourg,restaurant,Brasserie l'Ours Blanc,48.5838087,7.7434493,node,9019330329
+Strasbourg,restaurant,Les Saveurs du Midi,48.5824275,7.7402457,node,9021990975
+Strasbourg,restaurant,Au Fond de la Théière,48.5823878,7.7404648,node,9021990976
+Strasbourg,restaurant,Mamaroux,48.5823029,7.7413747,node,9021990980
+Strasbourg,restaurant,N°51,48.5821657,7.7419699,node,9022454747
+Strasbourg,restaurant,Avobowl,48.5819718,7.7430705,node,9022668371
+Strasbourg,restaurant,Sichuan,48.5834264,7.7439956,node,9023010239
+Strasbourg,restaurant,Streeat,48.5866067,7.7430958,node,9023166708
+Strasbourg,restaurant,Elsass Food,48.5815598,7.7436697,node,9032573331
+Strasbourg,restaurant,Waffle Factory,48.5819546,7.7477748,node,9035853423
+Strasbourg,restaurant,Tortilla,48.582949,7.7468228,node,9036183674
+Strasbourg,restaurant,Le 60,48.5725187,7.7932739,node,9050371017
+Strasbourg,restaurant,Tamil,48.5799102,7.7462464,node,9061661770
+Strasbourg,restaurant,The GRILL am Rhein,48.4951421,7.7847599,node,9062293579
+Strasbourg,restaurant,Au Poilu,48.5799236,7.7188504,node,9090484277
+Strasbourg,restaurant,AK Vigie,48.5428318,7.709305,node,9143953104
+Strasbourg,restaurant,Royal Grand Buffet,48.5178258,7.7011733,node,9201087507
+Strasbourg,restaurant,Les Lampions,48.5817224,7.7565046,node,9217135343
+Strasbourg,restaurant,Gulja Uyghur,48.5654799,7.7718177,node,9229907159
+Strasbourg,restaurant,New's café,48.59102,7.7097859,node,9297337691
+Strasbourg,restaurant,Miko,48.4952795,7.7844552,node,9384661483
+Strasbourg,restaurant,Sushi & More,48.5834901,7.7381168,node,9405318066
+Strasbourg,restaurant,Dostoïevski,48.5903669,7.7862788,node,9411322948
+Strasbourg,restaurant,Bagerhoff,48.5761162,7.7544343,node,9423299119
+Strasbourg,restaurant,Rainbow poke bowl,48.5807313,7.7571501,node,9534506969
+Strasbourg,restaurant,Merguez Azoulay,48.5712933,7.7666196,node,9580179454
+Strasbourg,restaurant,Damasquino,48.5838007,7.7427749,node,9602676105
+Strasbourg,restaurant,Woke & Poke Bowl,48.5885775,7.746966,node,9623735827
+Strasbourg,restaurant,Makin Thai STRASBOURG,48.585898,7.7057318,node,9635000249
+Strasbourg,restaurant,Bún Tastic,48.5821189,7.7431897,node,9641679580
+Strasbourg,restaurant,La Perle Bleue,48.5721035,7.7138459,node,9653880139
+Strasbourg,restaurant,Le Petit Faubourg,48.5848862,7.7408663,node,9669797801
+Strasbourg,restaurant,Kohola Schiltigheim,48.600275,7.742233,node,9671975224
+Strasbourg,restaurant,Bella Vita,48.5830189,7.7583227,node,9677644704
+Strasbourg,restaurant,Bio Burger,48.5814103,7.7554083,node,9695868396
+Strasbourg,restaurant,Sans nom,48.5502311,7.699664,node,9772067528
+Strasbourg,restaurant,Terra Pizzas,48.6460057,7.7221079,node,9822561569
+Strasbourg,restaurant,Yami sushi,48.5988619,7.7643983,node,9865481589
+Strasbourg,restaurant,Vanilla Restaurant,48.6179122,7.7546641,node,9874269272
+Strasbourg,restaurant,Pianogrill,48.5835346,7.7544882,node,9875144971
+Strasbourg,restaurant,Mont Liban,48.588404,7.7459451,node,9888160715
+Strasbourg,restaurant,Verrine & Vapeur,48.5776484,7.7585338,node,9909667321
+Strasbourg,restaurant,Restaurant solidaire Emmaüs,48.6308592,7.7745038,node,9924741656
+Strasbourg,restaurant,Au Sanglier,48.5826755,7.7497694,node,9925564417
+Strasbourg,restaurant,Bistro Régent,48.5345892,7.6981403,node,9936179279
+Strasbourg,restaurant,1387,48.5823661,7.7458172,node,9956825117
+Strasbourg,restaurant,Tantuni-Tacos,48.5722786,7.8153149,node,9976881535
+Strasbourg,restaurant,Sa Ki Bon,48.586697,7.7396183,node,10029194825
+Strasbourg,restaurant,La grosse Baloche,48.5785827,7.7546489,node,10031987792
+Strasbourg,restaurant,Wan Chai,48.5826026,7.7528107,node,10034829017
+Strasbourg,restaurant,Namsan Maru,48.5812481,7.7619666,node,10047382914
+Strasbourg,restaurant,Terroir & Co,48.5852314,7.7460816,node,10075023482
+Strasbourg,restaurant,Sushi Koi,48.5786724,7.744525,node,10082465782
+Strasbourg,restaurant,L'Impasse,48.6301033,7.7155006,node,10086531847
+Strasbourg,restaurant,Darness,48.5855605,7.740419,node,10090330298
+Strasbourg,restaurant,Lucullus,48.5763075,7.7546619,node,10127531778
+Strasbourg,restaurant,Au Marché Gare,48.5972711,7.7345985,node,10154734010
+Strasbourg,restaurant,Hafen 17,48.5815222,7.805375,node,10156794942
+Strasbourg,restaurant,Koa Thai,48.5840155,7.7377407,node,10178111998
+Strasbourg,restaurant,Brasserie K Strasbourg,48.5838468,7.7353839,node,10203608318
+Strasbourg,restaurant,UMAI Ramen,48.5785356,7.7545656,node,10204239492
+Strasbourg,restaurant,Le Limoncello,48.5798527,7.7182376,node,10223324304
+Strasbourg,restaurant,Les Pizzas de la Marne,48.5868159,7.7769428,node,10228564414
+Strasbourg,restaurant,Seoul Station,48.5830018,7.7538259,node,10233570348
+Strasbourg,restaurant,East Canteen,48.58188,7.7430357,node,10235703513
+Strasbourg,restaurant,SSK Sushi,48.5855034,7.7399782,node,10250474613
+Strasbourg,restaurant,Maison Franchi,48.591863,7.7578523,node,10255764515
+Strasbourg,restaurant,Wabi Sabi,48.5880266,7.7562716,node,10255785610
+Strasbourg,restaurant,M&D Food,48.5797133,7.7173066,node,10259399373
+Strasbourg,restaurant,Abbiocco,48.5815791,7.7557431,node,10289342105
+Strasbourg,restaurant,Restaurant Cap de l'eau,48.5871984,7.7060344,node,10289512607
+Strasbourg,restaurant,Yuki,48.5803818,7.7316431,node,10291250268
+Strasbourg,restaurant,Teranga,48.5804505,7.7316873,node,10291250269
+Strasbourg,restaurant,Restaurant Athena,48.5911629,7.709709,node,10296813416
+Strasbourg,restaurant,Ranna Ghor,48.5802877,7.7565913,node,10300123687
+Strasbourg,restaurant,Restaurant L’Archipel,48.5988714,7.7628443,node,10300125950
+Strasbourg,restaurant,Les Funambules,48.5870033,7.7677385,node,10314400799
+Strasbourg,restaurant,Kansaï Sushi,48.5828645,7.7536597,node,10538959813
+Strasbourg,restaurant,Yamas,48.5811715,7.7528816,node,10556292407
+Strasbourg,restaurant,Da Zio,48.5793211,7.7604172,node,10586595320
+Strasbourg,restaurant,L’Épicurien,48.5773576,7.7553077,node,10633928988
+Strasbourg,restaurant,Restaurant TBS,48.5444734,7.7730232,node,10697086372
+Strasbourg,restaurant,L'orient Express Restaurant,48.5441839,7.7658928,node,10697086378
+Strasbourg,restaurant,Manchon-mas Jesus,48.5661126,7.7019023,node,10718358112
+Strasbourg,restaurant,Mama Bubbele,48.5794604,7.7516718,node,10732191183
+Strasbourg,restaurant,Aux Tuileries,48.6121598,7.7332436,node,10745035132
+Strasbourg,restaurant,Les Restaurants Du Cœur Fringale,48.5891422,7.7345766,node,10757412796
+Strasbourg,restaurant,Chère Amie,48.5855262,7.7565075,node,10778056807
+Strasbourg,restaurant,Casa Fusco,48.5875401,7.7476926,node,10902224541
+Strasbourg,restaurant,Le Tandoor Restaurant Indien,48.6096551,7.7802968,node,10928630564
+Strasbourg,restaurant,Sascha Chicken2,48.6292701,7.7670675,node,10949369195
+Strasbourg,restaurant,Restaurant - Le Spot Du Fort,48.5117615,7.7177638,node,10959490707
+Strasbourg,restaurant,Oro,48.5808033,7.7461533,node,11059199059
+Strasbourg,restaurant,Les P'tites Cocottes,48.5824064,7.7530833,node,11093247742
+Strasbourg,restaurant,La Table 54 Bis,48.573289,7.7707169,node,11097595182
+Strasbourg,restaurant,L'Odeur du Pays,48.5790095,7.7419153,node,11099875579
+Strasbourg,restaurant,Pizza de Gino,48.5640768,7.7054175,node,11099963115
+Strasbourg,restaurant,clapclap,48.5825323,7.7370833,node,11189025187
+Strasbourg,restaurant,La table afghane,48.5604493,7.7645367,node,11196125916
+Strasbourg,restaurant,Aroma Sweet,48.5826653,7.7378718,node,11221840600
+Strasbourg,restaurant,L'Ambassade,48.5801735,7.7497012,node,11232361557
+Strasbourg,restaurant,Bachué,48.5787443,7.7543954,node,11243727901
+Strasbourg,restaurant,Les saveurs de l'Atlas,48.6091678,7.7343374,node,11251263443
+Strasbourg,restaurant,Le Grand Tigre,48.5821819,7.7373421,node,11296249869
+Strasbourg,restaurant,Ancrage Café,48.5747115,7.7884797,node,11336065521
+Strasbourg,restaurant,Hey Mama,48.5835716,7.7542302,node,11368757569
+Strasbourg,restaurant,Casa Via,48.5791489,7.7531479,node,11518449701
+Strasbourg,restaurant,Pizza Cosy,48.5700262,7.7625547,node,11543361959
+Strasbourg,restaurant,Pizzeria Mamma Mia,48.5725085,7.8130321,node,11555299215
+Strasbourg,restaurant,El Bolero,48.5739789,7.8112257,node,11555299353
+Strasbourg,restaurant,La Kasbah,48.5753236,7.8088653,node,11555299580
+Strasbourg,restaurant,Saveurs de l'Himalaya,48.5799063,7.7483249,node,11591179601
+Strasbourg,restaurant,Brasserie Au Salto,48.5613134,7.7660404,node,11595374805
+Strasbourg,restaurant,Planet Lunch,48.5650429,7.7519252,node,11602390439
+Strasbourg,restaurant,Crêp'eat,48.5735892,7.7581788,node,11608155812
+Strasbourg,restaurant,L'île de l'oiseau,48.5762868,7.7576106,node,11610391450
+Strasbourg,restaurant,Sheherazade,48.5770697,7.7552566,node,11610391451
+Strasbourg,restaurant,Blue Sky,48.5784977,7.7525978,node,11610391466
+Strasbourg,restaurant,Chili Thaï Lanna,48.5787155,7.7518933,node,11610439172
+Strasbourg,restaurant,Le Diable au Thym,48.6050409,7.7512248,node,11652436889
+Strasbourg,restaurant,Salambôo Amilkar,48.5823697,7.7546627,node,11665244666
+Strasbourg,restaurant,Au Passé Retrouvé,48.5898946,7.7535463,node,11672061261
+Strasbourg,restaurant,Aedaen Place Pizzeria,48.5826124,7.7417647,node,11673193846
+Strasbourg,restaurant,Tibet Gourmand,48.5814454,7.7427995,node,11681740363
+Strasbourg,restaurant,Origan Pizza,48.5691728,7.7577444,node,11697212219
+Strasbourg,restaurant,Les 4 saveurs,48.5683193,7.7571979,node,11730604061
+Strasbourg,restaurant,Resto,48.5679263,7.7572874,node,11730623061
+Strasbourg,restaurant,Fleck & Co,48.5688741,7.7582512,node,11730644158
+Strasbourg,restaurant,Fayrouz,48.5654908,7.7524088,node,11730820840
+Strasbourg,restaurant,Hadiqa,48.583656,7.7412206,node,11736877268
+Strasbourg,restaurant,Kooma,48.5811514,7.7580737,node,11767372484
+Strasbourg,restaurant,SSAM,48.5816747,7.7570671,node,11786867568
+Strasbourg,restaurant,Hato,48.5770608,7.8139758,node,11787670984
+Strasbourg,restaurant,Red Lantern,48.5836092,7.7420656,node,11800346521
+Strasbourg,restaurant,Sushi House,48.5684101,7.7571247,node,11861667568
+Strasbourg,restaurant,Buewewasser,48.5677215,7.757584,node,11861680072
+Strasbourg,restaurant,Cave d'Espagne,48.5675196,7.7577148,node,11861680073
+Strasbourg,restaurant,Sain Sushi,48.567145,7.7579434,node,11861680077
+Strasbourg,restaurant,Côté Sushi,48.5843889,7.7436786,node,11919420765
+Strasbourg,restaurant,Kébab Vosges Délices,48.5426199,7.7078971,node,11920273469
+Strasbourg,restaurant,La vie,48.5813404,7.7612503,node,11937531869
+Strasbourg,restaurant,Le Ksar,48.5363128,7.7097059,node,11948301855
+Strasbourg,restaurant,La Dolce Vita,48.5324232,7.7190845,node,11991483362
+Strasbourg,restaurant,La Bravade,48.5107478,7.7267511,node,12014367093
+Strasbourg,restaurant,Les jardins de Babylone,48.5774252,7.7551983,node,12019756130
+Strasbourg,restaurant,Miriné,48.5829479,7.7413347,node,12026524624
+Strasbourg,restaurant,L'évasion,48.524778,7.7350175,node,12030659722
+Strasbourg,restaurant,Brasserie De Boulevard,48.5778918,7.7310658,node,12058850128
+Strasbourg,restaurant,Le Faubourg de Pierre,48.5892392,7.7451119,node,12066138765
+Strasbourg,restaurant,B-Mama,48.5887057,7.7457774,node,12066185170
+Strasbourg,restaurant,Le Paname,48.5879607,7.7458325,node,12066185176
+Strasbourg,restaurant,L'Orchidea,48.5873081,7.7465004,node,12066185180
+Strasbourg,restaurant,Ko Tao,48.5728342,7.7702751,node,12091513428
+Strasbourg,restaurant,Rheinschnecke,48.5661093,7.8083652,node,12133406414
+Strasbourg,restaurant,Rest'au 21,48.5603198,7.7434676,node,12150459701
+Strasbourg,restaurant,Ristorante Italiano da Pietro,48.5801441,7.7467438,node,12180230382
+Strasbourg,restaurant,La Roue d'Or,48.6191986,7.7903574,node,12213915108
+Strasbourg,restaurant,La Casa Père et Fils,48.6174725,7.788278,node,12213915109
+Strasbourg,restaurant,Chez Tante Liesel,48.5809864,7.7430066,node,12222224301
+Strasbourg,restaurant,Bibeless',48.5824504,7.7532487,node,12290292201
+Strasbourg,restaurant,Bistrot des Rosiers,48.5785909,7.7589582,node,12337419801
+Strasbourg,restaurant,Restaurant universitaire Le Stift,48.5793291,7.7455346,node,12400140271
+Strasbourg,restaurant,La Graffateria,48.5833278,7.7357294,node,12410039464
+Strasbourg,restaurant,Au Bon Vivant,48.5804265,7.7508678,node,12416076933
+Strasbourg,restaurant,Izumi,48.5843914,7.7457647,node,12507878701
+Strasbourg,restaurant,Les Complices,48.6067045,7.7520199,node,12568160303
+Strasbourg,restaurant,La petite Ethiopie,48.5824942,7.7367879,node,12600493828
+Strasbourg,restaurant,Foudre Feu,48.5805191,7.7572583,node,12701764691
+Strasbourg,restaurant,Chez Cosette,48.6407384,7.7109641,node,12728755970
+Strasbourg,restaurant,Le Pavot,48.5955482,7.7173061,node,12736177460
+Strasbourg,restaurant,Tibetan Peace Restaurant,48.5794151,7.7571499,node,12751837346
+Strasbourg,restaurant,Au bon coin d'Alsace,48.5868676,7.7682164,node,12778361399
+Strasbourg,restaurant,PIK CUP,48.5817044,7.7431682,node,12791553401
+Strasbourg,restaurant,Chez Paulette,48.5684335,7.7547837,node,12873052701
+Strasbourg,restaurant,Picobello,48.5829046,7.7529299,node,12888733472
+Strasbourg,restaurant,Le Bistrot des Cocottes,48.5821659,7.7466778,node,12921465823
+Strasbourg,restaurant,Rooftop Kooma,48.5810864,7.7580031,node,13053445654
+Strasbourg,restaurant,Little Wok,48.5812823,7.7568801,node,13060759412
+Strasbourg,restaurant,Peach,48.5769401,7.7517466,node,13073970587
+Strasbourg,restaurant,Hanuri,48.5770375,7.7516538,node,13084827042
+Strasbourg,restaurant,L’Aygui,48.584767,7.740501,node,13098565002
+Strasbourg,restaurant,Dan,48.604267,7.7016046,node,13124544301
+Strasbourg,restaurant,La Crêperie Illkirch,48.5257826,7.708348,node,13194045299
+Strasbourg,restaurant,Uncle Bram's,48.6052186,7.7586126,node,13195655483
+Strasbourg,restaurant,Marjane Pizz's,48.5620801,7.6948134,node,13207629410
+Strasbourg,restaurant,L'Ethique,48.5616226,7.6947974,node,13207650613
+Strasbourg,restaurant,Sushi House Lingolsheim,48.5595794,7.6903069,node,13207688743
+Strasbourg,restaurant,Au Bureau,48.5742058,7.7635355,node,13241558608
+Strasbourg,restaurant,Azuki,48.5870972,7.7674252,node,13252546978
+Strasbourg,restaurant,Cucci,48.5831774,7.7545971,node,13267344408
+Strasbourg,restaurant,Hey Mama Gare,48.5832146,7.7357214,node,13278122001
+Strasbourg,restaurant,Restaurant Universitaire de l'Esplanade,48.5816703,7.765895,way,19794529
+Strasbourg,restaurant,Bistrot et chocolat,48.5814987,7.7530011,way,39654586
+Strasbourg,restaurant,Au Vieux Strasbourg,48.5805253,7.7507252,way,39754699
+Strasbourg,restaurant,Il Felice,48.5806412,7.7489822,way,39846452
+Strasbourg,restaurant,Le Pilier des Anges,48.5813183,7.7492671,way,39855297
+Strasbourg,restaurant,Au Pigeon,48.5803796,7.7487548,way,39971175
+Strasbourg,restaurant,L'ami Schutz,48.5804584,7.739231,way,40033008
+Strasbourg,restaurant,Ibis Kitchen Restaurant,48.5783773,7.7356662,way,40222090
+Strasbourg,restaurant,Campanile,48.5888253,7.6997236,way,41959960
+Strasbourg,restaurant,La Pizza de Nico,48.5778571,7.7052808,way,42401095
+Strasbourg,restaurant,Au deux epices,48.5785346,7.7173706,way,42411642
+Strasbourg,restaurant,Sarl d Or,48.6102142,7.7656221,way,44128781
+Strasbourg,restaurant,Snack du Neudorf chez Babylone,48.5632939,7.7619842,way,44158199
+Strasbourg,restaurant,Cantine CASI BISCHHEIM,48.6144972,7.7464983,way,44204641
+Strasbourg,restaurant,Le Bisch'trot (Salle à manger de Bischheim),48.6143984,7.7511421,way,44350165
+Strasbourg,restaurant,Bocadillo,48.6126115,7.776072,way,45236598
+Strasbourg,restaurant,Restaurant au Joyeux Pêcheur,48.6053222,7.7781559,way,46043482
+Strasbourg,restaurant,Illbourg,48.6261599,7.8035865,way,47225990
+Strasbourg,restaurant,Chez Nous,48.6264746,7.8037236,way,47225991
+Strasbourg,restaurant,Restaurant Universitaire Illkirch,48.5286234,7.7377278,way,47625122
+Strasbourg,restaurant,S'Musauer Stuebel,48.563757,7.783927,way,48091498
+Strasbourg,restaurant,Cep de Vigne,48.5629215,7.7796903,way,48094434
+Strasbourg,restaurant,Le Quai Des Gourmands,48.5386091,7.7895174,way,48806960
+Strasbourg,restaurant,Centre Routier Strasbourg,48.5248189,7.7826628,way,48831197
+Strasbourg,restaurant,Oberjaegerhof,48.5128674,7.7662216,way,48967450
+Strasbourg,restaurant,Au Foyer des Pêcheurs,48.5264442,7.7445875,way,51081016
+Strasbourg,restaurant,Miro,48.5418799,7.7236296,way,51552308
+Strasbourg,restaurant,Hippopotamus,48.5337063,7.6959807,way,52129653
+Strasbourg,restaurant,Au Cheval Noir,48.6220653,7.7555696,way,58062559
+Strasbourg,restaurant,La Paille D'or (Halal),48.6276454,7.7681861,way,58600098
+Strasbourg,restaurant,La Diligence,48.5601211,7.6924294,way,96184671
+Strasbourg,restaurant,Buffalo Grill,48.4985958,7.6912268,way,136878131
+Strasbourg,restaurant,Le Phénix,48.4997178,7.6922428,way,136878139
+Strasbourg,restaurant,La pizza de Nico,48.5737198,7.7585119,way,160278663
+Strasbourg,restaurant,Andrea's Bistro,48.5090445,7.8198044,way,517488940
+Strasbourg,restaurant,Storig - Brasserie Michel Debus,48.6087064,7.7494442,way,592671832
+Strasbourg,restaurant,Blue Flamingo,48.5741237,7.759566,way,849800106
+Strasbourg,restaurant,Holly’s Diner,48.5857644,7.7412416,way,1000017661
+Strasbourg,restaurant,Phan Asia,48.58746,7.7406537,way,1001386069
+Strasbourg,restaurant,La Pause,48.5875266,7.7407115,way,1001442481
+Strasbourg,restaurant,Pizza de Nico,48.5736996,7.7587165,way,1012884337
+Strasbourg,restaurant,OBA,48.5916835,7.6965482,way,1049885674
+Strasbourg,restaurant,Le Grilladin,48.5912065,7.6967642,way,1049894080
+Strasbourg,restaurant,Restaurant Centre régional des œuvres universitaires et scolaires,48.6056101,7.7139316,way,1051453980
+Strasbourg,restaurant,Camping de Strasbourg,48.5746038,7.7173486,way,1054716852
+Strasbourg,restaurant,Pro Grill,48.5876336,7.7005204,way,1054791888
+Strasbourg,restaurant,Le pied de mammouth,48.5998963,7.7419897,way,1056221680
+Strasbourg,restaurant,Shanghai,48.6301332,7.7650122,way,1074146767
+Strasbourg,restaurant,Le Gruber,48.5806321,7.7505316,relation,223820
+Strasbourg,restaurant,Buerehiesel,48.5913573,7.7753694,relation,273930
+Strasbourg,restaurant,Restaurant Universitaire Paul Appell,48.5759619,7.762996,relation,8240757
+Strasbourg,station,Krimmeri Meinau,48.5635816,7.7526323,node,2931339093
+Strasbourg,station,Kehl,48.5768371,7.8071226,node,2931354552
+Strasbourg,station,Strasbourg,48.5852933,7.7339249,node,3069229440
+Strasbourg,station,Graffenstaden,48.5323964,7.6897407,node,9148225145
+Strasbourg,station,Bischheim,48.6119032,7.7418405,node,11710967906
+Strasbourg,historic,Monument Lezay-Marnésia,48.5858971,7.7533677,node,288182142
+Strasbourg,historic,Kriegstor,48.5874847,7.7309105,node,288692147
+Strasbourg,historic,Sans nom,48.5873076,7.7311098,node,288910479
+Strasbourg,historic,"Mémorial pour les ""Malgré-Nous""",48.5918856,7.7322158,node,288920587
+Strasbourg,historic,Mutter Kinzig,48.5731543,7.8111017,node,316843249
+Strasbourg,historic,Fort Rapp - Moltke,48.6405408,7.7563927,node,322484512
+Strasbourg,historic,Porte des Remparts,48.5795673,7.7552196,node,411894722
+Strasbourg,historic,Général Leclerc,48.5855237,7.751432,node,474817476
+Strasbourg,historic,Monument Gutenberg,48.5812346,7.748534,node,477828515
+Strasbourg,historic,Monument Stoeber,48.5835905,7.7418166,node,482748928
+Strasbourg,historic,Général Desaix,48.5754682,7.7540341,node,492764727
+Strasbourg,historic,Sans nom,48.587232,7.7514221,node,493688413
+Strasbourg,historic,Victimes tempête du 6 juillet 2001,48.6104527,7.7995169,node,617283147
+Strasbourg,historic,Sans nom,48.6351831,7.7422116,node,741496262
+Strasbourg,historic,Sans nom,48.4993899,7.7707726,node,1187007115
+Strasbourg,historic,Sans nom,48.4997802,7.7713009,node,1187007116
+Strasbourg,historic,Statue de Kellermann,48.5855211,7.7506483,node,1207947957
+Strasbourg,historic,Charles de Foucauld,48.5880236,7.7486995,node,1210189180
+Strasbourg,historic,Statue de Jeanne d'Arc,48.5844743,7.7702719,node,1234098637
+Strasbourg,historic,Sans nom,48.5907213,7.7447718,node,1246670000
+Strasbourg,historic,Sans nom,48.5921116,7.7443577,node,1246670023
+Strasbourg,historic,Sans nom,48.5900641,7.7422515,node,1246670026
+Strasbourg,historic,Sans nom,48.5915253,7.7414532,node,1246670042
+Strasbourg,historic,Sans nom,48.5818417,7.7279219,node,1246670059
+Strasbourg,historic,Sans nom,48.5878377,7.7386186,node,1246670083
+Strasbourg,historic,Sans nom,48.4965106,7.7644398,node,1259141160
+Strasbourg,historic,Sans nom,48.511296,7.765752,node,1259141170
+Strasbourg,historic,Sans nom,48.5114974,7.7659985,node,1259141182
+Strasbourg,historic,Sans nom,48.5304462,7.7554562,node,1261170975
+Strasbourg,historic,Sans nom,48.5088458,7.725441,node,1261280940
+Strasbourg,historic,Sans nom,48.5088063,7.7255731,node,1261280955
+Strasbourg,historic,Bunker principal,48.5087479,7.7263943,node,1261281049
+Strasbourg,historic,Sans nom,48.5088887,7.7253296,node,1261281084
+Strasbourg,historic,Sans nom,48.5086484,7.726029,node,1261281094
+Strasbourg,historic,Sans nom,48.509536,7.7406751,node,1261281147
+Strasbourg,historic,Sans nom,48.5049806,7.7412009,node,1261281172
+Strasbourg,historic,Sans nom,48.5048702,7.7442532,node,1261281192
+Strasbourg,historic,Sans nom,48.5087068,7.7258606,node,1261281214
+Strasbourg,historic,Sans nom,48.5100916,7.7256546,node,1261281227
+Strasbourg,historic,Sans nom,48.5087548,7.7257182,node,1261281239
+Strasbourg,historic,Sans nom,48.503784,7.744545,node,1261281268
+Strasbourg,historic,Sans nom,48.5886891,7.7521292,node,1264072609
+Strasbourg,historic,Sans nom,48.5862204,7.7547936,node,1264072617
+Strasbourg,historic,Sans nom,48.6412586,7.7122569,node,1313800338
+Strasbourg,historic,Sans nom,48.5023449,7.7594628,node,1371296244
+Strasbourg,historic,Sans nom,48.4998587,7.7517855,node,1371296265
+Strasbourg,historic,Sans nom,48.5166935,7.7420193,node,1376009220
+Strasbourg,historic,Sans nom,48.5142736,7.7472124,node,1376032559
+Strasbourg,historic,Sans nom,48.579373,7.7150785,node,1445515559
+Strasbourg,historic,Gaenseliesel,48.5920976,7.7742165,node,1646175973
+Strasbourg,historic,Sans nom,48.5098105,7.7270577,node,1827519516
+Strasbourg,historic,Sans nom,48.5294569,7.7741625,node,1842905908
+Strasbourg,historic,Colonne de Strasbourg,48.5729478,7.7568165,node,1964420847
+Strasbourg,historic,Sans nom,48.5418381,7.7043392,node,1964534265
+Strasbourg,historic,Mahatma Gandhi,48.5727841,7.7550286,node,2373252192
+Strasbourg,historic,Sans nom,48.5384099,7.7337864,node,2461974511
+Strasbourg,historic,Claus Rosenthal,48.5736001,7.810508,node,2677295343
+Strasbourg,historic,Dr. Karl Rosenthal,48.5736122,7.8104896,node,2677295359
+Strasbourg,historic,Emil Dreifuss,48.5753682,7.8115632,node,2677295376
+Strasbourg,historic,Emmy Marx,48.5743713,7.8106333,node,2677295380
+Strasbourg,historic,Fredy Rosenberg,48.5737396,7.8144453,node,2677295382
+Strasbourg,historic,Gert Rosenthal,48.5735892,7.8105257,node,2677295391
+Strasbourg,historic,Hans Wertheimer,48.5735943,7.8142608,node,2677295398
+Strasbourg,historic,Harry Bruchsaler,48.5754191,7.8115855,node,2677295407
+Strasbourg,historic,Julius Dreifuss,48.5754592,7.8116223,node,2677295414
+Strasbourg,historic,Leopold Wertheimer,48.5735865,7.8142536,node,2677295422
+Strasbourg,historic,Margot Rosenberg,48.5737667,7.8144466,node,2677295429
+Strasbourg,historic,Melanie Wertheimer,48.5735782,7.8142443,node,2677295431
+Strasbourg,historic,Meta Kaufmann,48.5736798,7.8143425,node,2677295438
+Strasbourg,historic,Olga Rosenthal,48.5735797,7.8105429,node,2677295440
+Strasbourg,historic,Rosa Dreifuss,48.5753942,7.8115715,node,2677295442
+Strasbourg,historic,Ruth Kaufmann,48.5736702,7.814328,node,2677295450
+Strasbourg,historic,Selma Rosenberg,48.5737527,7.8144466,node,2677295458
+Strasbourg,historic,Siegfried Kaufmann,48.5736877,7.8143537,node,2677295465
+Strasbourg,historic,Simon Otto Rosenberg,48.5737824,7.8144612,node,2677295472
+Strasbourg,historic,Sofie Bruchsaler,48.5754373,7.8116048,node,2677295480
+Strasbourg,historic,Pinkas Schwarzkachel,48.574914,7.8072496,node,2677333424
+Strasbourg,historic,Sans nom,48.5035926,7.7885515,node,2919479747
+Strasbourg,historic,Sans nom,48.5036572,7.7938019,node,2919479749
+Strasbourg,historic,Sans nom,48.5038012,7.7940796,node,2919479751
+Strasbourg,historic,Sans nom,48.5039332,7.7943211,node,2919479752
+Strasbourg,historic,Sans nom,48.5040412,7.7946532,node,2919479753
+Strasbourg,historic,Sans nom,48.5045533,7.7942849,node,2919479754
+Strasbourg,historic,Sans nom,48.5050133,7.7968056,node,2919479757
+Strasbourg,historic,Sans nom,48.5089751,7.7956698,node,2919479762
+Strasbourg,historic,La Porte des Bouchers,48.578145,7.7532042,node,3036778681
+Strasbourg,historic,Sans nom,48.5742838,7.7583886,node,3048274120
+Strasbourg,historic,Sans nom,48.5742711,7.7586211,node,3048274121
+Strasbourg,historic,Anciennes glacières de Strasbourg,48.5807347,7.7419479,node,3203228224
+Strasbourg,historic,Horloge astronomique de Strasbourg,48.5819151,7.751559,node,3270458562
+Strasbourg,historic,Île Gutenberg,48.571894,7.728364,node,3715184748
+Strasbourg,historic,Sans nom,48.6025886,7.7571497,node,4058397015
+Strasbourg,historic,Sans nom,48.5800478,7.7432563,node,4185572033
+Strasbourg,historic,Sans nom,48.5260315,7.7139963,node,4352707635
+Strasbourg,historic,Mémorial des Résistants FFI,48.5951696,7.7593407,node,4693518024
+Strasbourg,historic,"Char Sherman ""Cherbourg""",48.5727328,7.7964419,node,4746782991
+Strasbourg,historic,Dans cette maison qu'il habita enfant Gustave Doré (1832 - 1883) fit ses premiers dessins,48.581803,7.7533069,node,4787114807
+Strasbourg,historic,Sans nom,48.604317,7.7406708,node,4818162213
+Strasbourg,historic,Sans nom,48.5810433,7.7508918,node,4837498344
+Strasbourg,historic,Sans nom,48.6081189,7.7496642,node,4935910620
+Strasbourg,historic,Déportés Juifs d'Auschwitz,48.608326,7.7489515,node,4935911321
+Strasbourg,historic,Réfugiés d'Oradour-sur-Glane,48.6083291,7.7489307,node,4935911322
+Strasbourg,historic,Enfants Mort victimes de la barbarie Nazie,48.6083295,7.7489079,node,4935911323
+Strasbourg,historic,Cloitre Saint-Pierre-le-Jeune,48.585812,7.7464007,node,5074065877
+Strasbourg,historic,Sans nom,48.5792609,7.7548069,node,5662025946
+Strasbourg,historic,Bugatti,48.5852366,7.7477825,node,6082242637
+Strasbourg,historic,Monument aux fusillés du 15 juillet 1943,48.5718992,7.7942938,node,6586907865
+Strasbourg,historic,Sans nom,48.5730396,7.7343988,node,6618495763
+Strasbourg,historic,Porte Koeberlé,48.5755088,7.7395897,node,6689531810
+Strasbourg,historic,Sans nom,48.5692003,7.8016352,node,6720448923
+Strasbourg,historic,La Marseillaise,48.585007,7.7509349,node,6742812784
+Strasbourg,historic,Fritz Wertheimer,48.5707382,7.8107703,node,7157510499
+Strasbourg,historic,Lazarus Mannheimer,48.5707324,7.8107536,node,7157510500
+Strasbourg,historic,Josef Wertheimer,48.5751111,7.8088599,node,7157510501
+Strasbourg,historic,Berta Wertheimer,48.5753467,7.8086977,node,7157510502
+Strasbourg,historic,Fritz Wertheimer,48.5755685,7.8103747,node,7157510503
+Strasbourg,historic,Kurt Wertheimer,48.5755721,7.810361,node,7157510504
+Strasbourg,historic,Elisa Wertheimer,48.5755747,7.8103734,node,7157510505
+Strasbourg,historic,Julius Wertheimer,48.5755774,7.8103583,node,7157510506
+Strasbourg,historic,Mina Wertheimer,48.5755816,7.8103657,node,7157510507
+Strasbourg,historic,Regina Mannheimer,48.5755512,7.8107174,node,7157510508
+Strasbourg,historic,Lazarus Mannheimer,48.5755645,7.8106892,node,7157510509
+Strasbourg,historic,Elsa Bensinger,48.5739574,7.8096421,node,7157510510
+Strasbourg,historic,Gertrud Bensinger,48.57396,7.8096291,node,7157510511
+Strasbourg,historic,Louis Bensinger,48.5739618,7.8096512,node,7157510512
+Strasbourg,historic,Karolina Bensinger,48.5739651,7.8096371,node,7157510513
+Strasbourg,historic,Rosa Bensinger geb. Bloch,48.5739687,7.8096482,node,7157510514
+Strasbourg,historic,Paul Wertheimer,48.5727038,7.8078206,node,7157510515
+Strasbourg,historic,Sophie Wertheimer,48.5727162,7.8077911,node,7157510516
+Strasbourg,historic,Klara Wertheimer,48.5742619,7.8070454,node,7157510517
+Strasbourg,historic,Jakob Wertheimer,48.5742668,7.8070307,node,7157510518
+Strasbourg,historic,Josua Schwarzkachel,48.5749119,7.8072513,node,7157510519
+Strasbourg,historic,Regina Schwarzkachel,48.5749123,7.8072471,node,7157510520
+Strasbourg,historic,Max Schwarzkachel,48.5749117,7.8072486,node,7157510521
+Strasbourg,historic,Arnold Schwarzkachel,48.574911,7.8072499,node,7157510522
+Strasbourg,historic,Freyda Schwarzkachel,48.5749126,7.8072499,node,7157510523
+Strasbourg,historic,Willy Schwarzkachel,48.5749133,7.8072484,node,7157510524
+Strasbourg,historic,Laja Schwarzkachel,48.5749133,7.8072511,node,7157510525
+Strasbourg,historic,Margot Weil,48.5758032,7.8069237,node,7157510526
+Strasbourg,historic,Ilse Weil,48.5757997,7.806915,node,7157510527
+Strasbourg,historic,Hedwig Weil,48.5758086,7.80692,node,7157510528
+Strasbourg,historic,Simon Salomon Weil,48.5758063,7.8069106,node,7157510529
+Strasbourg,historic,Monument Jean Hultz de Cologne,48.5902981,7.7608591,node,7176880948
+Strasbourg,historic,Alfred Schenkel,48.578812,7.7332015,node,7176880949
+Strasbourg,historic,Maurice Schenkel,48.5788333,7.7332284,node,7176880950
+Strasbourg,historic,Jaques Schenkel,48.5788369,7.7332042,node,7176880951
+Strasbourg,historic,Isaac Schenkel,48.578867,7.7332337,node,7176880952
+Strasbourg,historic,Cécile Schenkel,48.5788688,7.7332082,node,7176880953
+Strasbourg,historic,Esther Schenkel,48.5788874,7.7332351,node,7176880954
+Strasbourg,historic,Nathan Schenkel,48.578891,7.7332123,node,7176880955
+Strasbourg,historic,Abraham Lipszyc,48.5808139,7.7457231,node,7176880956
+Strasbourg,historic,Marcel Alexandre,48.5892223,7.7686075,node,7176880957
+Strasbourg,historic,Jeanne Bloch,48.5892232,7.7686072,node,7176880958
+Strasbourg,historic,Armand Loeb,48.5899547,7.7612457,node,7176880959
+Strasbourg,historic,Simone Loeb,48.589952,7.7612529,node,7176880960
+Strasbourg,historic,Jean-Paul Loeb,48.5899581,7.7612385,node,7176880961
+Strasbourg,historic,Louis Loeb,48.5899588,7.7612534,node,7176880962
+Strasbourg,historic,Yvonne Loeb,48.5899613,7.761247,node,7176880963
+Strasbourg,historic,Théodore Ackermann,48.5901584,7.7548195,node,7176880964
+Strasbourg,historic,Florentine Marx,48.5913198,7.7476222,node,7176880965
+Strasbourg,historic,Lucie Brunschwieg,48.5913214,7.7476214,node,7176880966
+Strasbourg,historic,Albert Marx,48.5913192,7.7476197,node,7176880967
+Strasbourg,historic,Robert Emmanuel Brunschwig,48.5913207,7.7476188,node,7176880968
+Strasbourg,historic,Stèle Guerre d'Indochine,48.5755133,7.7718984,node,7233491290
+Strasbourg,historic,Sans nom,48.5319242,7.7155514,node,7684683337
+Strasbourg,historic,Sans nom,48.5395923,7.7338031,node,7685034426
+Strasbourg,historic,Sans nom,48.5349615,7.7191509,node,7692119988
+Strasbourg,historic,Sans nom,48.49913,7.76124,node,7883833467
+Strasbourg,historic,Jahrhundertbaum,48.5538636,7.8102257,node,8144525674
+Strasbourg,historic,Historische Hochwassermarken,48.5538916,7.8101035,node,8144525675
+Strasbourg,historic,Sans nom,48.5673842,7.8059768,node,8146063540
+Strasbourg,historic,Sans nom,48.5672816,7.8059956,node,8146063541
+Strasbourg,historic,Sans nom,48.567186,7.806027,node,8146063542
+Strasbourg,historic,Borne du Serment de Koufra,48.5727142,7.7963609,node,8629627643
+Strasbourg,historic,Bicentenaire du cadastre,48.5692922,7.7993374,node,8957444171
+Strasbourg,historic,Sans nom,48.5792397,7.7491078,node,8963038604
+Strasbourg,historic,Stèle commémorative Cité-jardin Ungemach,48.5971995,7.7631529,node,8995088678
+Strasbourg,historic,Mémorial Opérations Extérieures,48.5751618,7.7722964,node,9028191973
+Strasbourg,historic,Mémorial Afrique du Nord,48.5752954,7.7721413,node,9028191974
+Strasbourg,historic,Sans nom,48.5711739,7.7864444,node,9055892963
+Strasbourg,historic,Calvaire de la rue des Vosges,48.5423094,7.7055346,node,9306498383
+Strasbourg,historic,calvaire de la rue Neuve,48.5455404,7.7078865,node,9306630474
+Strasbourg,historic,Sans nom,48.5488007,7.7058118,node,9306668320
+Strasbourg,historic,Monument aux morts,48.5428178,7.7138539,node,9307992532
+Strasbourg,historic,Sans nom,48.5611695,7.7605496,node,9345810145
+Strasbourg,historic,Sans nom,48.5246598,7.8244622,node,9380090246
+Strasbourg,historic,Sans nom,48.6118569,7.7421508,node,9402586344
+Strasbourg,historic,Sans nom,48.57747,7.7530134,node,9439702359
+Strasbourg,historic,Sans nom,48.6001024,7.7801511,node,9505246559
+Strasbourg,historic,Sans nom,48.5820878,7.7592116,node,9593976421
+Strasbourg,historic,Sans nom,48.5807063,7.7401222,node,9672026214
+Strasbourg,historic,Tullastein,48.499795,7.7955162,node,9672090052
+Strasbourg,historic,Marguerite Günzburger,48.5825013,7.7505544,node,9905734091
+Strasbourg,historic,Sans nom,48.5599409,7.7227319,node,10100509683
+Strasbourg,historic,Sans nom,48.5835686,7.7383064,node,10184434676
+Strasbourg,historic,Sans nom,48.5751994,7.8053822,node,10870493135
+Strasbourg,historic,Sans nom,48.5942688,7.7708766,node,11269418109
+Strasbourg,historic,Celad Gedalia Cytrynowicz,48.5865386,7.7384888,node,11467056048
+Strasbourg,historic,Maurice Cytrynowicz,48.5865373,7.7384885,node,11467056049
+Strasbourg,historic,Sarah Zolty,48.578367,7.7607357,node,11467056050
+Strasbourg,historic,Moszeck Zolty,48.5783679,7.7607331,node,11467056051
+Strasbourg,historic,Michel Leibovici,48.5783808,7.7576378,node,11467056052
+Strasbourg,historic,Leon Rieger,48.5788559,7.7563973,node,11467056053
+Strasbourg,historic,Leo Cohn,48.579528,7.7564315,node,11467056054
+Strasbourg,historic,Charles Mangel,48.5799559,7.7535662,node,11467056055
+Strasbourg,historic,Edwin Heimann,48.5847869,7.7463363,node,11467056056
+Strasbourg,historic,Alfred Thimmesch,48.5859708,7.7471933,node,11467056057
+Strasbourg,historic,Oscar Ehrlich,48.5851579,7.7449685,node,11467056058
+Strasbourg,historic,Jaques Makowski,48.5821929,7.7416929,node,11947030617
+Strasbourg,historic,Chaim Metzger,48.5819017,7.7420543,node,11947062635
+Strasbourg,historic,Dina Turner,48.5819025,7.742056,node,11947062636
+Strasbourg,historic,Wolf Turner,48.5819029,7.742054,node,11947062637
+Strasbourg,historic,Regine Daniel,48.5813734,7.7414548,node,11949531321
+Strasbourg,historic,Erna Daniel,48.5813726,7.7414546,node,11949531322
+Strasbourg,historic,Arnold Daniel,48.5813717,7.7414544,node,11949531323
+Strasbourg,historic,Perle Paulette Daniel,48.5813732,7.741453,node,11949531324
+Strasbourg,historic,Chaïm Daniel,48.5813723,7.7414528,node,11949531325
+Strasbourg,historic,Bela Katz,48.5794637,7.7398923,node,11949531326
+Strasbourg,historic,Solange May,48.5769106,7.7328194,node,11949795142
+Strasbourg,historic,Andree May,48.5769111,7.7328205,node,11949795143
+Strasbourg,historic,Liliane May,48.5769117,7.7328215,node,11949795144
+Strasbourg,historic,Suzanne May,48.5769104,7.7328207,node,11949795145
+Strasbourg,historic,Simon May,48.5769109,7.7328218,node,11949795146
+Strasbourg,historic,Marc Blum,48.5882823,7.7672815,node,12486198721
+Strasbourg,historic,Myrtil Bloch,48.5882941,7.7674883,node,12492710246
+Strasbourg,historic,Georges Bloch,48.5882939,7.7674867,node,12492710247
+Strasbourg,historic,Andrée Bloch,48.588293,7.7674874,node,12492710248
+Strasbourg,historic,Gilbert Makowski,48.5845179,7.7721136,node,12514839684
+Strasbourg,historic,Denise Makowski,48.584517,7.7721121,node,12514839685
+Strasbourg,historic,Selma Makowski,48.584516,7.7721107,node,12514839686
+Strasbourg,historic,Elie Makowski,48.584515,7.7721093,node,12514839687
+Strasbourg,historic,Benjamin Makowski,48.584514,7.7721078,node,12514839688
+Strasbourg,historic,Lucien Kahn,48.5874605,7.7601777,node,12514913281
+Strasbourg,historic,Nicole Weill,48.5869414,7.7637403,node,12514925602
+Strasbourg,historic,Francis Claude Weill,48.5869404,7.7637385,node,12514925603
+Strasbourg,historic,Jaques Weill,48.5869394,7.7637367,node,12514925604
+Strasbourg,historic,Hortense Henriette Weill,48.5869419,7.7637374,node,12514925605
+Strasbourg,historic,Henri Weill,48.5869409,7.7637357,node,12514925606
+Strasbourg,historic,Marthe Asch,48.5869367,7.7637293,node,12514925607
+Strasbourg,historic,Alphonse Asch,48.5869356,7.7637275,node,12514925608
+Strasbourg,historic,Louis Hallel,48.5876521,7.7570219,node,12515214937
+Strasbourg,historic,Marthe Dreyfuss,48.589042,7.7527824,node,12516645025
+Strasbourg,historic,Lucien Dreyfuss,48.5890415,7.7527844,node,12516645026
+Strasbourg,historic,René Knecht,48.61148,7.7803155,node,12592534984
+Strasbourg,historic,Jacques Knecht,48.6114797,7.7803172,node,12592534985
+Strasbourg,historic,Marcel Lion,48.5897712,7.7522261,node,12612226234
+Strasbourg,historic,Jean Heller,48.5911299,7.7545702,node,12612267256
+Strasbourg,historic,Charles Abraham,48.5904664,7.7536577,node,12612267257
+Strasbourg,historic,Pierre Weill,48.5905751,7.7503265,node,12613372802
+Strasbourg,historic,Irma Weill,48.5905727,7.7503247,node,12613372803
+Strasbourg,historic,Raphael Weill,48.5905732,7.7503297,node,12613372804
+Strasbourg,historic,Raymond Winter,48.5905068,7.7487097,node,12613393498
+Strasbourg,historic,Maurice Mosche Schaenkel,48.5815984,7.7319858,node,12613579254
+Strasbourg,historic,Hiler Checinski,48.5824324,7.735465,node,12613579255
+Strasbourg,historic,Liliane Bloch,48.5847263,7.7572394,node,12627937428
+Strasbourg,historic,Jacques Bloch,48.5847258,7.7572405,node,12627937429
+Strasbourg,historic,Simone Bloch,48.5847256,7.7572385,node,12627937430
+Strasbourg,historic,David Bloch,48.584725,7.7572396,node,12627937431
+Strasbourg,historic,Eugène Eggermann,48.5833632,7.746929,node,12841505218
+Strasbourg,historic,Josef Martus,48.5833618,7.7469293,node,12846527551
+Strasbourg,historic,Irma Rosenthal née Baumann,48.5345414,7.7208067,node,13110684875
+Strasbourg,historic,Irma Meyer née Meyer,48.5242629,7.7079701,node,13110684876
+Strasbourg,historic,Sylvain Meyer,48.5242619,7.7079695,node,13110684877
+Strasbourg,historic,Gerson Makowski,48.5815925,7.7426357,node,13119435732
+Strasbourg,historic,Nicole Bernheim,48.5879964,7.7817141,node,13119451295
+Strasbourg,historic,Gaston Bernheim,48.5879971,7.781715,node,13119451296
+Strasbourg,historic,Suzanne Bernheim née Lévy,48.5879958,7.7817153,node,13119451297
+Strasbourg,historic,Jacques Bernheim,48.5879966,7.7817162,node,13119451298
+Strasbourg,historic,Alexandre Buchinger,48.5877224,7.7449942,node,13119522423
+Strasbourg,historic,Henri Mathias Berthelot,48.5759878,7.7719256,node,13159275104
+Strasbourg,historic,Square Gabrielle et Charles Kayser,48.5690973,7.7607074,node,13171834441
+Strasbourg,historic,Sándor Petöfi,48.5954763,7.7582096,node,13179876510
+Strasbourg,historic,Palais Rohan,48.5810157,7.7522537,way,15806990
+Strasbourg,historic,Château de la Cour d'Angleterre,48.6312624,7.7989909,way,25909372
+Strasbourg,historic,Ehrenfriedhof Kehl,48.5734216,7.8232463,way,28440450
+Strasbourg,historic,Fort Marlen,48.5364638,7.8312839,way,28820178
+Strasbourg,historic,Fort Foch,48.6268419,7.693293,way,34854159
+Strasbourg,historic,Ouvrage Ney-Rapp,48.6394172,7.7748742,way,34861775
+Strasbourg,historic,Fort Hoche,48.494563,7.7690877,way,34882116
+Strasbourg,historic,Ouvrage intermédiaire Uhrich-Hoche,48.5005499,7.7505809,way,34882117
+Strasbourg,historic,Fort Uhrich,48.5110227,7.7228925,way,34882119
+Strasbourg,historic,Fort Rapp - Moltke,48.6402791,7.7564204,way,35076129
+Strasbourg,historic,Ouvrage Neuf-Empert,48.6361284,7.8216538,way,35076196
+Strasbourg,historic,Fort Ney,48.6389394,7.7964766,way,35086144
+Strasbourg,historic,Chapelle Notre-Dame du Wacken,48.5950563,7.7638213,way,36529977
+Strasbourg,historic,Monument du Général Kléber,48.5833724,7.7457745,way,39224822
+Strasbourg,historic,Palais du Gouverneur,48.5851154,7.751928,way,39610248
+Strasbourg,historic,Sans nom,48.584355,7.7534118,way,39611106
+Strasbourg,historic,Grand Séminaire Catholique,48.5823972,7.7521116,way,39647774
+Strasbourg,historic,Tour du Bourreau,48.5814532,7.7387351,way,40034170
+Strasbourg,historic,Sans nom,48.5856222,7.7553396,way,40114952
+Strasbourg,historic,Église Catholique Saint-Jean-Baptiste,48.584387,7.7400892,way,40202919
+Strasbourg,historic,Heinrichsturm,48.5802849,7.7390529,way,40217739
+Strasbourg,historic,Hans von Altheimturm,48.5798164,7.7393752,way,40217740
+Strasbourg,historic,Sans nom,48.5803342,7.7389984,way,40217745
+Strasbourg,historic,Barrage Vauban,48.5795997,7.7380036,way,40217747
+Strasbourg,historic,Tour des Français,48.5793988,7.7396847,way,40217762
+Strasbourg,historic,Porte de l'Hôpital,48.5770255,7.7495671,way,40317901
+Strasbourg,historic,Sans nom,48.5795665,7.7552178,way,40450489
+Strasbourg,historic,Sans nom,48.5805763,7.7545239,way,40450524
+Strasbourg,historic,Bains municipaux de Strasbourg,48.5833343,7.7595517,way,40469009
+Strasbourg,historic,Bains Médicinaux,48.5834571,7.7603718,way,40469010
+Strasbourg,historic,Sans nom,48.5767235,7.7737773,way,40868823
+Strasbourg,historic,Église protestante Sainte-Aurélie,48.581415,7.7332719,way,40981668
+Strasbourg,historic,Sans nom,48.5865646,7.7291245,way,41154428
+Strasbourg,historic,Pavillon Joséphine,48.592535,7.7748108,way,41555379
+Strasbourg,historic,Octroi,48.5944672,7.7732443,way,41558796
+Strasbourg,historic,Sans nom,48.5764717,7.7144778,way,42473066
+Strasbourg,historic,Sans nom,48.6078763,7.7536219,way,43151730
+Strasbourg,historic,Sans nom,48.6079301,7.7536164,way,43151880
+Strasbourg,historic,Ferme Linck,48.608007,7.7536329,way,43151901
+Strasbourg,historic,Sans nom,48.569891,7.7593053,way,43922240
+Strasbourg,historic,Sans nom,48.5872358,7.7539482,way,44503633
+Strasbourg,historic,Sans nom,48.5614377,7.7605025,way,44505273
+Strasbourg,historic,Sans nom,48.5902521,7.7947903,way,45423012
+Strasbourg,historic,Sans nom,48.5972625,7.7777623,way,46338184
+Strasbourg,historic,Blockhaus,48.6343746,7.8064565,way,47228307
+Strasbourg,historic,Château de Pourtalès,48.6084574,7.7999508,way,47276262
+Strasbourg,historic,Blockhaus maginot,48.5880386,7.7936951,way,48453831
+Strasbourg,historic,Sans nom,48.5951295,7.7175559,way,49533095
+Strasbourg,historic,Château Klinglin,48.5324021,7.7155366,way,50303780
+Strasbourg,historic,Sans nom,48.5733013,7.8049745,way,103701640
+Strasbourg,historic,Sans nom,48.5737164,7.8240736,way,159548681
+Strasbourg,historic,Fort Ducrot,48.6397643,7.7050314,way,196078817
+Strasbourg,historic,Sans nom,48.5758604,7.7745595,way,227395944
+Strasbourg,historic,Sans nom,48.5761615,7.7740798,way,227395945
+Strasbourg,historic,Fort Desaix,48.6377741,7.7246705,way,239140438
+Strasbourg,historic,Fort Lefèbvre / Fort VIII - Fort Von der Thann,48.5268381,7.6910809,way,239142767
+Strasbourg,historic,TGV 001,48.6147084,7.7272153,way,416455542
+Strasbourg,historic,Ponts Couverts,48.5800883,7.739337,way,416477168
+Strasbourg,historic,Ponts Couverts,48.5796895,7.7396234,way,416477169
+Strasbourg,historic,Pont Saint-Nicolas,48.5787541,7.7485761,way,458914503
+Strasbourg,historic,Sans nom,48.5801993,7.7274728,way,703037476
+Strasbourg,historic,"Casemate Maginot ""Champ de course""",48.5713479,7.800922,way,723890224
+Strasbourg,historic,"Casemate Maginot ""Bassin de l'industrie""",48.5818645,7.7983899,way,723890225
+Strasbourg,historic,"Casemate Maginot ""Sporeninsel""",48.5898489,7.8007839,way,723890226
+Strasbourg,historic,Blockhaus Maginot,48.5875994,7.7908951,way,723890227
+Strasbourg,historic,Abri de défense passive ligne Maginot,48.5896881,7.7869959,way,723890228
+Strasbourg,historic,Sans nom,48.57656,7.714394,way,944755350
+Strasbourg,historic,Sans nom,48.5765199,7.7143364,way,944755351
+Strasbourg,historic,Sans nom,48.6001426,7.742612,way,1356437047
+Strasbourg,historic,Sans nom,48.6000897,7.7428579,way,1356437048
+Strasbourg,historic,Palais Rohan,48.5810157,7.7522537,relation,3575
+Strasbourg,historic,Palais du Rhin,48.5876408,7.7525666,relation,226986

@@ -1,0 +1,41 @@
+restaurant_id,city,name,latitude,longitude,rating,total_ratings,price_range,cuisine_type,address,phone,website,opening_hours,data_source
+reims_resto_001,Reims,Chez Bon Comptoir,49.223659,3.993397,3.5,308,€€,Champenoise,140 Rue de Paris,0254453563,https://www.reims-restaurant-1.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_002,Reims,Le Traditionnel Brasserie,49.281755,4.076494,3.3,438,€,Gastronomique,92 Rue Victor Hugo,0675568158,https://www.reims-restaurant-2.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_003,Reims,Comptoir Les du Marché,49.231674,4.049628,4.3,476,€€,Française,60 Rue du Centre,0138819320,https://www.reims-restaurant-3.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_004,Reims,La Grand Brasserie,49.294719,4.047387,4.5,266,€€€,Française,41 Rue de Paris,0512815571,https://www.reims-restaurant-4.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_005,Reims,Le Bouchon Reims,49.292316,4.02065,3.6,86,€€,Française,43 Rue Victor Hugo,0684859036,https://www.reims-restaurant-5.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_006,Reims,Brasserie Les Central,49.257176,4.009232,3.5,361,€,Gastronomique,34 Rue Principale,0557468080,https://www.reims-restaurant-6.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_007,Reims,Le Traditionnel Bistro,49.288055,3.996097,4.1,272,€€,Gastronomique,130 Rue de Paris,0620923757,https://www.reims-restaurant-7.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_008,Reims,Le Bon Bistro,49.25635,3.996383,3.7,260,€€€,Française,50 Rue du Centre,0626737716,https://www.reims-restaurant-8.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_009,Reims,Au Comptoir Reims,49.281516,3.99911,3.2,179,€,Française,98 Rue de Paris,0664817979,https://www.reims-restaurant-9.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_010,Reims,Restaurant Le du Port,49.247444,4.073465,4.0,137,€€,Française,184 Rue du Centre,0633346984,https://www.reims-restaurant-10.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_011,Reims,Le Café Reims,49.284567,4.001019,4.1,437,€€,Gastronomique,13 Rue Victor Hugo,0370701119,https://www.reims-restaurant-11.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_012,Reims,Les Café Reims,49.227279,4.037307,3.9,183,€,Champenoise,164 Rue du Centre,0211439999,https://www.reims-restaurant-12.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_013,Reims,Café La des Arts,49.230171,4.045557,4.3,259,€€€,Gastronomique,19 Rue Principale,0163925028,https://www.reims-restaurant-13.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_014,Reims,Les Comptoir Reims,49.23344,4.051285,4.1,115,€€,Française,116 Rue Victor Hugo,0451617860,https://www.reims-restaurant-14.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_015,Reims,Les Traditionnel Restaurant,49.251144,4.045471,4.5,8,€€,Française,99 Rue du Centre,0478651377,https://www.reims-restaurant-15.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_016,Reims,Au Café Reims,49.273262,4.029653,3.2,159,€,Française,32 Rue Principale,0179134430,https://www.reims-restaurant-16.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_017,Reims,Table Au du Marché,49.2108,4.043608,4.1,162,€,Gastronomique,56 Rue du Centre,0233586211,https://www.reims-restaurant-17.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_018,Reims,Le Cuisine de Reims,49.291302,4.007474,3.7,282,€€,Gastronomique,164 Rue du Centre,0543445670,https://www.reims-restaurant-18.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_019,Reims,La Table du Reims,49.20888,4.052166,3.7,401,€€,Champenoise,74 Rue du Centre,0329738460,https://www.reims-restaurant-19.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_020,Reims,Chez Comptoir Reims,49.275468,4.01975,4.7,186,€,Champenoise,143 Rue Principale,0475943889,https://www.reims-restaurant-20.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_021,Reims,La Café Reims,49.227583,3.984006,4.3,441,€,Champenoise,184 Rue de Paris,0534895169,https://www.reims-restaurant-21.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_022,Reims,La Café Reims,49.222574,4.052205,3.5,224,€€,Française,187 Rue Victor Hugo,0453911077,https://www.reims-restaurant-22.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_023,Reims,Au Traditionnel Bistro,49.29277,4.081091,3.6,437,€,Champenoise,32 Rue Principale,0522509221,https://www.reims-restaurant-23.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_024,Reims,Chez Comptoir Reims,49.262803,4.07425,3.7,209,€€€,Champenoise,4 Rue Victor Hugo,0651518621,https://www.reims-restaurant-24.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_025,Reims,La Table du Reims,49.231495,4.063752,4.6,84,€€,Française,98 Rue du Centre,0457595123,https://www.reims-restaurant-25.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_026,Reims,Les Typique Restaurant,49.224606,4.060631,4.7,149,€,Champenoise,149 Rue de Paris,0226565533,https://www.reims-restaurant-26.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_027,Reims,Les Bouchon Reims,49.304513,3.992768,4.4,267,€,Française,97 Rue Victor Hugo,0310547710,https://www.reims-restaurant-27.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_028,Reims,Le Comptoir Reims,49.272432,4.023183,4.3,313,€,Gastronomique,99 Rue Principale,0110588393,https://www.reims-restaurant-28.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_029,Reims,Chez Bouchon Reims,49.276382,4.053949,3.7,18,€€€,Française,102 Rue Principale,0426176294,https://www.reims-restaurant-29.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_030,Reims,Au Traditionnel Brasserie,49.307797,4.06824,4.1,419,€€,Gastronomique,74 Rue de Paris,0355819788,https://www.reims-restaurant-30.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_031,Reims,Brasserie Les de la Gare,49.255023,4.019161,4.4,163,€,Française,135 Rue de Paris,0496529935,https://www.reims-restaurant-31.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_032,Reims,La Traditionnel Table,49.244198,4.04573,4.4,176,€,Gastronomique,150 Rue de Paris,0445579376,https://www.reims-restaurant-32.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_033,Reims,Les Grand Restaurant,49.261093,4.033738,3.8,18,€€,Gastronomique,10 Rue Principale,0117287464,https://www.reims-restaurant-33.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_034,Reims,Le Cuisine de Reims,49.263622,4.05193,3.7,447,€,Champenoise,166 Rue Victor Hugo,0337665989,https://www.reims-restaurant-34.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_035,Reims,Les Vieux Bistro,49.216714,3.989917,4.7,259,€€€,Française,102 Rue Principale,0119477029,https://www.reims-restaurant-35.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_036,Reims,Le Table de Reims,49.256807,4.026431,4.4,355,€,Française,110 Rue Victor Hugo,0686752324,https://www.reims-restaurant-36.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_037,Reims,Bistro Les de la Gare,49.280166,4.041808,3.4,494,€,Française,106 Rue Victor Hugo,0527995714,https://www.reims-restaurant-37.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_038,Reims,Les Comptoir Reims,49.25097,4.043924,4.2,285,€€,Française,93 Rue de Paris,0398768394,https://www.reims-restaurant-38.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_039,Reims,Chez Bon Café,49.293732,4.034189,4.2,416,€€€,Gastronomique,89 Rue du Centre,0518307891,https://www.reims-restaurant-39.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_040,Reims,Les Café Reims,49.223157,4.030813,4.4,181,€€,Champenoise,48 Rue du Centre,0189446746,https://www.reims-restaurant-40.fr,"11:30-15:00, 18:30-23:00",generated_data

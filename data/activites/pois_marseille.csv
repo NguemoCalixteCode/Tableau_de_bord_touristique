@@ -1,0 +1,2425 @@
+city,category,name,lat,lon,osm_type,osm_id
+Marseille,museum,Palais des arts,43.2731794,5.3931148,node,1503699114
+Marseille,museum,Exposition sur la réparation navale,43.3263892,5.35832,node,1674650507
+Marseille,museum,Observatoire de Marseille - Planétarium,43.3054903,5.3947811,node,1727170210
+Marseille,museum,Musée du savon de Marseille,43.321292,5.3898574,node,1842394629
+Marseille,museum,Mémorial de La Marseillaise,43.2977936,5.3784437,node,1979261200
+Marseille,museum,"Musée des arts décoratifs, de la faïence et de la mode",43.2572605,5.3820342,node,2365711963
+Marseille,museum,Musée d'histoire de Marseille,43.2975573,5.3756864,node,2499522058
+Marseille,museum,Musée des Arts et Traditions populaires du terroir marseillais,43.352105,5.4386437,node,2598867528
+Marseille,museum,Le Musée du Savon,43.2927712,5.3694744,node,4425058138
+Marseille,museum,Cellule 516,43.2608478,5.3962644,node,4540240792
+Marseille,museum,"Musée des Arts Africains, Océaniens, Amérindiens",43.301009,5.3681139,node,4945717658
+Marseille,museum,Musée d'Archéologie Méditerranéenne,43.3005836,5.3682814,node,4945719803
+Marseille,museum,Galerie Dos Mares,43.2946952,5.3837827,node,9077999917
+Marseille,museum,Conservatoire du Patrimoine Médical de Marseille,43.2643072,5.4137379,node,9658660673
+Marseille,museum,Grotte Cosquer,43.2972614,5.3619941,node,9800972121
+Marseille,museum,Musée de Notre-Dame de la Garde,43.284269,5.3712185,node,11201960202
+Marseille,museum,Tour Panorama,43.3102039,5.3906907,node,11201960208
+Marseille,museum,Musée du Savon de Marseille,43.3549299,5.3629621,node,11201960209
+Marseille,museum,Musée Subaquatique de Marseille,43.2902445,5.3536516,node,11204512971
+Marseille,museum,Musée de l'illusion,43.29858,5.3640511,node,12296103140
+Marseille,museum,Maison des îles et du littoral,43.282151,5.315942,way,28401072
+Marseille,museum,Musée Grobet-Labadié,43.3033116,5.3929848,way,67708610
+Marseille,museum,Musée Regards de Provence,43.2976916,5.3635633,way,67715218
+Marseille,museum,Mémorial des déportations,43.2955749,5.3624878,way,67715872
+Marseille,museum,Musée des Beaux-Arts,43.3045994,5.3939619,way,68976388
+Marseille,museum,Muséum d'Histoire Naturelle,43.303781,5.3946726,way,68977335
+Marseille,museum,Musée Cantini,43.292202,5.3782105,way,69139913
+Marseille,museum,Musée de la Moto,43.3281277,5.4040196,way,112815005
+Marseille,museum,Musée d'art contemporain de Marseille,43.2504795,5.3901475,way,154486608
+Marseille,museum,Musée des Civilisations de l'Europe et de la Méditerranée,43.296722,5.3610255,way,168685674
+Marseille,museum,Frac Sud - Cité de l'art contemporain,43.3054212,5.3677945,way,174459203
+Marseille,museum,Préau des Accoules,43.2976257,5.366682,way,178605520
+Marseille,museum,Musée des Docks romains,43.2968102,5.3680449,way,178808268
+Marseille,museum,Centre de conservation et de ressources du Mucem,43.3082864,5.3869725,way,203110447
+Marseille,park,Sans nom,43.3029225,5.4023074,node,11758662121
+Marseille,park,Jardin des Héros,43.3021832,5.3838605,node,12520225390
+Marseille,park,Jardin de Benedetti,43.2871515,5.353095,way,28245839
+Marseille,park,Jardin Bagatelle,43.2700736,5.3823027,way,35202857
+Marseille,park,Jardin Chanot,43.2714746,5.3929804,way,35209138
+Marseille,park,Jardin des Vestiges,43.2976029,5.3749046,way,35466085
+Marseille,park,Jardin Cerati,43.3033713,5.4028879,way,36964490
+Marseille,park,Parc Soledad,43.25709,5.3994486,way,37393246
+Marseille,park,Parc Henri Fabre,43.2637937,5.3843375,way,37432627
+Marseille,park,Jardin de la Magalone,43.2616176,5.3986303,way,38339699
+Marseille,park,Jardin Bortoli,43.2481636,5.3960466,way,39168230
+Marseille,park,Parc Central de Bonneveine,43.2495018,5.3915544,way,39170903
+Marseille,park,Parc Pastré,43.2332856,5.3735508,way,39480425
+Marseille,park,Parc de la Moline,43.3129019,5.4241491,way,42867081
+Marseille,park,Square Aspirant Jean Versini,43.301177,5.4124945,way,46250517
+Marseille,park,Parc Félicien David,43.2983647,5.4140019,way,50499693
+Marseille,park,Jardin Joseph Achdjian,43.2795776,5.4272477,way,53331326
+Marseille,park,Parc Brégante,43.3549652,5.3551975,way,54032775
+Marseille,park,Parc de l'Oasis,43.3513193,5.3712153,way,61976433
+Marseille,park,Parc de la colline Saint-Joseph,43.2505696,5.420073,way,66363423
+Marseille,park,Parc Billoux,43.3330956,5.36601,way,67209267
+Marseille,park,Sans nom,43.3054716,5.3816669,way,68934713
+Marseille,park,Jardin Guy Azaïs,43.2800718,5.4108474,way,69032627
+Marseille,park,Jardin La Pauline,43.2735962,5.4108741,way,72849294
+Marseille,park,Grand parc du XXVIème centenaire - Jean-Claude Gaudin,43.2803021,5.3948726,way,74339969
+Marseille,park,Parc de l'Espérance,43.3275599,5.3803392,way,81059106
+Marseille,park,Parc de Font Obscure,43.3268807,5.4011611,way,81088754
+Marseille,park,Jardin Lionel Rathery,43.3189651,5.3782027,way,81103393
+Marseille,park,Jardin Spinelly,43.314911,5.3783074,way,82166046
+Marseille,park,Parc de la Moline,43.3169632,5.4223166,way,85817473
+Marseille,park,Square Labadié,43.300995,5.3844119,way,99271168
+Marseille,park,Jardin des Archives Départementales,43.3124338,5.3702896,way,112835760
+Marseille,park,Square de la Joliette,43.3053441,5.3665104,way,112835788
+Marseille,park,Jardin de la Colline Puget,43.2897638,5.3699714,way,116721274
+Marseille,park,Jardin Missak Manouchian,43.2924577,5.3614529,way,116920556
+Marseille,park,Espace Mistral,43.3612885,5.3109714,way,122117950
+Marseille,park,Jardin Boucle Périer,43.2776217,5.3747161,way,130709467
+Marseille,park,Parc Valmer,43.2792052,5.3549044,way,135562156
+Marseille,park,Jardin de la Perrine,43.3016782,5.4318125,way,149871189
+Marseille,park,Jardin Sarah-Halimi,43.3185949,5.422973,way,151081712
+Marseille,park,Jardin des Chutes Lavie,43.3138514,5.3995127,way,151711167
+Marseille,park,Jardin Sylvain Bettini,43.3619254,5.3068243,way,154360636
+Marseille,park,Gymnase Parette Mazenode,43.288008,5.4300205,way,157734416
+Marseille,park,Jardin de la Gare de la Blancarde,43.2959789,5.4073346,way,158027218
+Marseille,park,Parc Adrienne Delavigne,43.228387,5.3545579,way,158900601
+Marseille,park,Parc de la Mirabelle,43.2971439,5.4460811,way,159189978
+Marseille,park,Parc Valbelle,43.2638059,5.3762396,way,162698889
+Marseille,park,Parc Saint-Marcel,43.2858257,5.4683206,way,170745376
+Marseille,park,Square Berthie Albrecht,43.2906674,5.3652701,way,174108991
+Marseille,park,Jardin Lamy,43.29033,5.3649432,way,174108993
+Marseille,park,Parc du Vieux Moulin,43.2837356,5.4311196,way,176165613
+Marseille,park,Square Chevalier Roze,43.2960758,5.365623,way,178605526
+Marseille,park,Square Chevalier Paul,43.2969246,5.3682896,way,178808276
+Marseille,park,Parc du Grand Séminaire,43.3446024,5.3796712,way,181751190
+Marseille,park,Sans nom,43.272125,5.4347241,way,183738919
+Marseille,park,Place Raphel,43.3609007,5.3309038,way,184159836
+Marseille,park,Parc Charles Aznavour,43.2668848,5.4163552,way,184963913
+Marseille,park,Parc de la Pelouque,43.3639588,5.335269,way,186911407
+Marseille,park,Parc Varella,43.3596119,5.3662485,way,189095390
+Marseille,park,Parc de la Ravelle,43.3323375,5.4454147,way,189221337
+Marseille,park,Jardin public de la Calade,43.3401555,5.3554414,way,189715822
+Marseille,park,Sans nom,43.3808092,5.3679109,way,191740998
+Marseille,park,Jardin La Bigotte,43.3834953,5.3654483,way,191756922
+Marseille,park,Jardin L'Île de France,43.3810627,5.3633472,way,191756923
+Marseille,park,Jardin du Centre Urbain,43.331908,5.399674,way,194902140
+Marseille,park,Jardin Mireille Lauze,43.2835609,5.4112075,way,197211943
+Marseille,park,Sans nom,43.2054122,5.5175709,way,199338244
+Marseille,park,Jardin Doria,43.296786,5.3999219,way,199863572
+Marseille,park,Square de l'Argentière,43.2975339,5.3648535,way,203133624
+Marseille,park,Square Dominique Tramoni,43.3151799,5.388548,way,203636416
+Marseille,park,Jardin de la Solitude,43.281488,5.503641,way,207311153
+Marseille,park,Sans nom,43.2849388,5.4497072,way,209571742
+Marseille,park,Jardin Vallier,43.2998824,5.401347,way,219741460
+Marseille,park,Jardin de la Falaise,43.3626386,5.3080124,way,220075137
+Marseille,park,Parc de La Mathilde,43.2581492,5.4138075,way,221380847
+Marseille,park,Jardin Infossi,43.2562535,5.416506,way,221387920
+Marseille,park,Parc de la Minerve,43.3632607,5.3170519,way,222474176
+Marseille,park,Jardin Parc Vert,43.2646111,5.4161557,way,223558534
+Marseille,park,Sans nom,43.3076696,5.3700346,way,226312788
+Marseille,park,Parc des Bruyères,43.27471,5.4415974,way,232877381
+Marseille,park,Sans nom,43.2703643,5.4041865,way,232901692
+Marseille,park,Jardin du Bois Sacré,43.282594,5.3710607,way,233095629
+Marseille,park,Jardin Sévigné,43.2608326,5.4004995,way,233370693
+Marseille,park,Jardin de l'Observatoire,43.3058587,5.3948624,way,235928579
+Marseille,park,Jardin Joseph Chabaud,43.248252,5.3876555,way,236415364
+Marseille,park,Sans nom,43.2497391,5.3890417,way,236415365
+Marseille,park,Jardin Gérald Neveu,43.2692985,5.4013909,way,244071281
+Marseille,park,Jardin de la Maternité,43.3135439,5.3908964,way,245092098
+Marseille,park,Jardin La Moussière,43.3548827,5.4388713,way,253663059
+Marseille,park,Jardin Fraissinet,43.2924987,5.3996328,way,260575884
+Marseille,park,Sans nom,43.3582486,5.3404642,way,275465954
+Marseille,park,Parc des Trois-Lucs,43.313391,5.4638204,way,279504110
+Marseille,park,Parc Jean Moulin,43.2777114,5.5221529,way,300391898
+Marseille,park,Parc des Berges de l'Huveaune,43.2814982,5.5174541,way,300391900
+Marseille,park,Parc des Restanques,43.2821859,5.5055062,way,300391902
+Marseille,park,Parc Champêtre,43.3444663,5.433633,way,300439711
+Marseille,park,Parc départemental de la Pintade,43.2741123,5.4206809,way,319583967
+Marseille,park,Jardin Bleu,43.3150019,5.3772877,way,329499152
+Marseille,park,Square Jean Giono,43.2807796,5.378172,way,330519333
+Marseille,park,Jardin Lacédémone,43.2816582,5.3758207,way,331066994
+Marseille,park,Jardin de La Jougarelle,43.3689933,5.3441482,way,339344795
+Marseille,park,Jardin municipal d'arrondissement Les Mûriers,43.3593228,5.3337189,way,341560958
+Marseille,park,Parc Athéna,43.3396361,5.4440996,way,356656897
+Marseille,park,Sans nom,43.3342043,5.4387742,way,356962717
+Marseille,park,Sans nom,43.3262709,5.4230965,way,374058181
+Marseille,park,Parc Marius Briata,43.3203505,5.4383953,way,379934309
+Marseille,park,Parc Saint-Théodore,43.3311542,5.4379917,way,382242047
+Marseille,park,Sans nom,43.2725799,5.4309607,way,397285962
+Marseille,park,Jardin Vallon de Toulouse,43.2635407,5.4222566,way,399864237
+Marseille,park,Sans nom,43.2642102,5.4230425,way,399864266
+Marseille,park,Jardin de Corinthe,43.2836334,5.3909951,way,408347885
+Marseille,park,Jardin Saint-Gabriel,43.3191032,5.3842982,way,413104982
+Marseille,park,Square Auphan Charpentier,43.3170652,5.3767289,way,417289067
+Marseille,park,Square Yves Montand,43.2948493,5.3864627,way,418090801
+Marseille,park,Jardin du Baignoir,43.2984553,5.3776953,way,419236965
+Marseille,park,Sans nom,43.316321,5.3986674,way,437449391
+Marseille,park,Jardin Les Platanes,43.3154661,5.3943739,way,437449403
+Marseille,park,Jardin Velten,43.313771,5.397513,way,437449404
+Marseille,park,Square Claude Nazzi,43.3302436,5.3831783,way,445307088
+Marseille,park,Sans nom,43.360884,5.3244811,way,448167649
+Marseille,park,Jardin Carli,43.2954764,5.3834289,way,449774551
+Marseille,park,Sans nom,43.3269397,5.4079354,way,450359556
+Marseille,park,Parc de la Jarre,43.2374494,5.4027641,way,451897743
+Marseille,park,Parc de la Buzine,43.2937055,5.5051894,way,462740529
+Marseille,park,Parc de l'Unité d'habitation Le Corbusier,43.2614428,5.3962616,way,463454529
+Marseille,park,Square du Monument aux morts,43.3607906,5.3124487,way,463934221
+Marseille,park,Jardin des Anciennes Fonderies de Provence,43.2848753,5.4054709,way,496910685
+Marseille,park,Parc Foresta,43.360037,5.3514849,way,515147841
+Marseille,park,Parc Séon,43.3469719,5.3510763,way,515147842
+Marseille,park,Jardin des Hévéas,43.3101578,5.3815292,way,525613159
+Marseille,park,Parc du Bocage,43.3413294,5.4609572,way,533323433
+Marseille,park,Parc Val Plan,43.3346074,5.4359882,way,543907966
+Marseille,park,Parc Jean Giono,43.3803016,5.3410901,way,545469832
+Marseille,park,Parc Bonniot,43.3156229,5.4505703,way,553856149
+Marseille,park,Jardin Ruffi,43.3086765,5.3733055,way,568695319
+Marseille,park,Sans nom,43.2298071,5.443258,way,575033386
+Marseille,park,Sans nom,43.2698142,5.4047554,way,582338317
+Marseille,park,Sans nom,43.2708274,5.4049634,way,582338318
+Marseille,park,Jardin Jules Moulet,43.2846785,5.3742816,way,651732777
+Marseille,park,Jardin Germaine Poinso-Chapuis,43.2863461,5.3728833,way,651732778
+Marseille,park,Square Jean-Baptiste Auffan,43.3015862,5.5206997,way,684945588
+Marseille,park,Jardin des Camoins,43.3024753,5.5132005,way,685066252
+Marseille,park,Parc de la Porte d'Aix,43.3033652,5.3746826,way,700654455
+Marseille,park,Jardin Saint-Mauront,43.3143791,5.3763539,way,720513890
+Marseille,park,Jardin Antoine Maurel,43.2944807,5.3987492,way,744082301
+Marseille,park,Sans nom,43.2296549,5.4041636,way,746443007
+Marseille,park,Parc des Sœurs franciscaines missionnaires de Marie,43.2822302,5.3782403,way,761184923
+Marseille,park,Coin pour tous,43.3104529,5.3854862,way,776035573
+Marseille,park,Square,43.3619821,5.4284963,way,783385268
+Marseille,park,Sans nom,43.3295533,5.433597,way,785860069
+Marseille,park,Espace vert des Abeilles,43.2873894,5.366435,way,816101608
+Marseille,park,Jardin Clos Fleuri,43.2895755,5.396109,way,824548238
+Marseille,park,Sans nom,43.232897,5.4385477,way,845834615
+Marseille,park,Square Saint-Pierre,43.2919076,5.4002204,way,866701846
+Marseille,park,Jardin des Linots,43.3135448,5.4092408,way,912867257
+Marseille,park,Jardin Émile Duclaux,43.29361,5.3586325,way,938430423
+Marseille,park,Square Stéphan,43.3049165,5.3937506,way,938438581
+Marseille,park,Jardin Guigou,43.3148779,5.3916946,way,939986948
+Marseille,park,Jardin Mathieu Stilatti,43.3100094,5.3764071,way,940003826
+Marseille,park,Jardin Junot,43.3109553,5.37657,way,940003827
+Marseille,park,Jardin Baya,43.3106839,5.3781939,way,940706906
+Marseille,park,Square Louise Michel,43.3012612,5.3781512,way,969843217
+Marseille,park,Espace des Lices,43.2888248,5.3674319,way,969846374
+Marseille,park,Sans nom,43.3667446,5.3446203,way,972588260
+Marseille,park,Parc Bougainville,43.3189769,5.3720928,way,1008667636
+Marseille,park,Jardin de l'Olivier Bleu,43.355016,5.3674565,way,1021685178
+Marseille,park,Parc de la Germaine,43.2766618,5.4256324,way,1033573192
+Marseille,park,Parc Haddad,43.2777613,5.4270322,way,1033573196
+Marseille,park,Parc de Corbière,43.3573246,5.2879829,way,1050610539
+Marseille,park,Sans nom,43.3137722,5.4405564,way,1058451707
+Marseille,park,Espace vert Tellène,43.2844884,5.3686871,way,1066413139
+Marseille,park,Sans nom,43.2496113,5.3820374,way,1078746322
+Marseille,park,Jardin des Goudes,43.2156074,5.347829,way,1097816367
+Marseille,park,Square Beau-Pin,43.242385,5.3799716,way,1099451732
+Marseille,park,Parc de la Redonne,43.241775,5.3821167,way,1099451733
+Marseille,park,Square de la Grotte Rolland,43.229433,5.3665542,way,1099454788
+Marseille,park,Parc de la Denise,43.297865,5.4907156,way,1105734932
+Marseille,park,Sans nom,43.2394569,5.3753475,way,1111603498
+Marseille,park,Sans nom,43.3238645,5.4788609,way,1125900388
+Marseille,park,Sans nom,43.3185435,5.4141983,way,1130578556
+Marseille,park,Sans nom,43.320899,5.422999,way,1169000062
+Marseille,park,Jardin du Réservoir,43.2813407,5.3770277,way,1192958496
+Marseille,park,Jardin Michel Lévy,43.2877166,5.3867243,way,1192958506
+Marseille,park,Jardin de l'Hôtel de l'Abbaye,43.2918406,5.367451,way,1192967546
+Marseille,park,Jardin Mattei,43.3071652,5.3759813,way,1193587151
+Marseille,park,Jardin Fédération,43.312654,5.4042037,way,1193763396
+Marseille,park,Jardin Beausoleil,43.3071524,5.4104225,way,1193763397
+Marseille,park,Jardin de la Blancarde,43.3043134,5.403522,way,1193763398
+Marseille,park,Jardin Théâtre Grec,43.296886,5.3652343,way,1193778413
+Marseille,park,Espace vert de la Bibliothèque,43.2989427,5.3673464,way,1193778415
+Marseille,park,Jardin Francis Chirat,43.3010852,5.3670035,way,1193778416
+Marseille,park,Jardin de la Barasse,43.2851662,5.4808836,way,1216229024
+Marseille,park,Parc des Baumettes,43.222368,5.4141059,way,1217802125
+Marseille,park,Sans nom,43.3090389,5.425603,way,1255579617
+Marseille,park,Sans nom,43.3289862,5.44713,way,1263431353
+Marseille,park,Sans nom,43.3082361,5.4298274,way,1265535399
+Marseille,park,Sans nom,43.305095,5.4281701,way,1265635384
+Marseille,park,Sans nom,43.2979615,5.4399163,way,1265894013
+Marseille,park,Sans nom,43.3034627,5.4390615,way,1288474689
+Marseille,park,Parc Urbain des Papillons,43.3374633,5.4004946,way,1335901454
+Marseille,park,Jardin de Saint-Menet,43.2886952,5.5004442,way,1351605543
+Marseille,park,Jardin du Château Saint-Jacques,43.2851901,5.4472016,way,1351605544
+Marseille,park,Sans nom,43.3444339,5.4312954,way,1352919035
+Marseille,park,Sans nom,43.3185998,5.4224546,way,1376500786
+Marseille,park,Sans nom,43.2642623,5.3880899,way,1415911382
+Marseille,park,Parc Borély,43.2596453,5.3807652,relation,3048922
+Marseille,park,Parc Balnéaire du Prado,43.2628564,5.3726853,relation,13961739
+Marseille,park,Parc Longchamp,43.3059931,5.3958629,relation,19199195
+Marseille,restaurant,Coquille,43.2930532,5.3729519,node,364622149
+Marseille,restaurant,L'entrecôte,43.2897722,5.3651216,node,449112905
+Marseille,restaurant,Post Café,43.2979857,5.3738753,node,451721412
+Marseille,restaurant,Soleil pressé,43.2996918,5.3739974,node,451721413
+Marseille,restaurant,Chez Fonfon,43.2855413,5.3514289,node,513732929
+Marseille,restaurant,Chez Jeannot,43.2852755,5.3516406,node,513732930
+Marseille,restaurant,Le Planète,43.2999183,5.3762793,node,535284094
+Marseille,restaurant,La Cantinetta,43.2953347,5.3824602,node,601530328
+Marseille,restaurant,La Cantine,43.2924179,5.3729467,node,621188166
+Marseille,restaurant,La Scaletta,43.2921837,5.3727745,node,621240682
+Marseille,restaurant,Au Vieux Moulin,43.3392449,5.4078064,node,622302235
+Marseille,restaurant,La Grotte,43.338386,5.407488,node,627616768
+Marseille,restaurant,Ashourya,43.2952729,5.3824967,node,747035354
+Marseille,restaurant,Al Jennah,43.2948807,5.3827108,node,747035376
+Marseille,restaurant,Marmarita,43.293686,5.3870407,node,991811825
+Marseille,restaurant,La Chola,43.2937391,5.3871971,node,991811838
+Marseille,restaurant,Food & Friends,43.2646675,5.3798778,node,1042891987
+Marseille,restaurant,Dubble,43.2757132,5.3890752,node,1042892080
+Marseille,restaurant,Sake,43.2898714,5.3822535,node,1126788250
+Marseille,restaurant,Sushi Resto,43.2897953,5.3823123,node,1126788267
+Marseille,restaurant,Le Kribien - Chez Magloire,43.2936215,5.3863771,node,1151748865
+Marseille,restaurant,Le Joli Port,43.2970084,5.3717617,node,1250893404
+Marseille,restaurant,La Villa,43.2727058,5.3871038,node,1251015705
+Marseille,restaurant,La Pergola,43.3393861,5.2575894,node,1260107875
+Marseille,restaurant,L'Escale - Restaurant Niolon,43.3393608,5.2563669,node,1260108004
+Marseille,restaurant,Le grain de sel,43.2917697,5.3731687,node,1279191315
+Marseille,restaurant,Ciao Marcello,43.2968982,5.3692349,node,1290866489
+Marseille,restaurant,Brasserie Le Pharo,43.2919147,5.3588186,node,1315189230
+Marseille,restaurant,Victor Café,43.2920045,5.3598003,node,1315189232
+Marseille,restaurant,Le Châlet,43.2938991,5.3594296,node,1315189241
+Marseille,restaurant,Le Charles Livon,43.2918776,5.3583546,node,1315196681
+Marseille,restaurant,Bar Terminus,43.2916579,5.3588616,node,1317056327
+Marseille,restaurant,Chez Sauveur,43.2955584,5.3790198,node,1319273248
+Marseille,restaurant,Le Relais 50,43.2965602,5.372677,node,1342448095
+Marseille,restaurant,La Caravelle,43.2964951,5.3720473,node,1345284476
+Marseille,restaurant,La Femme du Boucher,43.2878438,5.3833142,node,1354154305
+Marseille,restaurant,Le 13,43.293043,5.370913,node,1355118991
+Marseille,restaurant,La Nautique,43.2934722,5.369793,node,1361021565
+Marseille,restaurant,Le Château Sormiou,43.2109455,5.4194489,node,1429403428
+Marseille,restaurant,La Bonne mer,43.2831591,5.3734061,node,1448514092
+Marseille,restaurant,Le Grain de Sable,43.2993756,5.3775615,node,1490551264
+Marseille,restaurant,Les Dauphins,43.2748529,5.3598686,node,1493475298
+Marseille,restaurant,Le Scorpion,43.2928427,5.3828464,node,1496704065
+Marseille,restaurant,Le Jardin des Vestiges,43.2964261,5.3746408,node,1513994385
+Marseille,restaurant,Les lumières,43.2978397,5.3715849,node,1513994387
+Marseille,restaurant,Chez Didier & Brigitte,43.2892334,5.3876749,node,1532880145
+Marseille,restaurant,Le Peano,43.2929429,5.3735585,node,1536393929
+Marseille,restaurant,Le Baobab,43.2997968,5.3843248,node,1552506161
+Marseille,restaurant,Les 3 Frères,43.3024303,5.4940587,node,1558637641
+Marseille,restaurant,Le Cigalon,43.314295,5.5117023,node,1576165849
+Marseille,restaurant,Le Grim'O,43.2960004,5.4870901,node,1583328918
+Marseille,restaurant,Canard Laqué,43.2959654,5.4871838,node,1583328968
+Marseille,restaurant,Chez Noël,43.2987426,5.3851893,node,1600583561
+Marseille,restaurant,Le Fémina,43.2962731,5.3785882,node,1600583578
+Marseille,restaurant,Zafer,43.2996527,5.3820885,node,1633046478
+Marseille,restaurant,Tumulte,43.2934401,5.3839387,node,1633793186
+Marseille,restaurant,La Mesa Latina,43.2954574,5.382417,node,1653249116
+Marseille,restaurant,Tabla,43.2927708,5.3834447,node,1653249118
+Marseille,restaurant,Mariposas,43.2928811,5.3833399,node,1653249119
+Marseille,restaurant,Les Terrasses du Midi,43.341701,5.4344028,node,1654552780
+Marseille,restaurant,Chez Etienne,43.3000804,5.3699607,node,1682298866
+Marseille,restaurant,Casa Dipaulo,43.3186812,5.4037691,node,1693726759
+Marseille,restaurant,Sushi West,43.317439,5.4052737,node,1696440251
+Marseille,restaurant,Chez le Belge,43.2098052,5.3724162,node,1710309596
+Marseille,restaurant,La Tasca,43.2931475,5.3915985,node,1711816854
+Marseille,restaurant,Les Arcenaulx,43.2924641,5.3731304,node,1713114304
+Marseille,restaurant,Chez Aldo,43.2327525,5.3538963,node,1720313907
+Marseille,restaurant,Café Simon,43.2927904,5.372876,node,1727495478
+Marseille,restaurant,L'Aromat,43.2920996,5.3738405,node,1727495479
+Marseille,restaurant,Le Printemps,43.3030683,5.3789118,node,1796098734
+Marseille,restaurant,La table du chef,43.2531537,5.4226293,node,1796883510
+Marseille,restaurant,"Restaurant ""Les Tilleuls""",43.2528333,5.421149,node,1796966048
+Marseille,restaurant,"Restaurant ""Le Gepetto""",43.2574338,5.4186936,node,1797919718
+Marseille,restaurant,Au Royaume de la Chantilly,43.2563358,5.4202913,node,1797920585
+Marseille,restaurant,Cantine du Midi,43.31068,5.3871622,node,1798577940
+Marseille,restaurant,Bar restaurant de l'autoroute,43.301566,5.375922,node,1820486490
+Marseille,restaurant,Restaurant Pinocchio,43.2453823,5.4157141,node,1823113429
+Marseille,restaurant,Hôtel bar restaurant Le Valentinois,43.2891223,5.4666003,node,1842949399
+Marseille,restaurant,Le parpaing qui flotte,43.2949731,5.3941733,node,1868944130
+Marseille,restaurant,Le bambino,43.2965047,5.3908802,node,1871316010
+Marseille,restaurant,Marengo Bistroquet,43.2911508,5.3841064,node,1883487962
+Marseille,restaurant,L'Astoria,43.2913634,5.3828294,node,1883487967
+Marseille,restaurant,Le Petit Angkor,43.2918939,5.3729117,node,1886609582
+Marseille,restaurant,L'innattendu,43.292225,5.3729273,node,1886610762
+Marseille,restaurant,Simply food,43.2902594,5.378294,node,1910580775
+Marseille,restaurant,Zaaki,43.2954606,5.3923674,node,1933740918
+Marseille,restaurant,Le 3/4,43.2956096,5.3950055,node,1933746721
+Marseille,restaurant,Georges,43.2955295,5.3937556,node,1933751858
+Marseille,restaurant,Bouillon,43.295392,5.3912637,node,1933758739
+Marseille,restaurant,La Cuisine de Gagny,43.2956477,5.3956492,node,1933775254
+Marseille,restaurant,Kortchma,43.2939122,5.3848412,node,1933794886
+Marseille,restaurant,Adonis du Liban,43.294205,5.3846508,node,1933795432
+Marseille,restaurant,O'Pakistan,43.2941289,5.3848063,node,1933796321
+Marseille,restaurant,Le Quinze,43.294017,5.3848806,node,1933802162
+Marseille,restaurant,La cantine des docks,43.304338,5.36675,node,1941573716
+Marseille,restaurant,spok.,43.299157,5.37201,node,1941593657
+Marseille,restaurant,Le République,43.2990499,5.3715466,node,1941594763
+Marseille,restaurant,Studio B cafe,43.295054,5.375499,node,1941634528
+Marseille,restaurant,Bar de la bourse,43.294897,5.37555,node,1941635042
+Marseille,restaurant,Cafe Garnier,43.294878,5.375455,node,1941638012
+Marseille,restaurant,Sanremo,43.294491,5.37484,node,1941646766
+Marseille,restaurant,L'entrecote,43.29437,5.374862,node,1941647578
+Marseille,restaurant,La Marinière,43.294068,5.374496,node,1941648390
+Marseille,restaurant,La Brasserie,43.2949405,5.3746537,node,1941847112
+Marseille,restaurant,Pizz'Adore,43.3557271,5.4868177,node,1951024439
+Marseille,restaurant,Sans nom,43.3569976,5.4863979,node,1951057722
+Marseille,restaurant,Les terrasses de Saint-Mitre,43.3423915,5.4162215,node,1951069418
+Marseille,restaurant,Snack Gimy,43.2766966,5.4192538,node,1965153165
+Marseille,restaurant,Le Plat Provencal,43.2928369,5.3726787,node,1977547168
+Marseille,restaurant,Via-Roma,43.2482237,5.3752741,node,1982739669
+Marseille,restaurant,El Santo Cachón,43.2937085,5.3889192,node,1992825610
+Marseille,restaurant,La Mama,43.2929442,5.3849086,node,2001201532
+Marseille,restaurant,Pavillon Thaï,43.2928071,5.3850668,node,2001201533
+Marseille,restaurant,Caterine,43.2920928,5.385215,node,2010627425
+Marseille,restaurant,Chez Ida,43.2937855,5.3862742,node,2010715820
+Marseille,restaurant,Signature,43.2764984,5.3943243,node,2012646264
+Marseille,restaurant,Chez Nosia,43.3009694,5.3833536,node,2016443128
+Marseille,restaurant,Nihao,43.3006933,5.3839539,node,2016443154
+Marseille,restaurant,Castell York,43.2861996,5.3832084,node,2019893912
+Marseille,restaurant,Jin Jiang Express,43.2859356,5.3844234,node,2019893919
+Marseille,restaurant,Massena,43.2857371,5.3843462,node,2019893926
+Marseille,restaurant,La Source de Jade,43.2926784,5.3841658,node,2024544245
+Marseille,restaurant,Papà Fredo,43.2943761,5.3829771,node,2024606530
+Marseille,restaurant,Lotus Express,43.2943556,5.3851723,node,2026369726
+Marseille,restaurant,Lacaille Restaurant,43.2944153,5.3850653,node,2026369886
+Marseille,restaurant,Brasserie la Joliette,43.304504,5.366105,node,2027966585
+Marseille,restaurant,Au pagalio,43.302199,5.366119,node,2027989412
+Marseille,restaurant,Chez Mama Africa,43.2943201,5.3809419,node,2028064238
+Marseille,restaurant,Le Colysée,43.3643335,5.4970585,node,2030400907
+Marseille,restaurant,El Paseo,43.29366,5.3853554,node,2038033356
+Marseille,restaurant,Gin Khao,43.2957504,5.3771632,node,2039908842
+Marseille,restaurant,Rajasthan,43.2915325,5.3846136,node,2041086111
+Marseille,restaurant,Le jardin d'à côté,43.2933789,5.3837631,node,2059563924
+Marseille,restaurant,Côté Cours,43.2929413,5.3839138,node,2059612345
+Marseille,restaurant,Il Caffe,43.29351,5.3837131,node,2059612361
+Marseille,restaurant,Hôtel Kyriad,43.2806082,5.3996615,node,2070345398
+Marseille,restaurant,Le Racati,43.3046631,5.3762647,node,2079988847
+Marseille,restaurant,Yamato,43.2922053,5.3840116,node,2085794783
+Marseille,restaurant,L'Alegria,43.2908008,5.3674825,node,2087444104
+Marseille,restaurant,Déjeuner en Ville,43.2967864,5.3733549,node,2103599852
+Marseille,restaurant,Le Miramar,43.296504,5.3732014,node,2103599856
+Marseille,restaurant,Madie Les Galinettes,43.2959825,5.3675516,node,2103604495
+Marseille,restaurant,Trattoria Marco,43.2966905,5.3705318,node,2104634479
+Marseille,restaurant,Le Poulpe,43.2961292,5.368974,node,2104666286
+Marseille,restaurant,Le Disque Bleu,43.2961478,5.3691457,node,2104666287
+Marseille,restaurant,Au Bout du Quai,43.2955262,5.36482,node,2104666288
+Marseille,restaurant,La Cuisine au Beurre,43.29617,5.3693632,node,2104666289
+Marseille,restaurant,So... Marseille,43.2955602,5.3653032,node,2109207081
+Marseille,restaurant,Chez Soi,43.2967419,5.3802868,node,2115079381
+Marseille,restaurant,La Goulette,43.2956441,5.3779578,node,2115079521
+Marseille,restaurant,Ko-Ishi,43.2925228,5.3756732,node,2116957969
+Marseille,restaurant,Les Panisses,43.2925634,5.3757375,node,2116958048
+Marseille,restaurant,La Part des Anges,43.2924307,5.3753939,node,2116958129
+Marseille,restaurant,Marcello,43.292616,5.372097,node,2117029215
+Marseille,restaurant,La Voile De Marco,43.2960286,5.3681596,node,2119952244
+Marseille,restaurant,Entre Terre et Mer,43.2992565,5.3687373,node,2120175327
+Marseille,restaurant,Au coeur du Panier,43.2993416,5.3684255,node,2120175343
+Marseille,restaurant,Le Hippie Chic Café,43.3042459,5.3653537,node,2120589428
+Marseille,restaurant,Le Clan Les Cigales,43.2999846,5.3691257,node,2120669979
+Marseille,restaurant,Dubble,43.3044459,5.3665895,node,2121214963
+Marseille,restaurant,Les Mets des Saintes,43.2918357,5.3726644,node,2136336640
+Marseille,restaurant,Maurice,43.289157,5.3872921,node,2137516953
+Marseille,restaurant,Pulcinella,43.2983068,5.3757006,node,2141553958
+Marseille,restaurant,Au Falafel,43.2929148,5.3761642,node,2171924392
+Marseille,restaurant,Le Mas,43.2928771,5.3759899,node,2171924394
+Marseille,restaurant,L'Origan,43.3085325,5.4001437,node,2174798901
+Marseille,restaurant,La Table de Guy,43.3083923,5.400097,node,2174798902
+Marseille,restaurant,L'Ecailler,43.2932757,5.3734477,node,2235663010
+Marseille,restaurant,La Terrasse du Panier,43.29958,5.3680444,node,2241170433
+Marseille,restaurant,Soir d'Asie,43.3037488,5.3677052,node,2259964682
+Marseille,restaurant,Comptoir des Docks,43.3087654,5.3670956,node,2261496753
+Marseille,restaurant,Dock of the Bay,43.3085922,5.3674695,node,2261517530
+Marseille,restaurant,Brocéliande,43.2929798,5.3731913,node,2264300321
+Marseille,restaurant,La Ferme,43.2932689,5.3732489,node,2264300323
+Marseille,restaurant,Le Cours,43.2926927,5.3725305,node,2264300325
+Marseille,restaurant,Le Cigalon,43.2927507,5.3727148,node,2264300326
+Marseille,restaurant,Fuxia l'épicerie,43.2931384,5.372738,node,2268236772
+Marseille,restaurant,L'annexe,43.2934972,5.3730635,node,2268236773
+Marseille,restaurant,L'esquinade,43.2933971,5.3732099,node,2268236774
+Marseille,restaurant,Le Côte de Boeuf,43.2922742,5.3723216,node,2268236776
+Marseille,restaurant,Les 5 continents,43.2922996,5.3724337,node,2268236777
+Marseille,restaurant,Ginseng,43.2923988,5.3728776,node,2268370124
+Marseille,restaurant,Les plaisirs de l'orient,43.3546421,5.3332387,node,2303498408
+Marseille,restaurant,Le Môle,43.2969937,5.3610907,node,2352033248
+Marseille,restaurant,Le Moyen Orient,43.2927845,5.3725024,node,2360846594
+Marseille,restaurant,La Kahena,43.2964752,5.3741968,node,2364946068
+Marseille,restaurant,Le ventre de l'architecte,43.2614958,5.396232,node,2365855778
+Marseille,restaurant,Le Fair Play,43.2671521,5.3947583,node,2368312850
+Marseille,restaurant,L’atelier des Artistes,43.2919602,5.3846916,node,2375838292
+Marseille,restaurant,Debussy,43.2930234,5.373938,node,2375892952
+Marseille,restaurant,Bistrot l'Horloge,43.2927817,5.3745337,node,2375892953
+Marseille,restaurant,Le Phonographe,43.2930605,5.3741063,node,2375892955
+Marseille,restaurant,Le Pointu,43.2931014,5.374283,node,2375892956
+Marseille,restaurant,Polikarpov,43.2930417,5.3740221,node,2375892960
+Marseille,restaurant,O'sud,43.2929922,5.3737946,node,2375892963
+Marseille,restaurant,L'Estey,43.2920951,5.3843413,node,2376480395
+Marseille,restaurant,Le Commodore,43.2790384,5.3043725,node,2378877014
+Marseille,restaurant,L'À Côté,43.2921271,5.3842422,node,2379123244
+Marseille,restaurant,Matza,43.2921099,5.3842971,node,2379123248
+Marseille,restaurant,Les Tamaris,43.2286661,5.3496522,node,2385129962
+Marseille,restaurant,ID Fixe,43.2937107,5.3829163,node,2394376865
+Marseille,restaurant,L'Escalié,43.2934772,5.3829313,node,2394376867
+Marseille,restaurant,La Bella Pizza,43.291713,5.384286,node,2408318940
+Marseille,restaurant,WOOD La Cantine Gourmande,43.2967539,5.3704837,node,2411216673
+Marseille,restaurant,Aux Demoiselles du Mont,43.2918722,5.3839982,node,2418162621
+Marseille,restaurant,L'Oli Bé,43.3000947,5.3861863,node,2459834252
+Marseille,restaurant,Brasserie Le Terminus,43.2763622,5.3947924,node,2590099744
+Marseille,restaurant,Maison Campo,43.2764,5.394372,node,2590099746
+Marseille,restaurant,Label'Ferme,43.2498953,5.3818132,node,2598173070
+Marseille,restaurant,Sans nom,43.334293,5.3582685,node,2645349799
+Marseille,restaurant,Bar Manolo,43.2993271,5.3687531,node,2682321635
+Marseille,restaurant,Le Kaliente,43.3565245,5.3572536,node,2761510021
+Marseille,restaurant,Brasserie La Suite,43.3536221,5.338441,node,2806207797
+Marseille,restaurant,Le Balagan,43.2805094,5.3899776,node,2822274192
+Marseille,restaurant,La Rizière,43.2801257,5.3903719,node,2822275288
+Marseille,restaurant,Le Café Thai,43.2788252,5.3918525,node,2822280855
+Marseille,restaurant,Le 163,43.2779885,5.3926907,node,2822287680
+Marseille,restaurant,Casanostra,43.2768412,5.3941231,node,2822291433
+Marseille,restaurant,Nguyen Hoang,43.2982995,5.3710822,node,2841631329
+Marseille,restaurant,New Dalat,43.2981134,5.3706724,node,2841633942
+Marseille,restaurant,La Goulette,43.2907132,5.3670917,node,2841640331
+Marseille,restaurant,Love sushi,43.246456,5.4027865,node,2841931136
+Marseille,restaurant,Le jardin,43.2463188,5.4026949,node,2841931137
+Marseille,restaurant,L'Odyssée,43.2473485,5.4014189,node,2841931138
+Marseille,restaurant,L'Algéroise,43.3118317,5.3724436,node,2862082917
+Marseille,restaurant,Rafraf,43.3116869,5.3726505,node,2862082932
+Marseille,restaurant,Les Grandes Tables,43.3102775,5.3911244,node,2866310390
+Marseille,restaurant,Maloca,43.3113604,5.3869823,node,2866851703
+Marseille,restaurant,Bistrot Alexandre,43.3254041,5.3819679,node,2878130113
+Marseille,restaurant,Le New Barroco,43.325601,5.3815958,node,2878130115
+Marseille,restaurant,L’EFL Café,43.3254215,5.3816157,node,2878130116
+Marseille,restaurant,Le Rostand,43.2874534,5.380745,node,2958176921
+Marseille,restaurant,Le Bouchon Provençal,43.293049,5.371451,node,2973016536
+Marseille,restaurant,L'Oxford,43.3439316,5.4397476,node,3045261155
+Marseille,restaurant,La Table d'Augustin,43.3432169,5.4469259,node,3045263256
+Marseille,restaurant,Dayo,43.2969019,5.3671656,node,3105395330
+Marseille,restaurant,Chez Angèle,43.296902,5.366896,node,3105395331
+Marseille,restaurant,Ristorante Del Arte,43.2945732,5.3748344,node,3172251361
+Marseille,restaurant,Waroeng Bali,43.2837108,5.3837532,node,3182859597
+Marseille,restaurant,Le Yen Seiiki,43.2830198,5.3849187,node,3182902879
+Marseille,restaurant,Sushi Sashimi,43.3452618,5.4612091,node,3194279756
+Marseille,restaurant,Le Pacifique,43.2898344,5.4401777,node,3204079819
+Marseille,restaurant,Les Muriers,43.2901372,5.4411167,node,3204079820
+Marseille,restaurant,Bar Marseillais,43.2899556,5.4412078,node,3204621456
+Marseille,restaurant,Pizza La Juliana,43.2730373,5.4104982,node,3274585766
+Marseille,restaurant,Pizza La Patronne,43.2877651,5.3823376,node,3326665456
+Marseille,restaurant,Nem de la Millière,43.2834141,5.5000906,node,3369357423
+Marseille,restaurant,Black Angus,43.3013608,5.477182,node,3369421528
+Marseille,restaurant,Sans nom,43.2737355,5.4141282,node,3370637730
+Marseille,restaurant,Black & White,43.2815072,5.3814507,node,3374843142
+Marseille,restaurant,Le 444,43.3147247,5.3708862,node,3391011714
+Marseille,restaurant,Le Dessus du Panier,43.3147063,5.3708178,node,3391011715
+Marseille,restaurant,Le Comptoir d'Endoume,43.2902775,5.3664624,node,3404570685
+Marseille,restaurant,Du côté d'Antalia,43.3706045,5.3560967,node,3439591713
+Marseille,restaurant,Restaurant UCPA (niv. -1),43.338513,5.2573308,node,3486984363
+Marseille,restaurant,La Table Cinq,43.3029223,5.3974757,node,3535291153
+Marseille,restaurant,SuandShi,43.3027735,5.3970368,node,3535291155
+Marseille,restaurant,Il Cuoco,43.2995311,5.371082,node,3535421378
+Marseille,restaurant,Vinoneo,43.2978337,5.3693324,node,3535421379
+Marseille,restaurant,Toma,43.2918143,5.3742516,node,3535549268
+Marseille,restaurant,Brasserie de la Poste,43.3192719,5.367643,node,3539250758
+Marseille,restaurant,Le Vargas,43.3187699,5.367635,node,3539250761
+Marseille,restaurant,El Chourouk,43.301791,5.3779007,node,3594277008
+Marseille,restaurant,El-Bahdja,43.30192,5.3792338,node,3594277009
+Marseille,restaurant,Trois Etoiles du Lyon,43.329426,5.3656363,node,3606665478
+Marseille,restaurant,Le Cyberyann Café,43.2914293,5.3798352,node,3609102053
+Marseille,restaurant,Al dente,43.2893564,5.3798023,node,3609134042
+Marseille,restaurant,Fraîcheur d'Asie,43.2894902,5.3794477,node,3609139801
+Marseille,restaurant,Le Félicie,43.2895175,5.3799237,node,3609139802
+Marseille,restaurant,Le Petit Caboulot,43.2893255,5.3788714,node,3610260412
+Marseille,restaurant,Chez Sylvie,43.313068,5.3705971,node,3612875503
+Marseille,restaurant,Hoki Sushi,43.363399,5.3466015,node,3634336619
+Marseille,restaurant,Le Comptoir Dugommier,43.2985311,5.381148,node,3638685183
+Marseille,restaurant,Les Eaux de Mars,43.3026043,5.392375,node,3638692572
+Marseille,restaurant,Wake Up,43.3090758,5.3727008,node,3647443701
+Marseille,restaurant,Le Terroir Corse,43.2918394,5.3840568,node,3717633486
+Marseille,restaurant,Baskawaï,43.2921128,5.383543,node,3717636775
+Marseille,restaurant,Pizza Gégé,43.3555807,5.410095,node,3719979009
+Marseille,restaurant,Les délices de Rania,43.3353672,5.4202637,node,3724763715
+Marseille,restaurant,Green Bear Coffee,43.2985345,5.3828308,node,3768685633
+Marseille,restaurant,l'Arôme,43.2942657,5.384722,node,3768730553
+Marseille,restaurant,Le Bar à Vrac,43.2992195,5.3844977,node,3770283182
+Marseille,restaurant,La Bolognaise,43.3310066,5.4275062,node,3779480022
+Marseille,restaurant,Restaurant Anatolie,43.3286787,5.426597,node,3780623741
+Marseille,restaurant,Urbanfood,43.328371,5.4258731,node,3780623743
+Marseille,restaurant,Le Palais d'Asie,43.257388,5.3945271,node,3790446324
+Marseille,restaurant,Le Petit Naples,43.3598435,5.3163606,node,3790471135
+Marseille,restaurant,Lou Chambri,43.3598598,5.3162965,node,3790471136
+Marseille,restaurant,Da Paolo,43.2474885,5.3973815,node,3790494525
+Marseille,restaurant,O'Bistrot d'Arménie,43.2858379,5.4799674,node,3799422419
+Marseille,restaurant,L'Esplaï du Grand Bar des Goudes,43.2151721,5.3459702,node,3804455751
+Marseille,restaurant,Restaurant Saf Saf,43.2974118,5.379323,node,3805462228
+Marseille,restaurant,Côté Rue,43.2973716,5.3660837,node,3807748866
+Marseille,restaurant,Oscar's bagels,43.2935367,5.3723866,node,3814418205
+Marseille,restaurant,Bar le Berlioz,43.2897565,5.385306,node,3819939250
+Marseille,restaurant,Snack Pizzeria L'Arche,43.3484153,5.3590927,node,3821145293
+Marseille,restaurant,Sans nom,43.3367256,5.3628023,node,3830903302
+Marseille,restaurant,Bar Nautic,43.2131252,5.4433468,node,3837547583
+Marseille,restaurant,Le palais de la major,43.2990328,5.3638487,node,3884913209
+Marseille,restaurant,Casa Consolat,43.2996555,5.3860854,node,3893473657
+Marseille,restaurant,Pizza Sandwichs,43.2943055,5.4340801,node,3896650823
+Marseille,restaurant,Gerarh,43.2945608,5.3828907,node,3906578983
+Marseille,restaurant,Snack de La Pomme,43.290207,5.4415405,node,3932162122
+Marseille,restaurant,L'Orchidée,43.2839778,5.4356744,node,3992084768
+Marseille,restaurant,Le Classico,43.2696294,5.4265251,node,4009662395
+Marseille,restaurant,Chez Paul,43.2737743,5.4300916,node,4016684178
+Marseille,restaurant,Brasserie L'Embarcadère,43.2984089,5.3637868,node,4048287529
+Marseille,restaurant,Le Saint-Giniez,43.27003,5.3880315,node,4064793661
+Marseille,restaurant,Brasserie O' Parc,43.2716056,5.3930975,node,4066799527
+Marseille,restaurant,Sur le pouce,43.3029058,5.3694142,node,4073347225
+Marseille,restaurant,Les Saveurs du Falafel,43.2828316,5.3859087,node,4082454780
+Marseille,restaurant,EasySushi,43.2886346,5.3932607,node,4087718751
+Marseille,restaurant,Délices de Baille,43.2885579,5.3942251,node,4087718753
+Marseille,restaurant,L'Antre 2,43.2909895,5.3933457,node,4087718754
+Marseille,restaurant,Hailo,43.2886956,5.3947971,node,4087718757
+Marseille,restaurant,L'Étoile de Beyrouth,43.2850901,5.3897776,node,4109316466
+Marseille,restaurant,Pizza Marius,43.2850593,5.389852,node,4109316472
+Marseille,restaurant,Hong Kong 2,43.3090756,5.4017753,node,4122998106
+Marseille,restaurant,Chez Lili,43.3068498,5.4005454,node,4127983359
+Marseille,restaurant,La Marine des Goudes,43.2153037,5.3465249,node,4171583187
+Marseille,restaurant,Royal Asia,43.3153138,5.3840597,node,4182817409
+Marseille,restaurant,La Solelade,43.247285,5.4240961,node,4227047019
+Marseille,restaurant,L'Escapade,43.3339775,5.4073684,node,4227920094
+Marseille,restaurant,Le petit plat,43.2730913,5.3914072,node,4232144290
+Marseille,restaurant,La Fontaine,43.2848987,5.3858482,node,4235312884
+Marseille,restaurant,Corner café,43.2929187,5.3799108,node,4235386307
+Marseille,restaurant,Brasserie Glacier Le Cortes,43.2915086,5.3807697,node,4235386312
+Marseille,restaurant,Dubble,43.2907408,5.3792392,node,4235386315
+Marseille,restaurant,Le Régent,43.2943244,5.3769698,node,4235395049
+Marseille,restaurant,Chez Paulette,43.2377418,5.3615737,node,4239668610
+Marseille,restaurant,Modern Sushi,43.3429032,5.4085493,node,4262898934
+Marseille,restaurant,Urban Kitchen,43.2832409,5.3904366,node,4274489769
+Marseille,restaurant,L'Olympe,43.2687714,5.4028399,node,4290912667
+Marseille,restaurant,Brasserie-tabac du rond point,43.250487,5.4031471,node,4302847956
+Marseille,restaurant,Le Bistrot à Vin,43.2926044,5.3760181,node,4315409673
+Marseille,restaurant,Lilin,43.2925903,5.3753621,node,4315409674
+Marseille,restaurant,Spok,43.2928602,5.3761822,node,4315409676
+Marseille,restaurant,Bar Restaurant des Chutes Lavie,43.3157955,5.3986182,node,4352651688
+Marseille,restaurant,Kuai Le Express,43.2687964,5.4043696,node,4360643135
+Marseille,restaurant,La Folle Epoque,43.2911226,5.3792783,node,4374349386
+Marseille,restaurant,Ezio,43.2910607,5.3793152,node,4374349387
+Marseille,restaurant,Grand Bar Pierre,43.2909276,5.3793818,node,4374349388
+Marseille,restaurant,La Marmite,43.2929771,5.3776757,node,4376947654
+Marseille,restaurant,Snack Pizzeria Rama,43.3241063,5.4036517,node,4379191637
+Marseille,restaurant,L'Entre Pots,43.3002474,5.3865411,node,4396418908
+Marseille,restaurant,L'Actuel,43.3061005,5.3931477,node,4401243512
+Marseille,restaurant,Restaurant Palandöken,43.2992908,5.3827426,node,4405959292
+Marseille,restaurant,Golda,43.299321,5.3823303,node,4405959295
+Marseille,restaurant,Mésopotamie Restaurant,43.2993616,5.3814974,node,4405959300
+Marseille,restaurant,Le Fantastique,43.2873394,5.3896722,node,4416005713
+Marseille,restaurant,Ô lapin blanc,43.2489052,5.3817526,node,4426184192
+Marseille,restaurant,Chez Michel,43.2907009,5.356069,node,4426810910
+Marseille,restaurant,La Vieille Pelle,43.2964759,5.3658679,node,4426912790
+Marseille,restaurant,Le Quai du 7ème,43.2923922,5.3672774,node,4427776456
+Marseille,restaurant,Kaboul Fast Food,43.3075105,5.3818418,node,4430423952
+Marseille,restaurant,point chaud traiteur,43.3074344,5.3822397,node,4430509406
+Marseille,restaurant,Le Moga,43.3009027,5.3882331,node,4463345819
+Marseille,restaurant,Ô ha noi,43.3004297,5.388458,node,4463345825
+Marseille,restaurant,Meo Midnight,43.2935259,5.3817421,node,4477293478
+Marseille,restaurant,Restaurant de la Cité de la Cosmétique,43.3429259,5.3708808,node,4524956220
+Marseille,restaurant,Une table au sud,43.2963677,5.373659,node,4528496329
+Marseille,restaurant,l'Alcyone,43.2984993,5.3702123,node,4528496653
+Marseille,restaurant,Tako-San,43.2996146,5.3668782,node,4535006489
+Marseille,restaurant,Okaäsan,43.2942315,5.3847572,node,4535046089
+Marseille,restaurant,Taste,43.3435353,5.364586,node,4551112308
+Marseille,restaurant,Le Paki,43.294321,5.3869752,node,4560696392
+Marseille,restaurant,Restaurant Du Centre Equestre,43.2362946,5.367627,node,4567712948
+Marseille,restaurant,Hippopotamus Marseille la Valentine,43.2893233,5.4806831,node,4574040337
+Marseille,restaurant,Restaurant la Rouvière,43.2531841,5.4227033,node,4581974105
+Marseille,restaurant,Seven Set Park,43.3019246,5.4928509,node,4585327357
+Marseille,restaurant,L'Étincelle,43.3609019,5.3132416,node,4591323691
+Marseille,restaurant,La Plage,43.3608514,5.3134931,node,4591323693
+Marseille,restaurant,La Rade,43.3608152,5.3135612,node,4591323694
+Marseille,restaurant,Bar Restaurant La Corsoise,43.3083203,5.3700016,node,4605492530
+Marseille,restaurant,Les Saveurs du Sénégal,43.2947087,5.3802667,node,4629705575
+Marseille,restaurant,Chez Youcef,43.2948772,5.3802504,node,4629705576
+Marseille,restaurant,Fidèle,43.2975862,5.3846328,node,4680622615
+Marseille,restaurant,Le monumental,43.2985071,5.3807421,node,4713564662
+Marseille,restaurant,Ghomrassen,43.2986272,5.3807214,node,4713564948
+Marseille,restaurant,L'Argentin Grill,43.2858798,5.3848251,node,4716749815
+Marseille,restaurant,Cesar Place,43.2928184,5.3720255,node,4764597123
+Marseille,restaurant,Le Sri Ganesh,43.2926692,5.3721084,node,4764599711
+Marseille,restaurant,Travers,43.2929333,5.3719986,node,4764599835
+Marseille,restaurant,Le Nam Viet,43.2927631,5.3720514,node,4764600996
+Marseille,restaurant,Paule et Kopa,43.2922069,5.3720484,node,4764603324
+Marseille,restaurant,La Crêpe au Carré,43.292181,5.3718635,node,4764605526
+Marseille,restaurant,Le Bistrot des Dames,43.2923153,5.3717768,node,4764606931
+Marseille,restaurant,Le Bon Burger,43.2925887,5.3716738,node,4764607797
+Marseille,restaurant,Prosper,43.2946811,5.3843258,node,4777343721
+Marseille,restaurant,La Poissonnerie,43.2815126,5.360701,node,4796697726
+Marseille,restaurant,Restaurant de l'UNM,43.2934602,5.3604913,node,4822485124
+Marseille,restaurant,Les Buffets du Vieux-Port,43.2959748,5.3670845,node,4844538728
+Marseille,restaurant,Chez riz,43.2879584,5.3636106,node,4846089448
+Marseille,restaurant,Sur Le Pouce,43.2997873,5.3785445,node,4846674722
+Marseille,restaurant,L'Amant,43.2858152,5.3830744,node,4874872200
+Marseille,restaurant,Chez Ze,43.2246768,5.4168244,node,4918463632
+Marseille,restaurant,Pizza 26,43.2975727,5.3975613,node,4922701766
+Marseille,restaurant,Le Petit Pernod,43.2964615,5.3732997,node,4951187124
+Marseille,restaurant,L'Hyppocampe,43.2965289,5.3730654,node,4951205723
+Marseille,restaurant,Le Petit Nice Passedat,43.2801442,5.3519239,node,5020212275
+Marseille,restaurant,Le Levant,43.3007314,5.3821114,node,5041218622
+Marseille,restaurant,Tapas Rojas,43.3031003,5.3895603,node,5041218623
+Marseille,restaurant,Aux Antipodes,43.2926788,5.3753307,node,5041232621
+Marseille,restaurant,Le Citronnier,43.2987388,5.4015153,node,5041270622
+Marseille,restaurant,La Table du Fort,43.2928004,5.3712189,node,5041285221
+Marseille,restaurant,Dilatante,43.2789052,5.3037137,node,5059169223
+Marseille,restaurant,Sans nom,43.297263,5.3685045,node,5070023986
+Marseille,restaurant,L'Effet Clochette,43.2974242,5.3687329,node,5070023987
+Marseille,restaurant,L'Hyppocampe,43.3616888,5.3080819,node,5070785802
+Marseille,restaurant,Potala Korner,43.2987086,5.3656722,node,5085316737
+Marseille,restaurant,Le Tchitchou,43.2975219,5.3975703,node,5113533922
+Marseille,restaurant,Chez Yassine,43.2956591,5.3788513,node,5119639619
+Marseille,restaurant,Le Club,43.343021,5.4466398,node,5130614315
+Marseille,restaurant,Centre de plongée UCPA,43.214026,5.3375253,node,5131797021
+Marseille,restaurant,L'inattendu,43.316867,5.3776918,node,5132892030
+Marseille,restaurant,Le Need's,43.2931213,5.3721,node,5135670644
+Marseille,restaurant,Le Blanc Bleu,43.2930917,5.3723489,node,5135673388
+Marseille,restaurant,Bebelito,43.2489583,5.4174034,node,5139621781
+Marseille,restaurant,La Baie du Dragon,43.2920507,5.383662,node,5141491540
+Marseille,restaurant,Ashourya,43.3015554,5.387485,node,5141525728
+Marseille,restaurant,Santa Gusto,43.2734737,5.3911971,node,5148076777
+Marseille,restaurant,Negresko,43.2703968,5.3921353,node,5148084974
+Marseille,restaurant,Le Tchap’s,43.2822588,5.4299825,node,5181596457
+Marseille,restaurant,Restaurant de la Renaissance,43.2815269,5.4255077,node,5188583893
+Marseille,restaurant,Rodizio Brazil,43.297252,5.3735596,node,5193941531
+Marseille,restaurant,Double Cuisson,43.2966707,5.3740338,node,5193941544
+Marseille,restaurant,Shuriken Sushi,43.2893687,5.3819634,node,5203786351
+Marseille,restaurant,Pizza Béa,43.3430635,5.4691992,node,5204378430
+Marseille,restaurant,La Maison Toscane,43.3431378,5.4657863,node,5204401264
+Marseille,restaurant,Le 44,43.3426839,5.4683587,node,5204401265
+Marseille,restaurant,Ambassade de Bretagne,43.3059858,5.3661523,node,5228191449
+Marseille,restaurant,Les enfants gâtés,43.2868099,5.5319742,node,5294421931
+Marseille,restaurant,Shanghai Kitchen,43.2932433,5.374241,node,5310125722
+Marseille,restaurant,Café de lla Place,43.3518978,5.4390807,node,5310285848
+Marseille,restaurant,Délicia Pizza,43.352122,5.4397089,node,5310285850
+Marseille,restaurant,La Table Marseillaise,43.3522438,5.4383856,node,5310286909
+Marseille,restaurant,Les Mezzés,43.3517345,5.4387394,node,5310287084
+Marseille,restaurant,Le Fil à la Pâte,43.3516891,5.438797,node,5310287085
+Marseille,restaurant,La Table d'Arménie,43.3517603,5.4401529,node,5310287091
+Marseille,restaurant,Baie d'Along,43.3516652,5.4399101,node,5310287572
+Marseille,restaurant,Sans nom,43.2955711,5.3653689,node,5310506023
+Marseille,restaurant,Pallet's CAFE,43.295833,5.4820812,node,5339998840
+Marseille,restaurant,Le jardin caché,43.2966136,5.4832296,node,5340008312
+Marseille,restaurant,Best Pizza,43.2970922,5.4839971,node,5340013176
+Marseille,restaurant,Tomo Sushi,43.2970524,5.4841776,node,5340024214
+Marseille,restaurant,La Brasserie,43.296991,5.4842459,node,5340029626
+Marseille,restaurant,L'Un Des Sens,43.2969814,5.4843331,node,5340036804
+Marseille,restaurant,Nikki Sushi,43.2961997,5.4861285,node,5340041609
+Marseille,restaurant,Pizza Du Village,43.2962435,5.4868487,node,5340044041
+Marseille,restaurant,Le New First,43.2954684,5.4881533,node,5340046921
+Marseille,restaurant,Suandshi,43.29504,5.4891424,node,5340051318
+Marseille,restaurant,Le Pacifique 2,43.2961053,5.4894627,node,5341411811
+Marseille,restaurant,Le Castel,43.3575086,5.3369007,node,5405765486
+Marseille,restaurant,Sumo Suhi Bar,43.3580131,5.3380319,node,5405765487
+Marseille,restaurant,chez vallè,43.283642,5.3749958,node,5516794255
+Marseille,restaurant,Les Trottoirs Marseillais,43.2431596,5.3698406,node,5519810618
+Marseille,restaurant,Le Carré,43.2433294,5.36959,node,5519912632
+Marseille,restaurant,Court Circuit,43.2919362,5.384772,node,5533534983
+Marseille,restaurant,Le Grand Pin,43.2568072,5.3939949,node,5534080781
+Marseille,restaurant,Le Petit Pondichery,43.3028257,5.3959997,node,5537809334
+Marseille,restaurant,Noudjoum,43.3010071,5.3773871,node,5537934550
+Marseille,restaurant,Cirta,43.3007585,5.3759126,node,5541113892
+Marseille,restaurant,Saveur du Paradis,43.2728949,5.4105762,node,5566947472
+Marseille,restaurant,Wadina,43.2862957,5.377544,node,5592877410
+Marseille,restaurant,Chez Marylou,43.2986464,5.3988793,node,5600549922
+Marseille,restaurant,Le Soleil,43.3008039,5.3770009,node,5605211605
+Marseille,restaurant,La Passarelle,43.2919778,5.3672245,node,5612345322
+Marseille,restaurant,El Kahina,43.3007336,5.3765768,node,5628777176
+Marseille,restaurant,Le Royal,43.3008175,5.3770821,node,5661128654
+Marseille,restaurant,Le Capitole,43.3008273,5.3779451,node,5664606042
+Marseille,restaurant,Snack express,43.2962326,5.3762145,node,5743534864
+Marseille,restaurant,Friterie Werner & Co,43.2969804,5.3818079,node,5758052013
+Marseille,restaurant,O’Provencal,43.2946951,5.379146,node,5785292453
+Marseille,restaurant,Fleur de Sel,43.2892212,5.3757363,node,5785292454
+Marseille,restaurant,Oaï,43.2923564,5.3743793,node,5785295653
+Marseille,restaurant,Bistro Regent Marseille,43.2933027,5.373381,node,5788227253
+Marseille,restaurant,Le Melo,43.2939298,5.3829821,node,5795578741
+Marseille,restaurant,Chez Roger,43.2965248,5.3723763,node,5795578742
+Marseille,restaurant,Manureva,43.2899412,5.4794932,node,5809254855
+Marseille,restaurant,Le Newport,43.2455183,5.3738756,node,5809288753
+Marseille,restaurant,Down town,43.323769,5.4526378,node,5814607454
+Marseille,restaurant,Escapade Marseillaise,43.287616,5.3791319,node,5815425649
+Marseille,restaurant,Collins,43.2964623,5.3715778,node,5817418405
+Marseille,restaurant,Les Templiers,43.2965232,5.37441,node,5817421113
+Marseille,restaurant,Le Mistral,43.2961906,5.3694916,node,5817421516
+Marseille,restaurant,Dubble,43.2893572,5.3959367,node,5817465847
+Marseille,restaurant,O saveurs du Liban,43.2935688,5.3735235,node,5822477586
+Marseille,restaurant,Chez Mama Africa,43.2951013,5.3830245,node,5824103358
+Marseille,restaurant,Yasmine,43.2961286,5.3679445,node,5842447185
+Marseille,restaurant,Bracelet d'argent,43.2979315,5.3714364,node,5843718126
+Marseille,restaurant,Black Friday,43.2943298,5.3807499,node,5878692908
+Marseille,restaurant,Le ventre de la baleine,43.2936542,5.3836796,node,5903699153
+Marseille,restaurant,Grill Boucherie,43.2500113,5.4046753,node,5913412890
+Marseille,restaurant,Aras,43.3129966,5.3844595,node,5930775684
+Marseille,restaurant,Bistro Vénitien,43.2947186,5.3832045,node,5983836878
+Marseille,restaurant,K'Fete du Monde,43.3051372,5.3812976,node,5988199645
+Marseille,restaurant,The Jungle,43.2881345,5.376602,node,6005431651
+Marseille,restaurant,L'ancre du panier,43.2993034,5.3683116,node,6030739730
+Marseille,restaurant,Le Montmartre,43.2975982,5.3659036,node,6031903349
+Marseille,restaurant,Le vieux panier,43.2974461,5.3655208,node,6031903638
+Marseille,restaurant,Au Lampard,43.2975278,5.3659192,node,6031903639
+Marseille,restaurant,Cedar,43.2978064,5.3655684,node,6031928974
+Marseille,restaurant,La caveau su théâtre,43.2975943,5.3654834,node,6031932646
+Marseille,restaurant,Chez PP,43.3012115,5.4315153,node,6106474679
+Marseille,restaurant,Bar Tranquille,43.3252412,5.3741799,node,6129966104
+Marseille,restaurant,Pastels World,43.2951779,5.3798595,node,6139186986
+Marseille,restaurant,Marmara,43.299899,5.3858401,node,6145441225
+Marseille,restaurant,Les blés d'or,43.304663,5.3763951,node,6163137643
+Marseille,restaurant,ô Nem,43.3027954,5.3977874,node,6170637394
+Marseille,restaurant,Chez Vincent,43.302874,5.397141,node,6170638066
+Marseille,restaurant,Bistrot O’Prado,43.2797429,5.3868374,node,6185320685
+Marseille,restaurant,Oscar,43.2965375,5.3724829,node,6205261811
+Marseille,restaurant,Le Debouche,43.3014752,5.3875524,node,6210210086
+Marseille,restaurant,La Cave d'Alexandre,43.2894233,5.3876728,node,6258990576
+Marseille,restaurant,For'eat,43.2976279,5.427411,node,6328537700
+Marseille,restaurant,La Boiseraie,43.2957226,5.4237123,node,6328537861
+Marseille,restaurant,Maison Buon,43.2914832,5.373851,node,6332080239
+Marseille,restaurant,La Capsule,43.2906614,5.4216919,node,6409052707
+Marseille,restaurant,Le 555,43.2906338,5.4210881,node,6409052712
+Marseille,restaurant,La Boucle,43.3012036,5.5101659,node,6416533292
+Marseille,restaurant,Le Pèbre d'Aï,43.3013826,5.5122748,node,6419094525
+Marseille,restaurant,Au Jardin de la Clue,43.3095771,5.5033853,node,6434134382
+Marseille,restaurant,L’Equinoxe,43.2549337,5.3754904,node,6446013989
+Marseille,restaurant,Le Panier a Burgers,43.3004229,5.40016,node,6446118786
+Marseille,restaurant,Bistrot 13B,43.2922203,5.3751327,node,6446220685
+Marseille,restaurant,Chez Nous,43.2917941,5.3841391,node,6446255385
+Marseille,restaurant,La Grivoise,43.2939744,5.3849078,node,6446275585
+Marseille,restaurant,Le Corto,43.2917459,5.3842231,node,6446286985
+Marseille,restaurant,Le Bistro Du Panier,43.2969239,5.3672497,node,6465399785
+Marseille,restaurant,BoboLivo,43.2966753,5.3669063,node,6465446985
+Marseille,restaurant,Mame Diarra,43.2959142,5.3810383,node,6473742739
+Marseille,restaurant,ubud-bali,43.2855508,5.3823162,node,6517947904
+Marseille,restaurant,La Rôtisserie des Saveurs,43.3271275,5.3640577,node,6553299246
+Marseille,restaurant,Le Bestouan,43.2131337,5.5312881,node,6554684281
+Marseille,restaurant,Sans nom,43.3271183,5.3627149,node,6565151913
+Marseille,restaurant,Planet Sushi,43.2843676,5.3841883,node,6571076606
+Marseille,restaurant,Vapiano,43.2844493,5.3841254,node,6571078195
+Marseille,restaurant,Wasabi,43.2845135,5.3853216,node,6571113289
+Marseille,restaurant,Marmites & Vapeur,43.2929014,5.3726383,node,6575039791
+Marseille,restaurant,Gold Eagles,43.2891889,5.4806209,node,6577703036
+Marseille,restaurant,Le Tire-Bouchon,43.2952055,5.3829433,node,6589753096
+Marseille,restaurant,Bistro du Cours,43.295141,5.382968,node,6589753097
+Marseille,restaurant,120°C,43.2893059,5.3970028,node,6604942973
+Marseille,restaurant,Restaurant Thien Huong,43.3083767,5.4370355,node,6627597553
+Marseille,restaurant,C'Thaï,43.3078551,5.4321747,node,6627601793
+Marseille,restaurant,Rendez-Vous,43.3010731,5.3974,node,6631640472
+Marseille,restaurant,l'Oleas,43.2947645,5.3831738,node,6655677585
+Marseille,restaurant,O’Bidul,43.29199,5.3807056,node,6669549585
+Marseille,restaurant,Maracana pizzeria,43.3218885,5.3806237,node,6691863718
+Marseille,restaurant,Street Pizz',43.2887131,5.4555498,node,6700838091
+Marseille,restaurant,Monsieur Georges,43.2779352,5.3886906,node,6723039744
+Marseille,restaurant,L'Élite Istambul,43.2779919,5.3886574,node,6723044815
+Marseille,restaurant,Le Kilt,43.2782237,5.3885321,node,6723056951
+Marseille,restaurant,L'Escale,43.2447921,5.3723963,node,6737202810
+Marseille,restaurant,Le Lagon Bleu,43.2444454,5.3717195,node,6737202811
+Marseille,restaurant,Saona Beach,43.2445211,5.3718953,node,6737202812
+Marseille,restaurant,P.Kitchen,43.2443157,5.3712878,node,6737202813
+Marseille,restaurant,Hong Kong 3,43.3352988,5.4508039,node,6738889487
+Marseille,restaurant,Kitchenwok,43.3401325,5.4564781,node,6742439553
+Marseille,restaurant,Marinelli,43.2443363,5.3703437,node,6766431732
+Marseille,restaurant,Ô Beach,43.2442008,5.3707359,node,6766454555
+Marseille,restaurant,Boccascena,43.3108452,5.3676072,node,6779257019
+Marseille,restaurant,Sans nom,43.3261191,5.3565913,node,6794518682
+Marseille,restaurant,La Marmite Joyeuse,43.3026191,5.3865093,node,6836650508
+Marseille,restaurant,Le Comptoir Bellevue,43.2964759,5.3720023,node,6860035444
+Marseille,restaurant,Le Grand Comptoir de Paris,43.2964707,5.3719306,node,6860035445
+Marseille,restaurant,Les Trésors du Liban,43.2620951,5.4040099,node,6862790012
+Marseille,restaurant,La Passerellle,43.3207873,5.3791675,node,6877510027
+Marseille,restaurant,La boite à sardine,43.2991603,5.3859643,node,6878567283
+Marseille,restaurant,Casa Brandi chez Marco e Luigi,43.2863592,5.3775119,node,6889094797
+Marseille,restaurant,Les Amis,43.3230674,5.382704,node,6898227629
+Marseille,restaurant,La Belle Étoile,43.3176396,5.3814313,node,6912384509
+Marseille,restaurant,Comptoir libanais,43.2421113,5.3966502,node,6983370975
+Marseille,restaurant,L'indécis,43.2900502,5.3985503,node,7012713782
+Marseille,restaurant,La Raclette,43.2948725,5.3831163,node,7054970475
+Marseille,restaurant,Volodia,43.2991175,5.3663497,node,7086367098
+Marseille,restaurant,Maman Shelter,43.2904755,5.3890056,node,7096089401
+Marseille,restaurant,Taste,43.2928229,5.3751756,node,7104753923
+Marseille,restaurant,Sud Pizza,43.3006898,5.3668257,node,7110830786
+Marseille,restaurant,L'absinthe,43.2945195,5.3995439,node,7112360325
+Marseille,restaurant,O'Kwat,43.3621927,5.3150472,node,7190137243
+Marseille,restaurant,Dandy’o,43.3101876,5.3678217,node,7208201033
+Marseille,restaurant,Healthy by nature,43.3105084,5.3679166,node,7208201912
+Marseille,restaurant,La Pâte à Pizza,43.2939087,5.3870623,node,7234965440
+Marseille,restaurant,La Ola,43.2944299,5.3837869,node,7247225071
+Marseille,restaurant,Le petit jardin,43.2476324,5.3753247,node,7261787169
+Marseille,restaurant,Sans nom,43.3477589,5.465008,node,7328145385
+Marseille,restaurant,La Diva,43.3520104,5.4757672,node,7331907274
+Marseille,restaurant,Vapiano,43.2889691,5.4816142,node,7332186482
+Marseille,restaurant,Amista,43.2899438,5.480611,node,7332987258
+Marseille,restaurant,Pizzeria l'artisanale,43.2820841,5.4296413,node,7334168261
+Marseille,restaurant,Sans nom,43.2855297,5.4805466,node,7335111040
+Marseille,restaurant,La Piraterie,43.3031492,5.4730609,node,7335780315
+Marseille,restaurant,Sans nom,43.3453578,5.4253936,node,7343837560
+Marseille,restaurant,Delicia Rôtisserie,43.3512199,5.4384699,node,7346029773
+Marseille,restaurant,Romy,43.2913154,5.3855344,node,7414618360
+Marseille,restaurant,MyBurgerBox,43.2846211,5.3817481,node,7568857277
+Marseille,restaurant,Le Caribou,43.2933101,5.3726766,node,7614761186
+Marseille,restaurant,La Daurade,43.2934492,5.3733846,node,7614761385
+Marseille,restaurant,Le miniut,43.2902431,5.3662594,node,7616506347
+Marseille,restaurant,Hako,43.280873,5.3687954,node,7621888782
+Marseille,restaurant,Baan Thai,43.2821041,5.3737883,node,7621890271
+Marseille,restaurant,Maison Vauban,43.2823936,5.3740814,node,7621890273
+Marseille,restaurant,Ate Qu'enfim,43.2866144,5.3904181,node,7707713584
+Marseille,restaurant,Café Populaire,43.2887918,5.3786203,node,7719557085
+Marseille,restaurant,Restaurant du château,43.2955721,5.5024544,node,7749927836
+Marseille,restaurant,Dubble,43.2793467,5.4055462,node,7752785819
+Marseille,restaurant,Tuba,43.2179289,5.3457796,node,7770163799
+Marseille,restaurant,Chez Paul,43.2151587,5.3456499,node,7793830239
+Marseille,restaurant,Le Nautica des goudes,43.2151885,5.3462141,node,7793984354
+Marseille,restaurant,Restaurant Pizzeria du Roy d'Espagne,43.2414666,5.3875483,node,7797691380
+Marseille,restaurant,Le Ziguinchor,43.2936866,5.3846454,node,7813551885
+Marseille,restaurant,L'eau à la bouche,43.2829033,5.3503198,node,7813803786
+Marseille,restaurant,Langoustine,43.2934966,5.3735365,node,7827681786
+Marseille,restaurant,Pizzeria Chez Dédé,43.2959969,5.3977136,node,7829025644
+Marseille,restaurant,Lou Granjoun,43.2959393,5.397721,node,7829025645
+Marseille,restaurant,Regard Café,43.2978543,5.3634913,node,7843180630
+Marseille,restaurant,Brasserie du littoral,43.3011396,5.3644811,node,7843180643
+Marseille,restaurant,Quanta Café,43.3596442,5.3385102,node,7859266729
+Marseille,restaurant,Pizza TiTi,43.3601292,5.3151332,node,7893785860
+Marseille,restaurant,Chez Loury,43.2932821,5.3736321,node,7897276285
+Marseille,restaurant,Crep' on fire,43.2876903,5.4644778,node,7925474560
+Marseille,restaurant,Long châu,43.287456,5.465662,node,7925474613
+Marseille,restaurant,Massilia Café,43.2968807,5.3741256,node,7934538580
+Marseille,restaurant,Mademoiselle Fifi,43.2797888,5.4124685,node,7997257335
+Marseille,restaurant,Le cochon terrible,43.3566456,5.4879643,node,8037536735
+Marseille,restaurant,L'Entrecôte,43.307523,5.4235036,node,8044150899
+Marseille,restaurant,Ctc Artisan Restaurateur - Le Campus,43.3612711,5.3405872,node,8045278106
+Marseille,restaurant,Courtepaille,43.2908104,5.4948383,node,8047211343
+Marseille,restaurant,Ibis Marseille Timone,43.292563,5.4016242,node,8047413809
+Marseille,restaurant,Le Vizille,43.2887568,5.399799,node,8047413846
+Marseille,restaurant,La Maison des raviolis,43.247515,5.4005102,node,8059204115
+Marseille,restaurant,La Maison des Raviolis - Italie,43.2902737,5.3817502,node,8059209360
+Marseille,restaurant,Le Portugais,43.2939766,5.400532,node,8071999799
+Marseille,restaurant,Braserie de l'Océan,43.2928211,5.3999097,node,8071999811
+Marseille,restaurant,Le Cafouch aux Saveurs,43.356434,5.3351493,node,8108433184
+Marseille,restaurant,Multi Restauration Méditerranée,43.3593191,5.3395481,node,8108667712
+Marseille,restaurant,Ourea,43.2906135,5.3734652,node,8116369082
+Marseille,restaurant,Yima,43.2952311,5.3798106,node,8116416890
+Marseille,restaurant,La petite Italie,43.3594659,5.3321215,node,8117427405
+Marseille,restaurant,Pizza Zazza,43.2848861,5.3932109,node,8164680678
+Marseille,restaurant,Pizzeria Buona Sera,43.2847465,5.3936823,node,8164680690
+Marseille,restaurant,Master Café,43.2929992,5.4525447,node,8176522569
+Marseille,restaurant,Ice Park,43.26483,5.3737284,node,8328700638
+Marseille,restaurant,Restaurant Apave,43.3606546,5.3220663,node,8391843707
+Marseille,restaurant,Le Petit Dugo,43.2983665,5.3812189,node,8438797336
+Marseille,restaurant,Le Toigou,43.2652456,5.3904223,node,8467987830
+Marseille,restaurant,La Ruche,43.290876,5.3669126,node,8468092886
+Marseille,restaurant,Fine Cocott,43.2913165,5.3814077,node,8475740438
+Marseille,restaurant,Bernie,43.2914319,5.3809959,node,8475740439
+Marseille,restaurant,Lucia Pasta,43.2914255,5.3803386,node,8475740443
+Marseille,restaurant,Le petit Chamarel,43.2914499,5.3818854,node,8475740450
+Marseille,restaurant,6 Rue Montgrand,43.2919888,5.3798133,node,8475740452
+Marseille,restaurant,Waldorf of Marseille,43.2911782,5.3816264,node,8475740457
+Marseille,restaurant,Le petit Chamarel,43.2912475,5.3820027,node,8475740473
+Marseille,restaurant,Soul,43.297207,5.3823549,node,8475740475
+Marseille,restaurant,Chez Diego,43.2910458,5.3811857,node,8475740489
+Marseille,restaurant,Papyrus,43.290808,5.3813024,node,8475740494
+Marseille,restaurant,Burger's banquet,43.2935449,5.3761661,node,8518294533
+Marseille,restaurant,Pizzeria di Venezia,43.2943577,5.3750439,node,8518294550
+Marseille,restaurant,La Terrasse des Embruns,43.2713536,5.3629857,node,8521203795
+Marseille,restaurant,La Casertane,43.292862,5.3753441,node,8532266123
+Marseille,restaurant,Babbo,43.3005674,5.4772762,node,8575522963
+Marseille,restaurant,La Table du 12em,43.2990744,5.4364139,node,8601906915
+Marseille,restaurant,Italia Pizza,43.3033551,5.4308791,node,8601941432
+Marseille,restaurant,Emilio,43.2680609,5.3888944,node,8652900369
+Marseille,restaurant,Mama Ghana,43.2948183,5.3814624,node,8698400660
+Marseille,restaurant,ChungChun Ricedog Coréen,43.3042601,5.3671151,node,8721177228
+Marseille,restaurant,Bombay-Hanoï,43.2949998,5.401222,node,8736460265
+Marseille,restaurant,Jour Vieux Port,43.2955012,5.3746031,node,8797915715
+Marseille,restaurant,"L'Alveola, Pizza al taglio",43.2440569,5.371432,node,8831978318
+Marseille,restaurant,Spok (Notre Dame),43.2869078,5.3740255,node,8866906266
+Marseille,restaurant,Sepia,43.2894632,5.3686026,node,8866911515
+Marseille,restaurant,Sushi street café,43.2891686,5.3727627,node,8866927530
+Marseille,restaurant,Les halles de la Major,43.299384,5.3639759,node,8866934212
+Marseille,restaurant,Spok (La Timone),43.2899867,5.39793,node,8866939975
+Marseille,restaurant,Le présage,43.3447104,5.438763,node,8866953176
+Marseille,restaurant,Spok (Herriot),43.272031,5.3871312,node,8866958471
+Marseille,restaurant,Au Cœur du 17,43.2786367,5.4065917,node,8880341663
+Marseille,restaurant,Brasserie L'Atypique,43.2792264,5.4124027,node,8888046306
+Marseille,restaurant,Rive Gauche,43.2790809,5.4136004,node,8888046311
+Marseille,restaurant,MS Club,43.3325837,5.3741406,node,8902097617
+Marseille,restaurant,Marafiki,43.2985367,5.3677017,node,8904672715
+Marseille,restaurant,Comptoir Longchamp,43.3038569,5.3929927,node,8919525951
+Marseille,restaurant,L'Escale des Docks,43.3158842,5.3670587,node,8944460094
+Marseille,restaurant,Tokio Sushi,43.3044316,5.3654337,node,8949516653
+Marseille,restaurant,Brasserie Le Portis,43.2968274,5.3678221,node,8956995122
+Marseille,restaurant,L'Estaca,43.3635741,5.3099911,node,8957273950
+Marseille,restaurant,Paulette's,43.2957896,5.3664766,node,8972723917
+Marseille,restaurant,Magnolia,43.2945326,5.3855357,node,8974809017
+Marseille,restaurant,Le Phocea,43.2792181,5.3050723,node,8977123718
+Marseille,restaurant,L'Ancre - Restaurant Le Rove,43.3394038,5.2566459,node,8978061517
+Marseille,restaurant,La mère buonavista,43.28502,5.383862,node,8989818609
+Marseille,restaurant,Brasserie Paulaner,43.2851136,5.3838015,node,8989853724
+Marseille,restaurant,fivepizza,43.2972411,5.3731857,node,8990886544
+Marseille,restaurant,Bella Pizza,43.2366496,5.3623923,node,9017482956
+Marseille,restaurant,Coquillages de Montredon,43.2361494,5.3620853,node,9017485600
+Marseille,restaurant,Le Comptoir aux Huiles by Delucce,43.298838,5.366557,node,9043112618
+Marseille,restaurant,Tripletta,43.291917,5.3848591,node,9048127235
+Marseille,restaurant,Nouveau Oriental Grill's,43.3116552,5.3776566,node,9054265536
+Marseille,restaurant,Le Capados,43.3107506,5.3787584,node,9054339105
+Marseille,restaurant,Tandoori food,43.3099786,5.3795703,node,9054436502
+Marseille,restaurant,Modo PIZZA,43.308567,5.3773335,node,9056061248
+Marseille,restaurant,La marmite du régal,43.3084741,5.3772136,node,9056140471
+Marseille,restaurant,Sans nom,43.3084621,5.3812269,node,9057192693
+Marseille,restaurant,B52 café,43.2878098,5.5245676,node,9081877444
+Marseille,restaurant,Regain,43.2931594,5.3893126,node,9124102961
+Marseille,restaurant,Otto Marseille,43.2717951,5.3867386,node,9186747681
+Marseille,restaurant,Les Réformés,43.2987601,5.3831819,node,9192921456
+Marseille,restaurant,Le Blum,43.2987898,5.3835162,node,9192921457
+Marseille,restaurant,L'Avidita,43.2811075,5.3922887,node,9207708742
+Marseille,restaurant,Steak Lounge,43.2810135,5.3924732,node,9207708743
+Marseille,restaurant,Brothers,43.2816777,5.3912005,node,9207708744
+Marseille,restaurant,Côté Sushi,43.2697991,5.3875853,node,9216483771
+Marseille,restaurant,Un jardin en ville,43.2692375,5.3879442,node,9216627137
+Marseille,restaurant,La roquette,43.2911273,5.3685115,node,9235227417
+Marseille,restaurant,Elyssa,43.2927339,5.3689063,node,9253751460
+Marseille,restaurant,Set,43.2622906,5.3945151,node,9276128990
+Marseille,restaurant,My Little Warung,43.2690634,5.4036717,node,9277867307
+Marseille,restaurant,Le Daily,43.2562736,5.3822836,node,9332083543
+Marseille,restaurant,Sans nom,43.2559629,5.3825156,node,9332083556
+Marseille,restaurant,La Terrasse,43.2683751,5.4059166,node,9332853490
+Marseille,restaurant,Venus,43.2832598,5.3750299,node,9351014269
+Marseille,restaurant,Gran Café,43.2713908,5.3869065,node,9357711873
+Marseille,restaurant,Les Membres,43.2900791,5.3659577,node,9387998854
+Marseille,restaurant,Le Flash,43.2663098,5.4032128,node,9393420921
+Marseille,restaurant,O'Dakar,43.3592463,5.3578156,node,9442215700
+Marseille,restaurant,Mevlana Restaurant,43.3559394,5.3568502,node,9442215707
+Marseille,restaurant,La Rostantine,43.2873146,5.381352,node,9449263581
+Marseille,restaurant,Gilberte et Marguerite,43.3039658,5.3676494,node,9462708897
+Marseille,restaurant,Marseille en face,43.2797575,5.3261403,node,9503496156
+Marseille,restaurant,Maison Boheme,43.2843464,5.3830961,node,9510861151
+Marseille,restaurant,Claudia Ristorante,43.2853376,5.3770978,node,9513605009
+Marseille,restaurant,Maga,43.2850512,5.3846494,node,9514377197
+Marseille,restaurant,Kyo,43.2846643,5.3848871,node,9514393252
+Marseille,restaurant,Le 24,43.2843847,5.3826702,node,9516546026
+Marseille,restaurant,Montevideo,43.2864333,5.3782377,node,9516550263
+Marseille,restaurant,JP Noodle Bar,43.2866721,5.3794373,node,9516556627
+Marseille,restaurant,Cocobongo,43.2647237,5.3737707,node,9527318247
+Marseille,restaurant,Pizza Cosy,43.3040221,5.3676061,node,9550360017
+Marseille,restaurant,Fresh Box,43.3010976,5.3708267,node,9551406917
+Marseille,restaurant,Au Deux Guingois,43.2984708,5.3713821,node,9551993517
+Marseille,restaurant,Le Pensez-y,43.3121155,5.4650785,node,9566462052
+Marseille,restaurant,Le Baron Perché,43.2864045,5.3593645,node,9566867122
+Marseille,restaurant,Il Canaletto,43.2937205,5.3740458,node,9571635720
+Marseille,restaurant,La Terrasse du 8ème,43.2639009,5.3899132,node,9574758396
+Marseille,restaurant,Son-Thuy,43.2834044,5.3499942,node,9578985829
+Marseille,restaurant,Le Mumedia,43.371152,5.3551448,node,9581654683
+Marseille,restaurant,Restaurant Pizzeria chez Moussa,43.3715492,5.355955,node,9581654684
+Marseille,restaurant,Apsara,43.2906508,5.3666882,node,9594252117
+Marseille,restaurant,Le Cabanon de l'Estaque,43.3602439,5.2957452,node,9616283851
+Marseille,restaurant,Le Capucin,43.2966263,5.3788863,node,9621058146
+Marseille,restaurant,La Calanque,43.3430351,5.2594686,node,9622350381
+Marseille,restaurant,Au Bord de l'Eau,43.2322418,5.3539456,node,9633396726
+Marseille,restaurant,L'Aristocrate,43.3590276,5.3575717,node,9634033731
+Marseille,restaurant,Chiken Food,43.3565768,5.3572588,node,9634033738
+Marseille,restaurant,Arkose,43.2676164,5.3952833,node,9642905500
+Marseille,restaurant,High Cube Marseille,43.3606543,5.3471329,node,9643383878
+Marseille,restaurant,Sans nom,43.2653731,5.408513,node,9645956569
+Marseille,restaurant,Le Julien,43.2886942,5.3787024,node,9668035222
+Marseille,restaurant,Suchic,43.2866156,5.3829154,node,9668050173
+Marseille,restaurant,Le Zénith,43.2865713,5.3827685,node,9668054411
+Marseille,restaurant,New Delhi,43.2866507,5.3830539,node,9668080597
+Marseille,restaurant,Le 24 Poke Bowl,43.2889943,5.3762798,node,9672083451
+Marseille,restaurant,Le Diamant,43.2942144,5.3837633,node,9679625417
+Marseille,restaurant,TANTAKY,43.2884096,5.3830313,node,9681311695
+Marseille,restaurant,Le Dauphin,43.2792104,5.3052948,node,9683204825
+Marseille,restaurant,Pizzeria Baffi,43.3742282,5.354383,node,9686721893
+Marseille,restaurant,Splendido,43.2976312,5.3732979,node,9697141286
+Marseille,restaurant,Placette,43.2972633,5.370649,node,9697856683
+Marseille,restaurant,Le Pavillon du Thé,43.2805148,5.3949331,node,9700122691
+Marseille,restaurant,La Véranda,43.3503061,5.3411742,node,9702977682
+Marseille,restaurant,Le Diamant Noir,43.2942168,5.3837934,node,9703831117
+Marseille,restaurant,Carlotta With,43.283374,5.3748088,node,9724466444
+Marseille,restaurant,La Fabrique,43.370115,5.2515294,node,9789210036
+Marseille,restaurant,Le Rovenain,43.3704028,5.2524122,node,9789210038
+Marseille,restaurant,Ékume,43.2908133,5.3675543,node,9803477679
+Marseille,restaurant,Sans nom,43.2299873,5.4433005,node,9857346911
+Marseille,restaurant,Massilia,43.2996446,5.3693873,node,9893689917
+Marseille,restaurant,Le Par Azar,43.2975988,5.3709341,node,9923183797
+Marseille,restaurant,Le Bousti,43.2934088,5.3867827,node,9928878761
+Marseille,restaurant,Ummagumma,43.2940014,5.3847835,node,9929575746
+Marseille,restaurant,Les Trois Rois,43.294053,5.3847466,node,9929575747
+Marseille,restaurant,Palais de l'Inde,43.2941623,5.3846726,node,9929575748
+Marseille,restaurant,Belle Île en Mer,43.2943641,5.384534,node,9929575749
+Marseille,restaurant,Avanti Popolo,43.2929989,5.383885,node,9929610026
+Marseille,restaurant,Maison des Nines,43.2957602,5.3789589,node,9976592151
+Marseille,restaurant,Figure,43.2831517,5.3745631,node,10013441860
+Marseille,restaurant,Cantoche,43.294014,5.3772283,node,10013719753
+Marseille,restaurant,Le Pénard,43.2961203,5.3866716,node,10017557030
+Marseille,restaurant,Sans nom,43.2938442,5.4787863,node,10047608038
+Marseille,restaurant,Busan,43.2857179,5.3849033,node,10049647242
+Marseille,restaurant,Le Madraguin,43.2320772,5.3556003,node,10054116672
+Marseille,restaurant,Les Jardins du Cloître de Marseille,43.335579,5.4233903,node,10086790689
+Marseille,restaurant,Pub Marina,43.2789348,5.3039293,node,10135763581
+Marseille,restaurant,Lou Frieu,43.2789662,5.3042592,node,10135820763
+Marseille,restaurant,L'hostellerie,43.335719,5.481921,node,10139425611
+Marseille,restaurant,L'Évêché,43.2979502,5.3658108,node,10315214755
+Marseille,restaurant,J'aime Sushi,43.2681879,5.3888417,node,10604208142
+Marseille,restaurant,So’,43.3271699,5.3638266,node,10631223407
+Marseille,restaurant,Le Palace,43.3271264,5.3636581,node,10631223413
+Marseille,restaurant,Georgia,43.2921773,5.3741852,node,10657707305
+Marseille,restaurant,Restaurant Quartier Libre,43.2935635,5.3751695,node,10731729507
+Marseille,restaurant,QUIETum,43.307948,5.3707587,node,10739171220
+Marseille,restaurant,La Cave à Jambon,43.255344,5.4080167,node,10745482645
+Marseille,restaurant,La Serenata,43.2476859,5.3747244,node,10751767025
+Marseille,restaurant,Le bar du théâtre,43.309265,5.367547,node,10753171748
+Marseille,restaurant,Ashoka,43.2930627,5.3737508,node,10760868942
+Marseille,restaurant,Coin Cantine,43.2639404,5.410629,node,10772668068
+Marseille,restaurant,Maison Bao,43.2900803,5.3821154,node,10798056955
+Marseille,restaurant,Ciel - rooftop,43.293787,5.3774216,node,10853049983
+Marseille,restaurant,C'est bon,43.3020259,5.3978265,node,10865944788
+Marseille,restaurant,Lynn Dalaga - mode et restauration,43.2319966,5.3552488,node,10870012805
+Marseille,restaurant,O-Pho 187,43.2946739,5.3749394,node,10876201335
+Marseille,restaurant,Le Salon Provençal,43.3356724,5.4822181,node,10879517281
+Marseille,restaurant,Robato,43.2992134,5.3844017,node,10894991928
+Marseille,restaurant,Latté,43.2981824,5.3659923,node,10896351823
+Marseille,restaurant,Strega,43.2999299,5.3688755,node,10896374244
+Marseille,restaurant,Hododa,43.2981972,5.3659002,node,10896384469
+Marseille,restaurant,O Puits Gourmand,43.2996992,5.3674882,node,10896387594
+Marseille,restaurant,Sans nom,43.2993405,5.3679041,node,10896390605
+Marseille,restaurant,Waffle Factory,43.3634892,5.3467101,node,10942364105
+Marseille,restaurant,Crep'eat,43.3639197,5.349342,node,10942364506
+Marseille,restaurant,Le Trocadéro,43.3638729,5.3485394,node,10942364805
+Marseille,restaurant,Arrosoir,43.3030192,5.3661606,node,10957068831
+Marseille,restaurant,Le Sao,43.294139,5.3796539,node,10961451147
+Marseille,restaurant,La ciergerie,43.2913014,5.3850553,node,10961451148
+Marseille,restaurant,La nena,43.2921397,5.3834983,node,10961451149
+Marseille,restaurant,Oyat,43.2927854,5.3803116,node,10961451150
+Marseille,restaurant,Le Commis d'Office,43.2929564,5.3775808,node,10963925838
+Marseille,restaurant,L'heure de Marseille,43.2953086,5.3765541,node,10963925839
+Marseille,restaurant,Le Palmier,43.2948394,5.3770079,node,10963925840
+Marseille,restaurant,Feu Viet,43.3106993,5.4009348,node,10968685751
+Marseille,restaurant,Butcher's,43.3091739,5.4012753,node,10968685752
+Marseille,restaurant,L'instant,43.3096998,5.4007235,node,10968685764
+Marseille,restaurant,Le Relais Corse,43.2834303,5.3855914,node,10975272107
+Marseille,restaurant,La Bazarette,43.298304,5.3661826,node,10981538605
+Marseille,restaurant,Au doyen,43.2957951,5.3666501,node,11014301805
+Marseille,restaurant,L’Oliveraie,43.2929109,5.371528,node,11014487605
+Marseille,restaurant,Cali Kitchen,43.2945638,5.3770578,node,11049087805
+Marseille,restaurant,Sans nom,43.3069787,5.3655188,node,11049371306
+Marseille,restaurant,Le Cigale,43.296089,5.3687123,node,11051472437
+Marseille,restaurant,Sa mesa sarda,43.2827606,5.4331871,node,11055602105
+Marseille,restaurant,Namaste,43.2836196,5.3854639,node,11064486120
+Marseille,restaurant,Borely,43.2543631,5.3755389,node,11069902007
+Marseille,restaurant,Ha noi pho,43.2557987,5.3758867,node,11069902008
+Marseille,restaurant,Borely,43.2542436,5.3754222,node,11069907112
+Marseille,restaurant,Chez Quan,43.2540695,5.3753639,node,11069907113
+Marseille,restaurant,Bharati,43.2543048,5.3753775,node,11069910809
+Marseille,restaurant,Intermarché,43.2617126,5.3753874,node,11069910810
+Marseille,restaurant,La Grande Italia,43.2542317,5.3752174,node,11069911308
+Marseille,restaurant,SportBeach,43.255779,5.3756606,node,11074965003
+Marseille,restaurant,Les rigoles,43.3022471,5.3903775,node,11107322410
+Marseille,restaurant,Sushi Room,43.2947502,5.3766805,node,11115979461
+Marseille,restaurant,Le Bistrot d'Alberto,43.2946187,5.3768674,node,11116448025
+Marseille,restaurant,Bring Me My Coffee,43.2970392,5.364546,node,11116764755
+Marseille,restaurant,Le Métro,43.3200321,5.3676407,node,11119491637
+Marseille,restaurant,Piccolo,43.2946713,5.3769878,node,11122132896
+Marseille,restaurant,Dakao,43.2950564,5.3761723,node,11122173579
+Marseille,restaurant,Sidi Bou Saïd,43.2942594,5.3751542,node,11122596289
+Marseille,restaurant,Italian Trattoria,43.2941999,5.3749677,node,11122661268
+Marseille,restaurant,Chez Marinette,43.2876507,5.3625393,node,11124318926
+Marseille,restaurant,Le Faucon,43.3240913,5.3675032,node,11132236820
+Marseille,restaurant,Pizzeria Etna,43.318315,5.4245786,node,11136473672
+Marseille,restaurant,Restaurant,43.2797508,5.3261111,node,11165205073
+Marseille,restaurant,"le 460 ""bistro burger""",43.3414957,5.4732543,node,11166413178
+Marseille,restaurant,Jardin Kché,43.248195,5.4011517,node,11171840732
+Marseille,restaurant,Lion bonjour,43.293225,5.375267,node,11178658069
+Marseille,restaurant,Oil and Wax,43.2931648,5.3753012,node,11178666939
+Marseille,restaurant,Les Bavards - Bouillonnerie de l'opéra,43.2932808,5.375247,node,11178669183
+Marseille,restaurant,Restaurant des amis,43.3022323,5.3740985,node,11186426456
+Marseille,restaurant,L'Écrin de Verdure,43.2507188,5.3954961,node,11190556763
+Marseille,restaurant,Kioto Sushi,43.2476172,5.4002946,node,11190562843
+Marseille,restaurant,L'Assiette Orientale,43.2470044,5.4016585,node,11190562844
+Marseille,restaurant,Boostan,43.2469305,5.4018046,node,11190564268
+Marseille,restaurant,L'enseigne 117,43.2910361,5.3686816,node,11200796573
+Marseille,restaurant,Bar à manger,43.3020885,5.3682113,node,11202311661
+Marseille,restaurant,Bouillabaisse Turfu,43.2943883,5.3757164,node,11224735237
+Marseille,restaurant,Au Grain Desiré,43.2941325,5.3771992,node,11240913196
+Marseille,restaurant,Trattoria del Sud da Vicenzo,43.2571758,5.3941103,node,11263427175
+Marseille,restaurant,Le Turf,43.2576234,5.3942519,node,11278135802
+Marseille,restaurant,La Civette,43.2574288,5.3941847,node,11278136436
+Marseille,restaurant,Bistro Haxo,43.2944419,5.3769411,node,11297513832
+Marseille,restaurant,Ramen Go,43.2881511,5.3826494,node,11307449795
+Marseille,restaurant,Le Siam,43.2410787,5.3637046,node,11307500053
+Marseille,restaurant,Le consolat,43.3017211,5.3908219,node,11328850869
+Marseille,restaurant,La poule noire,43.2919302,5.3732305,node,11352380469
+Marseille,restaurant,Homer Lobster,43.2908083,5.377806,node,11355399213
+Marseille,restaurant,La Balagne,43.2650491,5.3737454,node,11368727880
+Marseille,restaurant,Viaghji,43.2855133,5.3514726,node,11369581716
+Marseille,restaurant,Beau Rivage,43.285155,5.3513284,node,11369593634
+Marseille,restaurant,Pause café cantine,43.2907758,5.3569092,node,11373407769
+Marseille,restaurant,La Maronaise,43.2638922,5.3740751,node,11373992603
+Marseille,restaurant,Baladi,43.2646799,5.3739063,node,11373992622
+Marseille,restaurant,Les Akolytes,43.29055,5.3561078,node,11374482069
+Marseille,restaurant,By Food Grillades,43.2995792,5.3781725,node,11379661977
+Marseille,restaurant,Io e Te,43.291197,5.3571692,node,11381210769
+Marseille,restaurant,Le sampiero,43.3085836,5.3707391,node,11385566168
+Marseille,restaurant,Le quai gourmand,43.3080642,5.3706905,node,11385594570
+Marseille,restaurant,La cantine de Jeannine,43.286775,5.386344,node,11386471031
+Marseille,restaurant,Senju sushi,43.2868846,5.3901255,node,11389428032
+Marseille,restaurant,Mia Nonna,43.2849949,5.3906641,node,11389521740
+Marseille,restaurant,Le plan de a à z,43.2984405,5.3825974,node,11389667669
+Marseille,restaurant,Le Refuge,43.2982808,5.3675113,node,11389696569
+Marseille,restaurant,Cali Sushi,43.2905786,5.3590702,node,11393129771
+Marseille,restaurant,Brasserie l'Opera,43.2936802,5.3753644,node,11400029940
+Marseille,restaurant,Nul Part Ailleurs,43.292968,5.3704041,node,11428666671
+Marseille,restaurant,Maison M&R,43.2902015,5.3565419,node,11428887669
+Marseille,restaurant,Le Romarin,43.2901077,5.3571662,node,11428887769
+Marseille,restaurant,Piou,43.2916725,5.3746594,node,11433145531
+Marseille,restaurant,oh!bowls,43.2784077,5.3893065,node,11482652645
+Marseille,restaurant,Nina Sushi,43.2784321,5.3893727,node,11482656548
+Marseille,restaurant,La Broche Tourne,43.2785303,5.3923359,node,11486572089
+Marseille,restaurant,My Little Warung,43.2875861,5.3829554,node,11486730147
+Marseille,restaurant,Yuko Ramen,43.3019283,5.3979615,node,11495049070
+Marseille,restaurant,Le P'tit Léo,43.2780123,5.3886247,node,11502895401
+Marseille,restaurant,Trattoria Partenope,43.2995946,5.3664822,node,11503749065
+Marseille,restaurant,La Pizz,43.3047905,5.3684765,node,11503759076
+Marseille,restaurant,Le cercle rouge,43.2972918,5.3854763,node,11509145670
+Marseille,restaurant,Cafi Shop,43.2999398,5.3975386,node,11511158169
+Marseille,restaurant,KIN - Libala,43.2937248,5.3784639,node,11513993569
+Marseille,restaurant,Basilic & Co Marseille (République),43.303186,5.3683022,node,11521916962
+Marseille,restaurant,Melan Grill,43.2967492,5.3779318,node,11534007657
+Marseille,restaurant,Bozen,43.277163,5.3891024,node,11539376645
+Marseille,restaurant,Le Murano,43.2756039,5.3899921,node,11539389035
+Marseille,restaurant,Le Batavia,43.2767501,5.389342,node,11539393998
+Marseille,restaurant,Poissonnerie Kennedy,43.2813949,5.3515417,node,11557167269
+Marseille,restaurant,Jour Euromed,43.3106339,5.3679773,node,11572328769
+Marseille,restaurant,Jour Les Docks,43.3059765,5.3662908,node,11572341969
+Marseille,restaurant,Emile,43.2733967,5.3912292,node,11584796142
+Marseille,restaurant,Manureva,43.2811631,5.3882967,node,11665782741
+Marseille,restaurant,NKI Sushi,43.281228,5.3894233,node,11665923493
+Marseille,restaurant,Comme J'aime,43.2821818,5.3903483,node,11739231052
+Marseille,restaurant,Casa Mia,43.2840683,5.4358513,node,11745810523
+Marseille,restaurant,Sans nom,43.3085666,5.436224,node,11761726435
+Marseille,restaurant,500 Degrés Pizza,43.2929488,5.3732517,node,11770163522
+Marseille,restaurant,Pho Vietnam,43.3025405,5.3954553,node,11772628526
+Marseille,restaurant,La bastide de Massimo,43.3054069,5.4048715,node,11778639069
+Marseille,restaurant,Le Starlight,43.2478645,5.3906191,node,11782593872
+Marseille,restaurant,Bistrot Baya,43.302194,5.3868767,node,11787347469
+Marseille,restaurant,Face à la mer (Restaurant-Pizzeria),43.2502513,5.3754717,node,11787422269
+Marseille,restaurant,Pacha Grill - Restaurant Marseille,43.2501085,5.3754139,node,11787424869
+Marseille,restaurant,Les délices du Prado,43.2734326,5.3912124,node,11792818401
+Marseille,restaurant,Boon Mi Food,43.3019617,5.3910649,node,11799845069
+Marseille,restaurant,Pure Braise,43.333601,5.481437,node,11817252886
+Marseille,restaurant,Le 100,43.2829884,5.3787237,node,11820108269
+Marseille,restaurant,Lima Lemon,43.2852533,5.3825562,node,11835036569
+Marseille,restaurant,Cuisine Verticale Pizzeria,43.3067488,5.3949231,node,11851312115
+Marseille,restaurant,Jaipur,43.2938612,5.3736585,node,11860709839
+Marseille,restaurant,Le Marseillais,43.2938365,5.3735612,node,11860709841
+Marseille,restaurant,Jade d'Asie,43.3137634,5.4027398,node,11878326069
+Marseille,restaurant,Frères Brioche,43.2940471,5.3761202,node,11921981356
+Marseille,restaurant,Minots,43.296403,5.3709594,node,11932545458
+Marseille,restaurant,Vente a emporter,43.2965177,5.3723077,node,11932557691
+Marseille,restaurant,New Terrasse,43.296362,5.370551,node,11932566463
+Marseille,restaurant,La Table Libanaise,43.2966951,5.3706045,node,11932597183
+Marseille,restaurant,Poulet Braisè,43.2978192,5.3735475,node,11932711965
+Marseille,restaurant,Djerba,43.2953794,5.3767371,node,11933035150
+Marseille,restaurant,L'Osteria,43.28221,5.3854348,node,11938982389
+Marseille,restaurant,Seik,43.2926916,5.3720823,node,11971481432
+Marseille,restaurant,Bianco,43.2885205,5.3725301,node,12053786963
+Marseille,restaurant,Kaz Kreol,43.2955608,5.3855595,node,12117274757
+Marseille,restaurant,Bo' RESTO,43.2958747,5.3856253,node,12117277229
+Marseille,restaurant,Durum kebab,43.2960745,5.3813242,node,12117289879
+Marseille,restaurant,Bazile,43.3003936,5.3814742,node,12117352289
+Marseille,restaurant,Sahmaran,43.3003633,5.3818901,node,12117424421
+Marseille,restaurant,Le Gambetta,43.2995479,5.3821825,node,12120272745
+Marseille,restaurant,L'écaillerie,43.2900977,5.3661764,node,12122535414
+Marseille,restaurant,La Pâte à Pizza,43.2957734,5.3861576,node,12128637028
+Marseille,restaurant,Cocotero,43.2911121,5.3563482,node,12128647366
+Marseille,restaurant,Brasserie Les Allees,43.2981509,5.3816164,node,12132576854
+Marseille,restaurant,Petit Tunis,43.2975221,5.3813733,node,12140094284
+Marseille,restaurant,Ô Bobar,43.2810896,5.3821557,node,12141643447
+Marseille,restaurant,Risotto'go,43.2830293,5.3810476,node,12141643448
+Marseille,restaurant,Sous le Figuier,43.2785403,5.3807024,node,12141648978
+Marseille,restaurant,Thaiwoke,43.2868629,5.3866765,node,12145490801
+Marseille,restaurant,Le 568,43.3672231,5.248602,node,12147576301
+Marseille,restaurant,La Plage Bleue,43.205387,5.5187312,node,12151909304
+Marseille,restaurant,L'instant...,43.3683169,5.2510763,node,12157404801
+Marseille,restaurant,Umi Sushi,43.2565075,5.3938309,node,12170662592
+Marseille,restaurant,Rôtisserie César,43.2565661,5.3937906,node,12170662593
+Marseille,restaurant,Pizza Sainte Anne,43.2564323,5.393826,node,12170711107
+Marseille,restaurant,La Quinta,43.3625823,5.4874135,node,12176637803
+Marseille,restaurant,Nòu,43.2938056,5.3770681,node,12198922662
+Marseille,restaurant,mavrommàtis,43.270472,5.3929762,node,12229129494
+Marseille,restaurant,Brasserie Le Soleil,43.2948145,5.3746972,node,12229404801
+Marseille,restaurant,L'Escale,43.2789516,5.3040975,node,12248207501
+Marseille,restaurant,Pizzeria le Mail,43.3906884,5.2367501,node,12250968788
+Marseille,restaurant,Lulo Bar,43.2936068,5.3828626,node,12259424162
+Marseille,restaurant,Limmat,43.2935602,5.3826847,node,12288360128
+Marseille,restaurant,Limmat,43.2935561,5.3826941,node,12304298284
+Marseille,restaurant,Sans nom,43.2998281,5.3676405,node,12318004698
+Marseille,restaurant,Trésors d'Arménie,43.2568576,5.3941557,node,12346669793
+Marseille,restaurant,La Rhumerie,43.2541457,5.375159,node,12371673759
+Marseille,restaurant,Les Voiles M,43.2551135,5.3754222,node,12371673778
+Marseille,restaurant,Le Bistingo,43.2539961,5.3752192,node,12371673784
+Marseille,restaurant,L'Indigo Café,43.2552086,5.3754466,node,12371673786
+Marseille,restaurant,Yafel,43.2922114,5.3829467,node,12386231670
+Marseille,restaurant,Kaïts Pita Bar,43.258545,5.3933186,node,12399893353
+Marseille,restaurant,Le Bar 1917,43.280227,5.3518997,node,12409384073
+Marseille,restaurant,La Releve,43.2895027,5.3664986,node,12409419966
+Marseille,restaurant,Chez Papa,43.2916946,5.3847058,node,12412849060
+Marseille,restaurant,La Gratinée,43.3384073,5.3810253,node,12430024701
+Marseille,restaurant,THE 716,43.3145032,5.3688011,node,12438369401
+Marseille,restaurant,Yerevan,43.2918076,5.4792762,node,12453502331
+Marseille,restaurant,Lemaitre Ivoire,43.2996521,5.382828,node,12517805301
+Marseille,restaurant,Pizze & Sfizi,43.290637,5.366574,node,12520992660
+Marseille,restaurant,Chez Tamar,43.2996161,5.3664873,node,12567393402
+Marseille,restaurant,Les Beaux Mets,43.2348923,5.4133365,node,12570989621
+Marseille,restaurant,Nua,43.2998179,5.3692334,node,12571192902
+Marseille,restaurant,O'Canotier,43.2811337,5.3519384,node,12600875529
+Marseille,restaurant,Cô Bây,43.2846117,5.3852898,node,12648186415
+Marseille,restaurant,Sans nom,43.3701093,5.356174,node,12666644544
+Marseille,restaurant,O’ Max Grillades,43.3055849,5.3728375,node,12676754834
+Marseille,restaurant,Zin Zin,43.2881895,5.3632833,node,12677212834
+Marseille,restaurant,Bel di Brunch,43.2859077,5.3871623,node,12677254322
+Marseille,restaurant,Inci Restaurant,43.3029599,5.396331,node,12679788301
+Marseille,restaurant,yoj,43.3061616,5.3651,node,12692734813
+Marseille,restaurant,Le Roy René,43.3070425,5.3640229,node,12693771548
+Marseille,restaurant,Plats d'Asire,43.2939301,5.4008099,node,12759691369
+Marseille,restaurant,Dérive,43.2911013,5.3562202,node,12766454301
+Marseille,restaurant,Mercato by winesucker,43.291279,5.3870423,node,12791268002
+Marseille,restaurant,Sans nom,43.2930153,5.3781821,node,12791608801
+Marseille,restaurant,La Brasserie du Village,43.2892803,5.4986123,node,12794369364
+Marseille,restaurant,Les délices de l'ouest africain,43.2932926,5.3820904,node,12794933123
+Marseille,restaurant,Lido Saigón,43.2634362,5.3741694,node,12800751930
+Marseille,restaurant,Bombay Grill,43.2635462,5.3741196,node,12800774387
+Marseille,restaurant,L'Opium,43.2640122,5.3740237,node,12800805600
+Marseille,restaurant,Riz d'or,43.3036504,5.3977078,node,12802866754
+Marseille,restaurant,la Cachette,43.2974156,5.3706117,node,12803660001
+Marseille,restaurant,Club César,43.2896644,5.3761627,node,12806190883
+Marseille,restaurant,Livingston,43.2942988,5.3840358,node,12806290102
+Marseille,restaurant,Ripaille,43.3000886,5.3696564,node,12806292301
+Marseille,restaurant,Le Saint Victor,43.2900002,5.366491,node,12820866277
+Marseille,restaurant,La cantine solaire du Présage,43.3120158,5.3971016,node,12905841122
+Marseille,restaurant,Safia cuisine de Yema,43.2953633,5.3776859,node,12919175201
+Marseille,restaurant,La boite a panisse,43.2967816,5.3674303,node,12920174122
+Marseille,restaurant,Délices Viet-Nam,43.3098232,5.4086112,node,12920635004
+Marseille,restaurant,El Barrio Marsella,43.2954075,5.3792254,node,12959202902
+Marseille,restaurant,IPPON MARSEILLE,43.2928548,5.376164,node,12961178401
+Marseille,restaurant,TETRO,43.2979277,5.3713722,node,12976986256
+Marseille,restaurant,Marché/Restaurant La Palestine de Gaza,43.2959972,5.3852909,node,13037534947
+Marseille,restaurant,PROSPER,43.2946195,5.3843253,node,13046166801
+Marseille,restaurant,GRENAT,43.2917516,5.3755368,node,13046190401
+Marseille,restaurant,La Delicatesse,43.2994135,5.386031,node,13046230203
+Marseille,restaurant,Le Riviera,43.3067088,5.3999228,node,13051899702
+Marseille,restaurant,Mimas,43.3068911,5.3999265,node,13051911101
+Marseille,restaurant,La Casbah Des Halles,43.2928788,5.3732808,node,13105559994
+Marseille,restaurant,L'écailler Des Halles,43.2928687,5.3732337,node,13105559995
+Marseille,restaurant,Vapiano,43.3060315,5.3635456,node,13105617642
+Marseille,restaurant,Saray grill,43.2996626,5.3806054,node,13110772701
+Marseille,restaurant,Chez Yassine,43.2995474,5.3806141,node,13110772801
+Marseille,restaurant,Gros Bao,43.2961177,5.3782633,node,13123657901
+Marseille,restaurant,L'Abidjanais,43.2972616,5.3823247,node,13123750001
+Marseille,restaurant,François coquillages,43.2843206,5.3850754,node,13137130795
+Marseille,restaurant,La Bonne Chaire,43.2587139,5.4169554,node,13181112315
+Marseille,restaurant,Les Terrasses du Barjaqueur,43.2926735,5.3724452,node,13207723601
+Marseille,restaurant,Sans nom,43.211256,5.4234745,node,13270122056
+Marseille,restaurant,Restaurant Universitaire,43.3366334,5.4093437,way,49326553
+Marseille,restaurant,Les Mouettes,43.2541863,5.3754731,way,65447018
+Marseille,restaurant,La Dilligence,43.3027278,5.3848367,way,67701825
+Marseille,restaurant,Restaurant Universitaire Canebière,43.2979492,5.3835773,way,67703874
+Marseille,restaurant,Restaurant universitaire,43.3063733,5.3779969,way,68942938
+Marseille,restaurant,Crêperie bar à vins Ici,43.301391,5.3988542,way,68961825
+Marseille,restaurant,Sans nom,43.3138707,5.4028793,way,68964230
+Marseille,restaurant,Le Vénitien,43.296864,5.4084277,way,68976139
+Marseille,restaurant,Pizza Ferrari,43.2923469,5.3953113,way,68982977
+Marseille,restaurant,Delizie,43.2836474,5.3836889,way,69133158
+Marseille,restaurant,Green Love,43.2909601,5.3823716,way,69140170
+Marseille,restaurant,Le Pied-de-Mouton,43.2947167,5.3827029,way,69140215
+Marseille,restaurant,Les Tonnelles,43.3572671,5.3385574,way,69613746
+Marseille,restaurant,Le Regali de Manon,43.3556837,5.3279065,way,69617075
+Marseille,restaurant,Le Club House,43.3487416,5.3919275,way,69636313
+Marseille,restaurant,Snack bar Maritime,43.3546433,5.3336534,way,69640262
+Marseille,restaurant,Le Rhul,43.2801682,5.3537431,way,70050867
+Marseille,restaurant,Le Peron,43.2879476,5.3522084,way,70057644
+Marseille,restaurant,Le petit pavillon,43.2885788,5.3530447,way,70059803
+Marseille,restaurant,Le Culti,43.2807188,5.3688076,way,70065409
+Marseille,restaurant,Les Jardins d'Asie,43.3449702,5.4865745,way,72766882
+Marseille,restaurant,Le Relais de Passe-Temps,43.3238451,5.5175411,way,73294767
+Marseille,restaurant,La Presqu'île,43.2056015,5.5186041,way,75909483
+Marseille,restaurant,Les Belles Canailles,43.2116999,5.5295456,way,75909637
+Marseille,restaurant,L'auberge du Mérou,43.3400137,5.2580945,way,110311161
+Marseille,restaurant,Cafétéria,43.320009,5.4040295,way,112809569
+Marseille,restaurant,Babel,43.326841,5.4228,way,112811942
+Marseille,restaurant,Capo Rosso,43.3169355,5.4071675,way,112819769
+Marseille,restaurant,L'Oliveraie,43.3534835,5.448831,way,112822206
+Marseille,restaurant,Salah Thai,43.348191,5.4478745,way,112822276
+Marseille,restaurant,Restaurant Bar PMU du Bon Coin,43.3313619,5.406398,way,112828659
+Marseille,restaurant,Au Chabrot,43.3554987,5.4261272,way,112845767
+Marseille,restaurant,Snack Regal Food,43.3228315,5.4124845,way,112851781
+Marseille,restaurant,Les Bords de Mer,43.2895164,5.3549412,way,114001786
+Marseille,restaurant,L'Entracte,43.271987,5.410712,way,153532609
+Marseille,restaurant,Villa Mont Liban,43.2516185,5.4217165,way,153532648
+Marseille,restaurant,Les Platanes,43.268464,5.406011,way,153532731
+Marseille,restaurant,La Couscoussière,43.246427,5.4042725,way,153551899
+Marseille,restaurant,Chez Thuong,43.246587,5.4028875,way,153554897
+Marseille,restaurant,Le Bistrot de Lorette,43.246131,5.404188,way,153555495
+Marseille,restaurant,Restaurant-bar la Gouffone,43.2467605,5.42442,way,153572973
+Marseille,restaurant,Duc Dat,43.271813,5.4094169,way,153574298
+Marseille,restaurant,Boissonnerie,43.2156034,5.3444293,way,154227247
+Marseille,restaurant,Bar Restaurant de La Grotte,43.2128348,5.3541838,way,154227767
+Marseille,restaurant,La Baie des Singes,43.2139931,5.3380393,way,154227863
+Marseille,restaurant,La Riviera,43.2444568,5.3695744,way,154358891
+Marseille,restaurant,Le Pacifique 4,43.2749845,5.4152815,way,154570038
+Marseille,restaurant,La table des Garrigues,43.2808795,5.4293655,way,154593389
+Marseille,restaurant,Le Gant d'Or,43.279673,5.4174345,way,154595276
+Marseille,restaurant,Melekh A Pizza,43.276964,5.4165835,way,154595357
+Marseille,restaurant,Il Topolino,43.280978,5.3962675,way,154604697
+Marseille,restaurant,Restaurant bar pizzeria de la Fontaine,43.2813705,5.4261785,way,154605522
+Marseille,restaurant,Le Comptoir Marseillais,43.2673545,5.3724895,way,154611616
+Marseille,restaurant,AM (Alexandre Mazzia),43.2700385,5.386264,way,154633806
+Marseille,restaurant,Restaurant De La Gare,43.28351,5.5147545,way,154749546
+Marseille,restaurant,Le Meltin'Pot,43.2820485,5.5252985,way,154761086
+Marseille,restaurant,Villa Collomba,43.2867819,5.5148355,way,154761608
+Marseille,restaurant,Viet Xua,43.2810555,5.518148,way,154765681
+Marseille,restaurant,Comme à la Maison,43.2854496,5.5175419,way,154767785
+Marseille,restaurant,La Terrasse de Saint-Giniez,43.2660415,5.391173,way,154803459
+Marseille,restaurant,L'Art des Mets,43.2833741,5.499914,way,157625611
+Marseille,restaurant,Le Gargantua,43.2844825,5.4842665,way,157626964
+Marseille,restaurant,Pizza Pierrot,43.287683,5.465219,way,157696057
+Marseille,restaurant,TR&Rouge,43.289605,5.4652675,way,157698247
+Marseille,restaurant,Les 3 Brasseurs,43.2894977,5.481912,way,157698269
+Marseille,restaurant,La Piazza des Frangins,43.30088,5.5104395,way,157776506
+Marseille,restaurant,Marou Traiteur,43.304166,5.4175005,way,158153944
+Marseille,restaurant,Hai Dong,43.350088,5.4651655,way,158354259
+Marseille,restaurant,Le K,43.361636,5.2376855,way,165115266
+Marseille,restaurant,Le Petit Port,43.225369,5.347726,way,219022410
+Marseille,restaurant,La calanque blanche,43.2231395,5.34665,way,219022411
+Marseille,restaurant,Italova,43.264594,5.4092491,way,226586545
+Marseille,restaurant,Restaurant universitaire Galinat,43.2871173,5.3995363,way,279254313
+Marseille,restaurant,Restaurant scolaire de l'ORT,43.2782463,5.4100708,way,317206803
+Marseille,restaurant,Jinjiang Express,43.2688316,5.4043044,way,423299381
+Marseille,restaurant,Basta Cosi,43.3565056,5.4856069,way,426208332
+Marseille,restaurant,R2C,43.3438417,5.4306322,way,434366320
+Marseille,restaurant,L'Escapade,43.3457536,5.4350371,way,697987342
+Marseille,restaurant,Buffalo Grill Marseille La Valentine,43.2877981,5.5094336,way,741692501
+Marseille,restaurant,Sans nom,43.2938746,5.4785739,way,1097310882
+Marseille,restaurant,Kiosque le Calice,43.2899778,5.4755657,way,1097324914
+Marseille,restaurant,Aux Pieds Tanqués,43.3098069,5.3923048,way,1215993791
+Marseille,restaurant,Le Comptoir de la Palmeraie,43.3252144,5.3775603,way,1228912030
+Marseille,restaurant,La pergola,43.3019691,5.401457,way,1265622560
+Marseille,restaurant,A Modo Mio,43.2956005,5.3658297,way,1265847463
+Marseille,restaurant,Le souk,43.2960279,5.3684757,way,1265848032
+Marseille,restaurant,fioupelan,43.2963023,5.3706949,way,1265848656
+Marseille,restaurant,Le Greenwhich,43.2548199,5.3757332,way,1266042592
+Marseille,restaurant,Chez Mano by l'Étoile bleue,43.2932391,5.4065948,way,1318815376
+Marseille,restaurant,Le Petit Nice - Passédat,43.2801621,5.3518394,relation,1580385
+Marseille,restaurant,Restaurant Universitaire,43.2307272,5.4393724,relation,4147024
+Marseille,station,L'Estaque,43.3637375,5.3213843,node,4290856998
+Marseille,station,Marseille-Blancarde,43.2965017,5.4067495,node,4290857021
+Marseille,station,Marseille-Saint-Charles,43.3032635,5.3811927,node,4290857022
+Marseille,station,Frais Vallon,43.3254903,5.4232137,node,5423852350
+Marseille,station,Niolon,43.3401363,5.2570243,node,9789082324
+Marseille,station,La Blancarde,43.295522,5.4062539,way,417386008
+Marseille,station,Sainte-Marguerite Dromel,43.2708869,5.4028149,way,419035089
+Marseille,station,Rond-Point du Prado,43.2714444,5.3926008,way,419050016
+Marseille,station,Castellane,43.2858617,5.3839803,way,419323764
+Marseille,station,Périer,43.2792195,5.3877561,way,419323817
+Marseille,station,Noailles,43.2968497,5.3811958,way,419542830
+Marseille,station,Notre-Dame du Mont Cours Julien,43.2926848,5.3837064,way,419542831
+Marseille,station,Joliette,43.3039964,5.3678756,way,419952870
+Marseille,station,Jules Guesde,43.3019794,5.3739858,way,419952877
+Marseille,station,Bougainville,43.3205086,5.371454,way,420028853
+Marseille,station,Désirée Clary,43.30951,5.3727085,way,420028857
+Marseille,station,National,43.3151942,5.3730609,way,420028890
+Marseille,station,Sans nom,43.3038304,5.4244112,way,420359082
+Marseille,station,La Fourragère,43.3038191,5.4241032,way,420359087
+Marseille,station,Sans nom,43.3033547,5.4187699,way,420371075
+Marseille,station,Sans nom,43.3033719,5.4186571,way,420371076
+Marseille,station,Saint-Barnabé,43.3033728,5.4189427,way,420371086
+Marseille,station,Louis Armand,43.3000347,5.41364,way,420622796
+Marseille,station,Baille,43.2881498,5.3920826,way,420876794
+Marseille,station,La Timone,43.2911917,5.4004528,way,420876804
+Marseille,station,Vieux Port,43.295543,5.3743186,way,421161746
+Marseille,station,Colbert,43.3003952,5.3744048,way,421354629
+Marseille,station,Chartreux,43.3094491,5.4016648,way,421543446
+Marseille,station,Cinq Avenues Longchamp,43.3041573,5.3965352,way,421543456
+Marseille,station,Réformés - Canebière,43.300238,5.3858577,way,421543469
+Marseille,station,La Rose,43.3336461,5.430028,way,421630984
+Marseille,station,Malpassé,43.3206206,5.4160368,way,421630988
+Marseille,station,Saint-Just,43.3154186,5.4060987,way,421631063
+Marseille,station,Capitaine Gèze,43.327942,5.3672639,way,427074672
+Marseille,station,Estrangin - Préfecture,43.2901511,5.3780043,relation,6259015
+Marseille,station,Saint-Charles,43.3024105,5.3801312,relation,6261852
+Marseille,historic,Sans nom,43.3043471,5.4145432,node,473137065
+Marseille,historic,Monument aux morts,43.3043428,5.4144427,node,473137066
+Marseille,historic,Le Liban,43.2073445,5.3370887,node,663869688
+Marseille,historic,Sans nom,43.2935538,5.3867073,node,991811871
+Marseille,historic,Colonne d'Homère,43.2942219,5.3809038,node,997687403
+Marseille,historic,Sans nom,43.2897545,5.4134434,node,1037207664
+Marseille,historic,La Ferme d'Angèle,43.3214171,5.527365,node,1117990138
+Marseille,historic,Entrée d'Aubignane,43.3225437,5.526355,node,1117990188
+Marseille,historic,Croix de Saint-Marcel,43.2800393,5.4718146,node,1254191280
+Marseille,historic,Hommage à Gaston Rebuffat,43.2316139,5.501196,node,1324366813
+Marseille,historic,Croix de Gasquet,43.206648,5.4837769,node,1324367216
+Marseille,historic,Sans nom,43.2844326,5.3496127,node,1347301903
+Marseille,historic,Sans nom,43.2973242,5.3656687,node,1347465229
+Marseille,historic,Monument aux morts de l'Armée d'Orient et des terres lointaines,43.2860127,5.35048,node,1347465236
+Marseille,historic,Sans nom,43.2047838,5.4239945,node,1429402546
+Marseille,historic,Monument aux morts,43.2217286,5.4162368,node,1429403234
+Marseille,historic,Sans nom,43.2386118,5.3653585,node,1439859484
+Marseille,historic,Le char Jeanne-d'Arc,43.2865054,5.3699737,node,1448514091
+Marseille,historic,Sans nom,43.2845042,5.3150837,node,1478232376
+Marseille,historic,Sans nom,43.3306268,5.5167606,node,1576266154
+Marseille,historic,Sans nom,43.278741,5.380709,node,1671295850
+Marseille,historic,Sans nom,43.289811,5.442573,node,1699859325
+Marseille,historic,Oppidum des Baou de Saint-Marcel,43.2991198,5.4670479,node,1752669693
+Marseille,historic,Grotte-ermitage des Aygalades,43.3591756,5.3619616,node,1802754555
+Marseille,historic,Construction de la galerie de la Mer 1890-1905,43.3293257,5.3552899,node,1876117180
+Marseille,historic,Buste du Chevalier Roze,43.2960093,5.3657319,node,1889860768
+Marseille,historic,Monseigneur Belsunce,43.2992411,5.364389,node,1891589897
+Marseille,historic,Sous-marin L'Alose,43.2396012,5.4024345,node,1902201832
+Marseille,historic,Caves Saint-Sauveur,43.2975457,5.3656943,node,1905364734
+Marseille,historic,Sans nom,43.356933,5.342993,node,1918873065
+Marseille,historic,À la mémoire des déportés au camp de Rawa-Rusko,43.2818704,5.4281172,node,1960565222
+Marseille,historic,École où vécut Marcel Pagnol,43.2813958,5.4276846,node,1960565223
+Marseille,historic,Missak Manouchian,43.2925295,5.3613071,node,1976952251
+Marseille,historic,Monument aux morts,43.3238722,5.3933563,node,2049492699
+Marseille,historic,Monument au Général Leclerc Maréchal de France,43.3042346,5.3756761,node,2079963284
+Marseille,historic,monument aux morts 1-3e cantons,43.2960079,5.3637236,node,2109283974
+Marseille,historic,Sans nom,43.3790157,5.2377886,node,2178757956
+Marseille,historic,"À la mémoire de Léon Bruny, mort pour la France",43.2769946,5.4389906,node,2183895197
+Marseille,historic,Monument Capazza,43.2952466,5.385774,node,2283111988
+Marseille,historic,Domaine de la Cavalière,43.3020301,5.4363906,node,2311864182
+Marseille,historic,Monument aux morts,43.3542642,5.3661415,node,2330838830
+Marseille,historic,Croix de Pierre,43.2582373,5.3831784,node,2368671375
+Marseille,historic,memoire soldats americains 1944,43.2593213,5.3814118,node,2368671507
+Marseille,historic,Circuit permanent de vitesse JP Wimille,43.2608108,5.3808316,node,2368671575
+Marseille,historic,La Bastide Neuve (Pagnol),43.3248164,5.5135914,node,2375540987
+Marseille,historic,Sans nom,43.281107,5.2956692,node,2382744243
+Marseille,historic,Paul Melizan,43.2750918,5.3959538,node,2383282090
+Marseille,historic,Monument aux morts de la Guerre 1914-1948,43.3557162,5.3623139,node,2458279585
+Marseille,historic,Aspirant Jean Versini,43.3006532,5.4126356,node,2505368199
+Marseille,historic,Junker 88,43.2746833,5.2867,node,2549678021
+Marseille,historic,La drome,43.2309333,5.31975,node,2549678025
+Marseille,historic,Le Dalton,43.19975,5.23065,node,2549678034
+Marseille,historic,Messerschmit,43.2001333,5.2297333,node,2549678041
+Marseille,historic,Saint Dominique,43.3100667,5.3464833,node,2549678062
+Marseille,historic,Monument du génocide de Marseille,43.2705964,5.3888606,node,2735773604
+Marseille,historic,Monument aux morts,43.3243896,5.3798132,node,2889387770
+Marseille,historic,Sans nom,43.2387927,5.4663659,node,3161474364
+Marseille,historic,Sans nom,43.2901727,5.4419385,node,3204624472
+Marseille,historic,Sans nom,43.2899482,5.4418004,node,3204624474
+Marseille,historic,Ici est mort Ibrahim Ali à l'âge de 17 ans,43.3464858,5.365985,node,3325679389
+Marseille,historic,Sans nom,43.2821685,5.3749084,node,3400218200
+Marseille,historic,Sans nom,43.2835208,5.3754668,node,3400218201
+Marseille,historic,Sans nom,43.2852743,5.3779406,node,3400218202
+Marseille,historic,Ruines du Château de Ners,43.3675421,5.5263851,node,3431966080
+Marseille,historic,Sans nom,43.3387082,5.392246,node,3502955174
+Marseille,historic,Monument aux morts,43.2850073,5.397573,node,3551229692
+Marseille,historic,Sans nom,43.2677689,5.3721045,node,3561059786
+Marseille,historic,Khatchkar du centenaire du génocide des Arméniens,43.2974922,5.3987589,node,3612755915
+Marseille,historic,Sans nom,43.2975004,5.3989733,node,3612755917
+Marseille,historic,Sans nom,43.3022835,5.3806179,node,3612846290
+Marseille,historic,Sans nom,43.3435099,5.4170633,node,3721416937
+Marseille,historic,Oppidum de la Cloche,43.3891586,5.2751481,node,3752626928
+Marseille,historic,La Croisette,43.2135179,5.3375358,node,3807745848
+Marseille,historic,Sans nom,43.3290711,5.4280905,node,3851355298
+Marseille,historic,Sans nom,43.3290799,5.4280838,node,3851355299
+Marseille,historic,Sans nom,43.2937079,5.4256287,node,3907192469
+Marseille,historic,Sans nom,43.2937084,5.4254752,node,3907192470
+Marseille,historic,Sans nom,43.2937275,5.4254906,node,3907192473
+Marseille,historic,Croix de la Mission de Saint-Loup,43.2844091,5.4266589,node,3920459242
+Marseille,historic,Sans nom,43.2727749,5.4308266,node,4000919994
+Marseille,historic,Sans nom,43.2826875,5.4311837,node,4163256754
+Marseille,historic,Sans nom,43.3385441,5.4078082,node,4227920148
+Marseille,historic,Sans nom,43.2965675,5.3758879,node,4235424236
+Marseille,historic,Sans nom,43.3578453,5.49076,node,4278227028
+Marseille,historic,Sans nom,43.3579179,5.4908827,node,4278227031
+Marseille,historic,Sans nom,43.3477015,5.4634906,node,4327152450
+Marseille,historic,Sans nom,43.3153385,5.3971065,node,4352652025
+Marseille,historic,Sans nom,43.324216,5.4025308,node,4379191952
+Marseille,historic,Sans nom,43.3049433,5.395459,node,4393568633
+Marseille,historic,À Ernest Reyer,43.3052255,5.3953197,node,4394745563
+Marseille,historic,Monument aux morts des Caillols,43.3031509,5.451814,node,4466017966
+Marseille,historic,Monument aux morts de Saint-Julien,43.3133708,5.4494597,node,4466095774
+Marseille,historic,Monument aux morts d'Eoures,43.3013417,5.5217539,node,4466112521
+Marseille,historic,Monument aux morts quartier des Camoins,43.3012363,5.5104633,node,4466292630
+Marseille,historic,Monument aux morts de Bois-Luzy,43.3098373,5.4196137,node,4466401917
+Marseille,historic,Sans nom,43.2911252,5.3752627,node,4467046587
+Marseille,historic,Château de l'Air,43.3787551,5.2960632,node,4520821358
+Marseille,historic,Sans nom,43.2218882,5.3531387,node,4554034365
+Marseille,historic,Fortin de Morgiou,43.2055534,5.4482935,node,4556325300
+Marseille,historic,Ancienne batterie,43.2086961,5.3729094,node,4562084666
+Marseille,historic,Monument aux morts,43.3607226,5.3124815,node,4591322287
+Marseille,historic,Sans nom,43.3673073,5.3050373,node,4593151818
+Marseille,historic,Sans nom,43.2221727,5.3703679,node,4699303687
+Marseille,historic,Sans nom,43.2464263,5.424962,node,4713338593
+Marseille,historic,Mausolée du Roi d’Espagne,43.2390375,5.3933685,node,4715376394
+Marseille,historic,Croix de l'Aiguille des Baumettes,43.2275829,5.4197506,node,4734177116
+Marseille,historic,Sans nom,43.2121923,5.3896299,node,4745149176
+Marseille,historic,Sans nom,43.349661,5.3586921,node,4901244983
+Marseille,historic,Tombeau de Camille Olive,43.290238,5.4128086,node,4908969738
+Marseille,historic,Pierre Puget,43.2898852,5.3710652,node,4911547682
+Marseille,historic,Vestiges du théâtre grec,43.2964526,5.3647774,node,4912822119
+Marseille,historic,Ancienne carrière Paul & Pons,43.3708704,5.3346805,node,4938376361
+Marseille,historic,Germain Nouveau,43.3049798,5.3954553,node,5045141103
+Marseille,historic,Valère Bernard,43.304928,5.3960488,node,5045141105
+Marseille,historic,Arbre de la Dignité,43.3050206,5.3959819,node,5045141106
+Marseille,historic,À Monticelli,43.3055424,5.3960417,node,5045141107
+Marseille,historic,Oratoire de l'Annonciade,43.3474649,5.4488226,node,5050276729
+Marseille,historic,Sans nom,43.3349058,5.44858,node,5064355821
+Marseille,historic,Oratoire Saint Honorat,43.342952,5.4452758,node,5107781326
+Marseille,historic,Sans nom,43.2490813,5.4051578,node,5161864789
+Marseille,historic,Khatchkar,43.3012019,5.3736963,node,5202187849
+Marseille,historic,Sans nom,43.3367329,5.4366834,node,5257848302
+Marseille,historic,Sans nom,43.3367335,5.4366791,node,5257848303
+Marseille,historic,Sans nom,43.3520831,5.4387561,node,5308383854
+Marseille,historic,Sans nom,43.3517474,5.4383272,node,5310286717
+Marseille,historic,Pont aqueduc,43.2875429,5.4806471,node,5363146831
+Marseille,historic,Sans nom,43.2985649,5.3807673,node,5428992009
+Marseille,historic,Sans nom,43.2800201,5.2994186,node,5438721842
+Marseille,historic,Sans nom,43.2796606,5.2977286,node,5438721843
+Marseille,historic,Sans nom,43.280127,5.2975694,node,5438721844
+Marseille,historic,Sans nom,43.2801206,5.2970668,node,5438721845
+Marseille,historic,Sans nom,43.2802958,5.2971004,node,5438721846
+Marseille,historic,Sans nom,43.2798152,5.2967323,node,5438721847
+Marseille,historic,Sans nom,43.279966,5.2963678,node,5438721848
+Marseille,historic,Sans nom,43.280002,5.2961148,node,5438721849
+Marseille,historic,Sans nom,43.2800188,5.2952353,node,5438721850
+Marseille,historic,Sans nom,43.279776,5.2980368,node,5438721851
+Marseille,historic,Sans nom,43.2801148,5.2990366,node,5438721852
+Marseille,historic,Sans nom,43.279977,5.2999409,node,5438721853
+Marseille,historic,Sans nom,43.2801818,5.2996507,node,5438721854
+Marseille,historic,Sans nom,43.2804936,5.2993729,node,5438721855
+Marseille,historic,Sans nom,43.2804047,5.2992844,node,5438721856
+Marseille,historic,Sans nom,43.2804163,5.2994454,node,5438721857
+Marseille,historic,Sans nom,43.2805915,5.2994047,node,5438721858
+Marseille,historic,Ringstand,43.2798054,5.2955955,node,5438721883
+Marseille,historic,Sans nom,43.2804976,5.2989631,node,5438721884
+Marseille,historic,Sans nom,43.2809009,5.2990813,node,5438721885
+Marseille,historic,Sans nom,43.2800643,5.2996711,node,5446617474
+Marseille,historic,Sans nom,43.2807855,5.2991104,node,5446617475
+Marseille,historic,Vigie de Riou,43.1757416,5.3853525,node,5465560579
+Marseille,historic,Habitat fortifié dit le Camp de Laure,43.3815284,5.2299616,node,5494458754
+Marseille,historic,Monument de l’appel du 18 juin 1940,43.2949822,5.3758496,node,5506220626
+Marseille,historic,Sans nom,43.3650702,5.3666885,node,5537551065
+Marseille,historic,Sans nom,43.3210982,5.5221446,node,5588661260
+Marseille,historic,Les habitants de la cité à leurs camarades morts pour la libération de la France Colombani Dominique Lambert Maurice Mortier Christian Torresani Louis,43.2847494,5.4267237,node,5669475138
+Marseille,historic,Ancienne prison des Présentines,43.3012031,5.3739238,node,5719619361
+Marseille,historic,Mémorial des flammes,43.3614225,5.2316675,node,5745750856
+Marseille,historic,Ker-Bihan,43.230333,5.316667,node,5806730179
+Marseille,historic,Sans nom,43.3300649,5.363502,node,5845941258
+Marseille,historic,Place du souvenir Français,43.2791737,5.5080162,node,6041325314
+Marseille,historic,Louis Braille,43.2894164,5.3706113,node,6106745663
+Marseille,historic,Abbé Dassy,43.2892693,5.3700717,node,6106745664
+Marseille,historic,Colonne Puget,43.289832,5.3704915,node,6106745682
+Marseille,historic,Sans nom,43.2923344,5.3819713,node,6139186839
+Marseille,historic,À la mémoire des 3 frères Carasso,43.3028997,5.3994835,node,6170637390
+Marseille,historic,Sans nom,43.2888456,5.4304037,node,6301453045
+Marseille,historic,Sans nom,43.2888582,5.4291779,node,6301453047
+Marseille,historic,Sans nom,43.2854451,5.3703258,node,6315635193
+Marseille,historic,Sans nom,43.2977333,5.3687257,node,6365090619
+Marseille,historic,Sans nom,43.3011953,5.5106306,node,6416533074
+Marseille,historic,Sans nom,43.3011689,5.5211771,node,6417767526
+Marseille,historic,Sans nom,43.3021032,5.5136718,node,6419094514
+Marseille,historic,remorque canon,43.3422708,5.2655033,node,6421448896
+Marseille,historic,Sans nom,43.3013319,5.5043676,node,6421602747
+Marseille,historic,Sans nom,43.3084963,5.4365815,node,6542584294
+Marseille,historic,Sans nom,43.3123641,5.4395977,node,6542584302
+Marseille,historic,Sans nom,43.3346292,5.4511714,node,6738889589
+Marseille,historic,Sans nom,43.3262235,5.3583911,node,6794576235
+Marseille,historic,Sans nom,43.3190217,5.3840672,node,6898225837
+Marseille,historic,Sans nom,43.3227293,5.382714,node,6898227625
+Marseille,historic,Sans nom,43.2888256,5.3562263,node,7047294177
+Marseille,historic,Sans nom,43.2813441,5.5145748,node,7663274279
+Marseille,historic,Station sanitaire de Marseille,43.2976073,5.3633765,node,7843180628
+Marseille,historic,Sans nom,43.2872793,5.4639246,node,7913149690
+Marseille,historic,Sans nom,43.2887327,5.4608818,node,7925474501
+Marseille,historic,Sans nom,43.3001642,5.3641432,node,7934538579
+Marseille,historic,Sans nom,43.2816116,5.4118508,node,7997257333
+Marseille,historic,Sans nom,43.279215,5.4121783,node,7997257334
+Marseille,historic,À la mémoire de Jean de Bernardy,43.3029751,5.3899242,node,8085466057
+Marseille,historic,Jean Bouin,43.3021533,5.3914903,node,8085507945
+Marseille,historic,Sans nom,43.2971622,5.3715015,node,8091061823
+Marseille,historic,Sans nom,43.2912893,5.3974802,node,8100383789
+Marseille,historic,Sans nom,43.2931845,5.3761736,node,8124950710
+Marseille,historic,Sans nom,43.2938881,5.3754148,node,8124950711
+Marseille,historic,Sans nom,43.3003944,5.3722715,node,8129739783
+Marseille,historic,Sans nom,43.3388567,5.5037377,node,8224278399
+Marseille,historic,Sans nom,43.3124574,5.4013472,node,8435191544
+Marseille,historic,Sans nom,43.3127924,5.3994293,node,8435191599
+Marseille,historic,Sans nom,43.2843937,5.3582864,node,8587061830
+Marseille,historic,Sans nom,43.2875721,5.4836044,node,8642499893
+Marseille,historic,Sans nom,43.3021466,5.4941839,node,8644109491
+Marseille,historic,Sans nom,43.2943536,5.4391852,node,8706869191
+Marseille,historic,Sans nom,43.2966369,5.3774398,node,8781092818
+Marseille,historic,Sans nom,43.3381771,5.3956861,node,8829816204
+Marseille,historic,Sans nom,43.3461326,5.3781549,node,8907163887
+Marseille,historic,Sans nom,43.3172669,5.4050159,node,8919327526
+Marseille,historic,Les trémies de la pointe Cacau,43.2001706,5.5121522,node,9000197412
+Marseille,historic,Caserne des Douanes,43.3084003,5.3776797,node,9056322229
+Marseille,historic,Sans nom,43.3030477,5.4468356,node,9204423551
+Marseille,historic,Sans nom,43.2942301,5.3808848,node,9243797580
+Marseille,historic,Sans nom,43.2942101,5.3809344,node,9243797581
+Marseille,historic,Sans nom,43.289466,5.3669308,node,9344266938
+Marseille,historic,À la mémoire du Chanteur Claude François,43.3062185,5.4006651,node,9439506591
+Marseille,historic,Sans nom,43.3879586,5.4919617,node,9505730282
+Marseille,historic,Sans nom,43.3870384,5.4890226,node,9505730283
+Marseille,historic,Sans nom,43.3642986,5.3355249,node,9611532696
+Marseille,historic,Sans nom,43.2307285,5.3522563,node,9633350374
+Marseille,historic,Sans nom,43.2848952,5.3706115,node,9646731381
+Marseille,historic,Croix Gardianne,43.2837682,5.369985,node,9646731382
+Marseille,historic,Sans nom,43.2850293,5.3717248,node,9646731383
+Marseille,historic,Sans nom,43.2663872,5.4077853,node,9656223188
+Marseille,historic,Sans nom,43.2256941,5.3569247,node,9682271717
+Marseille,historic,Sans nom,43.2801051,5.3058117,node,9683188291
+Marseille,historic,Sans nom,43.2204368,5.4644844,node,9696268031
+Marseille,historic,Hommage à Paul Ruat,43.223361,5.3723153,node,9716755338
+Marseille,historic,Sans nom,43.3434581,5.2620925,node,9789082326
+Marseille,historic,Sans nom,43.3671738,5.2476938,node,9789210011
+Marseille,historic,Sans nom,43.3709058,5.2515349,node,9789210037
+Marseille,historic,Sans nom,43.3706064,5.2676521,node,9789210039
+Marseille,historic,Sans nom,43.3693155,5.3562728,node,9803837414
+Marseille,historic,Monument aux morts 1ère Guerre Mondiale,43.2577153,5.3940335,node,9885157088
+Marseille,historic,Monument aux Morts pour la libération du quartier en Août 1944,43.2495874,5.3820106,node,9889189936
+Marseille,historic,Sans nom,43.3098781,5.3703296,node,9999996527
+Marseille,historic,Sans nom,43.2949566,5.3581276,node,10042581476
+Marseille,historic,Sans nom,43.3374766,5.483868,node,10075814866
+Marseille,historic,Sans nom,43.3127749,5.4636512,node,10199418554
+Marseille,historic,Sans nom,43.2124369,5.4647741,node,10216747293
+Marseille,historic,Monument à Jean-Pierre Malavasi et Michel Alvarel,43.2195845,5.4189725,node,10307301836
+Marseille,historic,Sans nom,43.3190954,5.4086865,node,10683668349
+Marseille,historic,Saint-Marcel,43.2884219,5.4665782,node,10942969680
+Marseille,historic,Sans nom,43.3094599,5.4016195,node,10968685755
+Marseille,historic,Plages Gaston Defferre,43.2600383,5.3723814,node,10980589145
+Marseille,historic,Ancien socle,43.2815726,5.3095528,node,11065329450
+Marseille,historic,Sans nom,43.2223613,5.3453923,node,11069910808
+Marseille,historic,Paul Valéry,43.2905366,5.3650782,node,11073568762
+Marseille,historic,Henri Frenay,43.2905614,5.3653005,node,11073568763
+Marseille,historic,Square Berthie Albrecht,43.2905667,5.3653522,node,11073568764
+Marseille,historic,Sans nom,43.2928031,5.3859466,node,11136447945
+Marseille,historic,Lucien MARGAILLAN & Désiré MACARIO,43.2854724,5.4809974,node,11269087886
+Marseille,historic,S.E.C.E.M.A.E.U. - Usine de la Barasse - Morts pour la France,43.2854743,5.4809879,node,11269087887
+Marseille,historic,Émile Muselier vice -amiral d'escadre 1882-1865,43.2645589,5.3744292,node,11373992594
+Marseille,historic,Monument aux morts du quartier de Montolivet,43.3182857,5.4225407,node,11759167276
+Marseille,historic,Sans nom,43.2876453,5.3869221,node,11787025173
+Marseille,historic,S/Lt BIROARD Louis,43.3066913,5.3744045,node,11812170793
+Marseille,historic,Sans nom,43.2625695,5.396742,node,11878339350
+Marseille,historic,Sans nom,43.2951548,5.3912541,node,12073881670
+Marseille,historic,Sans nom,43.2966211,5.3937165,node,12075669867
+Marseille,historic,Datacenter Martha,43.3384856,5.3465722,node,12097993555
+Marseille,historic,Sans nom,43.2825079,5.3918716,node,12120623423
+Marseille,historic,Sans nom,43.2963565,5.3898615,node,12146117961
+Marseille,historic,Sans nom,43.2962487,5.3893619,node,12147494291
+Marseille,historic,Sans nom,43.2962458,5.38927,node,12147494292
+Marseille,historic,Sans nom,43.2948659,5.393104,node,12180486566
+Marseille,historic,Sans nom,43.2926254,5.4090366,node,12199413904
+Marseille,historic,Sans nom,43.2855939,5.3831999,node,12244497378
+Marseille,historic,Jardin Missak Manouchian,43.2925238,5.3612747,node,12250500369
+Marseille,historic,Sans nom,43.3907706,5.2330847,node,12250968793
+Marseille,historic,Sans nom,43.390742,5.2331063,node,12250968794
+Marseille,historic,Sans nom,43.29357,5.3755535,node,12252330377
+Marseille,historic,Sans nom,43.2839639,5.371363,node,12259363310
+Marseille,historic,Sans nom,43.2839606,5.3713686,node,12259363311
+Marseille,historic,Sans nom,43.2839569,5.3713748,node,12259363312
+Marseille,historic,Sans nom,43.2839536,5.3713803,node,12259363313
+Marseille,historic,Thermes romaines de Marseille,43.2968354,5.369802,node,12259405087
+Marseille,historic,Sans nom,43.2916263,5.3850583,node,12278365198
+Marseille,historic,Sans nom,43.2915262,5.3850706,node,12278365199
+Marseille,historic,Ancien emplacement d'Artillerie,43.3375293,5.2458615,node,12311393932
+Marseille,historic,Ancien emplacement d'Artillerie,43.3376207,5.2463606,node,12311393933
+Marseille,historic,Ancien emplacement d'Artillerie,43.3379354,5.2458907,node,12311393934
+Marseille,historic,Ancien emplacement d'Artillerie,43.3391355,5.2486268,node,12311393935
+Marseille,historic,Ancien emplacement d'Artillerie,43.3391374,5.2486634,node,12311393936
+Marseille,historic,Ancien emplacement d'Artillerie,43.3391396,5.248702,node,12311393937
+Marseille,historic,Ancien emplacement d'Artillerie,43.3391418,5.2487391,node,12311393938
+Marseille,historic,Ancien emplacement d'Artillerie,43.3391865,5.2488875,node,12311393939
+Marseille,historic,Sans nom,43.2753777,5.3682804,node,12328926635
+Marseille,historic,La crypte de Saint-Victor,43.2902156,5.3653039,node,12345727068
+Marseille,historic,Sans nom,43.2842334,5.3707887,node,12401221999
+Marseille,historic,Sans nom,43.300492,5.3684462,node,12420469877
+Marseille,historic,Sans nom,43.3702495,5.3561547,node,12666646524
+Marseille,historic,Elzéard Rougier,43.3092815,5.4111078,node,12718893484
+Marseille,historic,Sans nom,43.2597462,5.3835725,node,12772204894
+Marseille,historic,Sans nom,43.34774,5.4633325,node,12782165003
+Marseille,historic,Sans nom,43.2958062,5.3612858,node,12825696125
+Marseille,historic,Sans nom,43.2957871,5.3612768,node,12825696126
+Marseille,historic,Monumento alla Resistenza Italo-francese,43.3130293,5.384852,node,12857804471
+Marseille,historic,Monument à Gyptis et Protis,43.2933332,5.3637447,node,13234868677
+Marseille,historic,Sans nom,43.3612736,5.3142404,node,13247971144
+Marseille,historic,Fort de Niolon Haut,43.3376943,5.2461358,way,25921314
+Marseille,historic,La batterie Haute de Niolon,43.3392223,5.2487333,way,25921317
+Marseille,historic,Fort Saint-Nicolas,43.2910516,5.3623711,way,27254413
+Marseille,historic,Hôpital Caroline,43.2836212,5.3189423,way,28392529
+Marseille,historic,Fort de Brégantin,43.2805366,5.2935308,way,28401058
+Marseille,historic,Fort de Ratonneau,43.2832119,5.3118136,way,28402290
+Marseille,historic,Jardin des Vestiges,43.2976029,5.3749046,way,35466085
+Marseille,historic,Marégraphe,43.2788243,5.3537349,way,60176805
+Marseille,historic,Sans nom,43.2975934,5.3775276,way,67696613
+Marseille,historic,Sans nom,43.3003202,5.3788007,way,67696732
+Marseille,historic,Sans nom,43.2998924,5.3762733,way,67697180
+Marseille,historic,Hôtel Grau,43.2979131,5.3825139,way,67697538
+Marseille,historic,Sans nom,43.3003619,5.3801312,way,67697789
+Marseille,historic,Colonne Puget,43.2948432,5.3788016,way,67698373
+Marseille,historic,Sans nom,43.2992322,5.3776145,way,67699332
+Marseille,historic,Sans nom,43.3017733,5.3782007,way,67700359
+Marseille,historic,Palais de la Bourse,43.2961437,5.375398,way,67700953
+Marseille,historic,Hôtel Pascal,43.2922912,5.3770286,way,67701371
+Marseille,historic,Sans nom,43.2982452,5.3859188,way,67701916
+Marseille,historic,Sans nom,43.3015505,5.3780988,way,67702467
+Marseille,historic,Sans nom,43.2999784,5.3794233,way,67702652
+Marseille,historic,Sans nom,43.3001765,5.3780485,way,67702670
+Marseille,historic,Maison du Figaro,43.2963579,5.3782004,way,67702950
+Marseille,historic,Sans nom,43.2993369,5.3791478,way,67703045
+Marseille,historic,Hôtel Pesciolini,43.2993287,5.3763269,way,67703110
+Marseille,historic,Sans nom,43.299014,5.3802028,way,67703301
+Marseille,historic,Sans nom,43.3018979,5.3792533,way,67703325
+Marseille,historic,Sans nom,43.3003459,5.3789614,way,67703364
+Marseille,historic,Hôtel Hubaud,43.29799,5.3792082,way,67703920
+Marseille,historic,Hôtel de Ruffi,43.2988485,5.3793008,way,67704949
+Marseille,historic,Sans nom,43.3002931,5.3786306,way,67705100
+Marseille,historic,Sans nom,43.3005116,5.3782084,way,67705457
+Marseille,historic,Building Canebière,43.2977772,5.38024,way,67705901
+Marseille,historic,Église conventuelle des Bénédictins,43.2934932,5.3814378,way,67705990
+Marseille,historic,Sans nom,43.2995059,5.3769212,way,67706173
+Marseille,historic,Sans nom,43.2996006,5.3773387,way,67706287
+Marseille,historic,Sans nom,43.2977481,5.3781405,way,67706312
+Marseille,historic,Sans nom,43.2989807,5.3797776,way,67706488
+Marseille,historic,Hôtel Salles,43.2997125,5.3775883,way,67706721
+Marseille,historic,Hôtel de Rome et de Saint-Pierre,43.295742,5.3784493,way,67706724
+Marseille,historic,Sans nom,43.2967255,5.3780004,way,67707125
+Marseille,historic,Sans nom,43.297163,5.3777631,way,67707404
+Marseille,historic,Sans nom,43.3002189,5.3783402,way,67707990
+Marseille,historic,Sans nom,43.3015833,5.3785888,way,67708062
+Marseille,historic,Sans nom,43.2986674,5.3798209,way,67708296
+Marseille,historic,Sans nom,43.2984144,5.377036,way,67708335
+Marseille,historic,Musée Grobet-Labadié,43.3033116,5.3929848,way,67708610
+Marseille,historic,Sans nom,43.2976146,5.379309,way,67708637
+Marseille,historic,Hôtel des Princes,43.294681,5.3755061,way,67708729
+Marseille,historic,Hôtel Constantin,43.2987993,5.381734,way,67708870
+Marseille,historic,Hôtel Maillet,43.2980215,5.3772951,way,67709286
+Marseille,historic,Sans nom,43.2997318,5.3795393,way,67709388
+Marseille,historic,Hôtel Margirier,43.3026457,5.3896236,way,67709426
+Marseille,historic,Sans nom,43.2928635,5.3795136,way,67709454
+Marseille,historic,Sans nom,43.2997439,5.3785449,way,67710015
+Marseille,historic,Hôtel de Cabre,43.2976165,5.3713767,way,67713530
+Marseille,historic,Sans nom,43.2995535,5.3670637,way,67713790
+Marseille,historic,Maison Diamantée,43.2969767,5.3693806,way,67714044
+Marseille,historic,Sans nom,43.2996562,5.366944,way,67714144
+Marseille,historic,Sans nom,43.2972747,5.3683463,way,67714380
+Marseille,historic,Tour du Roi René,43.2946996,5.3628583,way,67714466
+Marseille,historic,"Mémorial de la déportation, de l'internement et de la Résistance",43.2979701,5.3702518,way,67714599
+Marseille,historic,Sans nom,43.2993973,5.3683595,way,67714643
+Marseille,historic,Sans nom,43.2975139,5.3684793,way,67716000
+Marseille,historic,Chapelle des Pénitents Noirs,43.3002467,5.3690012,way,67716426
+Marseille,historic,Sans nom,43.2993223,5.3674647,way,67716650
+Marseille,historic,Église de la Vieille Major,43.2994646,5.3653139,way,67717072
+Marseille,historic,Sans nom,43.2991822,5.3666915,way,67717804
+Marseille,historic,Sans nom,43.2993112,5.3673921,way,67717961
+Marseille,historic,Sans nom,43.2995007,5.3669902,way,67717974
+Marseille,historic,Sans nom,43.2996702,5.3670176,way,67718478
+Marseille,historic,Bastide du Comte de Ballestre,43.3160894,5.3751442,way,68940541
+Marseille,historic,Bastide Le Château,43.3152843,5.3783856,way,68941468
+Marseille,historic,Bastide de Mercure,43.3069299,5.3799696,way,68941956
+Marseille,historic,Sans nom,43.3105129,5.3701122,way,68947021
+Marseille,historic,Porte d'Aix,43.3018519,5.3747467,way,68949866
+Marseille,historic,Villa Soleil,43.3127005,5.3864542,way,68950315
+Marseille,historic,Frédéric Mistral,43.3045034,5.3956522,way,68960855
+Marseille,historic,Sans nom,43.2964459,5.3883083,way,68963948
+Marseille,historic,Bastide Timon-David,43.2905507,5.401019,way,68964181
+Marseille,historic,Sans nom,43.305801,5.4073619,way,68966704
+Marseille,historic,Bastide Montolieu,43.2987312,5.4019351,way,68968406
+Marseille,historic,Château de la Madeleine,43.3014259,5.3950603,way,68969887
+Marseille,historic,Sans nom,43.2985831,5.3907502,way,68973978
+Marseille,historic,Villa Armandon,43.3072717,5.3949988,way,68974161
+Marseille,historic,Sans nom,43.3014116,5.4074441,way,68974964
+Marseille,historic,Hôtel Massillon,43.3031472,5.3940339,way,68975094
+Marseille,historic,Sans nom,43.305396,5.4051257,way,68975108
+Marseille,historic,Palais Longchamp,43.304229,5.39443,way,68979506
+Marseille,historic,Le pavillon de l'éléphant,43.3071863,5.397652,way,68981551
+Marseille,historic,Grande bastide Paul,43.3035394,5.3963577,way,68983117
+Marseille,historic,Sans nom,43.3024781,5.4078209,way,68985697
+Marseille,historic,Hôtel du Commandant du 15e corps,43.2905786,5.3788571,way,69122088
+Marseille,historic,Hôtel Dumas-Bernex,43.2877366,5.3798391,way,69122134
+Marseille,historic,Maison Carrera,43.2846752,5.3779243,way,69122150
+Marseille,historic,Ancien hôtel Roux de Corse,43.291343,5.3785178,way,69122882
+Marseille,historic,Sans nom,43.2898383,5.3772661,way,69123085
+Marseille,historic,Sans nom,43.284112,5.3706632,way,69123459
+Marseille,historic,Sans nom,43.2913397,5.3822279,way,69123560
+Marseille,historic,Hôtel Chambon,43.2900853,5.3753653,way,69124666
+Marseille,historic,Sans nom,43.2899274,5.3736098,way,69125308
+Marseille,historic,Sans nom,43.2900256,5.3749607,way,69127151
+Marseille,historic,Sans nom,43.2882935,5.3770679,way,69127297
+Marseille,historic,Hôtel Roux,43.2880762,5.374923,way,69127546
+Marseille,historic,Sans nom,43.2900658,5.3755736,way,69129895
+Marseille,historic,Sans nom,43.2915869,5.3815713,way,69130091
+Marseille,historic,Sans nom,43.2886486,5.3769554,way,69130233
+Marseille,historic,Sans nom,43.2890051,5.3808447,way,69130470
+Marseille,historic,Sans nom,43.284323,5.3709708,way,69130683
+Marseille,historic,Sans nom,43.2887573,5.373965,way,69130881
+Marseille,historic,Sans nom,43.2842163,5.3708935,way,69131508
+Marseille,historic,Sans nom,43.2898816,5.3732149,way,69133320
+Marseille,historic,Sans nom,43.2888278,5.376881,way,69134200
+Marseille,historic,Sans nom,43.2904171,5.3746152,way,69134257
+Marseille,historic,Sans nom,43.2887949,5.3762579,way,69134506
+Marseille,historic,Sans nom,43.284241,5.3712251,way,69134510
+Marseille,historic,Monument à la mémoire de Frédéric Chevillon maire d'Allauch,43.2908285,5.3722064,way,69134632
+Marseille,historic,Ancienne Bastide Flotte de la Buzine,43.2927155,5.3814213,way,69135232
+Marseille,historic,Hôtel Noilly-Prat,43.2868036,5.3798711,way,69135501
+Marseille,historic,Résidence du Palais,43.2895683,5.3751098,way,69135786
+Marseille,historic,Hôtel-domaine Noël,43.2865879,5.3823597,way,69136007
+Marseille,historic,Sans nom,43.2916902,5.3817519,way,69136943
+Marseille,historic,Sans nom,43.2845589,5.3711028,way,69137258
+Marseille,historic,Sans nom,43.2840928,5.370692,way,69137275
+Marseille,historic,Hôtel Salavy,43.2905347,5.3786558,way,69137581
+Marseille,historic,Sans nom,43.2840264,5.3831904,way,69138060
+Marseille,historic,Hôtel Aldebert,43.2853459,5.3822696,way,69138098
+Marseille,historic,Monument commémoratif au roi Alexandre Ier de Yougoslavie et à Louis Barthou,43.2906423,5.3809039,way,69139348
+Marseille,historic,Musée Cantini,43.292202,5.3782105,way,69139913
+Marseille,historic,Sans nom,43.2841348,5.3714043,way,69140037
+Marseille,historic,Sans nom,43.2910778,5.3763999,way,69140251
+Marseille,historic,Tribunal Administratif,43.2900841,5.3757519,way,69140670
+Marseille,historic,Sans nom,43.2916618,5.3833507,way,69140881
+Marseille,historic,Sans nom,43.2843429,5.3709404,way,69141030
+Marseille,historic,Sans nom,43.2900519,5.3752308,way,69141174
+Marseille,historic,Sans nom,43.284573,5.3832043,way,69141395
+Marseille,historic,Sans nom,43.2884477,5.3803814,way,69141832
+Marseille,historic,Sans nom,43.2892959,5.3773412,way,69141974
+Marseille,historic,Sans nom,43.2887987,5.3741519,way,69142307
+Marseille,historic,Sans nom,43.2900399,5.3751096,way,69142434
+Marseille,historic,Campagne Rousselier,43.3674089,5.3379627,way,69611658
+Marseille,historic,Sans nom,43.3652557,5.2998726,way,69612499
+Marseille,historic,Sans nom,43.3578727,5.3457459,way,69615105
+Marseille,historic,Lavoir,43.3792493,5.2798906,way,69615801
+Marseille,historic,Sans nom,43.3624739,5.3215782,way,69620097
+Marseille,historic,Orangerie,43.379646,5.2790984,way,69623056
+Marseille,historic,Bastide Désiré Michel,43.3637614,5.3183447,way,69623229
+Marseille,historic,Sans nom,43.3584535,5.3282203,way,69628957
+Marseille,historic,Sans nom,43.36512,5.2995833,way,69629950
+Marseille,historic,Sans nom,43.363646,5.300225,way,69631848
+Marseille,historic,Maison de jardinier,43.3796413,5.2792565,way,69632276
+Marseille,historic,Sans nom,43.3624219,5.3116808,way,69632644
+Marseille,historic,Sans nom,43.3683322,5.3330424,way,69632904
+Marseille,historic,Bastide Saint-Georges,43.3586845,5.3403121,way,69633026
+Marseille,historic,Bastide de Château-Fallet,43.3630261,5.3097825,way,69633469
+Marseille,historic,Le Chaudron de l'Estaque,43.3610186,5.3150767,way,69634456
+Marseille,historic,Villa La Palestine,43.3619486,5.3115939,way,69634893
+Marseille,historic,Sans nom,43.3503432,5.3872376,way,69636406
+Marseille,historic,Sans nom,43.3668742,5.331964,way,69636835
+Marseille,historic,Sans nom,43.3472113,5.3834013,way,69638298
+Marseille,historic,Sans nom,43.3532286,5.3793784,way,69639480
+Marseille,historic,Sans nom,43.3526253,5.3889513,way,69639907
+Marseille,historic,Sans nom,43.3366648,5.3992045,way,69640311
+Marseille,historic,Sans nom,43.3619195,5.3401912,way,69640951
+Marseille,historic,Sans nom,43.3470327,5.382849,way,69641769
+Marseille,historic,Sans nom,43.3458091,5.3875879,way,69641785
+Marseille,historic,Sans nom,43.3636604,5.3001541,way,69642379
+Marseille,historic,Sans nom,43.340158,5.3942451,way,69643289
+Marseille,historic,Sans nom,43.3539741,5.395487,way,69643471
+Marseille,historic,Sans nom,43.3465329,5.3947912,way,69644646
+Marseille,historic,Sans nom,43.3380016,5.3963252,way,69644953
+Marseille,historic,Sans nom,43.3474354,5.383679,way,69645041
+Marseille,historic,Sans nom,43.3497103,5.3896111,way,69645296
+Marseille,historic,Sans nom,43.3527249,5.3771996,way,69645872
+Marseille,historic,Campagne Saint-Jean-de-Matha,43.3485299,5.3971714,way,69646459
+Marseille,historic,Sans nom,43.3474088,5.3837687,way,69647139
+Marseille,historic,Sans nom,43.3486015,5.3797425,way,69648934
+Marseille,historic,Sans nom,43.3530571,5.3896369,way,69649010
+Marseille,historic,Sans nom,43.323855,5.3965565,way,69649100
+Marseille,historic,Mairie des 13e et 14e arrondissements,43.3456078,5.3798504,way,69649846
+Marseille,historic,Sans nom,43.3470905,5.3832188,way,69649857
+Marseille,historic,Sans nom,43.3430723,5.3972923,way,69650417
+Marseille,historic,Domaine de la Roserie,43.3498898,5.3923892,way,69651115
+Marseille,historic,Sans nom,43.3471574,5.383413,way,69651901
+Marseille,historic,Campagne Notre-Dame,43.3512548,5.4019585,way,69652225
+Marseille,historic,Sans nom,43.3428631,5.3887531,way,69652361
+Marseille,historic,Sans nom,43.3510146,5.4076278,way,69653058
+Marseille,historic,Bastide des Cascades,43.350018,5.3848958,way,69653640
+Marseille,historic,Sans nom,43.3515424,5.3985174,way,69653715
+Marseille,historic,Bastide Notre-Dame de Pitié,43.3530817,5.3970189,way,69653935
+Marseille,historic,Sans nom,43.3280903,5.393688,way,69654318
+Marseille,historic,Bastide Massenet,43.3414975,5.3820999,way,69657157
+Marseille,historic,Sans nom,43.3525509,5.3872522,way,69657517
+Marseille,historic,Sans nom,43.3527699,5.3812758,way,69659715
+Marseille,historic,Campagne Vermont,43.348956,5.3871892,way,69660380
+Marseille,historic,Sans nom,43.3537106,5.3791822,way,69660596
+Marseille,historic,Sans nom,43.3470265,5.3996819,way,69661121
+Marseille,historic,Savonnerie du Fer-à-cheval,43.3217331,5.3901867,way,69661309
+Marseille,historic,Bastide La Granette,43.3433932,5.3846761,way,69662688
+Marseille,historic,Sans nom,43.3448556,5.4017954,way,69662705
+Marseille,historic,Bastide L'Estelle,43.3440604,5.382803,way,69663181
+Marseille,historic,Sans nom,43.3275223,5.3961368,way,69664244
+Marseille,historic,Sans nom,43.3474116,5.3836082,way,69664709
+Marseille,historic,Centre de formation continue ASPROCEP,43.3253422,5.3998751,way,69664956
+Marseille,historic,Sans nom,43.3378575,5.4009607,way,69665576
+Marseille,historic,Sans nom,43.3481595,5.3825743,way,69665777
+Marseille,historic,Bastide du Vallon Giraudy,43.3517266,5.3863233,way,69666545
+Marseille,historic,Sans nom,43.3541402,5.3962437,way,69666977
+Marseille,historic,Sans nom,43.3514719,5.3984359,way,69667086
+Marseille,historic,SOLIHA Provence,43.3529178,5.4140542,way,69667708
+Marseille,historic,Bastide La Chartreuse,43.3203072,5.3946679,way,69667772
+Marseille,historic,Sans nom,43.35319,5.3959767,way,69667788
+Marseille,historic,Château de Sainte-Marthe,43.3440972,5.3915287,way,69667987
+Marseille,historic,Bastide des Quatre Portails,43.3469993,5.3874997,way,69668710
+Marseille,historic,Sans nom,43.3304445,5.3871762,way,69668942
+Marseille,historic,Sans nom,43.354411,5.3951266,way,69669039
+Marseille,historic,Château Les Alpines,43.2725886,5.3674787,way,70043290
+Marseille,historic,Villa Bompard,43.2793926,5.360216,way,70043878
+Marseille,historic,Sans nom,43.2841533,5.3673376,way,70046186
+Marseille,historic,Villa Gaby,43.2769818,5.3581127,way,70046212
+Marseille,historic,Villa Natharich,43.2775305,5.3573826,way,70049568
+Marseille,historic,La Villa Petite ourse,43.2799845,5.3501411,way,70053958
+Marseille,historic,Sans nom,43.2708603,5.3649432,way,70055650
+Marseille,historic,Villa Miro-Mar,43.2793789,5.3568854,way,70057304
+Marseille,historic,Villa Castellamare,43.2778757,5.3565761,way,70060005
+Marseille,historic,Sans nom,43.2798376,5.3673297,way,70062318
+Marseille,historic,Tour Lazaret,43.2901124,5.3551546,way,70063153
+Marseille,historic,Sans nom,43.2786468,5.3566983,way,70063245
+Marseille,historic,Villa Valmer,43.2797533,5.3549815,way,70064669
+Marseille,historic,Villa Gabrielle,43.2761358,5.3592528,way,70066153
+Marseille,historic,Villa Lily,43.2791278,5.3605677,way,70066784
+Marseille,historic,Bastide du Vallon Jourdan,43.285444,5.3633111,way,70067356
+Marseille,historic,Villa Louise,43.2779433,5.3600933,way,70067501
+Marseille,historic,Château Talabot,43.2720065,5.3718053,way,70067557
+Marseille,historic,Sans nom,43.2787084,5.3629353,way,70068185
+Marseille,historic,Notre-Dame du château,43.3365684,5.4862983,way,72233467
+Marseille,historic,Batterie de Croisette,43.2165692,5.3490818,way,96921652
+Marseille,historic,Sans nom,43.3621275,5.367737,way,97710012
+Marseille,historic,Sans nom,43.3587065,5.3660815,way,97710044
+Marseille,historic,Sans nom,43.361241,5.367643,way,97710393
+Marseille,historic,Bastide de la Guillermy,43.3577835,5.3632465,way,97711990
+Marseille,historic,Sans nom,43.36175,5.369214,way,97712724
+Marseille,historic,Bastide de l'Annonciade,43.36192,5.3666155,way,97712978
+Marseille,historic,Sans nom,43.3482715,5.37152,way,97768464
+Marseille,historic,Château de Servières,43.343822,5.3734655,way,97768720
+Marseille,historic,Sans nom,43.3470335,5.3773355,way,97769043
+Marseille,historic,Bastide Villa des Pins,43.347869,5.3749755,way,97769559
+Marseille,historic,Sans nom,43.3507265,5.3717865,way,97769812
+Marseille,historic,Sans nom,43.346345,5.3714175,way,97770142
+Marseille,historic,Château Le Bruly,43.3460795,5.3691365,way,97770787
+Marseille,historic,Campagne du boulevard Letz,43.3463805,5.3681335,way,97770985
+Marseille,historic,Sans nom,43.341296,5.36595,way,97771292
+Marseille,historic,Ruines d'un Jaç,43.219002,5.4484759,way,109650739
+Marseille,historic,Tour du Pomèguet,43.2712335,5.2997831,way,110194305
+Marseille,historic,Domaine des Chutes Lavie,43.3205295,5.396827,way,112806500
+Marseille,historic,Sans nom,43.324238,5.429994,way,112806731
+Marseille,historic,Sans nom,43.3451735,5.450018,way,112806994
+Marseille,historic,Maison de la Direction des minoteries de la rue Isaïa,43.3197365,5.3998085,way,112810225
+Marseille,historic,Sans nom,43.327677,5.437799,way,112810740
+Marseille,historic,Sans nom,43.317591,5.410504,way,112811560
+Marseille,historic,Sans nom,43.360412,5.4403785,way,112813180
+Marseille,historic,Chapelle des Pénitents,43.3526905,5.4400485,way,112814706
+Marseille,historic,Sans nom,43.324711,5.430798,way,112815421
+Marseille,historic,Sans nom,43.324866,5.4441415,way,112816099
+Marseille,historic,Bastide Grande Campagne,43.3501375,5.439357,way,112816868
+Marseille,historic,Bastide L'Émérigone,43.3450845,5.417112,way,112817434
+Marseille,historic,Sans nom,43.333256,5.421215,way,112817586
+Marseille,historic,Bastide du Ginestet,43.325034,5.4162345,way,112819930
+Marseille,historic,Sans nom,43.337801,5.420511,way,112819947
+Marseille,historic,Sans nom,43.349967,5.4446855,way,112821756
+Marseille,historic,Sans nom,43.3183655,5.4117785,way,112822287
+Marseille,historic,Sans nom,43.3553205,5.4331545,way,112822355
+Marseille,historic,Théatre Athéna,43.339046,5.4443455,way,112823821
+Marseille,historic,Sans nom,43.347632,5.427439,way,112826984
+Marseille,historic,Sans nom,43.3562345,5.4369825,way,112828155
+Marseille,historic,La Roseraie,43.3307528,5.4315525,way,112828268
+Marseille,historic,Bastide de la Boudinière,43.3236115,5.4170465,way,112830079
+Marseille,historic,Sans nom,43.324418,5.432669,way,112830584
+Marseille,historic,Sans nom,43.342932,5.4329365,way,112831525
+Marseille,historic,Sans nom,43.33085,5.414371,way,112831697
+Marseille,historic,Sans nom,43.3523175,5.439689,way,112834858
+Marseille,historic,Sans nom,43.3188425,5.4152275,way,112834937
+Marseille,historic,Sans nom,43.3338785,5.4166955,way,112835672
+Marseille,historic,Sans nom,43.32147,5.4143135,way,112839163
+Marseille,historic,Sans nom,43.3159335,5.4111325,way,112839275
+Marseille,historic,Sans nom,43.324456,5.4145525,way,112839604
+Marseille,historic,Bastide de Fernande Berger,43.332325,5.425368,way,112840714
+Marseille,historic,Sans nom,43.3485035,5.4411455,way,112842564
+Marseille,historic,Sans nom,43.3207605,5.4015521,way,112845146
+Marseille,historic,Sans nom,43.3240457,5.4547251,way,112846446
+Marseille,historic,Sans nom,43.3491965,5.4387735,way,112847035
+Marseille,historic,Sans nom,43.352229,5.438187,way,112847789
+Marseille,historic,Lavoir public,43.352018,5.4370415,way,112848284
+Marseille,historic,Villa Montléon,43.3302025,5.4256775,way,112848408
+Marseille,historic,Château Magenta,43.322491,5.398469,way,112848456
+Marseille,historic,Fort de Tourville,43.2775685,5.3441344,way,114729218
+Marseille,historic,Monument des Rapatriés,43.2692895,5.3665809,way,119233707
+Marseille,historic,Téléscaphe de Callelongue,43.2113578,5.350644,way,119745144
+Marseille,historic,Bastide Noilly-Prat,43.2374028,5.3754531,way,147970701
+Marseille,historic,Aqueduc de l'Huveaune,43.3012389,5.3735663,way,151491006
+Marseille,historic,Sans nom,43.255605,5.4197085,way,153531934
+Marseille,historic,Bastide Les Étrembles,43.2616835,5.416268,way,153532389
+Marseille,historic,Sans nom,43.266148,5.426745,way,153532768
+Marseille,historic,Foyer Helvétique Les Charmerettes,43.256587,5.4144465,way,153533594
+Marseille,historic,Bastide Grand-Pré,43.2626765,5.41683,way,153533778
+Marseille,historic,Bastide Marcaggi,43.2469615,5.400256,way,153533781
+Marseille,historic,Château L'Aroumias,43.255028,5.435967,way,153533846
+Marseille,historic,Centre International de Rencontres Mathématiques,43.229979,5.4430797,way,153535453
+Marseille,historic,Bastide des Platanes,43.250438,5.415455,way,153536186
+Marseille,historic,Château de la Rouvière,43.2540795,5.4222925,way,153536418
+Marseille,historic,Château Chloris,43.25584,5.423398,way,153536422
+Marseille,historic,Ancienne salle de billard du château de Luminy,43.2290865,5.4435945,way,153538236
+Marseille,historic,Mairie des 9e et 10e arrondissements,43.2677075,5.4160375,way,153538593
+Marseille,historic,Sans nom,43.2431355,5.3933725,way,153547204
+Marseille,historic,Château de la Panouse,43.257537,5.424153,way,153554287
+Marseille,historic,Campagne Berger,43.2604315,5.425325,way,153554293
+Marseille,historic,Sans nom,43.2473606,5.4146605,way,153559498
+Marseille,historic,L'Armande,43.2605735,5.4145805,way,153559647
+Marseille,historic,Sans nom,43.2649075,5.4280395,way,153559847
+Marseille,historic,Maison Douze,43.24662,5.4028375,way,153564378
+Marseille,historic,Sans nom,43.2444615,5.4105395,way,153564696
+Marseille,historic,Villa des Alisiers,43.2578415,5.416742,way,153565125
+Marseille,historic,Sans nom,43.245524,5.404407,way,153565153
+Marseille,historic,Campagne Montval,43.2512405,5.412759,way,153566579
+Marseille,historic,Sans nom,43.2576075,5.419913,way,153567939
+Marseille,historic,Ancienne volière de la bastide de Luminy,43.228546,5.443763,way,153569120
+Marseille,historic,Sans nom,43.245113,5.4084735,way,153569293
+Marseille,historic,La Précieuse,43.254968,5.4138835,way,153569557
+Marseille,historic,Sans nom,43.2666765,5.423689,way,153571211
+Marseille,historic,Château de la Trignance,43.2450939,5.4136186,way,153572783
+Marseille,historic,Sans nom,43.2409645,5.3908845,way,153573090
+Marseille,historic,Bastide La Maurelle,43.265463,5.4201355,way,153573194
+Marseille,historic,Ancienne maison du jardinier du Château de Luminy,43.229412,5.443601,way,153573521
+Marseille,historic,Bastide du Redon,43.2448955,5.4296795,way,153574139
+Marseille,historic,Sans nom,43.2433535,5.4126965,way,153574858
+Marseille,historic,Bastide Legré-Mante,43.2309001,5.3569786,way,154231158
+Marseille,historic,La Boiserie,43.2358297,5.3629284,way,154354364
+Marseille,historic,Bastide Clary,43.2341021,5.3677456,way,154355760
+Marseille,historic,Château de Sanderval,43.2333448,5.367291,way,154355772
+Marseille,historic,Château Estrangin,43.2347657,5.3712542,way,154361530
+Marseille,historic,Sans nom,43.2394541,5.371716,way,154361546
+Marseille,historic,Château Pastré,43.2337263,5.3733351,way,154361563
+Marseille,historic,Villa provençale,43.2373444,5.3702014,way,154362033
+Marseille,historic,Bastide Cantini,43.23731,5.3792456,way,154406476
+Marseille,historic,Château Beau-Pin,43.2405964,5.3818756,way,154406497
+Marseille,historic,Château Maraljehan,43.2429365,5.3768108,way,154411560
+Marseille,historic,Sans nom,43.241565,5.3778605,way,154411752
+Marseille,historic,Bastide Bortoli,43.2484025,5.3963707,way,154487209
+Marseille,historic,Sans nom,43.251399,5.3885165,way,154490807
+Marseille,historic,Château de Bonneveine,43.2542185,5.3876355,way,154525975
+Marseille,historic,Sans nom,43.2534475,5.392618,way,154526245
+Marseille,historic,Bastide Les Lauriers,43.25155,5.384556,way,154536311
+Marseille,historic,Bastide Belombre,43.2646325,5.3904455,way,154561762
+Marseille,historic,Château Borely,43.2573485,5.3819815,way,154561855
+Marseille,historic,Sans nom,43.2817894,5.4233626,way,154569332
+Marseille,historic,Sans nom,43.267055,5.426903,way,154569894
+Marseille,historic,Sans nom,43.2827,5.429295,way,154570284
+Marseille,historic,Château de Menpenti,43.284527,5.39397,way,154570950
+Marseille,historic,Villa Badetty,43.2755805,5.4449015,way,154571475
+Marseille,historic,Sans nom,43.2775955,5.4279855,way,154571953
+Marseille,historic,Château La Sauvagère,43.270788,5.416443,way,154572069
+Marseille,historic,Le Brasilia,43.2640815,5.3933935,way,154572318
+Marseille,historic,Villa Luce,43.258675,5.3968815,way,154573274
+Marseille,historic,Bastide La Germaine,43.275486,5.425642,way,154577314
+Marseille,historic,Sans nom,43.2860855,5.404116,way,154577323
+Marseille,historic,Sans nom,43.275647,5.435769,way,154593926
+Marseille,historic,Sans nom,43.2814925,5.4216891,way,154595136
+Marseille,historic,Villa Saint-Thys,43.2795705,5.429635,way,154596531
+Marseille,historic,Sans nom,43.267234,5.4249325,way,154597641
+Marseille,historic,"Club de loisir, service à la personne âgée",43.281707,5.4413695,way,154603948
+Marseille,historic,Bastide La Verboise,43.267865,5.420894,way,154604322
+Marseille,historic,Sans nom,43.2724275,5.420497,way,154605391
+Marseille,historic,Sans nom,43.2737725,5.38478,way,154609916
+Marseille,historic,Hôtel Faure,43.2814315,5.3856794,way,154610837
+Marseille,historic,Sans nom,43.280512,5.3825435,way,154611157
+Marseille,historic,Château Saint-Victor,43.2687595,5.377389,way,154611771
+Marseille,historic,Hôtel du Sacré-Cœur,43.2728575,5.3862065,way,154612264
+Marseille,historic,Sans nom,43.278322,5.37981,way,154612605
+Marseille,historic,Château Périer,43.2794155,5.380931,way,154616276
+Marseille,historic,Sans nom,43.2810765,5.3849125,way,154621956
+Marseille,historic,Hôtel-agence Huot,43.2802675,5.383554,way,154624573
+Marseille,historic,Sans nom,43.2784735,5.386024,way,154629171
+Marseille,historic,Orchestra Studio,43.2815765,5.384561,way,154629669
+Marseille,historic,Villa Marveyre,43.267141,5.378174,way,154630171
+Marseille,historic,Sans nom,43.2782285,5.379327,way,154631578
+Marseille,historic,Hôtel Paugoy,43.280369,5.383941,way,154633019
+Marseille,historic,Sans nom,43.2811545,5.3848185,way,154634239
+Marseille,historic,Sans nom,43.2716895,5.389293,way,154634813
+Marseille,historic,Château de la Candolle,43.2807735,5.5114375,way,154749136
+Marseille,historic,Sans nom,43.265047,5.38049,way,154803557
+Marseille,historic,Ancienne usine Rivoire et Carret,43.287078,5.4432865,way,157300366
+Marseille,historic,Monument aux morts,43.2845565,5.4524035,way,157602741
+Marseille,historic,Château de Forbin,43.2843594,5.4678683,way,157617674
+Marseille,historic,Télégraphe Chappe,43.292472,5.467156,way,157694816
+Marseille,historic,Sans nom,43.2846005,5.5003245,way,157694865
+Marseille,historic,Château Saint-Antoine,43.287742,5.488543,way,157694960
+Marseille,historic,Sans nom,43.2888615,5.4792385,way,157695028
+Marseille,historic,Sans nom,43.2882108,5.4669634,way,157695316
+Marseille,historic,Sans nom,43.288232,5.467133,way,157695760
+Marseille,historic,Sans nom,43.2881272,5.4673933,way,157695788
+Marseille,historic,IME Valbrise,43.2928164,5.444206,way,157730844
+Marseille,historic,Sans nom,43.28775,5.425722,way,157731016
+Marseille,historic,Sans nom,43.29116,5.4381505,way,157733508
+Marseille,historic,Sans nom,43.2899105,5.435016,way,157734501
+Marseille,historic,Sans nom,43.2912695,5.4364265,way,157735521
+Marseille,historic,Sans nom,43.2924843,5.4474736,way,157737966
+Marseille,historic,CRP La Rouguière,43.2989525,5.4577265,way,157739847
+Marseille,historic,Sans nom,43.2986925,5.528889,way,157776233
+Marseille,historic,Bastide de la Maussane,43.2923595,5.490726,way,157776278
+Marseille,historic,Château Régis,43.289851,5.5002675,way,157777858
+Marseille,historic,Château de la Buzine,43.2953546,5.502442,way,157777864
+Marseille,historic,Château de la Reynarde,43.28966,5.5055285,way,157777886
+Marseille,historic,La Remusade,43.30445,5.5148685,way,157779892
+Marseille,historic,Sans nom,43.3002455,5.4826055,way,157784447
+Marseille,historic,Bastide Le Galetas,43.3002442,5.4924773,way,157789398
+Marseille,historic,Château d'Éoures,43.303139,5.522598,way,157792147
+Marseille,historic,Bastide La Blancarde,43.299542,5.4068175,way,158102343
+Marseille,historic,Sans nom,43.3027405,5.4247682,way,158102397
+Marseille,historic,Sans nom,43.297028,5.4201055,way,158102612
+Marseille,historic,Bastide Gaillard,43.312677,5.4175985,way,158103065
+Marseille,historic,Sans nom,43.305396,5.4162195,way,158103141
+Marseille,historic,Sans nom,43.309257,5.4427745,way,158103357
+Marseille,historic,Sans nom,43.3207255,5.427984,way,158103417
+Marseille,historic,Sans nom,43.3159685,5.414404,way,158103492
+Marseille,historic,Château de la Mirabelle,43.2975365,5.4458595,way,158103674
+Marseille,historic,Bastide de la Bombinette,43.306959,5.4120555,way,158103696
+Marseille,historic,Sans nom,43.308761,5.4299905,way,158105058
+Marseille,historic,Sans nom,43.3145632,5.4269802,way,158105538
+Marseille,historic,Bastide Marie-Jeanne,43.305429,5.4121145,way,158105591
+Marseille,historic,Bastide La Candolle,43.3039875,5.4436205,way,158106011
+Marseille,historic,Sans nom,43.308945,5.471804,way,158106068
+Marseille,historic,Sans nom,43.3089815,5.432723,way,158106149
+Marseille,historic,Bastide Gavoty,43.3105085,5.4137945,way,158106234
+Marseille,historic,Sans nom,43.3139735,5.4403775,way,158106337
+Marseille,historic,Sans nom,43.3108805,5.428668,way,158106452
+Marseille,historic,Sans nom,43.3127325,5.436808,way,158106518
+Marseille,historic,La crèche du château,43.30369,5.418401,way,158107047
+Marseille,historic,Auberge de jeunesse de Bois Luzy,43.3126315,5.424905,way,158107087
+Marseille,historic,Bastide Alivon,43.302086,5.4168435,way,158107132
+Marseille,historic,Sans nom,43.3124665,5.4631985,way,158112533
+Marseille,historic,Bastide Icard,43.3062835,5.4170365,way,158123287
+Marseille,historic,Sans nom,43.312364,5.441326,way,158138599
+Marseille,historic,Sans nom,43.295892,5.4180515,way,158139902
+Marseille,historic,Sans nom,43.30196,5.4091135,way,158141065
+Marseille,historic,Sans nom,43.303594,5.4421865,way,158142615
+Marseille,historic,Villa Caroline,43.305313,5.419176,way,158144705
+Marseille,historic,Sans nom,43.310683,5.4429745,way,158146397
+Marseille,historic,Bastide La Perrine,43.3023695,5.432299,way,158149493
+Marseille,historic,Bastide de la Rosière,43.305652,5.434721,way,158150126
+Marseille,historic,Sans nom,43.3118415,5.4493955,way,158152359
+Marseille,historic,Sans nom,43.315448,5.4560725,way,158153514
+Marseille,historic,Sans nom,43.3118405,5.443013,way,158154215
+Marseille,historic,La Rose,43.304548,5.4417405,way,158154565
+Marseille,historic,Bastide La Rosière,43.303343,5.4373575,way,158161445
+Marseille,historic,Sans nom,43.310006,5.4572165,way,158162339
+Marseille,historic,Villa Aurenty,43.3330465,5.3665855,way,159811185
+Marseille,historic,Bastide L'Hospitalière,43.3647265,5.357228,way,159861921
+Marseille,historic,Sans nom,43.34396,5.3673705,way,159862719
+Marseille,historic,Villa Laplane,43.3332885,5.36493,way,159863714
+Marseille,historic,Bastide de la Gavotte,43.3751345,5.346011,way,159864453
+Marseille,historic,Sans nom,43.348441,5.358603,way,159865139
+Marseille,historic,Sans nom,43.3668935,5.3449335,way,159872541
+Marseille,historic,Château Espanet,43.3540415,5.35455,way,159894912
+Marseille,historic,Sans nom,43.3330871,5.358434,way,159895262
+Marseille,historic,Le Château en Santé,43.386111,5.3664045,way,159898855
+Marseille,historic,Sans nom,43.3504925,5.3545115,way,159906577
+Marseille,historic,Bastide La Brégante,43.355095,5.35628,way,159908209
+Marseille,historic,Sans nom,43.344843,5.358083,way,159911506
+Marseille,historic,Sans nom,43.358343,5.3599785,way,159911578
+Marseille,historic,Pyramide La Pennelle,43.2812936,5.5144009,way,159920773
+Marseille,historic,Mosquée de l'arsenal des Galères,43.2641244,5.3764568,way,162698890
+Marseille,historic,Chapelle Saint-Michel,43.3830019,5.2357228,way,165118433
+Marseille,historic,Sans nom,43.3633335,5.239176,way,165119438
+Marseille,historic,Pont romain,43.2899973,5.4628518,way,169733700
+Marseille,historic,Parc Bel Ombre,43.2882125,5.437852,way,171514118
+Marseille,historic,Vestiges de l'ascenseur de la SPAT,43.3349337,5.3555734,way,177095826
+Marseille,historic,Musée des Docks romains,43.2968102,5.3680449,way,178808268
+Marseille,historic,Îlot urbain grec du collège du Vieux-Port,43.296019,5.3647987,way,178815205
+Marseille,historic,Oppidum de Verduron,43.3715209,5.3389099,way,181438574
+Marseille,historic,Sans nom,43.2920004,5.3757861,way,201673349
+Marseille,historic,Anciens fours à chaux,43.2806453,5.4817868,way,206743290
+Marseille,historic,Anciens Fours à chaux,43.2804866,5.4814242,way,206743292
+Marseille,historic,Ruines du vieux moulin,43.2835187,5.4302126,way,208448953
+Marseille,historic,Sans nom,43.2260015,5.3476885,way,219022412
+Marseille,historic,Sans nom,43.2229318,5.3463849,way,219022459
+Marseille,historic,Sans nom,43.225684,5.347467,way,219022478
+Marseille,historic,Sans nom,43.2240701,5.3470696,way,219022494
+Marseille,historic,Sans nom,43.22642,5.347798,way,219022495
+Marseille,historic,Bastide De Toursainte,43.3457203,5.3930304,way,220839015
+Marseille,historic,Bergerie,43.2125713,5.3374146,way,227123654
+Marseille,historic,Poste de Direction de tir M162A,43.2798703,5.2955907,way,229713592
+Marseille,historic,Batterie de Cavau,43.2648592,5.2896781,way,229715448
+Marseille,historic,Port antique,43.2974171,5.3748473,way,256059031
+Marseille,historic,Tour penchée,43.2976309,5.3745968,way,256059033
+Marseille,historic,Tour carrée,43.2978782,5.3746054,way,256059034
+Marseille,historic,Villa Favorite,43.3521532,5.3533064,way,256729708
+Marseille,historic,Fragment du rempart de l'Agrandissement de Louis XIV,43.2895428,5.3676619,way,261060864
+Marseille,historic,Carrière antique de la Corderie,43.2897148,5.3678777,way,261060866
+Marseille,historic,Palais du Pharo,43.2942438,5.3582276,way,265247086
+Marseille,historic,Chapelle Sainte-Catherine,43.2960913,5.3634583,way,265248422
+Marseille,historic,Église Saint-Laurent,43.2959502,5.3633788,way,265248445
+Marseille,historic,S542,43.2836566,5.3095553,way,268051653
+Marseille,historic,Sans nom,43.2862408,5.3142473,way,268051658
+Marseille,historic,S542,43.2833354,5.3107965,way,268051675
+Marseille,historic,Cuve,43.2862674,5.3142559,way,268051676
+Marseille,historic,Batterie de 100 mm TR,43.266274,5.2936305,way,268069044
+Marseille,historic,Sans nom,43.2648377,5.289819,way,268069052
+Marseille,historic,M272,43.264337,5.2896835,way,268069057
+Marseille,historic,Sans nom,43.2651169,5.2894423,way,268069063
+Marseille,historic,M158,43.2804902,5.2990302,way,268069068
+Marseille,historic,M272,43.2651917,5.2888149,way,268069069
+Marseille,historic,M158,43.2809054,5.2991324,way,268069071
+Marseille,historic,PdT,43.2653101,5.2890004,way,268069075
+Marseille,historic,Sans nom,43.2646426,5.2900736,way,268069077
+Marseille,historic,Sans nom,43.2621381,5.2875134,way,268069082
+Marseille,historic,M158,43.279827,5.2978369,way,268069719
+Marseille,historic,M158,43.2800237,5.2969547,way,268069723
+Marseille,historic,M158,43.2802494,5.2979131,way,268069724
+Marseille,historic,Batterie annexe de 95 mm,43.2810831,5.2945602,way,268079894
+Marseille,historic,M158,43.280334,5.2997683,way,268079911
+Marseille,historic,20 mm Flak,43.2804701,5.2932347,way,268079916
+Marseille,historic,Sans nom,43.2139818,5.3450313,way,268160314
+Marseille,historic,Cuve,43.2139501,5.3475103,way,268160319
+Marseille,historic,Cuve,43.2134657,5.3444368,way,268160326
+Marseille,historic,Sans nom,43.213897,5.3462742,way,268160329
+Marseille,historic,Cuve,43.2137398,5.3454462,way,268160335
+Marseille,historic,Sans nom,43.2141658,5.3444958,way,268160337
+Marseille,historic,Cuve,43.2138604,5.3462714,way,268160341
+Marseille,historic,Batterie Napoléon,43.2138635,5.3460298,way,268163672
+Marseille,historic,Batterie de l'Escalette,43.2230259,5.3511213,way,268168603
+Marseille,historic,Cuve,43.2233846,5.346883,way,268168609
+Marseille,historic,Cuve,43.2242498,5.3470533,way,268168614
+Marseille,historic,Batterie du Mont-Rose,43.2305045,5.3521563,way,268171945
+Marseille,historic,Cuve,43.2307247,5.3521119,way,268171951
+Marseille,historic,Mémorial du génocide arménien de Marseille,43.3070599,5.4251357,way,269128653
+Marseille,historic,Sans nom,43.2010687,5.5117067,way,270367708
+Marseille,historic,Les Rosiers,43.3213817,5.3874259,way,327397246
+Marseille,historic,Les Hauts de Castelroc,43.2699688,5.4322762,way,339502591
+Marseille,historic,Bassin d'eau douce,43.2976373,5.3754401,way,374971858
+Marseille,historic,Terrasse funéraire,43.2979952,5.3750085,way,374971862
+Marseille,historic,Aqueduc portique,43.297877,5.3749876,way,374971863
+Marseille,historic,Tour sud,43.2973142,5.3744406,way,374971868
+Marseille,historic,Résidence Air Bel,43.2915392,5.4296603,way,386678461
+Marseille,historic,Monument aux héros et victimes de la mer,43.2946648,5.3584461,way,405745895
+Marseille,historic,Résidence Le Méditerranée,43.2841313,5.3892076,way,408894013
+Marseille,historic,Escalier de la gare Saint-Charles,43.3017758,5.3805563,way,417092644
+Marseille,historic,Sans nom,43.3635432,5.3017006,way,426026357
+Marseille,historic,Sans nom,43.3635589,5.3018708,way,426026358
+Marseille,historic,Sans nom,43.3637901,5.3018623,way,426026359
+Marseille,historic,Sans nom,43.3635991,5.3019983,way,426026360
+Marseille,historic,Sans nom,43.363637,5.3022272,way,426026361
+Marseille,historic,Sans nom,43.3637144,5.3026821,way,426026362
+Marseille,historic,Sans nom,43.3639322,5.3027379,way,426026363
+Marseille,historic,Sans nom,43.364006,5.3032096,way,426026364
+Marseille,historic,Sans nom,43.3639937,5.3035905,way,426026365
+Marseille,historic,Sans nom,43.3634741,5.3028582,way,426026366
+Marseille,historic,Sans nom,43.3638356,5.3021308,way,426026367
+Marseille,historic,Sans nom,43.3641138,5.3034165,way,426026368
+Marseille,historic,Sans nom,43.3639661,5.3033676,way,426026369
+Marseille,historic,Obélisque de Mazargues,43.2507278,5.4036121,way,430930282
+Marseille,historic,Alphonse de Lamartine,43.3049571,5.3952088,way,441771594
+Marseille,historic,Sans nom,43.3760396,5.3255621,way,456803714
+Marseille,historic,Ancienne batterie,43.2028748,5.4545687,way,459610029
+Marseille,historic,Ancienne batterie,43.2016385,5.4518924,way,459909493
+Marseille,historic,Ancienne vigie,43.2033396,5.4530332,way,459911278
+Marseille,historic,Sans nom,43.3311932,5.2363624,way,460117661
+Marseille,historic,Sans nom,43.3780618,5.2724819,way,463493128
+Marseille,historic,Sans nom,43.3791745,5.2735748,way,463493129
+Marseille,historic,Ancien atelier Nadar,43.297742,5.3805446,way,499499040
+Marseille,historic,Oppidum des Mayans,43.3833846,5.3779174,way,499884280
+Marseille,historic,Chapelle des Pénitents blancs du Saint-Esprit,43.2979208,5.3687377,way,501645066
+Marseille,historic,Sans nom,43.3709189,5.3346614,way,502886964
+Marseille,historic,Sans nom,43.3706785,5.3346095,way,502886965
+Marseille,historic,Sans nom,43.370835,5.3346973,way,502886966
+Marseille,historic,Sans nom,43.3708683,5.3345759,way,502886967
+Marseille,historic,Sans nom,43.37074,5.3347187,way,502886968
+Marseille,historic,La Verdière,43.2570669,5.4021165,way,505580342
+Marseille,historic,Nouveau Parc Sévigné,43.2631726,5.4015517,way,505580343
+Marseille,historic,Parc Sévigné,43.2619131,5.4026491,way,505580344
+Marseille,historic,Résidence le Pharo,43.2913811,5.359627,way,511472684
+Marseille,historic,Sulfur City,43.285343,5.3914796,way,511472689
+Marseille,historic,Sans nom,43.336229,5.4854583,way,513021980
+Marseille,historic,Campagne Vallombert,43.3364701,5.4592142,way,513068665
+Marseille,historic,Sans nom,43.3447491,5.3935859,way,523878113
+Marseille,historic,Sans nom,43.3448919,5.3939505,way,523878114
+Marseille,historic,Sans nom,43.3448848,5.3938092,way,523878116
+Marseille,historic,Sans nom,43.3535647,5.3980332,way,523878170
+Marseille,historic,Sans nom,43.3527099,5.3919711,way,523878172
+Marseille,historic,Sans nom,43.3527094,5.3920608,way,523878173
+Marseille,historic,Sans nom,43.3522555,5.3856656,way,523878174
+Marseille,historic,Sans nom,43.3507039,5.3824751,way,523878180
+Marseille,historic,Sans nom,43.3489029,5.3847493,way,523878181
+Marseille,historic,Sans nom,43.3472918,5.3840097,way,523878183
+Marseille,historic,Sans nom,43.2301212,5.4444273,way,527152306
+Marseille,historic,Mazargues Indian Memorial,43.2487522,5.4043583,way,531817604
+Marseille,historic,Funiculaire de la carrière de la Caudelette,43.3611045,5.2958743,way,533239831
+Marseille,historic,Sans nom,43.361879,5.2959163,way,533239832
+Marseille,historic,Barraquements en bois,43.2798977,5.2986505,way,564480272
+Marseille,historic,Canon de 150 mm,43.2806997,5.2998179,way,564480274
+Marseille,historic,Canon de 37 mm,43.2801617,5.3003129,way,564480275
+Marseille,historic,Sans nom,43.2810731,5.2988031,way,564480283
+Marseille,historic,Sans nom,43.2806485,5.3054398,way,565552390
+Marseille,historic,Sans nom,43.2806541,5.3038628,way,565552391
+Marseille,historic,Sans nom,43.2809345,5.3065472,way,565552392
+Marseille,historic,Sans nom,43.2811962,5.3051217,way,565552396
+Marseille,historic,Sans nom,43.2807666,5.3049399,way,565552397
+Marseille,historic,Sans nom,43.2820575,5.3154621,way,565552401
+Marseille,historic,Sans nom,43.2856417,5.3150084,way,565552405
+Marseille,historic,Sans nom,43.2857203,5.3152801,way,565552406
+Marseille,historic,Sans nom,43.3025948,5.3818422,way,573260662
+Marseille,historic,Monument des Mobiles,43.2989567,5.3845216,way,573272843
+Marseille,historic,Colonne du Dévouement ou colonne de la Peste,43.2953862,5.3835352,way,576780339
+Marseille,historic,Fontaine de Marie-Madeleine,43.3545214,5.365906,way,577703795
+Marseille,historic,Sans nom,43.3379029,5.2582149,way,589162642
+Marseille,historic,Sans nom,43.337909,5.2582451,way,589162645
+Marseille,historic,Ancien corps de garde,43.2035939,5.4527804,way,589705942
+Marseille,historic,Sans nom,43.2342934,5.3762463,way,614242161
+Marseille,historic,Bâtiments d'exploitation,43.3800852,5.2784509,way,614969969
+Marseille,historic,Sans nom,43.3800552,5.2786964,way,614969970
+Marseille,historic,Toilettes,43.379498,5.2794888,way,614969974
+Marseille,historic,Sans nom,43.3794843,5.2794712,way,614969975
+Marseille,historic,Édicule des eaux,43.3793555,5.2798784,way,614969979
+Marseille,historic,Logements,43.3799864,5.2789392,way,614969980
+Marseille,historic,Logis de maître,43.3799617,5.2791457,way,614969981
+Marseille,historic,Sans nom,43.3796323,5.2795084,way,614969982
+Marseille,historic,Niche à chien,43.3795187,5.2794675,way,614969983
+Marseille,historic,Niche à chien,43.3796083,5.2794719,way,614969984
+Marseille,historic,Grotte de fraîcheur,43.3801063,5.2799138,way,614969988
+Marseille,historic,Sans nom,43.3889974,5.2754168,way,622249879
+Marseille,historic,Ancienne station de Rove,43.3523405,5.279453,way,632575237
+Marseille,historic,Sans nom,43.2846525,5.440991,way,660618547
+Marseille,historic,Sans nom,43.3428591,5.2611269,way,682979647
+Marseille,historic,Sans nom,43.3564858,5.2298204,way,683864774
+Marseille,historic,Portail de la chapelle des Pénitents blancs,43.3021957,5.5142986,way,685066221
+Marseille,historic,Sans nom,43.3460553,5.254583,way,685271900
+Marseille,historic,Sans nom,43.344639,5.2603611,way,685275343
+Marseille,historic,Bastide Bonnardel,43.3035781,5.4013809,way,721248074
+Marseille,historic,Sans nom,43.3107856,5.3949151,way,721248078
+Marseille,historic,castrum de Saint-Marcel,43.2813714,5.4629518,way,734167265
+Marseille,historic,Bastide de la Jarre,43.237425,5.4016425,way,765360271
+Marseille,historic,Aqueduc de la Candolle,43.2762359,5.5142187,way,777926906
+Marseille,historic,Bastide La Roseraie,43.3171587,5.4154311,way,783656949
+Marseille,historic,Bastide L'Émilienne,43.3550288,5.3405425,way,838261855
+Marseille,historic,Sans nom,43.350649,5.4350496,way,839916458
+Marseille,historic,Sans nom,43.2889674,5.4603521,way,849490000
+Marseille,historic,Château Roux,43.3590542,5.3330624,way,868009052
+Marseille,historic,Hôtel Salomon,43.2970445,5.3673374,way,891369737
+Marseille,historic,Sans nom,43.2999393,5.3766163,way,896635173
+Marseille,historic,Sans nom,43.2999126,5.3763833,way,896635175
+Marseille,historic,Phare de Sainte-Marie,43.2993269,5.3581912,way,992716124
+Marseille,historic,Sans nom,43.3451588,5.3486382,way,1026073395
+Marseille,historic,Emplacement de l'ancien château Valbelle,43.263847,5.3760587,way,1034182970
+Marseille,historic,Sans nom,43.2056136,5.4484157,way,1046359802
+Marseille,historic,Sans nom,43.363177,5.27154,way,1070638736
+Marseille,historic,Sans nom,43.3629064,5.2715182,way,1070638737
+Marseille,historic,Fort Saint-Jean,43.2955162,5.3620272,way,1096341422
+Marseille,historic,Hôtel Olive,43.2898451,5.3743431,way,1099854240
+Marseille,historic,Sans nom,43.321611,5.4263053,way,1103880739
+Marseille,historic,Sans nom,43.3215977,5.4261478,way,1103880740
+Marseille,historic,Sans nom,43.3244534,5.4303052,way,1103880754
+Marseille,historic,Sans nom,43.3245045,5.4302705,way,1103880755
+Marseille,historic,Sans nom,43.3244464,5.4301489,way,1103880756
+Marseille,historic,Ancienne batterie,43.197953,5.5098832,way,1167525176
+Marseille,historic,Ancienne cuve pour canon,43.1984707,5.5105651,way,1167525185
+Marseille,historic,Ancienne cuve pour canon,43.1987515,5.5094889,way,1167525186
+Marseille,historic,Sans nom,43.2820303,5.3468022,way,1168798051
+Marseille,historic,Ancienne batterie de Figuerolles,43.3463281,5.270085,way,1180990900
+Marseille,historic,Bunker Von Hanstein,43.2706081,5.4348088,way,1217585071
+Marseille,historic,Sans nom,43.3701164,5.2935651,way,1245234672
+Marseille,historic,Sans nom,43.2773646,5.4249336,way,1251986166
+Marseille,historic,Sans nom,43.2844701,5.3711355,way,1265578421
+Marseille,historic,Sans nom,43.2845127,5.3711708,way,1265578422
+Marseille,historic,Sans nom,43.2845174,5.3710519,way,1265578423
+Marseille,historic,Anciens fours à chaux,43.3675093,5.3650162,way,1315095123
+Marseille,historic,Couvent Levat,43.3099759,5.3876317,way,1323940713
+Marseille,historic,Sans nom,43.2768439,5.3662008,way,1332640615
+Marseille,historic,Sans nom,43.2741235,5.3078078,way,1334672330
+Marseille,historic,Sans nom,43.2736602,5.3080027,way,1334672331
+Marseille,historic,Sans nom,43.291967,5.3613346,way,1391392023
+Marseille,historic,Sans nom,43.2919682,5.3613343,way,1391392024
+Marseille,historic,Sans nom,43.2986041,5.3796227,relation,1069891
+Marseille,historic,Cathédrale de la Major,43.2998097,5.3649809,relation,1069937
+Marseille,historic,Les Docks Village,43.3070867,5.3664305,relation,1069945
+Marseille,historic,Hôtel Sunder,43.2908853,5.3789843,relation,1084781
+Marseille,historic,La Vieille Charité,43.3006025,5.3678846,relation,1648168
+Marseille,historic,Bastide La Constance,43.3060622,5.415516,relation,2117802
+Marseille,historic,Bastide La Maurelette,43.3458185,5.37496,relation,2140029
+Marseille,historic,Sans nom,43.2971539,5.3676081,relation,2713172
+Marseille,historic,Sans nom,43.2805667,5.4816431,relation,2779182
+Marseille,historic,Villa Magalone,43.261856,5.3991615,relation,3138895
+Marseille,historic,Hôtel-Dieu,43.2985128,5.3698135,relation,7342586
+Marseille,historic,Fort Saint-Nicolas,43.2919921,5.3623594,relation,7435426
+Marseille,historic,Sans nom,43.37452,5.3676585,relation,8640193
+Marseille,historic,Sans nom,43.285353,5.415253,relation,10106130
+Marseille,historic,Parc du Roy d'Espagne,43.2401086,5.3902661,relation,11165007
+Marseille,historic,Sans nom,43.2998867,5.3775036,relation,12165011
+Marseille,historic,Anciens bureaux de la Société des chaux et ciments Portland,43.3645465,5.310013,relation,18162766
+Marseille,historic,Maison du directeur de la Société des chaux et ciments Portland,43.3647392,5.3095209,relation,18162767
+Marseille,historic,Batterie allemande du porte de l'Estaque MAR 020,43.3587707,5.319599,relation,18162768
+Marseille,historic,Fort de Pomègues,43.2744641,5.3073464,relation,18505752

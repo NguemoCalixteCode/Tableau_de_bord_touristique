@@ -1,0 +1,60 @@
+restaurant_id,city,name,latitude,longitude,rating,total_ratings,price_range,cuisine_type,address,phone,website,opening_hours,data_source
+avignon_resto_001,Avignon,Table Les du Marché,43.959528,4.793257,4.5,37,€,Provençale,138 Rue du Centre,0661207466,https://www.avignon-restaurant-1.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_002,Avignon,La Table du Avignon,43.988698,4.772424,4.1,234,€,Française,151 Rue de Paris,0641214658,https://www.avignon-restaurant-2.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_003,Avignon,La Typique Comptoir,43.998731,4.770999,4.6,311,€€€,Méditerranéenne,87 Rue Principale,0218654026,https://www.avignon-restaurant-3.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_004,Avignon,Restaurant Chez de la Gare,43.918015,4.810714,4.6,229,€,Méditerranéenne,45 Rue Principale,0160512773,https://www.avignon-restaurant-4.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_005,Avignon,Les Nouveau Brasserie,43.934301,4.80387,4.8,370,€€€,Provençale,93 Rue Principale,0365149267,https://www.avignon-restaurant-5.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_006,Avignon,Les Comptoir Avignon,43.982041,4.776599,4.5,297,€,Française,179 Rue du Centre,0348345214,https://www.avignon-restaurant-6.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_007,Avignon,La Typique Café,43.950017,4.854291,4.4,24,€€€,Méditerranéenne,159 Rue du Centre,0162315977,https://www.avignon-restaurant-7.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_008,Avignon,Le Table du Avignon,43.902763,4.834725,4.2,400,€€€,Française,10 Rue Victor Hugo,0654469438,https://www.avignon-restaurant-8.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_009,Avignon,Le Table de Avignon,43.991409,4.827656,3.7,169,€€€,Française,172 Rue Principale,0172557639,https://www.avignon-restaurant-9.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_010,Avignon,Le Cuisine du Avignon,43.90133,4.819692,3.7,436,€€€,Française,37 Rue Victor Hugo,0316797983,https://www.avignon-restaurant-10.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_011,Avignon,La Nouveau Table,43.976413,4.769114,3.5,263,€€€,Provençale,170 Rue de Paris,0368974193,https://www.avignon-restaurant-11.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_012,Avignon,Chez Bouchon Avignon,43.943218,4.789377,3.5,222,€€,Méditerranéenne,44 Rue du Centre,0438255537,https://www.avignon-restaurant-12.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_013,Avignon,Comptoir Le du Port,43.90649,4.759564,4.6,51,€,Française,66 Rue Principale,0187468713,https://www.avignon-restaurant-13.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_014,Avignon,La Comptoir Avignon,43.906731,4.799186,3.9,280,€€€,Méditerranéenne,186 Rue Principale,0249977388,https://www.avignon-restaurant-14.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_015,Avignon,Table Au Avignon,43.914221,4.844342,3.4,286,€,Provençale,107 Rue Victor Hugo,0162501257,https://www.avignon-restaurant-15.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_016,Avignon,Café Le des Arts,43.919028,4.785224,4.3,32,€,Provençale,177 Rue du Centre,0296754243,https://www.avignon-restaurant-16.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_017,Avignon,Le Nouveau Café,43.949922,4.77284,4.0,215,€,Provençale,151 Rue de Paris,0184359821,https://www.avignon-restaurant-17.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_018,Avignon,Café Chez de la Gare,43.955827,4.79785,4.3,306,€,Française,98 Rue Principale,0177851194,https://www.avignon-restaurant-18.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_019,Avignon,La Comptoir Avignon,43.927326,4.832029,3.8,185,€€€,Française,162 Rue Victor Hugo,0363611519,https://www.avignon-restaurant-19.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_020,Avignon,Comptoir Le du Port,43.985708,4.843104,4.6,412,€€,Provençale,63 Rue du Centre,0440209430,https://www.avignon-restaurant-20.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_021,Avignon,Le Table du Avignon,43.94711,4.797686,3.5,196,€,Méditerranéenne,1 Rue Principale,0212664364,https://www.avignon-restaurant-21.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_022,Avignon,Restaurant Au de la Gare,43.957994,4.848918,4.2,121,€€,Provençale,47 Rue Principale,0215134982,https://www.avignon-restaurant-22.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_023,Avignon,Comptoir Le Central,43.997037,4.84693,3.9,203,€€€,Méditerranéenne,137 Rue du Centre,0277752093,https://www.avignon-restaurant-23.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_024,Avignon,La Cuisine de Avignon,43.922159,4.8438,4.0,354,€€€,Provençale,193 Rue Principale,0613491415,https://www.avignon-restaurant-24.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_025,Avignon,Le Table de Avignon,43.939506,4.853401,3.9,414,€€€,Provençale,50 Rue Principale,0523553142,https://www.avignon-restaurant-25.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_026,Avignon,Le Table de Avignon,43.982288,4.75958,4.2,221,€,Provençale,147 Rue de Paris,0624646230,https://www.avignon-restaurant-26.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_027,Avignon,Chez Bon Bistro,43.961252,4.844496,3.4,251,€,Provençale,106 Rue de Paris,0687609857,https://www.avignon-restaurant-27.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_028,Avignon,Table Au des Arts,43.971629,4.760353,4.8,131,€€,Française,23 Rue de Paris,0680968345,https://www.avignon-restaurant-28.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_029,Avignon,Chez Café Avignon,43.936953,4.78672,4.2,480,€€,Méditerranéenne,52 Rue de Paris,0495494717,https://www.avignon-restaurant-29.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_030,Avignon,Le Typique Table,43.906891,4.838072,4.8,217,€€€,Méditerranéenne,74 Rue de Paris,0675419775,https://www.avignon-restaurant-30.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_031,Avignon,Bistro La des Arts,43.978012,4.758107,4.0,438,€€€,Provençale,42 Rue du Centre,0355366756,https://www.avignon-restaurant-31.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_032,Avignon,La Cuisine de Avignon,43.947576,4.841576,4.0,122,€€€,Méditerranéenne,168 Rue du Centre,0543825251,https://www.avignon-restaurant-32.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_033,Avignon,Table Le des Arts,43.920321,4.800973,3.8,496,€,Française,33 Rue Principale,0119917677,https://www.avignon-restaurant-33.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_034,Avignon,Restaurant Les Central,43.903056,4.789346,4.6,451,€€,Provençale,76 Rue Principale,0157399493,https://www.avignon-restaurant-34.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_035,Avignon,Brasserie Au Avignon,43.912985,4.854919,4.2,31,€,Provençale,127 Rue Principale,0390561617,https://www.avignon-restaurant-35.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_036,Avignon,La Table du Avignon,43.981422,4.764241,3.6,191,€,Française,11 Rue du Centre,0545389944,https://www.avignon-restaurant-36.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_037,Avignon,Bistro Le des Arts,43.930385,4.761445,3.8,117,€€€,Méditerranéenne,22 Rue de Paris,0176633288,https://www.avignon-restaurant-37.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_038,Avignon,La Table du Avignon,43.970125,4.795697,3.4,469,€,Française,22 Rue Victor Hugo,0199332024,https://www.avignon-restaurant-38.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_039,Avignon,Le Café Avignon,43.899316,4.817565,3.7,316,€€,Française,165 Rue Victor Hugo,0171218177,https://www.avignon-restaurant-39.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_040,Avignon,La Café Avignon,43.95057,4.824538,3.9,383,€€€,Provençale,110 Rue Principale,0121916983,https://www.avignon-restaurant-40.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_041,Avignon,La Cuisine du Avignon,43.994865,4.833738,4.2,127,€€,Méditerranéenne,111 Rue Victor Hugo,0359974018,https://www.avignon-restaurant-41.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_042,Avignon,Le Traditionnel Table,43.914747,4.786169,4.4,334,€,Française,141 Rue Principale,0379288964,https://www.avignon-restaurant-42.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_043,Avignon,Chez Café Avignon,43.982984,4.816051,3.3,184,€,Française,134 Rue Principale,0641137260,https://www.avignon-restaurant-43.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_044,Avignon,Le Table du Avignon,43.951897,4.816099,3.5,248,€€€,Française,112 Rue du Centre,0276704341,https://www.avignon-restaurant-44.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_045,Avignon,Le Table de Avignon,43.967403,4.804573,3.9,176,€€,Française,192 Rue Principale,0351467524,https://www.avignon-restaurant-45.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_046,Avignon,La Vieux Comptoir,43.946197,4.779622,4.7,100,€,Française,153 Rue du Centre,0283146034,https://www.avignon-restaurant-46.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_047,Avignon,Au Traditionnel Brasserie,43.925764,4.776089,3.7,318,€€,Française,120 Rue Principale,0374582221,https://www.avignon-restaurant-47.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_048,Avignon,La Cuisine de Avignon,43.95885,4.825482,4.4,379,€,Provençale,90 Rue Principale,0268489138,https://www.avignon-restaurant-48.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_049,Avignon,La Bouchon Avignon,43.964562,4.768856,4.2,43,€€€,Provençale,122 Rue Victor Hugo,0310887750,https://www.avignon-restaurant-49.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_050,Avignon,Le Grand Restaurant,43.996469,4.78885,4.2,42,€€,Française,155 Rue de Paris,0543269781,https://www.avignon-restaurant-50.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_051,Avignon,Au Bouchon Avignon,43.996348,4.820712,3.4,223,€,Provençale,66 Rue de Paris,0487609872,https://www.avignon-restaurant-51.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_052,Avignon,Café Au Avignon,43.929438,4.852965,3.5,465,€€,Provençale,102 Rue du Centre,0343747052,https://www.avignon-restaurant-52.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_053,Avignon,Les Café Avignon,43.998163,4.845118,3.7,268,€,Française,149 Rue du Centre,0321605467,https://www.avignon-restaurant-53.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_054,Avignon,Les Café Avignon,43.912732,4.757927,3.3,33,€€,Française,102 Rue Victor Hugo,0551755546,https://www.avignon-restaurant-54.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_055,Avignon,Table Les de la Gare,43.979331,4.786219,4.3,478,€€€,Provençale,153 Rue du Centre,0197463757,https://www.avignon-restaurant-55.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_056,Avignon,Les Bouchon Avignon,43.928585,4.774211,4.8,166,€€,Méditerranéenne,141 Rue de Paris,0455797686,https://www.avignon-restaurant-56.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_057,Avignon,La Petit Restaurant,43.993786,4.832308,3.6,485,€,Provençale,193 Rue de Paris,0674896635,https://www.avignon-restaurant-57.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_058,Avignon,Au Typique Comptoir,43.906673,4.768462,4.3,23,€€,Provençale,126 Rue Principale,0310448955,https://www.avignon-restaurant-58.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_059,Avignon,Brasserie La du Marché,43.927499,4.779691,3.7,330,€€,Française,145 Rue de Paris,0382973278,https://www.avignon-restaurant-59.fr,"12:00-14:00, 19:00-22:00",generated_data

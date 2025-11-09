@@ -1,0 +1,205 @@
+city,category,name,lat,lon,osm_type,osm_id
+Biarritz,museum,Musée de la Mer,43.4833364,-1.568191,node,746271493
+Biarritz,museum,Musée historique du Biarritz Olympique,43.4813157,-1.5389822,node,5825958094
+Biarritz,museum,Musée Asiatica,43.4781173,-1.5553425,way,71974678
+Biarritz,museum,Musée Historique Biarritz,43.4815599,-1.5621728,way,71992639
+Biarritz,museum,La Cité de l'Océan,43.4621033,-1.5723167,way,250242717
+Biarritz,park,Jardin Public Pierre Forsans,43.4795319,-1.5595997,way,60157439
+Biarritz,park,Sans nom,43.4798014,-1.5576247,way,60263916
+Biarritz,park,Sans nom,43.4630563,-1.575003,way,121832048
+Biarritz,park,Square Jean-Baptiste Lassalle,43.4753432,-1.5664025,way,126604091
+Biarritz,park,Parc Mazon,43.4775364,-1.5615151,way,137667561
+Biarritz,park,Jardin des Rocailles,43.480754,-1.5549951,way,233206440
+Biarritz,park,Square Pierre Foursans,43.4795505,-1.5596347,way,234747198
+Biarritz,park,Jardin Public Natacha,43.4735347,-1.558583,way,236296273
+Biarritz,park,Square Ferdinand Hirigoyen,43.4872891,-1.5488571,way,319403762
+Biarritz,park,Jardin Pauline Carton,43.4825133,-1.554661,way,372217507
+Biarritz,park,Sans nom,43.4838132,-1.5672366,way,420035346
+Biarritz,park,Sans nom,43.4836325,-1.5669503,way,420035349
+Biarritz,park,Esplanade des Anciens Combattants,43.483539,-1.5685198,way,420035350
+Biarritz,park,Sans nom,43.4780734,-1.5548108,way,604317522
+Biarritz,park,Jardin Lahouze,43.4798403,-1.5460988,way,701230429
+Biarritz,park,Sans nom,43.4809003,-1.5481548,way,720477555
+Biarritz,park,Square Docteur André Lafaille,43.4844056,-1.5447729,way,797363592
+Biarritz,park,Sans nom,43.4834946,-1.5576121,way,798094411
+Biarritz,park,Sans nom,43.4831908,-1.5577302,way,798094412
+Biarritz,park,Sans nom,43.4832192,-1.55742,way,798094413
+Biarritz,park,Sans nom,43.4835919,-1.5573515,way,798094414
+Biarritz,park,Sans nom,43.4836885,-1.5575958,way,798094415
+Biarritz,park,Sans nom,43.4837194,-1.5573733,way,798094416
+Biarritz,park,Sans nom,43.4787937,-1.5576347,way,810316214
+Biarritz,park,Sans nom,43.4790923,-1.5578789,way,810316215
+Biarritz,park,Sans nom,43.4671947,-1.5712093,way,810435333
+Biarritz,park,Jardin des Thermes Salins,43.4849818,-1.5463723,way,857710277
+Biarritz,park,Sans nom,43.4495411,-1.5537341,way,897462990
+Biarritz,park,Sans nom,43.4585686,-1.5524708,way,911358270
+Biarritz,park,Sans nom,43.476873,-1.5614391,way,957873505
+Biarritz,park,Sans nom,43.493159,-1.5528343,way,958145790
+Biarritz,park,Sans nom,43.492974,-1.5526771,way,958145791
+Biarritz,park,Sans nom,43.4925835,-1.5524598,way,958145792
+Biarritz,park,Sans nom,43.491986,-1.5520954,way,958145793
+Biarritz,park,Sans nom,43.4915454,-1.5520585,way,958145794
+Biarritz,park,Sans nom,43.4913491,-1.552151,way,958145795
+Biarritz,park,Sans nom,43.4912037,-1.5522761,way,958145796
+Biarritz,park,Place Pierre Pradier,43.4744223,-1.563636,way,974233833
+Biarritz,park,Sans nom,43.4728898,-1.5648263,way,1056456888
+Biarritz,park,Jardins de la Grande Plage,43.4852255,-1.5577491,way,1117821317
+Biarritz,park,Sans nom,43.4849248,-1.5578967,way,1135423508
+Biarritz,park,Parc du Lac Marion,43.466257,-1.5493731,relation,2856392
+Biarritz,park,Square Edouard VII,43.4852255,-1.5577491,relation,14901289
+Biarritz,park,Sans nom,43.4824971,-1.5652332,relation,15009347
+Biarritz,restaurant,Café du Commerce,43.4813993,-1.5629494,node,1361379420
+Biarritz,restaurant,Brasserie Gardères,43.4825627,-1.559212,node,1361463830
+Biarritz,restaurant,Comptoir Umami,43.4828229,-1.5581029,node,1361467438
+Biarritz,restaurant,Le Pim'Pi,43.4817484,-1.557053,node,1361473274
+Biarritz,restaurant,Bar restaurant Bistrot zingué,43.4781112,-1.5571093,node,1362597014
+Biarritz,restaurant,La bonne franquette,43.4780809,-1.5567602,node,1362597015
+Biarritz,restaurant,Los tacos chingones,43.4781628,-1.5568088,node,1362597016
+Biarritz,restaurant,Le TajMahal,43.478011,-1.5567337,node,1362597018
+Biarritz,restaurant,Le Crabe Tambour,43.4746072,-1.5636616,node,1362718060
+Biarritz,restaurant,Chez Bibi,43.4745254,-1.5638654,node,1362718063
+Biarritz,restaurant,Tantina de Burgos,43.4728777,-1.5667815,node,1362724090
+Biarritz,restaurant,Xuxu,43.4844249,-1.5483352,node,1363045787
+Biarritz,restaurant,Le Royalty,43.4823514,-1.5607501,node,1415224366
+Biarritz,restaurant,Octopus,43.4829443,-1.559571,node,1464304895
+Biarritz,restaurant,Le Ponton,43.469223,-1.5693349,node,1635645906
+Biarritz,restaurant,Le café des artistes,43.480017,-1.5587227,node,1895026566
+Biarritz,restaurant,Casa Juan Pedro,43.4830524,-1.565791,node,2425157642
+Biarritz,restaurant,Chez Albert,43.4831011,-1.5653029,node,2425157673
+Biarritz,restaurant,Le Corsaire,43.4831284,-1.5655281,node,2425157710
+Biarritz,restaurant,Ventilo Café - Restaurant & Bar,43.4819511,-1.5648177,node,2425164179
+Biarritz,restaurant,Crêperie,43.4819277,-1.5646773,node,2425164191
+Biarritz,restaurant,Les Terrasses,43.478538,-1.564523,node,2426579863
+Biarritz,restaurant,Maison Plaisir,43.4814856,-1.5585135,node,2431603578
+Biarritz,restaurant,Chez Scott,43.4810214,-1.5582216,node,2432919072
+Biarritz,restaurant,Chez Pilou,43.4816765,-1.5580367,node,2432919077
+Biarritz,restaurant,La Goulue,43.4805829,-1.5583178,node,2432919097
+Biarritz,restaurant,Sillon,43.4810103,-1.5584573,node,2432919103
+Biarritz,restaurant,Helbidea - Bistrot locavore,43.4818909,-1.5571667,node,2432927642
+Biarritz,restaurant,Bar Jean,43.4812782,-1.5625382,node,2433987631
+Biarritz,restaurant,Chistera & Coquillages,43.4811368,-1.5618861,node,2433987632
+Biarritz,restaurant,Bistrot des Halles,43.4807533,-1.5624008,node,2435452685
+Biarritz,restaurant,Cantina Biarritz Bodega Restaurant de Nuit,43.4788892,-1.5622154,node,2443499141
+Biarritz,restaurant,Le Bistrot gourmet,43.4860631,-1.5509466,node,2702756266
+Biarritz,restaurant,L'Impertinent,43.486443,-1.5504442,node,2702756268
+Biarritz,restaurant,L.M.B,43.484464,-1.5568829,node,2796127025
+Biarritz,restaurant,La Table Basque,43.4840173,-1.5569158,node,2796181655
+Biarritz,restaurant,La Crêpe Dentelle,43.4840241,-1.5568568,node,2796181656
+Biarritz,restaurant,Le Bistrot 2 Génie,43.4840309,-1.5566502,node,2796181657
+Biarritz,restaurant,Happy Days Diner,43.4838587,-1.5580141,node,2798505764
+Biarritz,restaurant,La Trattoria,43.4834852,-1.5584406,node,2799172201
+Biarritz,restaurant,Le O2 Verdun,43.4818866,-1.5541852,node,3520082111
+Biarritz,restaurant,Le Galion,43.4840944,-1.5583338,node,3703207825
+Biarritz,restaurant,Pizzeria Le Capri,43.4826119,-1.5636938,node,3731890887
+Biarritz,restaurant,Le Cèdre du Liban,43.4873726,-1.5372114,node,3871575597
+Biarritz,restaurant,Leonie,43.4828825,-1.5442289,node,3871575603
+Biarritz,restaurant,O'Xoko,43.4942598,-1.5437575,node,3871575647
+Biarritz,restaurant,La Socket,43.4576114,-1.5766911,node,3891040374
+Biarritz,restaurant,Arosta,43.4494188,-1.5449932,node,4308055395
+Biarritz,restaurant,Sushiwave,43.4863508,-1.5500134,node,4319202491
+Biarritz,restaurant,Sans nom,43.4868258,-1.5502478,node,4319290089
+Biarritz,restaurant,La Petite Plage,43.4783499,-1.5645523,node,4330743199
+Biarritz,restaurant,Arena Biarritz,43.4823534,-1.5671689,node,4330743200
+Biarritz,restaurant,Txinako,43.4624768,-1.5392862,node,4442609251
+Biarritz,restaurant,Snoopduck,43.4511544,-1.557443,node,4446544978
+Biarritz,restaurant,Le Comptoir du Foie Gras,43.4808691,-1.5624686,node,4578333389
+Biarritz,restaurant,Auberge 22,43.4735874,-1.5657735,node,4706405136
+Biarritz,restaurant,Los dos hermanos,43.4816992,-1.5547474,node,4726498189
+Biarritz,restaurant,Un jour à Peyrassol,43.4853541,-1.5536595,node,4789924527
+Biarritz,restaurant,Le Majestic,43.4852967,-1.5547711,node,4789924530
+Biarritz,restaurant,Poza,43.479397,-1.5642859,node,4822597322
+Biarritz,restaurant,L'Entre Deux,43.4809451,-1.5588098,node,4822612421
+Biarritz,restaurant,Le Comptoir à Burger,43.4795279,-1.5642051,node,4822759232
+Biarritz,restaurant,L'Etable,43.4825318,-1.5595277,node,4822819623
+Biarritz,restaurant,Chez Coco,43.4825455,-1.5593255,node,4847100003
+Biarritz,restaurant,Txik Txak,43.4843303,-1.5381972,node,4862088921
+Biarritz,restaurant,Campanile,43.4668986,-1.5401446,node,4871233715
+Biarritz,restaurant,Le Palmarium,43.4821591,-1.5658456,node,4877320049
+Biarritz,restaurant,L'Equinoxe,43.482088,-1.5663417,node,4877320066
+Biarritz,restaurant,Les Baigneuses,43.4823065,-1.5667997,node,4877320069
+Biarritz,restaurant,Chez Gabt,43.4828281,-1.5595215,node,4877320120
+Biarritz,restaurant,Judicious,43.4818199,-1.5647688,node,4914369619
+Biarritz,restaurant,Le Tandem,43.4827925,-1.563645,node,5172904422
+Biarritz,restaurant,Barranco,43.4793705,-1.5640997,node,5711382686
+Biarritz,restaurant,La P’tite Creperie,43.4821592,-1.5661352,node,5721802022
+Biarritz,restaurant,Bali Bowls,43.4818009,-1.565721,node,5873254385
+Biarritz,restaurant,Saline,43.4795604,-1.5642039,node,6041759137
+Biarritz,restaurant,Palais de Jade,43.4850217,-1.5561288,node,6076858394
+Biarritz,restaurant,Restaurant d'Application du Lycée Hôtelier,43.4624846,-1.5524381,node,6166374337
+Biarritz,restaurant,Les 3 Salsas,43.4741817,-1.5642678,node,6274733931
+Biarritz,restaurant,MORI’S,43.4819542,-1.5534274,node,6499493786
+Biarritz,restaurant,La Station,43.4595724,-1.5465692,node,6759476071
+Biarritz,restaurant,La Cantine,43.481264,-1.5585332,node,6813787753
+Biarritz,restaurant,Nuts,43.4815574,-1.5586945,node,6813940741
+Biarritz,restaurant,Santosha,43.4817399,-1.5573723,node,6813960405
+Biarritz,restaurant,Nicolo' My Kitchen Way,43.481596,-1.5587776,node,6813975469
+Biarritz,restaurant,Frozen Palm,43.4809838,-1.5587567,node,6814013313
+Biarritz,restaurant,Olatua,43.4836712,-1.5675644,node,6817376288
+Biarritz,restaurant,Le Bouchon Biarrot,43.4851115,-1.5557381,node,6828029868
+Biarritz,restaurant,Little Trallalà,43.4791626,-1.5642468,node,6852413086
+Biarritz,restaurant,Chez Fanny,43.4836394,-1.5623101,node,6860096385
+Biarritz,restaurant,Le Saleya,43.4809507,-1.5632206,node,6871213086
+Biarritz,restaurant,Pavillon du phare,43.4935636,-1.5540993,node,6990836830
+Biarritz,restaurant,Fasthotel,43.4496979,-1.5615514,node,7117636939
+Biarritz,restaurant,Le Poisson Rouge,43.4545827,-1.5736601,node,7129065624
+Biarritz,restaurant,Étika,43.450749,-1.5632282,node,7129065626
+Biarritz,restaurant,Le Campero,43.4821115,-1.5634264,node,7216291585
+Biarritz,restaurant,La Belloteka,43.4806291,-1.5624752,node,7275490985
+Biarritz,restaurant,You Sushi,43.4766224,-1.547939,node,7350331594
+Biarritz,restaurant,OPIOM,43.4854606,-1.5569646,node,8000145796
+Biarritz,restaurant,Le labo du Pizzaillo,43.4614015,-1.549504,node,8003693208
+Biarritz,restaurant,Xuxu,43.4850859,-1.5483012,node,8013513985
+Biarritz,restaurant,Kanbar Sagardotegia,43.4815905,-1.5606442,node,8303136846
+Biarritz,restaurant,ahpe Restaurant,43.4722614,-1.5558247,node,8656532688
+Biarritz,restaurant,Tiki ola,43.4780627,-1.5664227,node,8938671823
+Biarritz,restaurant,Lagun,43.4692378,-1.5684216,node,10228958661
+Biarritz,restaurant,Sakae,43.4800239,-1.5588162,node,10293030427
+Biarritz,restaurant,Pizza Cosy,43.4877504,-1.535861,node,10840122000
+Biarritz,restaurant,Aiete,43.4736917,-1.5656593,node,10916635405
+Biarritz,restaurant,Zou,43.4794499,-1.5642415,node,11051513713
+Biarritz,restaurant,Carøe,43.4791302,-1.5642817,node,11051515125
+Biarritz,restaurant,California Kitchen,43.4793112,-1.5643474,node,11051515127
+Biarritz,restaurant,Taco del diablo,43.459035,-1.5409661,node,11374350862
+Biarritz,restaurant,La table des docks,43.4593081,-1.5406662,node,11374405554
+Biarritz,restaurant,Chez Isabella,43.4595772,-1.540599,node,11407115894
+Biarritz,restaurant,So Wok,43.4595572,-1.5400788,node,11407119003
+Biarritz,restaurant,2P Gourmands Les Épicuriens,43.4619316,-1.5403822,node,11667048490
+Biarritz,restaurant,Chez Anna,43.4625204,-1.5396242,node,11667095518
+Biarritz,restaurant,Haragia,43.481361,-1.563252,node,11898242985
+Biarritz,restaurant,Carlos,43.4788497,-1.5663315,node,11898257169
+Biarritz,restaurant,Marguerite,43.4808384,-1.5631019,node,11898257170
+Biarritz,restaurant,Le Surfing Biarritz,43.4783081,-1.5664672,node,11898258469
+Biarritz,restaurant,Ardi Beltza,43.4782371,-1.5579602,node,11898258470
+Biarritz,restaurant,APRÈS-DEMAIN,43.4824809,-1.5578719,node,11898266670
+Biarritz,restaurant,La Table de Michel,43.4815909,-1.5628733,node,11898275172
+Biarritz,restaurant,EPOQ,43.4815038,-1.5578272,node,11898369169
+Biarritz,restaurant,Le Jap Ona,43.463128,-1.5397518,node,11916155408
+Biarritz,restaurant,Aguilera Pizza,43.4811209,-1.5345395,node,11936480546
+Biarritz,restaurant,Café De La Place,43.4825711,-1.5642388,node,12070407869
+Biarritz,restaurant,Bimbo,43.4797978,-1.5584964,node,12228258701
+Biarritz,restaurant,Harremanak - Port des Pêcheurs,43.4830891,-1.5649239,node,12319141302
+Biarritz,restaurant,Polo bistrot,43.4727395,-1.5560024,node,12360179102
+Biarritz,restaurant,Bistrot Angeluan,43.4862168,-1.5499797,node,12589808202
+Biarritz,restaurant,The Bayou,43.4852605,-1.5480897,node,12840736201
+Biarritz,restaurant,Freya,43.4866559,-1.5496935,node,12843632101
+Biarritz,restaurant,Le jardin,43.4806679,-1.5601582,node,13123702501
+Biarritz,restaurant,Ragazzi da Peppone,43.4816151,-1.5612728,node,13142726153
+Biarritz,restaurant,Chô Chaï,43.487718,-1.5363956,node,13179784307
+Biarritz,restaurant,L'Alchimie,43.4812324,-1.5622569,node,13261731955
+Biarritz,restaurant,Milady Beach,43.4654703,-1.5739827,way,71976853
+Biarritz,restaurant,Hôtel Régina,43.4912657,-1.5515938,way,71981443
+Biarritz,restaurant,Marloe Biarritz,43.4730086,-1.5560989,way,71996616
+Biarritz,restaurant,Amarys,43.4722104,-1.5348081,way,72023447
+Biarritz,restaurant,Le Spot,43.4479379,-1.5559621,way,72776308
+Biarritz,restaurant,Chez Peïo Cafétéria le Relais,43.4487533,-1.5704902,way,72779139
+Biarritz,restaurant,Café de la Grande Plage,43.4838425,-1.5596551,way,420884245
+Biarritz,station,Biarritz,43.4591521,-1.5458531,node,13240821006
+Biarritz,historic,Sans nom,43.4846305,-1.5702368,node,1464304962
+Biarritz,historic,Aux Morts pour la France (1914-1918 1939-1945),43.4835262,-1.5684384,node,1691117692
+Biarritz,historic,Les Armées Française de la Libération,43.4832912,-1.5685331,node,4877320081
+Biarritz,historic,Sans nom,43.4729515,-1.5502437,node,11311319785
+Biarritz,historic,Sans nom,43.4820087,-1.5603457,node,13081903464
+Biarritz,historic,Château Boulard,43.4749857,-1.5589476,way,71980296
+Biarritz,historic,Chapelle Impériale,43.4849661,-1.5548714,way,71985919
+Biarritz,historic,Phare de la Pointe Saint-Martin,43.4937661,-1.5539002,way,71996554
+Biarritz,historic,Château d'Ilbarritz,43.4587214,-1.5763754,way,309730195

@@ -1,0 +1,46 @@
+restaurant_id,city,name,latitude,longitude,rating,total_ratings,price_range,cuisine_type,address,phone,website,opening_hours,data_source
+toulouse_resto_001,Toulouse,La Cuisine de Toulouse,43.643878,1.398788,4.2,221,€,Gastronomique,176 Rue du Centre,0287163238,https://www.toulouse-restaurant-1.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_002,Toulouse,Le Cuisine de Toulouse,43.629683,1.486044,3.8,57,€,Cassoulet,95 Rue Principale,0569632279,https://www.toulouse-restaurant-2.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_003,Toulouse,La Table de Toulouse,43.560428,1.48111,4.2,296,€€,Sud-Ouest,11 Rue Victor Hugo,0661437837,https://www.toulouse-restaurant-3.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_004,Toulouse,Le Cuisine de Toulouse,43.58088,1.436229,3.2,469,€€,Gastronomique,141 Rue Principale,0674864447,https://www.toulouse-restaurant-4.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_005,Toulouse,Brasserie Au du Port,43.602464,1.469295,4.2,405,€€€,Française,158 Rue Victor Hugo,0163549646,https://www.toulouse-restaurant-5.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_006,Toulouse,Table La du Port,43.578981,1.48605,3.4,271,€€€,Sud-Ouest,150 Rue de Paris,0334773735,https://www.toulouse-restaurant-6.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_007,Toulouse,Au Bon Brasserie,43.588953,1.488045,3.5,261,€€€,Sud-Ouest,57 Rue du Centre,0371854691,https://www.toulouse-restaurant-7.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_008,Toulouse,Comptoir Chez Toulouse,43.559025,1.402255,3.4,437,€€,Française,185 Rue de Paris,0480508062,https://www.toulouse-restaurant-8.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_009,Toulouse,La Café Toulouse,43.643836,1.479455,4.7,127,€€,Sud-Ouest,30 Rue Principale,0542314575,https://www.toulouse-restaurant-9.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_010,Toulouse,Au Nouveau Comptoir,43.573096,1.422544,3.8,403,€,Française,47 Rue du Centre,0121468146,https://www.toulouse-restaurant-10.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_011,Toulouse,La Petit Brasserie,43.586778,1.430938,4.4,199,€€€,Gastronomique,45 Rue Principale,0319665845,https://www.toulouse-restaurant-11.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_012,Toulouse,Le Petit Café,43.629082,1.399873,4.0,274,€€,Française,108 Rue du Centre,0653469165,https://www.toulouse-restaurant-12.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_013,Toulouse,Au Grand Comptoir,43.607665,1.465868,4.1,28,€€,Cassoulet,113 Rue Principale,0438703754,https://www.toulouse-restaurant-13.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_014,Toulouse,Chez Traditionnel Café,43.599034,1.442891,4.6,155,€€€,Sud-Ouest,112 Rue Principale,0120617787,https://www.toulouse-restaurant-14.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_015,Toulouse,La Table de Toulouse,43.591355,1.430098,3.4,256,€€,Sud-Ouest,37 Rue Victor Hugo,0541544094,https://www.toulouse-restaurant-15.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_016,Toulouse,Comptoir Chez Toulouse,43.564503,1.448198,4.5,453,€€€,Cassoulet,198 Rue Victor Hugo,0311807852,https://www.toulouse-restaurant-16.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_017,Toulouse,La Cuisine de Toulouse,43.609944,1.421358,4.0,475,€,Sud-Ouest,127 Rue Principale,0481197026,https://www.toulouse-restaurant-17.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_018,Toulouse,Le Cuisine de Toulouse,43.64032,1.48443,4.3,408,€€,Française,61 Rue Victor Hugo,0541438373,https://www.toulouse-restaurant-18.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_019,Toulouse,Comptoir Le Toulouse,43.595279,1.409078,3.4,9,€€,Gastronomique,114 Rue Principale,0538223051,https://www.toulouse-restaurant-19.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_020,Toulouse,La Table du Toulouse,43.595481,1.444729,4.2,126,€,Française,6 Rue Victor Hugo,0223705293,https://www.toulouse-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_021,Toulouse,Restaurant Le Toulouse,43.627994,1.477928,4.3,186,€€,Sud-Ouest,68 Rue du Centre,0114409249,https://www.toulouse-restaurant-21.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_022,Toulouse,La Bouchon Toulouse,43.653455,1.406291,3.4,79,€€,Française,96 Rue du Centre,0414411019,https://www.toulouse-restaurant-22.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_023,Toulouse,Café Les du Marché,43.582146,1.472955,3.8,386,€€€,Française,6 Rue Principale,0534566844,https://www.toulouse-restaurant-23.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_024,Toulouse,Le Table de Toulouse,43.592462,1.468519,3.2,437,€€,Cassoulet,142 Rue Victor Hugo,0446742229,https://www.toulouse-restaurant-24.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_025,Toulouse,La Table du Toulouse,43.559185,1.424882,4.5,477,€€,Cassoulet,6 Rue Victor Hugo,0630828940,https://www.toulouse-restaurant-25.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_026,Toulouse,Les Traditionnel Bistro,43.604505,1.448117,4.8,157,€,Cassoulet,153 Rue Victor Hugo,0594777529,https://www.toulouse-restaurant-26.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_027,Toulouse,La Comptoir Toulouse,43.643156,1.45458,4.1,431,€,Sud-Ouest,141 Rue du Centre,0648791885,https://www.toulouse-restaurant-27.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_028,Toulouse,Le Table du Toulouse,43.556597,1.491047,4.2,278,€,Sud-Ouest,64 Rue de Paris,0466762820,https://www.toulouse-restaurant-28.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_029,Toulouse,Café Chez Toulouse,43.55578,1.404225,4.0,324,€€,Française,154 Rue Victor Hugo,0135665319,https://www.toulouse-restaurant-29.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_030,Toulouse,Table Au du Marché,43.617417,1.465416,4.3,122,€,Française,81 Rue Victor Hugo,0490885326,https://www.toulouse-restaurant-30.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_031,Toulouse,La Table de Toulouse,43.639854,1.488751,4.7,52,€€€,Française,163 Rue Victor Hugo,0358589567,https://www.toulouse-restaurant-31.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_032,Toulouse,Bistro Les de la Gare,43.557236,1.469891,4.5,228,€,Française,16 Rue Victor Hugo,0676332253,https://www.toulouse-restaurant-32.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_033,Toulouse,Les Bouchon Toulouse,43.57096,1.473282,4.8,402,€,Sud-Ouest,69 Rue Principale,0455476325,https://www.toulouse-restaurant-33.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_034,Toulouse,Le Table du Toulouse,43.611042,1.491977,4.5,375,€€€,Française,36 Rue du Centre,0662975496,https://www.toulouse-restaurant-34.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_035,Toulouse,Le Cuisine de Toulouse,43.614683,1.405566,4.2,277,€€,Cassoulet,67 Rue de Paris,0352727296,https://www.toulouse-restaurant-35.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_036,Toulouse,Restaurant Les Central,43.562872,1.490927,3.3,103,€€,Cassoulet,62 Rue Principale,0429603191,https://www.toulouse-restaurant-36.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_037,Toulouse,Le Typique Café,43.651793,1.426029,4.3,272,€€,Cassoulet,153 Rue Victor Hugo,0531146395,https://www.toulouse-restaurant-37.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_038,Toulouse,La Cuisine du Toulouse,43.650577,1.469981,4.4,130,€€,Sud-Ouest,76 Rue de Paris,0364343748,https://www.toulouse-restaurant-38.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_039,Toulouse,Les Bouchon Toulouse,43.57828,1.412901,4.3,382,€€€,Sud-Ouest,189 Rue Principale,0684785968,https://www.toulouse-restaurant-39.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_040,Toulouse,Chez Traditionnel Table,43.644423,1.404708,4.0,178,€€€,Cassoulet,192 Rue du Centre,0436845325,https://www.toulouse-restaurant-40.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_041,Toulouse,La Café Toulouse,43.636766,1.429732,3.3,78,€€,Gastronomique,63 Rue Principale,0138867282,https://www.toulouse-restaurant-41.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_042,Toulouse,La Bouchon Toulouse,43.654523,1.475931,3.6,61,€,Française,126 Rue Victor Hugo,0371266710,https://www.toulouse-restaurant-42.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_043,Toulouse,Le Cuisine de Toulouse,43.637251,1.463384,3.2,311,€,Française,173 Rue du Centre,0163105959,https://www.toulouse-restaurant-43.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_044,Toulouse,La Table de Toulouse,43.652059,1.414884,3.7,214,€€€,Gastronomique,179 Rue Victor Hugo,0324807190,https://www.toulouse-restaurant-44.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_045,Toulouse,La Cuisine du Toulouse,43.563611,1.442024,3.8,372,€,Française,120 Rue Principale,0615189959,https://www.toulouse-restaurant-45.fr,"11:30-15:00, 18:30-23:00",generated_data

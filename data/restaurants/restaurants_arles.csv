@@ -1,0 +1,62 @@
+restaurant_id,city,name,latitude,longitude,rating,total_ratings,price_range,cuisine_type,address,phone,website,opening_hours,data_source
+arles_resto_001,Arles,La Bon Bistro,43.664671,4.651206,4.4,231,€€,Camarguaise,188 Rue du Centre,0331804053,https://www.arles-restaurant-1.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_002,Arles,Le Table du Arles,43.663393,4.647698,3.9,247,€€€,Française,67 Rue Victor Hugo,0647453456,https://www.arles-restaurant-2.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_003,Arles,Café Au Central,43.685393,4.636381,3.6,216,€€€,Française,48 Rue du Centre,0454918294,https://www.arles-restaurant-3.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_004,Arles,La Bon Comptoir,43.707535,4.58631,4.8,358,€€,Française,98 Rue de Paris,0182945348,https://www.arles-restaurant-4.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_005,Arles,La Table de Arles,43.647937,4.642659,3.5,60,€€,Camarguaise,115 Rue Victor Hugo,0287551944,https://www.arles-restaurant-5.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_006,Arles,La Table du Arles,43.642025,4.667172,4.5,378,€€€,Provençale,162 Rue de Paris,0323498289,https://www.arles-restaurant-6.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_007,Arles,Le Table de Arles,43.664763,4.582765,3.9,316,€€€,Française,25 Rue de Paris,0681637775,https://www.arles-restaurant-7.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_008,Arles,La Bouchon Arles,43.690261,4.621128,4.3,121,€€€,Provençale,165 Rue du Centre,0592752610,https://www.arles-restaurant-8.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_009,Arles,La Comptoir Arles,43.655439,4.654308,4.2,193,€€,Française,115 Rue du Centre,0283414391,https://www.arles-restaurant-9.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_010,Arles,Restaurant La des Arts,43.694881,4.586564,3.4,251,€€€,Provençale,144 Rue Victor Hugo,0561911076,https://www.arles-restaurant-10.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_011,Arles,Comptoir Le des Arts,43.634025,4.65479,4.4,314,€,Française,110 Rue Principale,0447467071,https://www.arles-restaurant-11.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_012,Arles,Le Table de Arles,43.696899,4.646369,4.0,42,€€,Provençale,10 Rue de Paris,0186489319,https://www.arles-restaurant-12.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_013,Arles,Comptoir La du Marché,43.636003,4.625659,3.8,227,€€,Provençale,117 Rue Principale,0224711034,https://www.arles-restaurant-13.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_014,Arles,La Bouchon Arles,43.721091,4.604701,4.7,281,€€€,Camarguaise,134 Rue du Centre,0289108837,https://www.arles-restaurant-14.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_015,Arles,Table Le des Arts,43.709576,4.645385,4.3,405,€€,Provençale,24 Rue de Paris,0597632717,https://www.arles-restaurant-15.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_016,Arles,Les Comptoir Arles,43.637836,4.621157,3.4,421,€€,Française,56 Rue Principale,0388275286,https://www.arles-restaurant-16.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_017,Arles,Le Cuisine du Arles,43.653902,4.656955,4.6,389,€,Camarguaise,74 Rue du Centre,0536647936,https://www.arles-restaurant-17.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_018,Arles,Le Comptoir Arles,43.628353,4.653994,4.2,87,€€,Provençale,110 Rue du Centre,0454819967,https://www.arles-restaurant-18.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_019,Arles,Chez Café Arles,43.690138,4.644325,3.3,68,€€€,Camarguaise,6 Rue du Centre,0213403685,https://www.arles-restaurant-19.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_020,Arles,La Comptoir Arles,43.698012,4.644581,4.1,344,€€,Provençale,40 Rue Principale,0378999436,https://www.arles-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_021,Arles,Bistro La du Marché,43.670846,4.638442,4.4,486,€€€,Française,151 Rue Victor Hugo,0343354488,https://www.arles-restaurant-21.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_022,Arles,La Table de Arles,43.650006,4.634942,4.5,473,€,Camarguaise,49 Rue Victor Hugo,0369143868,https://www.arles-restaurant-22.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_023,Arles,La Typique Bistro,43.714443,4.653334,3.5,245,€,Provençale,194 Rue de Paris,0387648026,https://www.arles-restaurant-23.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_024,Arles,Brasserie Le des Arts,43.689143,4.650065,4.2,158,€€,Française,128 Rue de Paris,0160742951,https://www.arles-restaurant-24.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_025,Arles,La Table du Arles,43.69065,4.639249,3.9,420,€,Française,138 Rue Principale,0551372469,https://www.arles-restaurant-25.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_026,Arles,Le Table du Arles,43.660965,4.587644,3.6,283,€€€,Française,153 Rue Victor Hugo,0699603464,https://www.arles-restaurant-26.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_027,Arles,Le Vieux Restaurant,43.691344,4.660149,4.0,241,€€,Provençale,72 Rue de Paris,0473419338,https://www.arles-restaurant-27.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_028,Arles,La Bouchon Arles,43.694035,4.624692,4.2,233,€€€,Française,30 Rue de Paris,0347266348,https://www.arles-restaurant-28.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_029,Arles,Table La du Marché,43.666802,4.640557,4.1,367,€€,Camarguaise,51 Rue de Paris,0174216675,https://www.arles-restaurant-29.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_030,Arles,Café Au Central,43.634319,4.609427,4.2,336,€€,Provençale,161 Rue Principale,0439103752,https://www.arles-restaurant-30.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_031,Arles,Brasserie Au du Marché,43.688674,4.595685,4.0,459,€€€,Française,197 Rue Victor Hugo,0379868998,https://www.arles-restaurant-31.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_032,Arles,Le Table du Arles,43.645607,4.617667,4.6,94,€€,Camarguaise,66 Rue Victor Hugo,0175171289,https://www.arles-restaurant-32.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_033,Arles,La Cuisine du Arles,43.638483,4.616375,3.8,86,€,Provençale,156 Rue Victor Hugo,0351172643,https://www.arles-restaurant-33.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_034,Arles,Le Table du Arles,43.648492,4.612713,3.8,442,€,Camarguaise,55 Rue du Centre,0621835528,https://www.arles-restaurant-34.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_035,Arles,Le Traditionnel Brasserie,43.701232,4.620866,4.1,491,€€,Provençale,175 Rue Victor Hugo,0482954082,https://www.arles-restaurant-35.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_036,Arles,Chez Café Arles,43.725017,4.648951,4.5,325,€,Provençale,116 Rue Principale,0270912082,https://www.arles-restaurant-36.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_037,Arles,La Table du Arles,43.708669,4.638848,4.4,477,€,Provençale,106 Rue de Paris,0434565453,https://www.arles-restaurant-37.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_038,Arles,Comptoir Les du Port,43.685727,4.628855,3.3,251,€€€,Française,140 Rue du Centre,0563929729,https://www.arles-restaurant-38.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_039,Arles,Chez Vieux Comptoir,43.647722,4.613624,4.7,455,€€,Camarguaise,191 Rue de Paris,0656717811,https://www.arles-restaurant-39.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_040,Arles,Le Petit Restaurant,43.680235,4.649416,4.0,19,€€€,Française,80 Rue Victor Hugo,0632321735,https://www.arles-restaurant-40.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_041,Arles,La Table du Arles,43.644826,4.610466,4.2,471,€,Provençale,189 Rue de Paris,0280608377,https://www.arles-restaurant-41.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_042,Arles,Bistro Les des Arts,43.627727,4.58187,3.2,14,€€,Française,17 Rue Principale,0243542655,https://www.arles-restaurant-42.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_043,Arles,Café Le Central,43.722852,4.676284,4.7,329,€,Provençale,62 Rue de Paris,0366432456,https://www.arles-restaurant-43.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_044,Arles,Chez Grand Brasserie,43.632048,4.597608,4.7,177,€€,Française,166 Rue Principale,0646795311,https://www.arles-restaurant-44.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_045,Arles,Au Traditionnel Comptoir,43.655569,4.624569,3.3,70,€€€,Provençale,170 Rue Principale,0576415944,https://www.arles-restaurant-45.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_046,Arles,Restaurant La Arles,43.676164,4.654008,3.9,341,€,Camarguaise,179 Rue du Centre,0376994853,https://www.arles-restaurant-46.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_047,Arles,Le Bouchon Arles,43.652533,4.615339,4.1,130,€,Provençale,112 Rue Victor Hugo,0558905064,https://www.arles-restaurant-47.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_048,Arles,Au Nouveau Café,43.687097,4.586804,3.3,404,€€€,Camarguaise,147 Rue du Centre,0591802479,https://www.arles-restaurant-48.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_049,Arles,Au Traditionnel Comptoir,43.660265,4.599047,3.6,26,€€,Provençale,56 Rue Principale,0341952315,https://www.arles-restaurant-49.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_050,Arles,Le Traditionnel Bistro,43.642786,4.595751,3.5,466,€€€,Française,69 Rue Principale,0682296055,https://www.arles-restaurant-50.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_051,Arles,La Table du Arles,43.694419,4.641896,4.0,46,€€€,Provençale,23 Rue du Centre,0454669174,https://www.arles-restaurant-51.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_052,Arles,Les Café Arles,43.657508,4.663555,3.3,11,€,Française,35 Rue du Centre,0179135813,https://www.arles-restaurant-52.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_053,Arles,Le Bouchon Arles,43.677773,4.603564,4.3,23,€€€,Provençale,181 Rue Principale,0633145644,https://www.arles-restaurant-53.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_054,Arles,Le Vieux Café,43.72378,4.596046,4.5,469,€,Camarguaise,141 Rue du Centre,0454308665,https://www.arles-restaurant-54.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_055,Arles,Restaurant Le du Marché,43.704794,4.641587,3.6,41,€€,Provençale,70 Rue de Paris,0652301329,https://www.arles-restaurant-55.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_056,Arles,La Petit Comptoir,43.692333,4.590617,4.3,448,€€,Française,124 Rue Victor Hugo,0357964912,https://www.arles-restaurant-56.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_057,Arles,La Grand Table,43.655324,4.623508,4.0,203,€€€,Française,105 Rue du Centre,0591561380,https://www.arles-restaurant-57.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_058,Arles,Brasserie Le Central,43.689599,4.587485,4.0,467,€€,Provençale,172 Rue Principale,0549982028,https://www.arles-restaurant-58.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_059,Arles,Au Bon Bistro,43.646727,4.651528,3.4,37,€€,Camarguaise,158 Rue Victor Hugo,0282205291,https://www.arles-restaurant-59.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_060,Arles,La Cuisine du Arles,43.650719,4.583197,3.6,116,€€€,Provençale,69 Rue de Paris,0189846837,https://www.arles-restaurant-60.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_061,Arles,La Cuisine du Arles,43.638344,4.587056,4.2,70,€,Française,39 Rue du Centre,0665122962,https://www.arles-restaurant-61.fr,"11:30-15:00, 18:30-23:00",generated_data

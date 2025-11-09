@@ -1,0 +1,64 @@
+restaurant_id,city,name,latitude,longitude,rating,total_ratings,price_range,cuisine_type,address,phone,website,opening_hours,data_source
+lille_resto_001,Lille,Au Bon Comptoir,50.636954,3.044269,4.2,151,€€,Bistro,76 Rue de Paris,0312716983,https://www.lille-restaurant-1.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_002,Lille,Restaurant Le des Arts,50.602083,3.064187,4.5,402,€,Française,127 Rue Victor Hugo,0680288059,https://www.lille-restaurant-2.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_003,Lille,Le Traditionnel Brasserie,50.619869,3.070887,3.7,105,€€,Nordiste,127 Rue de Paris,0481319790,https://www.lille-restaurant-3.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_004,Lille,Bistro Le de la Gare,50.652035,3.045111,4.1,467,€,Française,155 Rue Victor Hugo,0667666158,https://www.lille-restaurant-4.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_005,Lille,Le Bouchon Lille,50.628454,3.059199,4.0,269,€€€,Nordiste,48 Rue Principale,0233487899,https://www.lille-restaurant-5.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_006,Lille,Table Chez du Port,50.671578,3.020778,4.4,464,€€€,Nordiste,85 Rue du Centre,0544773726,https://www.lille-restaurant-6.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_007,Lille,Chez Vieux Table,50.665199,3.068952,3.6,182,€,Flamande,109 Rue de Paris,0268762949,https://www.lille-restaurant-7.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_008,Lille,La Bon Table,50.670568,3.04348,4.0,466,€€€,Bistro,155 Rue Victor Hugo,0628269342,https://www.lille-restaurant-8.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_009,Lille,Comptoir Les de la Gare,50.605784,3.042751,3.7,288,€€€,Bistro,70 Rue Victor Hugo,0379878741,https://www.lille-restaurant-9.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_010,Lille,Le Cuisine du Lille,50.584242,3.008282,3.3,392,€,Flamande,181 Rue Principale,0622285030,https://www.lille-restaurant-10.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_011,Lille,Les Traditionnel Comptoir,50.656054,3.087292,4.8,132,€€,Flamande,147 Rue du Centre,0458653419,https://www.lille-restaurant-11.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_012,Lille,Le Traditionnel Comptoir,50.629136,3.042487,4.7,171,€,Française,42 Rue de Paris,0445993616,https://www.lille-restaurant-12.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_013,Lille,Les Typique Restaurant,50.594696,3.096796,3.7,349,€,Française,55 Rue Victor Hugo,0661865520,https://www.lille-restaurant-13.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_014,Lille,Au Café Lille,50.618859,3.064606,3.8,137,€€€,Française,38 Rue Principale,0435168150,https://www.lille-restaurant-14.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_015,Lille,La Table de Lille,50.658822,3.088489,4.6,242,€€€,Nordiste,48 Rue Victor Hugo,0629872635,https://www.lille-restaurant-15.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_016,Lille,Restaurant Le des Arts,50.580305,3.044575,3.6,214,€€€,Française,114 Rue du Centre,0494566782,https://www.lille-restaurant-16.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_017,Lille,Le Table de Lille,50.649738,3.023136,4.6,214,€€€,Flamande,161 Rue de Paris,0118469954,https://www.lille-restaurant-17.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_018,Lille,La Bouchon Lille,50.598805,3.030996,4.7,106,€,Nordiste,185 Rue Principale,0643867586,https://www.lille-restaurant-18.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_019,Lille,Café Les du Port,50.592651,3.053129,4.4,173,€€€,Flamande,174 Rue de Paris,0127495858,https://www.lille-restaurant-19.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_020,Lille,Au Bouchon Lille,50.661987,3.090699,4.8,96,€€,Française,175 Rue de Paris,0484343239,https://www.lille-restaurant-20.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_021,Lille,La Bouchon Lille,50.673865,3.080048,4.5,348,€,Flamande,165 Rue de Paris,0617561488,https://www.lille-restaurant-21.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_022,Lille,Le Table de Lille,50.610605,3.104661,3.9,227,€€,Bistro,190 Rue Principale,0313845898,https://www.lille-restaurant-22.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_023,Lille,La Table de Lille,50.609355,3.061119,3.6,348,€€,Nordiste,26 Rue du Centre,0139734146,https://www.lille-restaurant-23.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_024,Lille,Table La du Marché,50.653595,3.011252,4.2,452,€,Nordiste,135 Rue Principale,0211429073,https://www.lille-restaurant-24.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_025,Lille,Brasserie Les des Arts,50.594405,3.034705,3.2,67,€,Française,68 Rue Victor Hugo,0376928758,https://www.lille-restaurant-25.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_026,Lille,Brasserie La du Marché,50.648254,3.062979,4.5,339,€€,Bistro,177 Rue du Centre,0111252885,https://www.lille-restaurant-26.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_027,Lille,Le Table de Lille,50.589568,3.090054,4.5,34,€€€,Flamande,115 Rue Principale,0616179668,https://www.lille-restaurant-27.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_028,Lille,Comptoir Au de la Gare,50.634862,3.073965,4.4,99,€,Française,77 Rue Victor Hugo,0573992724,https://www.lille-restaurant-28.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_029,Lille,La Cuisine de Lille,50.677004,3.069118,4.6,81,€€,Flamande,85 Rue Victor Hugo,0418718133,https://www.lille-restaurant-29.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_030,Lille,Le Cuisine de Lille,50.608843,3.056437,3.8,72,€€,Nordiste,33 Rue du Centre,0341527359,https://www.lille-restaurant-30.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_031,Lille,Au Bouchon Lille,50.614773,3.098188,3.5,93,€€€,Française,40 Rue du Centre,0690622437,https://www.lille-restaurant-31.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_032,Lille,Chez Bouchon Lille,50.591829,3.045825,3.2,388,€,Bistro,38 Rue du Centre,0617563236,https://www.lille-restaurant-32.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_033,Lille,Le Typique Brasserie,50.605868,3.083572,3.9,408,€€,Française,81 Rue Victor Hugo,0690535472,https://www.lille-restaurant-33.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_034,Lille,Au Grand Bistro,50.663064,3.102382,4.1,203,€€€,Flamande,152 Rue Victor Hugo,0247465488,https://www.lille-restaurant-34.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_035,Lille,La Cuisine de Lille,50.591583,3.019924,3.3,352,€€,Bistro,138 Rue du Centre,0399327938,https://www.lille-restaurant-35.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_036,Lille,La Table du Lille,50.592036,3.041047,3.7,228,€,Nordiste,72 Rue de Paris,0618354060,https://www.lille-restaurant-36.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_037,Lille,La Cuisine de Lille,50.579647,3.076773,4.7,349,€€€,Flamande,86 Rue Principale,0261424193,https://www.lille-restaurant-37.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_038,Lille,Table Le du Marché,50.628944,3.054221,4.1,80,€€€,Flamande,91 Rue du Centre,0445886556,https://www.lille-restaurant-38.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_039,Lille,Le Cuisine de Lille,50.650673,3.067665,3.3,61,€€€,Flamande,175 Rue Principale,0280529522,https://www.lille-restaurant-39.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_040,Lille,La Comptoir Lille,50.621203,3.086679,3.4,15,€,Française,146 Rue de Paris,0243435324,https://www.lille-restaurant-40.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_041,Lille,Le Cuisine de Lille,50.634554,3.100627,3.4,221,€€,Nordiste,107 Rue du Centre,0326174623,https://www.lille-restaurant-41.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_042,Lille,Les Bon Comptoir,50.579728,3.027081,3.8,114,€€€,Flamande,7 Rue Victor Hugo,0653781789,https://www.lille-restaurant-42.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_043,Lille,Le Table du Lille,50.670999,3.103695,4.4,385,€€,Nordiste,69 Rue Principale,0668201883,https://www.lille-restaurant-43.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_044,Lille,Café Chez Central,50.664333,3.098919,3.9,72,€,Française,185 Rue du Centre,0267885641,https://www.lille-restaurant-44.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_045,Lille,Le Petit Restaurant,50.608647,3.061453,4.3,233,€,Nordiste,17 Rue Victor Hugo,0221439686,https://www.lille-restaurant-45.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_046,Lille,Chez Bouchon Lille,50.603346,3.039376,4.8,127,€,Bistro,89 Rue Victor Hugo,0521248234,https://www.lille-restaurant-46.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_047,Lille,Les Grand Café,50.581709,3.062196,3.8,30,€€€,Bistro,114 Rue du Centre,0316137358,https://www.lille-restaurant-47.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_048,Lille,Bistro Les des Arts,50.585048,3.048788,4.4,249,€,Française,118 Rue Principale,0537381169,https://www.lille-restaurant-48.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_049,Lille,La Table de Lille,50.675951,3.017891,4.6,114,€,Nordiste,159 Rue Principale,0124307231,https://www.lille-restaurant-49.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_050,Lille,La Cuisine de Lille,50.673236,3.062594,4.3,57,€€€,Française,170 Rue de Paris,0222934858,https://www.lille-restaurant-50.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_051,Lille,Le Cuisine du Lille,50.657978,3.070871,4.5,297,€€,Française,33 Rue de Paris,0642434516,https://www.lille-restaurant-51.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_052,Lille,Au Traditionnel Table,50.633351,3.0422,4.4,310,€,Flamande,187 Rue de Paris,0444442784,https://www.lille-restaurant-52.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_053,Lille,Les Nouveau Bistro,50.670917,3.095586,3.9,474,€€€,Nordiste,192 Rue de Paris,0275768368,https://www.lille-restaurant-53.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_054,Lille,Café Au de la Gare,50.662196,3.067577,3.4,19,€,Bistro,184 Rue Victor Hugo,0449743330,https://www.lille-restaurant-54.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_055,Lille,Café Les de la Gare,50.640997,3.044809,3.3,451,€€,Nordiste,77 Rue du Centre,0688524044,https://www.lille-restaurant-55.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_056,Lille,Chez Comptoir Lille,50.613245,3.102307,3.4,359,€,Française,42 Rue Principale,0110406133,https://www.lille-restaurant-56.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_057,Lille,La Table de Lille,50.674675,3.100785,4.5,315,€€€,Nordiste,190 Rue Principale,0664871638,https://www.lille-restaurant-57.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_058,Lille,Restaurant Le du Marché,50.587671,3.048126,3.3,53,€€,Bistro,171 Rue de Paris,0484852977,https://www.lille-restaurant-58.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_059,Lille,Table Chez Lille,50.597385,3.057857,4.6,245,€€€,Française,168 Rue Victor Hugo,0690181552,https://www.lille-restaurant-59.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_060,Lille,Au Bouchon Lille,50.612545,3.030759,4.5,276,€,Nordiste,179 Rue de Paris,0596954785,https://www.lille-restaurant-60.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_061,Lille,Le Comptoir Lille,50.631643,3.095879,4.0,161,€,Française,140 Rue Victor Hugo,0625982640,https://www.lille-restaurant-61.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_062,Lille,Au Nouveau Café,50.59628,3.090393,3.2,306,€€€,Flamande,131 Rue du Centre,0624374434,https://www.lille-restaurant-62.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_063,Lille,Restaurant Le des Arts,50.628565,3.063173,4.3,157,€,Flamande,82 Rue Principale,0695594778,https://www.lille-restaurant-63.fr,"11:30-15:00, 18:30-23:00",generated_data

@@ -1,0 +1,1652 @@
+city,category,name,lat,lon,osm_type,osm_id
+Bordeaux,museum,Musée national des Douanes,44.8409508,-0.569812,node,279711473
+Bordeaux,museum,Musée d'ethnographie de l'Université de Bordeaux,44.83098,-0.5700867,node,1310602878
+Bordeaux,museum,Institut Culturel Bernard Magrez,44.8539533,-0.5890737,node,2543184818
+Bordeaux,museum,Musée des Compagnons du Tour de France,44.8240142,-0.5646371,node,2809611375
+Bordeaux,museum,Musée du Vin et du Négoce,44.854628,-0.5693905,node,2809611376
+Bordeaux,museum,Maison du Patrimoine,44.9094977,-0.6312364,node,3594413014
+Bordeaux,museum,Science Expériences Bordeaux,44.8401556,-0.5747836,node,4970242985
+Bordeaux,museum,Musée Goupil,44.8358149,-0.5749304,node,6912095875
+Bordeaux,museum,Musée de l'Histoire Maritime de Bordeaux,44.8542938,-0.5689277,node,8735945876
+Bordeaux,museum,Musée de L'illusion,44.8390758,-0.5827768,node,11462210931
+Bordeaux,museum,Arc en rêve,44.8482809,-0.5720091,node,13062470781
+Bordeaux,museum,Base Sous-Marine de Bordeaux,44.8703215,-0.558554,way,27589401
+Bordeaux,museum,Musée des Beaux-Arts (aile sud),44.83737,-0.5805433,way,79979299
+Bordeaux,museum,Centre Jean-Moulin,44.8386932,-0.5776744,way,79979931
+Bordeaux,museum,Musée des Arts Décoratifs et du Design,44.838847,-0.5802214,way,79981701
+Bordeaux,museum,Musée des Beaux-Arts (aile nord),44.838164,-0.5807498,way,79982088
+Bordeaux,museum,Musée d'Aquitaine,44.835656,-0.574757,way,80024893
+Bordeaux,museum,CAPC - Musée d'art contemporain de Bordeaux,44.8486068,-0.5721515,way,117456213
+Bordeaux,museum,Galerie des Beaux-Arts,44.8387343,-0.5822787,way,117470003
+Bordeaux,museum,Cap Sciences,44.859633,-0.5542245,way,154309547
+Bordeaux,museum,Muséum d'Histoire Naturelle,44.848466,-0.580011,way,154772662
+Bordeaux,museum,Cité du Vin,44.8623733,-0.55002,way,421965158
+Bordeaux,museum,Musée Mer Marine,44.8673927,-0.5539963,way,581501288
+Bordeaux,museum,Musée de l'Imprimerie de Bordeaux,44.8303306,-0.5614185,relation,13234596
+Bordeaux,park,Le Parc de Richelieu,44.8165073,-0.5531801,node,5693180316
+Bordeaux,park,Prairie Chat,44.8614967,-0.5773405,node,13103748328
+Bordeaux,park,Jardin Public,44.8488363,-0.5786223,way,21025479
+Bordeaux,park,Parc Monséjour,44.8543628,-0.6321087,way,23021423
+Bordeaux,park,Square de l'Église Saint-Amand,44.8513525,-0.614628,way,23021474
+Bordeaux,park,Parc Rivière,44.8552,-0.5866516,way,23162050
+Bordeaux,park,Sans nom,44.8173486,-0.6356792,way,25469033
+Bordeaux,park,Parc aux Angéliques,44.8468125,-0.5625594,way,25691127
+Bordeaux,park,Square Émile Combes - Jean Gautier,44.8365252,-0.6078759,way,25742980
+Bordeaux,park,Square de Monrepos,44.8423271,-0.5364389,way,25748755
+Bordeaux,park,Jardin des Dâmes de la Foi,44.8249808,-0.5821,way,25759582
+Bordeaux,park,Jardin de la Béchade,44.8263388,-0.5982937,way,25861789
+Bordeaux,park,Place Mozart,44.8145356,-0.600979,way,25888447
+Bordeaux,park,Square Les Jasmins,44.860154,-0.6371602,way,25900272
+Bordeaux,park,Sans nom,44.8115818,-0.5609409,way,26188177
+Bordeaux,park,Place du Lieutenant Serge Duhourquet,44.8111436,-0.5468009,way,26188852
+Bordeaux,park,Square Marie Louis Sue,44.8396615,-0.5563449,way,26300479
+Bordeaux,park,Sans nom,44.8655126,-0.5333712,way,26307564
+Bordeaux,park,Place de la Demi-lune,44.8587767,-0.5361478,way,26307851
+Bordeaux,park,Parc Pinçon,44.8442429,-0.5449323,way,26392766
+Bordeaux,park,Square Pineau,44.8133725,-0.5910548,way,27679927
+Bordeaux,park,Parc du Luchey,44.8184678,-0.6313515,way,28068096
+Bordeaux,park,Square Bernard Lecache,44.8536295,-0.6215653,way,32471941
+Bordeaux,park,Parc des sports de Saint-Michel,44.8336123,-0.560756,way,33881942
+Bordeaux,park,Square Bertrand de Goth,44.819223,-0.5776032,way,35592130
+Bordeaux,park,Sans nom,44.838087,-0.6156446,way,43937960
+Bordeaux,park,Square Vinet,44.839443,-0.5714441,way,43940307
+Bordeaux,park,Parc Bel Air Lussy,44.8403235,-0.6069652,way,44369578
+Bordeaux,park,Sans nom,44.8230077,-0.5775376,way,47984271
+Bordeaux,park,Place Hilaire Saura,44.8388042,-0.5372432,way,49479421
+Bordeaux,park,Parc de la Chêneraie,44.8660389,-0.6103171,way,49940186
+Bordeaux,park,Square Dom Bedos,44.8310688,-0.5601986,way,51429493
+Bordeaux,park,Place Jacques Cartier,44.885376,-0.6166825,way,58177701
+Bordeaux,park,Parc de l'Ermitage,44.864994,-0.5961467,way,58446146
+Bordeaux,park,Sans nom,44.8276952,-0.5558139,way,79373663
+Bordeaux,park,Place Amédée Larrieu,44.8302535,-0.5815515,way,80372028
+Bordeaux,park,Sans nom,44.8341807,-0.5792211,way,116001546
+Bordeaux,park,Place André Recapet,44.812978,-0.5694347,way,172956154
+Bordeaux,park,Parc de Bourran,44.8369911,-0.6309761,way,174188130
+Bordeaux,park,Parc de Tenet,44.8204542,-0.6169488,way,177330850
+Bordeaux,park,Place du Colonel Moll,44.8137281,-0.5780353,way,177916406
+Bordeaux,park,Sans nom,44.8265018,-0.5826448,way,188180707
+Bordeaux,park,Sans nom,44.826035,-0.5836499,way,188180709
+Bordeaux,park,Sans nom,44.8257545,-0.58171,way,188180720
+Bordeaux,park,Square Saint-John Perse,44.8370757,-0.581728,way,189215218
+Bordeaux,park,Square Georges Mandel,44.8419252,-0.5932357,way,190450908
+Bordeaux,park,Jardin de la Visitation,44.8483128,-0.595093,way,191898570
+Bordeaux,park,Parc du Quai Louis XVIII,44.8458026,-0.570421,way,193449614
+Bordeaux,park,Espace Vert des Quais,44.8441895,-0.5701775,way,193455489
+Bordeaux,park,Parc fleuri du Miroir d'eau,44.8433731,-0.5695193,way,193458124
+Bordeaux,park,Parc Fleuri du miroir d'eau,44.8401569,-0.568362,way,193667476
+Bordeaux,park,Jardins de la Mairie,44.8378559,-0.5805229,way,194248493
+Bordeaux,park,Parc Chante Grillon,44.8634856,-0.5635116,way,195864609
+Bordeaux,park,Place Saint-Martial,44.8587498,-0.5655949,way,195893787
+Bordeaux,park,Sans nom,44.8580861,-0.5649574,way,195893795
+Bordeaux,park,Sans nom,44.8538893,-0.5741803,way,196282851
+Bordeaux,park,Jardin Paul Abadie,44.8434829,-0.5571583,way,219123016
+Bordeaux,park,Parc de l'Ermitage,44.8724891,-0.5341451,way,229005937
+Bordeaux,park,Parc des Iris,44.8671508,-0.5315554,way,229005938
+Bordeaux,park,Parc de Corbeil,44.9077734,-0.6283847,way,229056494
+Bordeaux,park,Parc de Curegan,44.9051938,-0.6294753,way,229056495
+Bordeaux,park,Parc de Fongravey,44.9161025,-0.6303973,way,229056497
+Bordeaux,park,Parc de Muratel,44.9090755,-0.6294285,way,229056498
+Bordeaux,park,Le Bois du Bouscat,44.8725792,-0.622814,way,229929414
+Bordeaux,park,Parc Treulon,44.882576,-0.6172727,way,229929416
+Bordeaux,park,Parc du Vigean,44.8868482,-0.63031,way,229929419
+Bordeaux,park,Sans nom,44.8147124,-0.5444606,way,230247602
+Bordeaux,park,Parc Lacoste,44.8139155,-0.5438586,way,230247603
+Bordeaux,park,Parc André Curvale,44.8177472,-0.589367,way,230271090
+Bordeaux,park,Parc du Luchey,44.8250336,-0.6338729,way,230360508
+Bordeaux,park,Parc L'Orée des deux villes,44.8456264,-0.6317767,way,230507478
+Bordeaux,park,Jardin d'Arnstadt,44.8684397,-0.5890812,way,230547375
+Bordeaux,park,Jardin d'Ars,44.8142813,-0.5724937,way,231949307
+Bordeaux,park,Jardin de Lili,44.8330651,-0.6112625,way,231949308
+Bordeaux,park,Jardin de ta sœur,44.8592895,-0.5608042,way,231949309
+Bordeaux,park,Jardin des Cèdres,44.8306815,-0.5639619,way,231949310
+Bordeaux,park,Jardin des Remparts,44.8307181,-0.5652928,way,231949311
+Bordeaux,park,Parc Stéhélin,44.856767,-0.6237784,way,231949312
+Bordeaux,park,Parc de la piscine Stéhélin,44.857554,-0.6222505,way,231949314
+Bordeaux,park,Parc du Port de la Lune,44.8767299,-0.5420217,way,231949315
+Bordeaux,park,Square Charazac,44.8643485,-0.5766798,way,231949318
+Bordeaux,park,Square Gaviniès,44.8330865,-0.5934564,way,231949319
+Bordeaux,park,Square Honoré d'Estienne d'Orves,44.8551846,-0.6148917,way,231949320
+Bordeaux,park,Square Hortense Schneider,44.8606092,-0.6170479,way,231949321
+Bordeaux,park,Square Paul Antin,44.819499,-0.5702465,way,231949322
+Bordeaux,park,Square Reignier,44.847377,-0.5606963,way,231949323
+Bordeaux,park,Square Saint-Julien,44.8197,-0.5990872,way,231949324
+Bordeaux,park,Place de Valmy,44.8228517,-0.5949354,way,231949325
+Bordeaux,park,Square des Tilleuls,44.8263057,-0.5923361,way,231949327
+Bordeaux,park,Sans nom,44.8382017,-0.5391708,way,266820112
+Bordeaux,park,Berges de Garonne,44.8887183,-0.5404835,way,279758062
+Bordeaux,park,Parc de Peychotte,44.8277145,-0.6227732,way,281599427
+Bordeaux,park,Sans nom,44.8219641,-0.6230626,way,282047737
+Bordeaux,park,Place Jean Bertheroy,44.8281493,-0.5755181,way,304982570
+Bordeaux,park,Square René Maran,44.8180644,-0.5799322,way,312272578
+Bordeaux,park,Sans nom,44.810992,-0.5762639,way,337346294
+Bordeaux,park,Parc aux Angéliques,44.8361345,-0.5553138,way,344957951
+Bordeaux,park,Square Pierre Bernadas,44.8417423,-0.5465254,way,364455461
+Bordeaux,park,Sans nom,44.8750487,-0.5861092,way,399203348
+Bordeaux,park,Sans nom,44.82362,-0.6006334,way,443005446
+Bordeaux,park,Sans nom,44.8629123,-0.6223106,way,476989764
+Bordeaux,park,Sans nom,44.8627872,-0.6218088,way,476989765
+Bordeaux,park,Sans nom,44.8626887,-0.6211923,way,476989766
+Bordeaux,park,Sans nom,44.8859176,-0.6192024,way,488479002
+Bordeaux,park,Jardin de l'Ars,44.8217508,-0.5454008,way,495211143
+Bordeaux,park,Sans nom,44.8247341,-0.5346682,way,517056917
+Bordeaux,park,Parc Triaire,44.8183598,-0.5921286,way,521087798
+Bordeaux,park,Sans nom,44.9076633,-0.6114137,way,551410970
+Bordeaux,park,Sans nom,44.8143587,-0.6352712,way,556021131
+Bordeaux,park,Sans nom,44.8150842,-0.6358999,way,556021135
+Bordeaux,park,Sans nom,44.8582105,-0.574142,way,615582896
+Bordeaux,park,Sans nom,44.8572722,-0.5729701,way,616715169
+Bordeaux,park,Sans nom,44.8717867,-0.579243,way,616715174
+Bordeaux,park,Square Émile Zola,44.8232066,-0.5892921,way,621762738
+Bordeaux,park,Jardin du clown Chocolat,44.8778566,-0.5725794,way,625576788
+Bordeaux,park,Jardin des écluses,44.8634338,-0.5565572,way,625576791
+Bordeaux,park,Jardin de la Porcelaine,44.8218162,-0.5515094,way,625576808
+Bordeaux,park,Sans nom,44.8794244,-0.58635,way,625618861
+Bordeaux,park,Sans nom,44.8619175,-0.5501059,way,625621206
+Bordeaux,park,Sans nom,44.8619782,-0.5495054,way,625621359
+Bordeaux,park,Square Albert Thomas,44.8206775,-0.5919236,way,638258346
+Bordeaux,park,Sans nom,44.8174674,-0.5429392,way,654047556
+Bordeaux,park,Sans nom,44.8236199,-0.5918908,way,672518955
+Bordeaux,park,Parc Marceau,44.858969,-0.5915403,way,677001536
+Bordeaux,park,Sans nom,44.8620917,-0.593367,way,677072536
+Bordeaux,park,Parc Denis et Eugène Bülher,44.8754752,-0.5706783,way,677406321
+Bordeaux,park,Sans nom,44.8722798,-0.6097165,way,687239287
+Bordeaux,park,Parc Victor Schœlcher,44.8385351,-0.6337475,way,692029034
+Bordeaux,park,Parc de Ontines,44.8274538,-0.6397674,way,697829705
+Bordeaux,park,parc de peychotte,44.8254603,-0.622727,way,699841876
+Bordeaux,park,Sans nom,44.8264438,-0.6258742,way,699841881
+Bordeaux,park,Palais Gallien,44.8477429,-0.5828315,way,703841537
+Bordeaux,park,Parc Ausone,44.8810265,-0.6002943,way,712459498
+Bordeaux,park,Sans nom,44.8236027,-0.6086814,way,727039363
+Bordeaux,park,Ligne Verte Le Bouscat - Bruges - Secteur 1,44.8675406,-0.5795282,way,751063471
+Bordeaux,park,Ligne Verte Le Bouscat - Bruges - Secteur 2,44.8696718,-0.5847581,way,751063472
+Bordeaux,park,Ligne Verte Le Bouscat - Bruges - Secteur 3,44.8721261,-0.5903584,way,751063473
+Bordeaux,park,Ligne Verte Le Bouscat - Bruges - Secteur 4,44.8732684,-0.5962175,way,751063474
+Bordeaux,park,Ligne Verte Le Bouscat - Bruges - Secteur 5,44.8725201,-0.6039623,way,751063475
+Bordeaux,park,Ligne Verte Le Bouscat - Bruges - Secteur 6,44.8715422,-0.6108456,way,751063476
+Bordeaux,park,Domaine Municipal du Grand Darnal,44.8852986,-0.6037564,way,751079316
+Bordeaux,park,Square de la Place Florale,44.868603,-0.6356934,way,758234177
+Bordeaux,park,Parc de Bacalan,44.8737219,-0.5435493,way,762563048
+Bordeaux,park,Sans nom,44.8603102,-0.5761513,way,777291625
+Bordeaux,park,Square de l'Europe,44.8591394,-0.5820596,way,779066539
+Bordeaux,park,Sans nom,44.8604153,-0.5872144,way,781131855
+Bordeaux,park,Sans nom,44.8836158,-0.6122144,way,799240629
+Bordeaux,park,Sans nom,44.8416754,-0.6168105,way,844950339
+Bordeaux,park,Square du Guesclin,44.8164654,-0.5921026,way,845492076
+Bordeaux,park,Sans nom,44.9097038,-0.6335827,way,847992820
+Bordeaux,park,Sans nom,44.832989,-0.6160478,way,851999618
+Bordeaux,park,Parc du Château des Arts,44.8140175,-0.5971937,way,863482897
+Bordeaux,park,Parc Cauderes,44.8134216,-0.5782588,way,875238371
+Bordeaux,park,Sans nom,44.8119432,-0.5503434,way,883726128
+Bordeaux,park,Parc des Berges,44.8284699,-0.5505627,way,910782634
+Bordeaux,park,Jardin de la Grenouillère,44.8616396,-0.574428,way,926653747
+Bordeaux,park,Sans nom,44.8651576,-0.6358373,way,932528275
+Bordeaux,park,Sans nom,44.8742612,-0.6196462,way,932897830
+Bordeaux,park,Place Renée Seilhan,44.8156116,-0.5646602,way,938184890
+Bordeaux,park,Sans nom,44.8764279,-0.6178489,way,946058380
+Bordeaux,park,Sans nom,44.8632149,-0.6347509,way,947760555
+Bordeaux,park,Square Docteur Roger Hypoustéguy,44.8791107,-0.5440577,way,947763461
+Bordeaux,park,Sans nom,44.8284476,-0.6044265,way,951495012
+Bordeaux,park,Square Yves Farge,44.8139611,-0.5491544,way,960676521
+Bordeaux,park,Sans nom,44.8702612,-0.5500594,way,961249824
+Bordeaux,park,Sans nom,44.8371194,-0.5343004,way,968166916
+Bordeaux,park,Sans nom,44.8380258,-0.544313,way,968705187
+Bordeaux,park,Square Jean Rebeyrol,44.8744677,-0.5449831,way,971040101
+Bordeaux,park,Sans nom,44.8553869,-0.6301282,way,975393470
+Bordeaux,park,Sans nom,44.8110095,-0.620424,way,995500345
+Bordeaux,park,Sans nom,44.8790291,-0.5719993,way,1001687560
+Bordeaux,park,Sans nom,44.8688513,-0.5375293,way,1002360122
+Bordeaux,park,Sans nom,44.9075848,-0.6354792,way,1002969206
+Bordeaux,park,Sans nom,44.8798865,-0.582145,way,1009204708
+Bordeaux,park,Sans nom,44.8783766,-0.5729555,way,1023371521
+Bordeaux,park,Aire Rafael Padilla,44.850284,-0.5614506,way,1054139231
+Bordeaux,park,Parc des Étangs,44.8332057,-0.5353471,way,1065806387
+Bordeaux,park,Sans nom,44.9047962,-0.6379812,way,1102431154
+Bordeaux,park,Sans nom,44.9085075,-0.6369415,way,1102431155
+Bordeaux,park,Sans nom,44.9076276,-0.6371476,way,1102431156
+Bordeaux,park,Sans nom,44.9118395,-0.6335496,way,1104096605
+Bordeaux,park,Sans nom,44.9101381,-0.631419,way,1104428265
+Bordeaux,park,Square Armand Faulat,44.8457596,-0.6144903,way,1110114092
+Bordeaux,park,Sans nom,44.9146366,-0.6287573,way,1122139567
+Bordeaux,park,Sans nom,44.8294705,-0.5344194,way,1149624819
+Bordeaux,park,Sans nom,44.8302116,-0.5334709,way,1149624820
+Bordeaux,park,Sans nom,44.8707377,-0.6136242,way,1236569021
+Bordeaux,park,Sans nom,44.8138706,-0.5717982,way,1281939934
+Bordeaux,park,Sans nom,44.8133555,-0.5501586,way,1290088176
+Bordeaux,park,Sans nom,44.8238696,-0.5338038,way,1298115305
+Bordeaux,park,Parc d'Armagnac,44.8190353,-0.5540804,way,1321455966
+Bordeaux,park,Sans nom,44.8868253,-0.6138636,way,1332614773
+Bordeaux,park,Sans nom,44.8309026,-0.5742273,way,1337739046
+Bordeaux,park,Place Alice Girou,44.8617656,-0.554485,way,1341302964
+Bordeaux,park,Parc Bordelais,44.852654,-0.6025028,relation,905658
+Bordeaux,park,Parc Lacoste,44.8141577,-0.5438586,relation,3087327
+Bordeaux,park,Parc Denis et Eugène Bülher,44.8769436,-0.5732019,relation,3409548
+Bordeaux,park,Parc André Meunier,44.8292916,-0.5624209,relation,9748099
+Bordeaux,park,Square des Copains,44.850849,-0.545563,relation,11059276
+Bordeaux,park,Square Alfred Smith,44.8246009,-0.612587,relation,11613128
+Bordeaux,park,Jardin des Barrières,44.8130819,-0.5663307,relation,12659089
+Bordeaux,park,Sans nom,44.9109907,-0.6321013,relation,14700817
+Bordeaux,park,Parc de Carpinet,44.9098357,-0.6322038,relation,14700987
+Bordeaux,park,Sans nom,44.9086701,-0.6328754,relation,14705619
+Bordeaux,restaurant,Edwood Cafe,44.8123279,-0.5901316,node,401786576
+Bordeaux,restaurant,Le K Baroque,44.8488384,-0.5708629,node,446355810
+Bordeaux,restaurant,La Belle Époque,44.8440041,-0.5708803,node,447976441
+Bordeaux,restaurant,Au Teulère de Brest,44.8358136,-0.5699806,node,500351274
+Bordeaux,restaurant,Bouillon Saint-Jean,44.8268404,-0.5568593,node,546886836
+Bordeaux,restaurant,Resto U' le Capu,44.8300426,-0.5660621,node,560726068
+Bordeaux,restaurant,Le Chapon Fin,44.8428176,-0.5781398,node,603773613
+Bordeaux,restaurant,Le Plana Café,44.8307267,-0.5735234,node,623889684
+Bordeaux,restaurant,Jup Jup,44.8323913,-0.5711618,node,635951493
+Bordeaux,restaurant,Chez Alex,44.8414283,-0.575174,node,686670644
+Bordeaux,restaurant,L'Esprit Routier - Les 3 Cardinaux,44.8869049,-0.5512758,node,694544539
+Bordeaux,restaurant,Ristorante Del Arte,44.8416179,-0.5620739,node,864586661
+Bordeaux,restaurant,L'Hirondelle,44.837711,-0.5672736,node,930762038
+Bordeaux,restaurant,Pizza Capri,44.8357965,-0.5734162,node,933747024
+Bordeaux,restaurant,Meson la Venta,44.8341631,-0.5665682,node,1033189392
+Bordeaux,restaurant,Haru Haru,44.8181757,-0.5850654,node,1129411972
+Bordeaux,restaurant,Le Santosha,44.8371233,-0.5715283,node,1166981923
+Bordeaux,restaurant,Casa Soto,44.8269627,-0.5688644,node,1218862488
+Bordeaux,restaurant,La Terrasse Saint-Pierre,44.8401324,-0.5705691,node,1228560248
+Bordeaux,restaurant,La talenquère,44.840097,-0.570452,node,1228567701
+Bordeaux,restaurant,Hortus,44.8513954,-0.5738669,node,1373688875
+Bordeaux,restaurant,Chez Edouard,44.840914,-0.571978,node,1428378627
+Bordeaux,restaurant,Café Japonais,44.8389182,-0.5731494,node,1484524772
+Bordeaux,restaurant,YoResto,44.8892488,-0.6093627,node,1569615559
+Bordeaux,restaurant,Mifan,44.8446818,-0.5789182,node,1607920900
+Bordeaux,restaurant,Sans nom,44.8275846,-0.5687995,node,1723380919
+Bordeaux,restaurant,Sans nom,44.8277059,-0.5687472,node,1723383132
+Bordeaux,restaurant,Sans nom,44.8278248,-0.5687029,node,1723383208
+Bordeaux,restaurant,La Référence,44.8287469,-0.5683231,node,1723401074
+Bordeaux,restaurant,Sans nom,44.8286773,-0.5686577,node,1723404780
+Bordeaux,restaurant,Le Garfield,44.8349251,-0.5663244,node,1731116814
+Bordeaux,restaurant,Le Binam,44.8290862,-0.5684805,node,1752258879
+Bordeaux,restaurant,Casa Sudette,44.8200715,-0.5725054,node,1754966929
+Bordeaux,restaurant,Brasserie du Sud-Ouest,44.8195054,-0.5724826,node,1754966931
+Bordeaux,restaurant,Pizza Saint-Genès,44.8217896,-0.5827056,node,1754966942
+Bordeaux,restaurant,La Cabane du Parc,44.8532992,-0.6021112,node,1803713688
+Bordeaux,restaurant,Fellini,44.8135874,-0.552509,node,1819938405
+Bordeaux,restaurant,Sans nom,44.813068,-0.5526887,node,1819938407
+Bordeaux,restaurant,Grand Cafe de la Faculté,44.8313415,-0.5721368,node,1821078822
+Bordeaux,restaurant,Pizz'Arlac,44.8245738,-0.6242183,node,1876017962
+Bordeaux,restaurant,Bistrot Clos Montesquieu,44.8462051,-0.6337049,node,1879058668
+Bordeaux,restaurant,Café Maritime,44.8634344,-0.5556859,node,1879192410
+Bordeaux,restaurant,Le Risotto,44.8344028,-0.6369849,node,1879346324
+Bordeaux,restaurant,Testa Dura Pizza Club,44.8388645,-0.5816491,node,1879621336
+Bordeaux,restaurant,Le Carioca,44.8394615,-0.5813014,node,1879627852
+Bordeaux,restaurant,Sushi Shop,44.8396235,-0.5812023,node,1879630328
+Bordeaux,restaurant,L'Entrecôte,44.8432713,-0.5742017,node,1879677981
+Bordeaux,restaurant,Masaniello,44.8390301,-0.5713676,node,1879700558
+Bordeaux,restaurant,La Broche de l'Ôstal,44.8299548,-0.5677654,node,1879709224
+Bordeaux,restaurant,Au Comptoir des Capucins,44.8299272,-0.5676309,node,1879709919
+Bordeaux,restaurant,Le Cochon Volant,44.8298478,-0.5672437,node,1879714927
+Bordeaux,restaurant,Adana,44.8310025,-0.567922,node,1879723149
+Bordeaux,restaurant,L'EntrePôte,44.8328422,-0.5710714,node,1881685493
+Bordeaux,restaurant,Chez Mathilde,44.831186,-0.5677037,node,1881693262
+Bordeaux,restaurant,Chicken Box,44.830234,-0.5702585,node,1881726036
+Bordeaux,restaurant,Giulio Pizza,44.836071,-0.6246383,node,1885362616
+Bordeaux,restaurant,Döner Kebab,44.8210935,-0.5832699,node,1885936954
+Bordeaux,restaurant,Rien ne vaut le Vin,44.8261498,-0.5769472,node,1885946784
+Bordeaux,restaurant,Miyamoto Sushi,44.8283336,-0.5618532,node,1896676251
+Bordeaux,restaurant,Artis,44.8421821,-0.5718287,node,1918787917
+Bordeaux,restaurant,Pizzeria La Mona,44.8426852,-0.5566966,node,1924191991
+Bordeaux,restaurant,New Mekong,44.8187581,-0.5998322,node,1927254620
+Bordeaux,restaurant,Pizzéria la Médoquine,44.8193388,-0.6000991,node,1927271551
+Bordeaux,restaurant,Yamato,44.8119304,-0.5923351,node,1927310455
+Bordeaux,restaurant,Kawayoshi Ramen Talence – Spécialité : Ramen au bouillon de poulet,44.8135712,-0.5897788,node,1927310463
+Bordeaux,restaurant,Bistro Régent,44.8124177,-0.5918424,node,1927310495
+Bordeaux,restaurant,L'Alcala,44.8120998,-0.5897675,node,1927310518
+Bordeaux,restaurant,Le Bistrot des Bouchons,44.8209156,-0.5829293,node,1927339065
+Bordeaux,restaurant,Karl,44.8404243,-0.5719779,node,1928803088
+Bordeaux,restaurant,L'Arc-en-Ciel,44.8515985,-0.5711317,node,1932014153
+Bordeaux,restaurant,Monkey Mood,44.8335437,-0.5652737,node,1982595495
+Bordeaux,restaurant,La Mère Michel,44.8344529,-0.566772,node,1982595798
+Bordeaux,restaurant,Donostia,44.8344,-0.5667249,node,1982597079
+Bordeaux,restaurant,L'Atlas,44.83488,-0.5662207,node,1982598013
+Bordeaux,restaurant,Adonis,44.8310217,-0.5680145,node,1982601322
+Bordeaux,restaurant,sushi design mondésir,44.8386189,-0.6171756,node,2026358388
+Bordeaux,restaurant,Délices de Mondésir,44.8371639,-0.6165775,node,2026361668
+Bordeaux,restaurant,Le Bistro Régent,44.841293,-0.5731941,node,2231859760
+Bordeaux,restaurant,Le Cheverus Café,44.8378644,-0.5754935,node,2238427757
+Bordeaux,restaurant,Le Bocal de Tatie Josée,44.8385362,-0.5787897,node,2238453091
+Bordeaux,restaurant,Mets Mots,44.8483592,-0.5826527,node,2242681866
+Bordeaux,restaurant,Zéphirine,44.8419175,-0.5827356,node,2255516777
+Bordeaux,restaurant,Miyako,44.8334904,-0.5820137,node,2291199046
+Bordeaux,restaurant,Shaïko,44.8427984,-0.5783661,node,2352488767
+Bordeaux,restaurant,Nom d'Une Crepe,44.8412443,-0.5720269,node,2353105920
+Bordeaux,restaurant,La Saint-Georges,44.841301,-0.5731075,node,2353105960
+Bordeaux,restaurant,OAKBERRY AÇAI,44.841375,-0.5718545,node,2353174675
+Bordeaux,restaurant,Da Bartolo,44.8403603,-0.570542,node,2353659441
+Bordeaux,restaurant,Osteria Pizzeria da Bartolo,44.840383,-0.5705943,node,2353659455
+Bordeaux,restaurant,La Pignatta,44.84032,-0.5705597,node,2353659466
+Bordeaux,restaurant,Le Rajwal,44.8403277,-0.5706198,node,2353659478
+Bordeaux,restaurant,Ottoman,44.8402742,-0.57058,node,2353659488
+Bordeaux,restaurant,Le Gril au Thym,44.8407226,-0.5703818,node,2353659519
+Bordeaux,restaurant,Yumyum,44.8405389,-0.5732745,node,2353659535
+Bordeaux,restaurant,Les Fils à Maman,44.8402189,-0.5706687,node,2353659546
+Bordeaux,restaurant,Capperi Pizzaioli Italiani,44.8398772,-0.569592,node,2353659705
+Bordeaux,restaurant,Lume - petit resto,44.8407175,-0.5704577,node,2353659711
+Bordeaux,restaurant,Jako,44.8403731,-0.571649,node,2353659743
+Bordeaux,restaurant,La Lionne blanche,44.8406687,-0.5704699,node,2353659824
+Bordeaux,restaurant,Koh I Noor,44.8409401,-0.5708685,node,2353659829
+Bordeaux,restaurant,Melodie,44.840599,-0.5704046,node,2353659885
+Bordeaux,restaurant,Les Voûtes,44.8406111,-0.5704953,node,2353660020
+Bordeaux,restaurant,Couleur Tibet,44.832785,-0.5708092,node,2370503389
+Bordeaux,restaurant,Bistro Montesquieu,44.8422776,-0.578678,node,2373672255
+Bordeaux,restaurant,Le Quatrième Mur,44.8426619,-0.5740336,node,2373672267
+Bordeaux,restaurant,Chez Azizounette,44.8149852,-0.5724505,node,2374835143
+Bordeaux,restaurant,Ô P'tit Québec,44.8253985,-0.6136115,node,2381389329
+Bordeaux,restaurant,La Mama,44.8400219,-0.5795983,node,2382079793
+Bordeaux,restaurant,Beaubourg,44.8308166,-0.6031131,node,2385364101
+Bordeaux,restaurant,Elio's,44.8421595,-0.5722407,node,2385436370
+Bordeaux,restaurant,Casta Grill,44.8145711,-0.5728603,node,2389521329
+Bordeaux,restaurant,Restaurant Atlantique,44.8323745,-0.5716191,node,2393852107
+Bordeaux,restaurant,L'Instant Café,44.857557,-0.5600427,node,2426715515
+Bordeaux,restaurant,Judor - Bar & cave à Cidres,44.8388654,-0.5706825,node,2463788303
+Bordeaux,restaurant,El Chivito,44.8380199,-0.5715142,node,2463795332
+Bordeaux,restaurant,Brut - cuisine a 1000°C,44.8369087,-0.5797843,node,2465172763
+Bordeaux,restaurant,Pizza Giulia,44.8243552,-0.5545577,node,2483788314
+Bordeaux,restaurant,Grill'Hot,44.82653,-0.5544739,node,2483788344
+Bordeaux,restaurant,L'En K,44.8242322,-0.5583361,node,2485008767
+Bordeaux,restaurant,La Source,44.8331137,-0.5644415,node,2485473026
+Bordeaux,restaurant,Le Boudoir,44.8319043,-0.5652946,node,2485488394
+Bordeaux,restaurant,La Gigi,44.8337756,-0.5651091,node,2485491914
+Bordeaux,restaurant,Boccaccia,44.8309895,-0.5677949,node,2485497959
+Bordeaux,restaurant,Royal Indien,44.8325098,-0.5723162,node,2485563760
+Bordeaux,restaurant,Nobi Nobi,44.8325097,-0.5728795,node,2485563790
+Bordeaux,restaurant,Blue Velvet,44.8360744,-0.5714741,node,2485585515
+Bordeaux,restaurant,Il Meneghino,44.8350686,-0.5730124,node,2486862291
+Bordeaux,restaurant,Mamacam,44.835316,-0.5700502,node,2486862506
+Bordeaux,restaurant,Chez Kimmie,44.8340688,-0.575703,node,2486866020
+Bordeaux,restaurant,Comptoir des Remparts,44.8387842,-0.5790554,node,2486962003
+Bordeaux,restaurant,L'escalette,44.8394464,-0.5801215,node,2486969943
+Bordeaux,restaurant,I Bo-Bun,44.8324858,-0.5725645,node,2492198375
+Bordeaux,restaurant,Vinayaka,44.8325148,-0.5716745,node,2492216747
+Bordeaux,restaurant,Chez Pho,44.8136384,-0.5648504,node,2492259960
+Bordeaux,restaurant,Restaurant Pastel,44.8489303,-0.5708258,node,2501425261
+Bordeaux,restaurant,Papà Lello,44.8509485,-0.5698077,node,2501425278
+Bordeaux,restaurant,Le temps d'une pause,44.8603238,-0.5638512,node,2501524007
+Bordeaux,restaurant,Bar de la Marine,44.8656305,-0.5489989,node,2503316953
+Bordeaux,restaurant,Café des Arts,44.8347446,-0.5731186,node,2503800928
+Bordeaux,restaurant,La Causerie Des Chartrons,44.855655,-0.5744682,node,2506169867
+Bordeaux,restaurant,FFC - Fast Fried Chicken,44.8306469,-0.5713614,node,2511398480
+Bordeaux,restaurant,Les Négociants,44.8355471,-0.5716573,node,2518438996
+Bordeaux,restaurant,La Grillole,44.8355136,-0.5729608,node,2519738293
+Bordeaux,restaurant,Le Bistrot du Musée,44.837039,-0.57855,node,2519748542
+Bordeaux,restaurant,El Nacional,44.8527506,-0.5727104,node,2524273756
+Bordeaux,restaurant,Michel's,44.8397188,-0.5721485,node,2529154764
+Bordeaux,restaurant,Fleur de Cèdre,44.8340125,-0.5892795,node,2535568988
+Bordeaux,restaurant,Simeone dell'Arte,44.838722,-0.5725748,node,2546928936
+Bordeaux,restaurant,La Tanière,44.8378195,-0.5673341,node,2567785079
+Bordeaux,restaurant,L'Échoppe à Sushis,44.8421339,-0.5800189,node,2572761660
+Bordeaux,restaurant,Milk des Douves,44.8301126,-0.5638054,node,2586619869
+Bordeaux,restaurant,Le Rive Gauche,44.8561301,-0.5617924,node,2623543317
+Bordeaux,restaurant,DONO : Cantine Japonaise,44.8323767,-0.5712568,node,2651731065
+Bordeaux,restaurant,Le Family,44.8307981,-0.6044625,node,2667629006
+Bordeaux,restaurant,Le Jean Bart,44.8399654,-0.6009458,node,2712410124
+Bordeaux,restaurant,1001 Sushi,44.8364522,-0.600913,node,2737105062
+Bordeaux,restaurant,Bruno Huîtres,44.8619502,-0.5899273,node,2811915602
+Bordeaux,restaurant,Le Dragon de Jade,44.8639358,-0.5903163,node,2811915661
+Bordeaux,restaurant,Siem Reap,44.8574245,-0.5914029,node,2814418216
+Bordeaux,restaurant,Tri-délice,44.8382935,-0.6143886,node,2825152431
+Bordeaux,restaurant,Le Grand Café,44.8418686,-0.5796404,node,2852336522
+Bordeaux,restaurant,Totto,44.840706,-0.572348,node,2895814501
+Bordeaux,restaurant,L'Ombriere,44.840919,-0.572109,node,2895913001
+Bordeaux,restaurant,L'Autre Petit Bois,44.840846,-0.572389,node,2895923301
+Bordeaux,restaurant,Les Vaillants Père & Fils,44.839915,-0.57083,node,2895947201
+Bordeaux,restaurant,O Marie Annie,44.8370579,-0.5783328,node,2896958001
+Bordeaux,restaurant,Le 1925,44.844578,-0.575462,node,2897015101
+Bordeaux,restaurant,Brique House,44.843602,-0.573893,node,2897023304
+Bordeaux,restaurant,La Tradizione,44.8558371,-0.5672052,node,2897082472
+Bordeaux,restaurant,Café Bastide,44.843376,-0.557644,node,2897571901
+Bordeaux,restaurant,La Petite Savoie,44.8390556,-0.5698975,node,2897681001
+Bordeaux,restaurant,Le Rince Doigts,44.838127,-0.569595,node,2897718201
+Bordeaux,restaurant,Le Coin des Délices,44.8530175,-0.5381867,node,2927184017
+Bordeaux,restaurant,Le Gabriel,44.8413278,-0.5707553,node,2947824872
+Bordeaux,restaurant,Pita Pita,44.8405425,-0.5704207,node,2950620804
+Bordeaux,restaurant,Le Lotus Bleu,44.8365256,-0.5997902,node,2969991657
+Bordeaux,restaurant,Aphrodite,44.8399356,-0.56976,node,3027465886
+Bordeaux,restaurant,Istanbul Café,44.8395364,-0.5704338,node,3027476266
+Bordeaux,restaurant,Gargalou,44.8605579,-0.5528455,node,3052443656
+Bordeaux,restaurant,La boîte à pizza,44.8544018,-0.5720712,node,3066695860
+Bordeaux,restaurant,Pizza Pirate,44.8271864,-0.5759124,node,3073360692
+Bordeaux,restaurant,Monzù,44.8520165,-0.5721846,node,3076603690
+Bordeaux,restaurant,Le Plat dans l'Assiette,44.8384344,-0.568492,node,3109654281
+Bordeaux,restaurant,Au Roi Carotte,44.8530722,-0.5938045,node,3118768107
+Bordeaux,restaurant,Le Soufflet,44.8251928,-0.6144819,node,3182998959
+Bordeaux,restaurant,Les pizzas d'Émilie,44.8169999,-0.6182861,node,3183131303
+Bordeaux,restaurant,Les Frères Cailloux,44.8386457,-0.5692947,node,3329834694
+Bordeaux,restaurant,Cosmopolis,44.8345106,-0.5676635,node,3336448352
+Bordeaux,restaurant,La Cabane Cent Un,44.8524293,-0.5719442,node,3336460636
+Bordeaux,restaurant,La Tupina,44.8328693,-0.5620787,node,3393800184
+Bordeaux,restaurant,Sans nom,44.834354,-0.5635695,node,3396571121
+Bordeaux,restaurant,Luuly,44.8554629,-0.6137999,node,3419827077
+Bordeaux,restaurant,Pizz' A' Papa,44.8318616,-0.5623547,node,3450934543
+Bordeaux,restaurant,Frères Z,44.8492434,-0.5838828,node,3469722353
+Bordeaux,restaurant,Brasserie Belcier,44.82459,-0.5517072,node,3550476576
+Bordeaux,restaurant,Eat Salad,44.8401289,-0.5590102,node,3639221379
+Bordeaux,restaurant,L'Avenue Carnot,44.8509729,-0.5958758,node,3677750200
+Bordeaux,restaurant,Bistro du Sommelier,44.8389463,-0.5889187,node,3677750201
+Bordeaux,restaurant,La Boucherie,44.8339209,-0.5912232,node,3677750207
+Bordeaux,restaurant,Satine & Bodandy,44.8490061,-0.5932836,node,3677750211
+Bordeaux,restaurant,Madame B,44.8398061,-0.586876,node,3677750221
+Bordeaux,restaurant,Bar à Vin,44.8437094,-0.5747913,node,3701199651
+Bordeaux,restaurant,Cairn,44.8466617,-0.5799195,node,3740598780
+Bordeaux,restaurant,Kim Ly,44.8628848,-0.6179473,node,3761961377
+Bordeaux,restaurant,Pizza Poyo,44.8628665,-0.6178866,node,3761961378
+Bordeaux,restaurant,Le Bordeaux,44.8426105,-0.57484,node,3816866938
+Bordeaux,restaurant,L'Hostellerie des Criquets,44.9152849,-0.627303,node,3859750996
+Bordeaux,restaurant,Les Récoltants,44.8373332,-0.5704402,node,4002232196
+Bordeaux,restaurant,West Good,44.832354,-0.572281,node,4023650960
+Bordeaux,restaurant,Chocha,44.8427203,-0.5813239,node,4119100490
+Bordeaux,restaurant,Spice Garden,44.8355665,-0.5836201,node,4123462501
+Bordeaux,restaurant,Le kiosque à pizzas,44.8362186,-0.5991679,node,4158795389
+Bordeaux,restaurant,Brasserie Liber,44.8395654,-0.5872023,node,4159015689
+Bordeaux,restaurant,Sushi Design,44.824116,-0.5579234,node,4163722489
+Bordeaux,restaurant,Chez Thérèse,44.8345956,-0.5666693,node,4201036485
+Bordeaux,restaurant,Bol de riz,44.8466928,-0.5799695,node,4206298243
+Bordeaux,restaurant,L'Oiseau Bleu,44.8443135,-0.5528064,node,4217586678
+Bordeaux,restaurant,Morues & Tapas,44.8522758,-0.5407072,node,4217607334
+Bordeaux,restaurant,CambodgEat,44.8413354,-0.5585288,node,4217607338
+Bordeaux,restaurant,Litalia Pizzeria,44.8411799,-0.5587901,node,4217607348
+Bordeaux,restaurant,Mille et une Saveurs,44.8437432,-0.5546469,node,4217607349
+Bordeaux,restaurant,Matsa Caffè,44.8412512,-0.5586619,node,4217607350
+Bordeaux,restaurant,L'assiette du coin,44.8468485,-0.5495737,node,4217607351
+Bordeaux,restaurant,Le Paradise,44.8231071,-0.5770748,node,4267936693
+Bordeaux,restaurant,Panda Express,44.827838,-0.5859525,node,4267936697
+Bordeaux,restaurant,La Soupe au caillou,44.832194,-0.5668159,node,4272300198
+Bordeaux,restaurant,Bistro Régent,44.8350317,-0.5782084,node,4278384635
+Bordeaux,restaurant,L'Univerre,44.8352283,-0.5835908,node,4278752293
+Bordeaux,restaurant,Cantine Gourmande,44.8341006,-0.6102552,node,4290766989
+Bordeaux,restaurant,Bali Bowls,44.8508049,-0.5717736,node,4294713946
+Bordeaux,restaurant,Atelier des Faures,44.8369342,-0.579698,node,4341511989
+Bordeaux,restaurant,Yumi,44.8533914,-0.5671903,node,4344451196
+Bordeaux,restaurant,Ô QG,44.8273423,-0.5513293,node,4362784406
+Bordeaux,restaurant,Angle Alpha,44.8238242,-0.5515954,node,4362797596
+Bordeaux,restaurant,Ginkho,44.8347655,-0.5666474,node,4414014323
+Bordeaux,restaurant,Peppone,44.8434226,-0.5791752,node,4426453690
+Bordeaux,restaurant,Le Noailles,44.8432473,-0.5756391,node,4427575089
+Bordeaux,restaurant,La Table de l'Épicier,44.841318,-0.5818835,node,4427576589
+Bordeaux,restaurant,Makila Kafé,44.8572137,-0.5594106,node,4428678091
+Bordeaux,restaurant,Sel et Sucre,44.8384638,-0.5698427,node,4434294983
+Bordeaux,restaurant,Nulle Part Ailleurs,44.8468929,-0.5753539,node,4435932692
+Bordeaux,restaurant,Villa Tourny,44.8434718,-0.5759526,node,4440381889
+Bordeaux,restaurant,Comptoircuisine,44.8422633,-0.5747336,node,4440388489
+Bordeaux,restaurant,Chez Tatie Jeanne,44.8310611,-0.5682052,node,4440516848
+Bordeaux,restaurant,Bogi,44.8396277,-0.5719448,node,4442216810
+Bordeaux,restaurant,Café Utopia,44.8390999,-0.5725527,node,4453608125
+Bordeaux,restaurant,585,44.8464719,-0.5880505,node,4454010889
+Bordeaux,restaurant,Sushi Delight,44.8326186,-0.6100799,node,4459976090
+Bordeaux,restaurant,La Grande Maison,44.8527734,-0.5889212,node,4468087846
+Bordeaux,restaurant,La Terrasse,44.8652313,-0.5627221,node,4469202889
+Bordeaux,restaurant,boca a boca,44.8520388,-0.5711588,node,4469978330
+Bordeaux,restaurant,Le Bistro Régent,44.8420389,-0.5795896,node,4491088888
+Bordeaux,restaurant,Salad'in,44.8671268,-0.57627,node,4513740891
+Bordeaux,restaurant,Edmond Pure Burger,44.8348848,-0.5745093,node,4549412821
+Bordeaux,restaurant,La Péniche Bistrot Régent,44.8651426,-0.5579092,node,4549870291
+Bordeaux,restaurant,Au Bon Jaja,44.8378955,-0.5679829,node,4568770569
+Bordeaux,restaurant,Le Guet à pan,44.8302706,-0.5680221,node,4580909690
+Bordeaux,restaurant,Le Petit Commerce,44.8402405,-0.5712429,node,4590603533
+Bordeaux,restaurant,Hestïa,44.8408512,-0.5760252,node,4634570090
+Bordeaux,restaurant,Le Prévert,44.8406724,-0.5759995,node,4634570091
+Bordeaux,restaurant,La Table de Bécassine,44.8551918,-0.5707026,node,4637342789
+Bordeaux,restaurant,Adey Abeba,44.8311698,-0.5745215,node,4637436992
+Bordeaux,restaurant,"Halva, cafe & cuisine de quartier",44.8299767,-0.5810994,node,4637441490
+Bordeaux,restaurant,L'Amédée,44.8306091,-0.5812404,node,4637455490
+Bordeaux,restaurant,Ici Argentine,44.8400178,-0.5990892,node,4637867789
+Bordeaux,restaurant,Hong-Kong,44.8279419,-0.5928363,node,4637908289
+Bordeaux,restaurant,Lotofage,44.8339198,-0.5885653,node,4644799996
+Bordeaux,restaurant,POZ PIZZA,44.8274434,-0.5921849,node,4647243321
+Bordeaux,restaurant,BBQ WOK,44.8261278,-0.5577271,node,4647495505
+Bordeaux,restaurant,Dan,44.839473,-0.570959,node,4685488191
+Bordeaux,restaurant,La Crêpe d'Angèle,44.8403884,-0.582038,node,4690069117
+Bordeaux,restaurant,Tante Charlotte,44.8395446,-0.5706165,node,4690461890
+Bordeaux,restaurant,L’abeille gourmande,44.8360639,-0.572992,node,4704353253
+Bordeaux,restaurant,Casa Ferretti,44.8799782,-0.5729423,node,4724388693
+Bordeaux,restaurant,Thanh Binh,44.8307883,-0.5693997,node,4738252610
+Bordeaux,restaurant,Sushi Shop,44.8536547,-0.5728246,node,4745451724
+Bordeaux,restaurant,Sushi design,44.8433639,-0.571231,node,4758076151
+Bordeaux,restaurant,La Collation,44.8459312,-0.5788878,node,4769553920
+Bordeaux,restaurant,Le Lotus,44.8408922,-0.5823489,node,4795029022
+Bordeaux,restaurant,La Belle Rose,44.8781387,-0.5337546,node,4807360933
+Bordeaux,restaurant,OKRA,44.8414844,-0.5838223,node,4810819824
+Bordeaux,restaurant,Porte Quinze,44.8400346,-0.569659,node,4810826622
+Bordeaux,restaurant,La Boîte à Huîtres,44.8421429,-0.5728548,node,4823164323
+Bordeaux,restaurant,Konnichiwa,44.8399438,-0.5820379,node,4825954521
+Bordeaux,restaurant,Le Bouchon Bordelais,44.8418548,-0.5729829,node,4828313238
+Bordeaux,restaurant,Chez les Ploucs,44.8404799,-0.5704629,node,4838866387
+Bordeaux,restaurant,Le Cabanon Marin,44.8387846,-0.5681505,node,4838866388
+Bordeaux,restaurant,Ragazzi da Peppone,44.8394776,-0.568693,node,4838866390
+Bordeaux,restaurant,L'Embarcadère,44.8401592,-0.5720532,node,4838866392
+Bordeaux,restaurant,Bistro Régent,44.8420556,-0.5792864,node,4838866394
+Bordeaux,restaurant,Au Comestible,44.8329812,-0.562126,node,4839963126
+Bordeaux,restaurant,Kuzina,44.8324933,-0.5625699,node,4839963127
+Bordeaux,restaurant,Palatium,44.8349575,-0.5748468,node,4839963140
+Bordeaux,restaurant,Ô Saint Michel,44.8339511,-0.5664713,node,4841261851
+Bordeaux,restaurant,Le Rizana,44.833827,-0.5665205,node,4841261853
+Bordeaux,restaurant,La Table Deruelle,44.8337416,-0.5665543,node,4841261854
+Bordeaux,restaurant,Bistrot Vanzetti,44.8410964,-0.5722646,node,4850314022
+Bordeaux,restaurant,O'lunch,44.8325723,-0.5942716,node,4856376539
+Bordeaux,restaurant,Pizza Vitti,44.8325109,-0.5944975,node,4856376542
+Bordeaux,restaurant,Comptoir d'Ornano,44.8325922,-0.5947121,node,4856376543
+Bordeaux,restaurant,Le Temple d'Or,44.8343471,-0.5754912,node,4891369723
+Bordeaux,restaurant,Au Bouchon des Chartrons,44.8589009,-0.5572362,node,4905454576
+Bordeaux,restaurant,L'annexe,44.8589322,-0.5571685,node,4905454577
+Bordeaux,restaurant,Paus'K,44.8577817,-0.5597822,node,4905491299
+Bordeaux,restaurant,Salade Royale,44.8578326,-0.5597349,node,4905491300
+Bordeaux,restaurant,La Brasserie des Chartrons,44.8571373,-0.5611865,node,4905493614
+Bordeaux,restaurant,Dar... Jade,44.8571719,-0.5611021,node,4905493615
+Bordeaux,restaurant,Chai les Copains,44.8568591,-0.5618001,node,4905497009
+Bordeaux,restaurant,Dat Viet,44.8228915,-0.5857301,node,4908027722
+Bordeaux,restaurant,Pickles,44.850025,-0.5724122,node,4928251889
+Bordeaux,restaurant,Resto Chut,44.8340595,-0.5868553,node,4937056700
+Bordeaux,restaurant,Le Préssencé,44.8322006,-0.5748722,node,4937057024
+Bordeaux,restaurant,La Brasserie Bordelaise,44.8411818,-0.5730011,node,4961403682
+Bordeaux,restaurant,Chez Hibou,44.8302519,-0.5696101,node,4961608085
+Bordeaux,restaurant,Ciluya,44.8253994,-0.58963,node,4974992328
+Bordeaux,restaurant,Mario Lillo Cafe,44.8254725,-0.5897384,node,4975732521
+Bordeaux,restaurant,La cheminée royale,44.841166,-0.5733326,node,4977329121
+Bordeaux,restaurant,Taverne du midi,44.8267348,-0.5568945,node,4979458605
+Bordeaux,restaurant,Influences,44.8407026,-0.5822748,node,5061380724
+Bordeaux,restaurant,Kamo Kamo,44.8365577,-0.5785287,node,5198411680
+Bordeaux,restaurant,Atelier des Faures,44.8349745,-0.5667082,node,5308435422
+Bordeaux,restaurant,Vesper,44.8370999,-0.5726028,node,5324825122
+Bordeaux,restaurant,O'bento,44.862656,-0.5569888,node,5363476721
+Bordeaux,restaurant,La Fusion Intendance,44.841941,-0.5751732,node,5438078845
+Bordeaux,restaurant,Mamma Mia,44.8283391,-0.5610947,node,5464333655
+Bordeaux,restaurant,Miao Miao,44.8164909,-0.5861115,node,5502054504
+Bordeaux,restaurant,Eat Salad,44.8639315,-0.5577192,node,5514308614
+Bordeaux,restaurant,Su and Shi,44.8642949,-0.5581746,node,5514311639
+Bordeaux,restaurant,Les Requins Marteaux,44.8632248,-0.5517464,node,5556919623
+Bordeaux,restaurant,Wayo Wayo,44.8633004,-0.5516607,node,5559417721
+Bordeaux,restaurant,L'Échoppe des Halles,44.8632621,-0.5517081,node,5559486121
+Bordeaux,restaurant,Hall' Taglio,44.8630195,-0.5511796,node,5561816024
+Bordeaux,restaurant,Sans nom,44.8386104,-0.534993,node,5649139063
+Bordeaux,restaurant,Primaire,44.8384088,-0.534946,node,5649139064
+Bordeaux,restaurant,Chez Georges,44.8350275,-0.5665388,node,5653670744
+Bordeaux,restaurant,Pokéo,44.8372992,-0.5736413,node,5655740120
+Bordeaux,restaurant,Le Dadès,44.8325235,-0.5666438,node,5660293869
+Bordeaux,restaurant,Don Camillo,44.8337156,-0.5653897,node,5660297432
+Bordeaux,restaurant,Petits Mets Costauds,44.832141,-0.5672196,node,5660297433
+Bordeaux,restaurant,Alma portuguesa,44.8590948,-0.556647,node,5674906325
+Bordeaux,restaurant,Siman Restaurant Brasserie,44.8416424,-0.5621558,node,5705233137
+Bordeaux,restaurant,Crème,44.8404292,-0.5715938,node,5729291921
+Bordeaux,restaurant,5ème Quartier,44.8695538,-0.5478945,node,5736231853
+Bordeaux,restaurant,La belle saison,44.8493984,-0.5636807,node,5817744553
+Bordeaux,restaurant,Monsieur le Kébabier,44.8412147,-0.5725683,node,5841568786
+Bordeaux,restaurant,Punjab,44.8413844,-0.5724863,node,5841572687
+Bordeaux,restaurant,Mokoji,44.8385899,-0.5720099,node,5841982646
+Bordeaux,restaurant,Dose Podologie Addictive,44.8384047,-0.5678672,node,5841982661
+Bordeaux,restaurant,Cafétaria Universitaire Le Musée,44.8311808,-0.5701461,node,5865168690
+Bordeaux,restaurant,La Teranga,44.8296144,-0.5675511,node,5870659274
+Bordeaux,restaurant,Comptoir de Bègles,44.8112089,-0.5492113,node,5918745685
+Bordeaux,restaurant,Yu Teppanyaki,44.8121238,-0.5920557,node,5951692127
+Bordeaux,restaurant,Sushi Création,44.8524822,-0.6153971,node,5963732041
+Bordeaux,restaurant,Les drôles,44.8414367,-0.5717372,node,5996583359
+Bordeaux,restaurant,Okinii,44.8596441,-0.5571406,node,6027072585
+Bordeaux,restaurant,Makila Kafè,44.8572422,-0.5592846,node,6027840886
+Bordeaux,restaurant,Umami,44.8368638,-0.5717557,node,6027840887
+Bordeaux,restaurant,Restaurant du Magasin Général,44.8496934,-0.5604931,node,6030395394
+Bordeaux,restaurant,Paus'K,44.841744,-0.5810283,node,6033932785
+Bordeaux,restaurant,Palais des Saveurs,44.8438223,-0.5817068,node,6033932786
+Bordeaux,restaurant,L'Agape,44.8493199,-0.6162513,node,6070569676
+Bordeaux,restaurant,Suzette,44.8403013,-0.5718343,node,6086310725
+Bordeaux,restaurant,Chez Mona,44.8411237,-0.5796521,node,6086376285
+Bordeaux,restaurant,Bistro Poulette,44.8302227,-0.5676156,node,6086376286
+Bordeaux,restaurant,La Douce Parenthèse,44.8390522,-0.5712766,node,6086424686
+Bordeaux,restaurant,Locadillos,44.8351348,-0.5742091,node,6086434185
+Bordeaux,restaurant,Baud et Millet,44.8447758,-0.5792842,node,6093488686
+Bordeaux,restaurant,Ganache,44.8413295,-0.5726361,node,6172735785
+Bordeaux,restaurant,Comptoir Ceviche,44.841487,-0.5753505,node,6203813287
+Bordeaux,restaurant,Café Japonais,44.8390536,-0.5727373,node,6224728640
+Bordeaux,restaurant,Pizza Del Passato,44.8525914,-0.6197513,node,6225582948
+Bordeaux,restaurant,Coffret de Saveurs,44.8522733,-0.6188506,node,6225598248
+Bordeaux,restaurant,Bella Ciao,44.8314527,-0.5618367,node,6244808588
+Bordeaux,restaurant,Opus 34,44.8315569,-0.5615786,node,6244808589
+Bordeaux,restaurant,Khmer Street Food,44.8405592,-0.5603754,node,6255215786
+Bordeaux,restaurant,Le Petit Wok,44.8418322,-0.5812874,node,6269709466
+Bordeaux,restaurant,Wok To Walk,44.8411194,-0.57372,node,6272265079
+Bordeaux,restaurant,Resto U' La Bastide,44.845032,-0.5583828,node,6273926646
+Bordeaux,restaurant,C'Yusha,44.8382922,-0.5683934,node,6279288885
+Bordeaux,restaurant,Un soir à Shibuya,44.8412142,-0.5726546,node,6279317185
+Bordeaux,restaurant,Nama,44.8441161,-0.5796513,node,6279509185
+Bordeaux,restaurant,Pince-Fesses,44.8396249,-0.5698583,node,6350967381
+Bordeaux,restaurant,Molino,44.8403779,-0.5586357,node,6369705819
+Bordeaux,restaurant,Les ateliers,44.8211389,-0.5608704,node,6398116902
+Bordeaux,restaurant,Les Burgers de Colette,44.8415841,-0.5735794,node,6423764486
+Bordeaux,restaurant,Woodkitchen,44.8408629,-0.5797594,node,6423822885
+Bordeaux,restaurant,Le Bistrot de Meriadeck,44.8364264,-0.5829265,node,6461408570
+Bordeaux,restaurant,L'aparté,44.8666561,-0.5754336,node,6477661485
+Bordeaux,restaurant,Sabaïdi,44.8654518,-0.5762443,node,6477661488
+Bordeaux,restaurant,Le Maestro - Chez Kiné,44.8294152,-0.5676846,node,6492703740
+Bordeaux,restaurant,Café du Port,44.8381469,-0.5584346,node,6539661820
+Bordeaux,restaurant,La Parenthèse,44.8352061,-0.5734883,node,6550052634
+Bordeaux,restaurant,Le Furtado,44.8249359,-0.5610455,node,6562732559
+Bordeaux,restaurant,La Tratoria,44.8246726,-0.5601463,node,6562732561
+Bordeaux,restaurant,Le Familia,44.8628379,-0.5510676,node,6812973060
+Bordeaux,restaurant,Chez les Drolles,44.8326501,-0.612802,node,6813541143
+Bordeaux,restaurant,Chez Jean-Mi,44.8307041,-0.5677938,node,6853478991
+Bordeaux,restaurant,Les Jardins,44.8301989,-0.5677265,node,6853488790
+Bordeaux,restaurant,La Place,44.8329465,-0.6112909,node,6854567310
+Bordeaux,restaurant,Le Bidule,44.8401971,-0.558919,node,6855577729
+Bordeaux,restaurant,La Cuenta,44.8391964,-0.5461545,node,6886410424
+Bordeaux,restaurant,Kokomo,44.8411604,-0.573213,node,6894760887
+Bordeaux,restaurant,Pizza Hut,44.8646122,-0.5794663,node,6898167336
+Bordeaux,restaurant,Darawok,44.8805888,-0.569929,node,6917905633
+Bordeaux,restaurant,La Cantine du Garage,44.871131,-0.5457103,node,6920810743
+Bordeaux,restaurant,La Casera,44.8687788,-0.5510315,node,6924082324
+Bordeaux,restaurant,Le Plan B,44.8757978,-0.5535774,node,6924567375
+Bordeaux,restaurant,Thaï Asie Traiteur,44.8754367,-0.5527433,node,6924567376
+Bordeaux,restaurant,Saudade,44.8679696,-0.5547727,node,6924617213
+Bordeaux,restaurant,Chez Maxime,44.8526751,-0.6172049,node,6957721018
+Bordeaux,restaurant,Xieng-Maï,44.8370339,-0.5991772,node,6958346488
+Bordeaux,restaurant,Restaurant O Galo d'Eysines,44.8744634,-0.6293262,node,6964794019
+Bordeaux,restaurant,La Meule du Berger,44.8412727,-0.5719222,node,6964917092
+Bordeaux,restaurant,Le Dragon Doré,44.8346563,-0.575493,node,6966161583
+Bordeaux,restaurant,Bodega Bodega,44.8417759,-0.5736072,node,6966661719
+Bordeaux,restaurant,Samanké,44.8359957,-0.5661904,node,6966934217
+Bordeaux,restaurant,Le Tranquille,44.8369403,-0.6064522,node,6971928470
+Bordeaux,restaurant,L'Écharpe,44.8535022,-0.5718589,node,6972576925
+Bordeaux,restaurant,Tripletta,44.8347195,-0.5666517,node,6974190585
+Bordeaux,restaurant,Shabada,44.8352382,-0.569212,node,6978270530
+Bordeaux,restaurant,Cochon et Chipiron,44.8307892,-0.5667917,node,6978458335
+Bordeaux,restaurant,Dely's food,44.812283,-0.5919022,node,6985901633
+Bordeaux,restaurant,Poke Moon,44.8111281,-0.5928659,node,6985916677
+Bordeaux,restaurant,Asia Délices,44.8308337,-0.6047792,node,6987689508
+Bordeaux,restaurant,Tea cosy,44.8308918,-0.6040366,node,6987756914
+Bordeaux,restaurant,Ma-kan-do,44.831704,-0.57295,node,6991387578
+Bordeaux,restaurant,SUSHI 7,44.8836136,-0.6335665,node,6992581375
+Bordeaux,restaurant,Piccola Italie,44.8835114,-0.6321682,node,6993444757
+Bordeaux,restaurant,Restaurant-bar La Terrasse du Vigean,44.8833677,-0.631855,node,6993444761
+Bordeaux,restaurant,La Petite Crêperie,44.8829892,-0.631858,node,6993444767
+Bordeaux,restaurant,Bistro Régent Eysines,44.8805134,-0.6286541,node,6993448589
+Bordeaux,restaurant,Restaurant Ben Thanh,44.8816675,-0.6296449,node,6993590373
+Bordeaux,restaurant,Restaurant japonnais Arigato,44.8767479,-0.6217889,node,6996386356
+Bordeaux,restaurant,Pomme Cactus - Restaurant Patisserie,44.8368856,-0.5809031,node,7012154885
+Bordeaux,restaurant,La Vie en Rose,44.8520667,-0.5727974,node,7019765705
+Bordeaux,restaurant,Racines,44.8402585,-0.5840343,node,7029042861
+Bordeaux,restaurant,My Bistro,44.8402624,-0.5839182,node,7029042864
+Bordeaux,restaurant,Banana Café,44.8360264,-0.5757433,node,7038718307
+Bordeaux,restaurant,Buenavida,44.8386024,-0.5767383,node,7038718309
+Bordeaux,restaurant,Berthus,44.8392896,-0.5706948,node,7041701305
+Bordeaux,restaurant,Label Terre,44.8381235,-0.5679012,node,7041701307
+Bordeaux,restaurant,Aux Mille Pâtes,44.8611696,-0.6003395,node,7043793952
+Bordeaux,restaurant,Riad Marrakech,44.861212,-0.600446,node,7043793953
+Bordeaux,restaurant,Le Bistrot du 20,44.8653449,-0.5999513,node,7044637019
+Bordeaux,restaurant,Bar-restaurant Le Lotfy's,44.8643966,-0.6038947,node,7045214220
+Bordeaux,restaurant,Restaurant-brasserie Stade Bordelais,44.8717811,-0.6184269,node,7047256898
+Bordeaux,restaurant,Rawee,44.8401968,-0.5856638,node,7049505463
+Bordeaux,restaurant,AOI izakaya,44.8402071,-0.5852021,node,7049505464
+Bordeaux,restaurant,La Table de l’Hippodrome,44.8724627,-0.6270435,node,7050378710
+Bordeaux,restaurant,Breizh Café,44.8523431,-0.5730592,node,7058227930
+Bordeaux,restaurant,Le Carré,44.8523935,-0.5730153,node,7058227931
+Bordeaux,restaurant,Le Bistrot des Anges,44.8526717,-0.5724967,node,7058248586
+Bordeaux,restaurant,PNY,44.8520926,-0.5720913,node,7058248587
+Bordeaux,restaurant,Man Mo Bordeaux,44.8522583,-0.5719501,node,7058248588
+Bordeaux,restaurant,Le Mirabelle,44.8552755,-0.5742644,node,7060531908
+Bordeaux,restaurant,O P'tit Jardin,44.8552097,-0.5957387,node,7073238486
+Bordeaux,restaurant,Kressmann Bros,44.854412,-0.5940454,node,7073238501
+Bordeaux,restaurant,Le Murano,44.85518,-0.5948551,node,7073238511
+Bordeaux,restaurant,Aux Gourmets d'Asie,44.8562367,-0.5964862,node,7073238520
+Bordeaux,restaurant,Calix,44.8555989,-0.5962492,node,7073238528
+Bordeaux,restaurant,Le Bistrot du Bouscat,44.8587169,-0.5982502,node,7073238538
+Bordeaux,restaurant,Osakyo,44.8674694,-0.5515769,node,7082520281
+Bordeaux,restaurant,Sakana,44.8875697,-0.5484087,node,7091102940
+Bordeaux,restaurant,La Squadra Azzura,44.8830614,-0.5506874,node,7091534899
+Bordeaux,restaurant,Memphis Bordeaux Lac,44.8788131,-0.5607124,node,7091923533
+Bordeaux,restaurant,LOFT 33 Bordeaux,44.8641335,-0.5569848,node,7108671476
+Bordeaux,restaurant,Bibibap,44.8389337,-0.5718817,node,7122918086
+Bordeaux,restaurant,Demeter,44.838336,-0.5686021,node,7123001785
+Bordeaux,restaurant,Sushi Express 33,44.8365387,-0.5754784,node,7125324105
+Bordeaux,restaurant,Big Black Cook - Carribean Food,44.8364752,-0.5752931,node,7125324106
+Bordeaux,restaurant,Ami Buffet,44.8776661,-0.5590785,node,7134463017
+Bordeaux,restaurant,Panya Thip,44.8761282,-0.5581447,node,7135662917
+Bordeaux,restaurant,Tupaq,44.835641,-0.5720267,node,7142666185
+Bordeaux,restaurant,Quartier B,44.8397767,-0.5723589,node,7157252985
+Bordeaux,restaurant,Côté Sushi,44.8370484,-0.5715148,node,7160741901
+Bordeaux,restaurant,Blaze Trip Sushi,44.8354548,-0.5754145,node,7161289392
+Bordeaux,restaurant,Ama,44.8351236,-0.5740872,node,7161432013
+Bordeaux,restaurant,Taco Naan,44.8350667,-0.5730733,node,7161442041
+Bordeaux,restaurant,Comptoir Épicerie Saint-André,44.8337138,-0.5780603,node,7161603521
+Bordeaux,restaurant,Influence Wok,44.8422795,-0.5760216,node,7169135786
+Bordeaux,restaurant,Les Mille et Une nuits,44.8383369,-0.5707405,node,7173168085
+Bordeaux,restaurant,La Cour de Nana,44.8353993,-0.5697677,node,7176198486
+Bordeaux,restaurant,Makito,44.8354812,-0.5695445,node,7176198487
+Bordeaux,restaurant,Le Pulp,44.8323815,-0.5652254,node,7193039485
+Bordeaux,restaurant,Le Bistro Rigoletto,44.8405142,-0.5731742,node,7193216885
+Bordeaux,restaurant,Le Flap's,44.8247441,-0.5832864,node,7193216886
+Bordeaux,restaurant,IT Trattoria,44.8310942,-0.567749,node,7193258185
+Bordeaux,restaurant,Ici Argentine,44.8390083,-0.5706893,node,7193258285
+Bordeaux,restaurant,La Toile Cirée,44.8315308,-0.5664614,node,7197239147
+Bordeaux,restaurant,Le Lion Lilas,44.8368463,-0.5712686,node,7197239149
+Bordeaux,restaurant,Amoré,44.84335,-0.5779489,node,7197239161
+Bordeaux,restaurant,Le Modjo,44.8376105,-0.5720193,node,7200091985
+Bordeaux,restaurant,Bistro Régent,44.8301007,-0.572868,node,7206082887
+Bordeaux,restaurant,Asian & Thaï & Afghane Food,44.8268716,-0.572361,node,7208080885
+Bordeaux,restaurant,221 West Coast,44.8270815,-0.5690174,node,7208532685
+Bordeaux,restaurant,Le Piano des Pizzas Chez Maza,44.827055,-0.5674748,node,7208556985
+Bordeaux,restaurant,Wayo-Wayo,44.8263954,-0.5766887,node,7208694986
+Bordeaux,restaurant,Maki Shop,44.8225238,-0.5726425,node,7208811885
+Bordeaux,restaurant,Ebisu,44.8319484,-0.5729593,node,7208812887
+Bordeaux,restaurant,Yäso,44.8368661,-0.5799441,node,7208854986
+Bordeaux,restaurant,Le Jardin Pékinois,44.8370088,-0.5794471,node,7208860887
+Bordeaux,restaurant,Heiko,44.8369769,-0.5741473,node,7208882185
+Bordeaux,restaurant,Anh Kha,44.8410794,-0.5824227,node,7208885186
+Bordeaux,restaurant,Akiba,44.8353288,-0.5729259,node,7208926186
+Bordeaux,restaurant,Vin Wè,44.8411721,-0.5826411,node,7208926187
+Bordeaux,restaurant,El Taco del Diablo,44.8524179,-0.581036,node,7208949986
+Bordeaux,restaurant,Dieci,44.8366124,-0.5785338,node,7212528485
+Bordeaux,restaurant,wok in street asian food,44.8428689,-0.5506602,node,7216873176
+Bordeaux,restaurant,Pacific,44.8373052,-0.5714538,node,7217158685
+Bordeaux,restaurant,Ishikawa,44.8361366,-0.5766054,node,7217161885
+Bordeaux,restaurant,Baston,44.8360034,-0.5778395,node,7220829086
+Bordeaux,restaurant,La Brasserie du Médoc,44.858283,-0.5671096,node,7227257476
+Bordeaux,restaurant,Poké Moon,44.853361,-0.5698483,node,7235404285
+Bordeaux,restaurant,Bao Burger Ramen,44.8410249,-0.5736419,node,7245983686
+Bordeaux,restaurant,Ann Kha,44.8382342,-0.5709179,node,7245994385
+Bordeaux,restaurant,Casa Feretti,44.8240811,-0.591731,node,7251490913
+Bordeaux,restaurant,La Gondole,44.8200372,-0.5970866,node,7252349020
+Bordeaux,restaurant,Basilic & Co Talence (Gallieni),44.8246935,-0.5902889,node,7252359738
+Bordeaux,restaurant,Sushi Shop,44.840291,-0.5998167,node,7252376204
+Bordeaux,restaurant,Le Samouraï,44.8317015,-0.5781017,node,7252378855
+Bordeaux,restaurant,Restaurant Palace,44.8300356,-0.5809522,node,7252443791
+Bordeaux,restaurant,My Khao,44.8325282,-0.5730829,node,7252555975
+Bordeaux,restaurant,La Fancy,44.8292415,-0.5659431,node,7252566356
+Bordeaux,restaurant,L'Itinérant,44.8319114,-0.572963,node,7252570085
+Bordeaux,restaurant,Pizza Au Feu De Bois,44.8301684,-0.5700759,node,7252587862
+Bordeaux,restaurant,Sushi Chef,44.8300831,-0.5687794,node,7252673943
+Bordeaux,restaurant,Coq Magic,44.8302864,-0.5697031,node,7252676484
+Bordeaux,restaurant,Samos,44.8317647,-0.565194,node,7252723181
+Bordeaux,restaurant,Souquo,44.8327679,-0.5613871,node,7252723976
+Bordeaux,restaurant,Wasabi Café,44.8397745,-0.5596291,node,7255074585
+Bordeaux,restaurant,Sushi Thon,44.8213044,-0.5656125,node,7255074586
+Bordeaux,restaurant,El Latino,44.8280725,-0.5722481,node,7255591477
+Bordeaux,restaurant,Le Re,44.8585102,-0.5565198,node,7257742795
+Bordeaux,restaurant,Les Tables Vatel,44.8555925,-0.5641559,node,7257770233
+Bordeaux,restaurant,Pasta Fresca,44.8518463,-0.571882,node,7257839333
+Bordeaux,restaurant,Oshi Sushi,44.8372547,-0.5765391,node,7258001205
+Bordeaux,restaurant,french.house,44.8412985,-0.576215,node,7258001720
+Bordeaux,restaurant,Wok Way,44.8346323,-0.5753045,node,7263197060
+Bordeaux,restaurant,Petits Plaisirs • 物食记,44.8349174,-0.5754238,node,7263209525
+Bordeaux,restaurant,SoN',44.8345836,-0.5753434,node,7263221889
+Bordeaux,restaurant,Wok and Wok,44.8389836,-0.5738262,node,7263296545
+Bordeaux,restaurant,Bouillon,44.8437578,-0.5734302,node,7263373695
+Bordeaux,restaurant,Zinzin,44.8394995,-0.5776908,node,7263439906
+Bordeaux,restaurant,Le 428,44.8352396,-0.5782879,node,7263459859
+Bordeaux,restaurant,Lauza,44.8363197,-0.5762081,node,7263506238
+Bordeaux,restaurant,Sushi Dijeaux,44.8405453,-0.5798525,node,7264640786
+Bordeaux,restaurant,Le Bistrot du Cachalot,44.8335006,-0.5661383,node,7264652486
+Bordeaux,restaurant,Mak Food,44.8601952,-0.5762966,node,7272463779
+Bordeaux,restaurant,Simple,44.8542159,-0.5690962,node,7272644685
+Bordeaux,restaurant,Pita,44.828897,-0.5741822,node,7273025085
+Bordeaux,restaurant,Pavillon Yuasa,44.8551475,-0.5724247,node,7279255516
+Bordeaux,restaurant,Zinc,44.8551405,-0.573944,node,7279298509
+Bordeaux,restaurant,Le Cent 33,44.8548927,-0.5740809,node,7279298510
+Bordeaux,restaurant,Oomji,44.8321727,-0.5721999,node,7280129586
+Bordeaux,restaurant,UniqueS,44.8416136,-0.5837692,node,7280565985
+Bordeaux,restaurant,La Ferme de Bruges,44.8750659,-0.5789106,node,7312158479
+Bordeaux,restaurant,L'Hégoa,44.8752268,-0.5829268,node,7312226951
+Bordeaux,restaurant,La Roma pizza,44.8414691,-0.5471858,node,7362800139
+Bordeaux,restaurant,Lettuce Garden,44.8783347,-0.5844534,node,7364875318
+Bordeaux,restaurant,Brasserie L'Aidyl,44.8777087,-0.5843184,node,7364875319
+Bordeaux,restaurant,Ko-San,44.8508468,-0.5699227,node,7366475250
+Bordeaux,restaurant,Padang Padang,44.8374465,-0.5710566,node,7368308946
+Bordeaux,restaurant,Le Mandron,44.8513072,-0.5779523,node,7373321099
+Bordeaux,restaurant,Villa de Chine,44.8386541,-0.6154338,node,7380107221
+Bordeaux,restaurant,La P'tite Auberge,44.8571263,-0.5373465,node,7391434460
+Bordeaux,restaurant,Attablée,44.8643945,-0.5800328,node,7402173085
+Bordeaux,restaurant,MAÈ TÛ,44.8398878,-0.5768043,node,7403471072
+Bordeaux,restaurant,Côté Zinc,44.8443661,-0.5527359,node,7429383185
+Bordeaux,restaurant,Le chien de Pavlov,44.8402464,-0.5728023,node,7429891884
+Bordeaux,restaurant,Chez Brun,44.854128,-0.6118698,node,7434512837
+Bordeaux,restaurant,Le Pressoir d'Argent‐Gordon Ramsay,44.8423174,-0.5747632,node,7449488085
+Bordeaux,restaurant,Orijines OJI,44.8360162,-0.581486,node,7462150355
+Bordeaux,restaurant,Valverde,44.8522556,-0.5393917,node,7472293267
+Bordeaux,restaurant,Les Cancres,44.8502982,-0.5824119,node,7472588057
+Bordeaux,restaurant,Restaurant Monsieur & Madame - Local à manger,44.838652,-0.5718455,node,7478500365
+Bordeaux,restaurant,Mademoiselle Simone,44.8368149,-0.5748264,node,7494291650
+Bordeaux,restaurant,Oh Huit,44.8879538,-0.5464995,node,7500441242
+Bordeaux,restaurant,L'Atelier du Goût,44.8888715,-0.5465091,node,7500509375
+Bordeaux,restaurant,Sans nom,44.8127394,-0.5470019,node,7530144580
+Bordeaux,restaurant,La parenthèse de votre journée,44.8239714,-0.545714,node,7530265622
+Bordeaux,restaurant,Bao. B,44.8380132,-0.5756982,node,7533136487
+Bordeaux,restaurant,Hestïa,44.837426,-0.5709717,node,7590554486
+Bordeaux,restaurant,5 Saveurs,44.83179,-0.5727616,node,7596249985
+Bordeaux,restaurant,Café Barrière,44.8882396,-0.5657683,node,7600432737
+Bordeaux,restaurant,L'Aquitania,44.8892958,-0.5665245,node,7600432738
+Bordeaux,restaurant,Courtepaille,44.8899455,-0.5651104,node,7600432739
+Bordeaux,restaurant,Chicko's,44.8213947,-0.5526461,node,7631784916
+Bordeaux,restaurant,Joya,44.8653952,-0.5590231,node,7653997166
+Bordeaux,restaurant,Au P'tit Hanoï,44.8491592,-0.5836676,node,7658733190
+Bordeaux,restaurant,Nomad,44.8373451,-0.5712001,node,7682687786
+Bordeaux,restaurant,Matsuri,44.8396154,-0.5748314,node,7692345383
+Bordeaux,restaurant,Les doux secrets d'Hélène,44.8362331,-0.5692891,node,7707499685
+Bordeaux,restaurant,Comptoir Christoly,44.8395006,-0.5776614,node,7714479986
+Bordeaux,restaurant,Pastificio Marcellino,44.8518209,-0.5718617,node,7741784785
+Bordeaux,restaurant,Foodji,44.8534571,-0.5726329,node,7741803185
+Bordeaux,restaurant,Les Sauvages,44.8540948,-0.571551,node,7741805385
+Bordeaux,restaurant,Copa Rota,44.8523934,-0.5708247,node,7741811785
+Bordeaux,restaurant,Hôtel Mercure Château Chartrons,44.8590256,-0.5696219,node,7756197291
+Bordeaux,restaurant,Le Puy Paulin,44.8414155,-0.5754766,node,7767815598
+Bordeaux,restaurant,Tasty Rice,44.8373516,-0.5736508,node,7770708828
+Bordeaux,restaurant,Le Parlement des Graves,44.8406312,-0.5728927,node,7804953858
+Bordeaux,restaurant,Pizza Al Corte,44.8372752,-0.5719885,node,7814554385
+Bordeaux,restaurant,Rôtisserie Poulettes,44.8372736,-0.571893,node,7814554485
+Bordeaux,restaurant,Ô Zé,44.8423335,-0.5812565,node,7817517912
+Bordeaux,restaurant,Cardamon,44.8174884,-0.5858692,node,7830074964
+Bordeaux,restaurant,Malavida,44.8401525,-0.5710107,node,7830144894
+Bordeaux,restaurant,Le cabanon pizzas,44.8253692,-0.614176,node,7853190018
+Bordeaux,restaurant,Solena,44.8404688,-0.5903817,node,7874348123
+Bordeaux,restaurant,Villa Ferretti,44.8412473,-0.5992012,node,7877253850
+Bordeaux,restaurant,Bistrot Niel,44.8431487,-0.55609,node,7881054876
+Bordeaux,restaurant,Monzù,44.8395106,-0.5748019,node,7897150297
+Bordeaux,restaurant,Néo,44.8397279,-0.57074,node,7900555185
+Bordeaux,restaurant,Signature par Philippe Etchebest,44.8440276,-0.5767231,node,7929085549
+Bordeaux,restaurant,L'Originel,44.8380063,-0.5731577,node,7947386899
+Bordeaux,restaurant,Miremont,44.8433429,-0.578128,node,7954673471
+Bordeaux,restaurant,Brasserie Le Tourny,44.8451893,-0.5784509,node,7963684095
+Bordeaux,restaurant,Pizza Hut,44.8392969,-0.581696,node,7970128010
+Bordeaux,restaurant,Ô Secret Bien Gardé,44.8721938,-0.5469989,node,7977280379
+Bordeaux,restaurant,Modjo,44.8376161,-0.5720097,node,7995633585
+Bordeaux,restaurant,Kösk,44.828156,-0.560209,node,8049754797
+Bordeaux,restaurant,Le Bistrot de tutelle,44.8415099,-0.5737448,node,8054062185
+Bordeaux,restaurant,L'assiette musicale,44.8360046,-0.5696862,node,8060382086
+Bordeaux,restaurant,A Cantina Comptoir Corse,44.839209,-0.5705668,node,8060382087
+Bordeaux,restaurant,Memestra,44.8205746,-0.5725222,node,8062556285
+Bordeaux,restaurant,Bocce,44.8428309,-0.5897123,node,8076979642
+Bordeaux,restaurant,Bistrot Rouge,44.8184572,-0.6031716,node,8078526617
+Bordeaux,restaurant,Dozo,44.8391408,-0.5814746,node,8097273235
+Bordeaux,restaurant,La petite Mirepoix,44.8398792,-0.5820163,node,8097273242
+Bordeaux,restaurant,Le Céleste Gourmand,44.8370255,-0.6192651,node,8144797489
+Bordeaux,restaurant,Basilic & Co,44.8640721,-0.59973,node,8148533867
+Bordeaux,restaurant,Ragazzi da Peponne,44.8639473,-0.599928,node,8148534018
+Bordeaux,restaurant,Sakura Sushi,44.8412769,-0.5734631,node,8154258836
+Bordeaux,restaurant,Pizza Hut,44.8130815,-0.5735314,node,8188895402
+Bordeaux,restaurant,Le Marchal,44.8811448,-0.6131294,node,8197905998
+Bordeaux,restaurant,Le Bistrot d'Antan,44.8825609,-0.612594,node,8197906009
+Bordeaux,restaurant,Le Cottage du Lac,44.887052,-0.5922014,node,8197910334
+Bordeaux,restaurant,Aux Deux Saveurs,44.8219889,-0.5637158,node,8214218548
+Bordeaux,restaurant,Saveurs d'Aquitaine,44.8461777,-0.5755385,node,8327495117
+Bordeaux,restaurant,Dubble,44.8654115,-0.5765377,node,8337899317
+Bordeaux,restaurant,L'assiette des boulevards,44.8650672,-0.578316,node,8341727018
+Bordeaux,restaurant,Mifan,44.8446829,-0.5789472,node,8374822917
+Bordeaux,restaurant,Le Cinq,44.8439476,-0.5753369,node,8407657657
+Bordeaux,restaurant,La Station Pizza,44.8248376,-0.61211,node,8486986217
+Bordeaux,restaurant,Lettuce Garden,44.8794691,-0.569928,node,8621415617
+Bordeaux,restaurant,Bibibap,44.8274202,-0.5504455,node,8696621641
+Bordeaux,restaurant,Urban Pincnic,44.8275027,-0.5505987,node,8696621642
+Bordeaux,restaurant,Le Garde Manger,44.8273518,-0.550298,node,8696621643
+Bordeaux,restaurant,Monzú,44.8432545,-0.577561,node,8787149118
+Bordeaux,restaurant,Quanjude,44.8441987,-0.5769352,node,8787169617
+Bordeaux,restaurant,Frida,44.8358248,-0.5705104,node,8787171117
+Bordeaux,restaurant,El,44.8442006,-0.5815606,node,8787180117
+Bordeaux,restaurant,Il Gusto di Napoli,44.8608995,-0.6128679,node,8827872644
+Bordeaux,restaurant,TentaziOni,44.8435458,-0.5816504,node,8829819917
+Bordeaux,restaurant,Tu,44.8319895,-0.5672455,node,8829834317
+Bordeaux,restaurant,Amicis,44.8436264,-0.5771859,node,8829856018
+Bordeaux,restaurant,Ô Pti't,44.838726,-0.6151461,node,8829900317
+Bordeaux,restaurant,Blind - Cuisine influences péruviennes,44.8409768,-0.5818394,node,8829911017
+Bordeaux,restaurant,Mako,44.8486872,-0.5827552,node,8829917517
+Bordeaux,restaurant,Big,44.8415305,-0.5816594,node,8842636717
+Bordeaux,restaurant,Le Garde Manger Bacalan,44.8654244,-0.5500545,node,8849257068
+Bordeaux,restaurant,Poulette,44.8313454,-0.5676643,node,8928410320
+Bordeaux,restaurant,Au Bistrot,44.8314179,-0.5671585,node,8928410321
+Bordeaux,restaurant,L'Effet Mer,44.871047,-0.56182,node,8960555687
+Bordeaux,restaurant,La,44.8402739,-0.5711092,node,8963399017
+Bordeaux,restaurant,Le Petit Vietnam,44.8791317,-0.5700258,node,8963418217
+Bordeaux,restaurant,Gina,44.8635941,-0.5513024,node,8986937011
+Bordeaux,restaurant,Roze,44.837637,-0.5671205,node,9001638017
+Bordeaux,restaurant,Tio Néné,44.842243,-0.5387287,node,9005006246
+Bordeaux,restaurant,RestÔ & Cie,44.8135918,-0.5510684,node,9094455636
+Bordeaux,restaurant,Le Marrakech,44.8414454,-0.5714738,node,9105779404
+Bordeaux,restaurant,Brutus,44.8384596,-0.5698523,node,9120589717
+Bordeaux,restaurant,Dat Viet,44.8330383,-0.5618156,node,9162216317
+Bordeaux,restaurant,Le Comptoir d'Étienne,44.8391283,-0.5717816,node,9177675296
+Bordeaux,restaurant,Rishi,44.840551,-0.5747882,node,9183987417
+Bordeaux,restaurant,La Planque,44.8211424,-0.5531535,node,9184086817
+Bordeaux,restaurant,Sushi fan,44.8552796,-0.6137492,node,9197079936
+Bordeaux,restaurant,Samaki,44.8626225,-0.5609836,node,9207463617
+Bordeaux,restaurant,Au Bureau,44.866644,-0.5608869,node,9250838851
+Bordeaux,restaurant,Sifnos,44.8133133,-0.5543661,node,9283129155
+Bordeaux,restaurant,O'Riz,44.861948,-0.5542154,node,9297626313
+Bordeaux,restaurant,Dans le Noir ?,44.8645843,-0.5584498,node,9297707217
+Bordeaux,restaurant,Bonh,44.8389236,-0.5730118,node,9297718817
+Bordeaux,restaurant,Sambrosa,44.8389264,-0.5729078,node,9297722017
+Bordeaux,restaurant,Hanzō,44.8398731,-0.5723926,node,9297734017
+Bordeaux,restaurant,Nyam Baï,44.8392736,-0.5705569,node,9297746517
+Bordeaux,restaurant,La Pointe,44.8521264,-0.5729091,node,9297763417
+Bordeaux,restaurant,Délices de Damas,44.8581956,-0.5672183,node,9297766817
+Bordeaux,restaurant,La Table du Parlement,44.8401992,-0.5711802,node,9297783017
+Bordeaux,restaurant,Ô QG,44.827337,-0.5513213,node,9297786517
+Bordeaux,restaurant,Mister Poulet Frit & Wok,44.8721401,-0.5470176,node,9306655306
+Bordeaux,restaurant,Sushiman,44.8638455,-0.5817071,node,9312689809
+Bordeaux,restaurant,Gastroteka,44.8631782,-0.5516682,node,9312744190
+Bordeaux,restaurant,Le Jardin Pêcheur,44.8611871,-0.5543596,node,9312976271
+Bordeaux,restaurant,Beirut Kitchen,44.8346979,-0.5640067,node,9327957717
+Bordeaux,restaurant,Asia Box,44.8206801,-0.5716222,node,9332431440
+Bordeaux,restaurant,Chez Dupont,44.8509637,-0.5719199,node,9332959466
+Bordeaux,restaurant,L'Arepa,44.8292215,-0.56843,node,9359250617
+Bordeaux,restaurant,Le Murano,44.8421602,-0.5726328,node,9373859240
+Bordeaux,restaurant,La Folie Rouge,44.8421435,-0.5727569,node,9373859241
+Bordeaux,restaurant,La Table du Fret,44.8932007,-0.6061403,node,9419617299
+Bordeaux,restaurant,Le Clémenceau,44.8418642,-0.5802202,node,9421233702
+Bordeaux,restaurant,Le Tassili,44.8423938,-0.5812776,node,9424127520
+Bordeaux,restaurant,231 East Street,44.8667612,-0.5610643,node,9442245617
+Bordeaux,restaurant,BACK TO!,44.835604,-0.5729967,node,9444731617
+Bordeaux,restaurant,Maison Nouvelle,44.8524933,-0.5720934,node,9512650971
+Bordeaux,restaurant,Arcada,44.837581,-0.5690587,node,9525001993
+Bordeaux,restaurant,Chef Aji,44.8633535,-0.5517305,node,9533195178
+Bordeaux,restaurant,Chez Hibou,44.8379841,-0.57352,node,9566852054
+Bordeaux,restaurant,Dis leur,44.8379906,-0.573435,node,9566852055
+Bordeaux,restaurant,Soif,44.8398899,-0.572494,node,9570948217
+Bordeaux,restaurant,Bimbao,44.8308486,-0.5670753,node,9689777466
+Bordeaux,restaurant,Maison mère,44.8417705,-0.5740963,node,9735014293
+Bordeaux,restaurant,Big Tiger,44.8257447,-0.5544848,node,9737871118
+Bordeaux,restaurant,Street Loco,44.8317252,-0.5976595,node,9789102025
+Bordeaux,restaurant,Le Rock Hill,44.8665145,-0.6064287,node,9795253909
+Bordeaux,restaurant,OUI TAO,44.8410289,-0.5614762,node,9799056317
+Bordeaux,restaurant,Poggetti,44.8325617,-0.5667801,node,9899611179
+Bordeaux,restaurant,Repas pour Geek,44.8350262,-0.5648661,node,9899668305
+Bordeaux,restaurant,Kouzina,44.8347163,-0.5656079,node,9899668306
+Bordeaux,restaurant,Chez Safiye,44.8772211,-0.5340774,node,9936872468
+Bordeaux,restaurant,Les Gondoles,44.8774843,-0.5345485,node,9936968834
+Bordeaux,restaurant,Les dames du lac (Le we),44.8779404,-0.5770933,node,9937521670
+Bordeaux,restaurant,Central do Brasil,44.8322197,-0.5607948,node,9945449042
+Bordeaux,restaurant,Anémone,44.8334437,-0.5653761,node,9945558871
+Bordeaux,restaurant,Le JAX,44.834434,-0.5636904,node,9945576093
+Bordeaux,restaurant,YAKO,44.8444143,-0.5797373,node,9963731726
+Bordeaux,restaurant,Temps à Nouveau,44.8385921,-0.6159561,node,10046404249
+Bordeaux,restaurant,La Brasserie le Coq,44.8150818,-0.5512235,node,10056190365
+Bordeaux,restaurant,Sans nom,44.8631318,-0.5516034,node,10056906574
+Bordeaux,restaurant,Gözl'Aimée,44.9101762,-0.6383198,node,10087364621
+Bordeaux,restaurant,Bistrot Régent,44.9091504,-0.632213,node,10087364637
+Bordeaux,restaurant,Baron Moleskine,44.9098879,-0.6347986,node,10087364640
+Bordeaux,restaurant,La Cochonne Rit,44.9137063,-0.635554,node,10087364643
+Bordeaux,restaurant,Valenthaï,44.913562,-0.6357301,node,10087364644
+Bordeaux,restaurant,Tomato,44.9135685,-0.6358484,node,10087364645
+Bordeaux,restaurant,Kerem Kebab,44.9137998,-0.634294,node,10087364647
+Bordeaux,restaurant,Sans nom,44.909559,-0.6343827,node,10087824928
+Bordeaux,restaurant,Tornado,44.9101579,-0.6382126,node,10090435089
+Bordeaux,restaurant,Orta,44.8363336,-0.5760687,node,10095995572
+Bordeaux,restaurant,Côté Bistrot,44.911253,-0.6373888,node,10102045979
+Bordeaux,restaurant,L'encoche Yakiniku,44.839939,-0.5710562,node,10125916619
+Bordeaux,restaurant,Fufu Ramen,44.841359,-0.5723896,node,10139568518
+Bordeaux,restaurant,L'Orangerie,44.8472036,-0.5778068,node,10143204744
+Bordeaux,restaurant,Nachos,44.878983,-0.5679394,node,10159951143
+Bordeaux,restaurant,Bibibap,44.8789819,-0.5680461,node,10159951145
+Bordeaux,restaurant,Billig & Carabin,44.8792205,-0.5677189,node,10159970259
+Bordeaux,restaurant,Woko,44.8790032,-0.5678182,node,10159994170
+Bordeaux,restaurant,Salade & Co,44.8791063,-0.5674553,node,10176229106
+Bordeaux,restaurant,Poulet braisé,44.8789633,-0.5677545,node,10177321876
+Bordeaux,restaurant,Bobo Pizza,44.8546917,-0.5721433,node,10215783953
+Bordeaux,restaurant,Suki,44.8347144,-0.5868183,node,10228610813
+Bordeaux,restaurant,Vach' et nous,44.8346397,-0.58708,node,10228610814
+Bordeaux,restaurant,Les restos du Coeur,44.9096402,-0.634179,node,10271474387
+Bordeaux,restaurant,Pomme Cactus,44.9098145,-0.6353839,node,10271474393
+Bordeaux,restaurant,Baston,44.8360247,-0.5778444,node,10296718995
+Bordeaux,restaurant,Basilic & Co Bordeaux (Bastide),44.8405288,-0.5521289,node,10536962273
+Bordeaux,restaurant,Le Darna,44.836688,-0.600092,node,10571292305
+Bordeaux,restaurant,Le Kiosque Bordeaux,44.8387956,-0.5718777,node,10708618305
+Bordeaux,restaurant,ECHO,44.8395209,-0.5700739,node,10839764797
+Bordeaux,restaurant,Chiocchio,44.8385394,-0.5696756,node,10839803888
+Bordeaux,restaurant,Marie Curry,44.8215777,-0.5590311,node,10839837406
+Bordeaux,restaurant,La Belle Suzette,44.8416903,-0.575362,node,10841654606
+Bordeaux,restaurant,Bistrot Chic,44.8415325,-0.5759906,node,10842073406
+Bordeaux,restaurant,LouLou,44.8395841,-0.5699619,node,10924479405
+Bordeaux,restaurant,Kedem,44.8341604,-0.5781504,node,10951487505
+Bordeaux,restaurant,Topa - Comptoir Basque,44.8385205,-0.5700787,node,11045320205
+Bordeaux,restaurant,Joki,44.8386947,-0.5707735,node,11061304169
+Bordeaux,restaurant,Flam's,44.8668784,-0.5612417,node,11076799615
+Bordeaux,restaurant,Bass Bill,44.8680628,-0.5630348,node,11076803833
+Bordeaux,restaurant,Rodizio Brazil,44.8674388,-0.5620902,node,11076808274
+Bordeaux,restaurant,Awake,44.8678815,-0.5627604,node,11076837891
+Bordeaux,restaurant,Papadum Indian food,44.8676111,-0.5629811,node,11076843840
+Bordeaux,restaurant,Italian Trattoria,44.867609,-0.5623478,node,11076853025
+Bordeaux,restaurant,Sushi Mishi,44.8206405,-0.5831427,node,11093320475
+Bordeaux,restaurant,LE TOUT DU CRU,44.8588676,-0.5572018,node,11110152205
+Bordeaux,restaurant,Brasserie du Port,44.8321171,-0.5608719,node,11116732764
+Bordeaux,restaurant,Vinayaka Restaurant,44.827725,-0.575542,node,11123956905
+Bordeaux,restaurant,Heiko,44.84638,-0.5795369,node,11124715971
+Bordeaux,restaurant,Gustave,44.8456824,-0.5785219,node,11124756188
+Bordeaux,restaurant,Bordeaux Parme,44.819508,-0.5726484,node,11158584553
+Bordeaux,restaurant,Wayo Wayo,44.8405417,-0.5816558,node,11172715469
+Bordeaux,restaurant,Phood,44.8404196,-0.5815823,node,11172715470
+Bordeaux,restaurant,Sababa.,44.8477926,-0.5819226,node,11181062874
+Bordeaux,restaurant,Tripletta,44.860131,-0.5687571,node,11181201638
+Bordeaux,restaurant,Les burgers de Colette,44.8530059,-0.5731891,node,11186477503
+Bordeaux,restaurant,Véloce pizza,44.8547253,-0.5358108,node,11186697170
+Bordeaux,restaurant,O'Tiap,44.8321927,-0.612987,node,11200313427
+Bordeaux,restaurant,Restaurant FirstName - Le Bada,44.8379871,-0.5833844,node,11217989433
+Bordeaux,restaurant,Chirashi,44.862041,-0.554302,node,11220655689
+Bordeaux,restaurant,O soldo minho,44.8129556,-0.5626874,node,11225285352
+Bordeaux,restaurant,Yaki yaki,44.8142803,-0.5512022,node,11225410988
+Bordeaux,restaurant,Kokomo cantine,44.8368717,-0.5718391,node,11288883167
+Bordeaux,restaurant,Sans nom,44.8278422,-0.556896,node,11360295612
+Bordeaux,restaurant,Le Potager,44.8255185,-0.5574182,node,11360299153
+Bordeaux,restaurant,Iké Poké,44.8422325,-0.5570541,node,11360300193
+Bordeaux,restaurant,Come a Casa,44.9100047,-0.6356757,node,11368204088
+Bordeaux,restaurant,Siliana Pizza,44.8769597,-0.5445963,node,11372160261
+Bordeaux,restaurant,Italian Trattoria,44.8412389,-0.5741171,node,11446153270
+Bordeaux,restaurant,Le Régalien,44.8440888,-0.5817395,node,11468790573
+Bordeaux,restaurant,Bowl Eat,44.8549786,-0.5741934,node,11492734173
+Bordeaux,restaurant,Brasserie Maillard,44.8414184,-0.5716097,node,11543568928
+Bordeaux,restaurant,Deus Ex Machina Bordeaux - The Hangar of Tenacity,44.8568604,-0.5601874,node,11579051542
+Bordeaux,restaurant,Contrast,44.8422105,-0.5716967,node,11581287069
+Bordeaux,restaurant,Comptoir Thérèse,44.8360442,-0.5720911,node,11586638969
+Bordeaux,restaurant,Le 7,44.8624824,-0.5502612,node,11626556796
+Bordeaux,restaurant,Fée Maison,44.8302196,-0.5600907,node,11708376965
+Bordeaux,restaurant,Babette,44.8266484,-0.5490322,node,11708376967
+Bordeaux,restaurant,Mitsuba,44.8416155,-0.5737588,node,11718008869
+Bordeaux,restaurant,Goûtezetpartagez.com,44.8526451,-0.5379216,node,11724954873
+Bordeaux,restaurant,Beirut Kitchen - Cantine du Levant,44.8239835,-0.5919313,node,11758741022
+Bordeaux,restaurant,Gueuleton Bordeaux,44.838316,-0.569227,node,11875708814
+Bordeaux,restaurant,La Boulangerie,44.8551695,-0.5689522,node,11898738269
+Bordeaux,restaurant,Osteria Palatino,44.8388836,-0.5735628,node,11903671069
+Bordeaux,restaurant,Stai Calmo,44.83801,-0.5713591,node,11907077169
+Bordeaux,restaurant,Gaūta,44.8321844,-0.5666177,node,11907788370
+Bordeaux,restaurant,Vivants,44.839357,-0.5706748,node,11907804869
+Bordeaux,restaurant,Entre terre et mer,44.853268,-0.5381799,node,11944540062
+Bordeaux,restaurant,Piuma,44.8352571,-0.5734985,node,11944878264
+Bordeaux,restaurant,BIG Bistrot Girondin,44.8411151,-0.5738643,node,11945086369
+Bordeaux,restaurant,Kalimera,44.8357705,-0.5520146,node,11992531849
+Bordeaux,restaurant,Meet'in,44.8355618,-0.5524139,node,11992531850
+Bordeaux,restaurant,Sushi Kobbo,44.835476,-0.552578,node,11992531852
+Bordeaux,restaurant,Minouche,44.8387833,-0.579038,node,12025579869
+Bordeaux,restaurant,Taj-Mahal,44.8404951,-0.5735676,node,12042489672
+Bordeaux,restaurant,Bella pizza,44.8343058,-0.6272959,node,12050786228
+Bordeaux,restaurant,La Collation,44.8393885,-0.5699503,node,12066112376
+Bordeaux,restaurant,Isshin Ramen,44.8407918,-0.5716152,node,12066268708
+Bordeaux,restaurant,Gou Kaz Mwen,44.8274795,-0.575537,node,12066658770
+Bordeaux,restaurant,Le loup,44.8378762,-0.5745271,node,12086789369
+Bordeaux,restaurant,Lasagna,44.8390194,-0.5733863,node,12120026268
+Bordeaux,restaurant,Riz crousty & wok,44.8354733,-0.5677624,node,12120037113
+Bordeaux,restaurant,Bo tannique,44.8384414,-0.5743691,node,12120700292
+Bordeaux,restaurant,Maki Time,44.8234051,-0.6002433,node,12123867343
+Bordeaux,restaurant,Marcel,44.8405442,-0.5795937,node,12124424922
+Bordeaux,restaurant,BoHéBon,44.8380274,-0.585022,node,12131500945
+Bordeaux,restaurant,Chef Aji,44.8379205,-0.5850322,node,12131500963
+Bordeaux,restaurant,Panaille,44.8295346,-0.5865495,node,12137350101
+Bordeaux,restaurant,Ed motors : restaurant - bar à tapas Bordeaux,44.8723795,-0.5618568,node,12138605501
+Bordeaux,restaurant,La fine Bouche,44.8360757,-0.5769476,node,12183649035
+Bordeaux,restaurant,Papy,44.8391191,-0.570425,node,12205277974
+Bordeaux,restaurant,Gallika,44.8391948,-0.5710153,node,12205420407
+Bordeaux,restaurant,Les Chats Touilleurs,44.8428847,-0.5815472,node,12359916417
+Bordeaux,restaurant,Terre Émeraude,44.8347782,-0.5773849,node,12367835189
+Bordeaux,restaurant,Moelleuses et Persillées,44.8528176,-0.5679737,node,12367999701
+Bordeaux,restaurant,Piacere,44.8284801,-0.572227,node,12369643315
+Bordeaux,restaurant,Peter Coffee Shop,44.8355413,-0.5717608,node,12369643316
+Bordeaux,restaurant,Sans nom,44.8306657,-0.5675785,node,12435537358
+Bordeaux,restaurant,L'Elliniko,44.8306736,-0.5680871,node,12435625230
+Bordeaux,restaurant,Naï Naï,44.8397353,-0.5814156,node,12442290002
+Bordeaux,restaurant,Olé,44.8424401,-0.5812919,node,12449720372
+Bordeaux,restaurant,La Crêpe Funky,44.8410491,-0.5813099,node,12497862144
+Bordeaux,restaurant,Le Clos d'Augusta,44.8367731,-0.5973491,node,12563266001
+Bordeaux,restaurant,Meunier,44.8437368,-0.586857,node,12563623323
+Bordeaux,restaurant,Uma,44.8660173,-0.6042988,node,12604012403
+Bordeaux,restaurant,Côté jardin,44.9129431,-0.6253724,node,12604762201
+Bordeaux,restaurant,Maison Musubi,44.8404502,-0.5608003,node,12607625297
+Bordeaux,restaurant,Caserne B,44.8391625,-0.5589071,node,12691404841
+Bordeaux,restaurant,L'auberge espagnole,44.8342342,-0.563418,node,12728111370
+Bordeaux,restaurant,Grand phare,44.8358466,-0.5652977,node,12728157419
+Bordeaux,restaurant,My Little Warung,44.8324809,-0.5724731,node,12817761741
+Bordeaux,restaurant,La Croix Blanche,44.8448275,-0.5912986,node,12841614401
+Bordeaux,restaurant,Péniche Royal,44.8447328,-0.5657107,node,12846979601
+Bordeaux,restaurant,Nom d'une crêpe,44.841301,-0.572026,node,12889289702
+Bordeaux,restaurant,Monsieur Garba,44.8357052,-0.5656173,node,12889296901
+Bordeaux,restaurant,Babouchka,44.8329312,-0.5640524,node,12988129350
+Bordeaux,restaurant,Chez Bonheur,44.831996,-0.5721824,node,12990085248
+Bordeaux,restaurant,Isshin,44.8408214,-0.5716074,node,12994271801
+Bordeaux,restaurant,Ro'cha,44.8561437,-0.601711,node,12998021615
+Bordeaux,restaurant,L'agneau à la Braise,44.8398188,-0.5721145,node,13004244818
+Bordeaux,restaurant,Paus'k,44.8417536,-0.5743232,node,13004244827
+Bordeaux,restaurant,Restaurant d'entreprise BNP Paribas,44.8411019,-0.5739787,node,13004244829
+Bordeaux,restaurant,Krousty Sabaïdi,44.8409803,-0.5734596,node,13004244830
+Bordeaux,restaurant,Mada,44.8409151,-0.5734614,node,13004244831
+Bordeaux,restaurant,Monsieur Papilles,44.8405337,-0.572776,node,13004244841
+Bordeaux,restaurant,Le Bar du Boucher,44.8406321,-0.5726358,node,13004244844
+Bordeaux,restaurant,Osteria da Luigi,44.8394928,-0.5720904,node,13004244861
+Bordeaux,restaurant,Le Carreau,44.83942,-0.5719302,node,13004244864
+Bordeaux,restaurant,Ô P'tit Bahut,44.8393238,-0.5705379,node,13004244872
+Bordeaux,restaurant,Pizza Pise,44.8565867,-0.6025257,node,13006953290
+Bordeaux,restaurant,Bibibap,44.8557189,-0.5960636,node,13009281810
+Bordeaux,restaurant,Le Pavillon des Boulevards,44.8532231,-0.5927825,node,13013890382
+Bordeaux,restaurant,Mario's Pizza,44.8532526,-0.5924557,node,13013890389
+Bordeaux,restaurant,Ressources,44.848916,-0.5836132,node,13013941156
+Bordeaux,restaurant,Ami-Chemin,44.849974,-0.5853195,node,13014023915
+Bordeaux,restaurant,Efsane,44.8495151,-0.5844578,node,13014023922
+Bordeaux,restaurant,Cacio e Pepe,44.8582056,-0.5918236,node,13017858988
+Bordeaux,restaurant,Just eat,44.8321556,-0.5730089,node,13020630232
+Bordeaux,restaurant,Legaston,44.840235,-0.5844664,node,13030855167
+Bordeaux,restaurant,Le Scopitone,44.841466,-0.5795094,node,13030931719
+Bordeaux,restaurant,Litalia pizzeria,44.8550541,-0.5713904,node,13037284861
+Bordeaux,restaurant,Le Petit Parc,44.8572224,-0.5788632,node,13039640883
+Bordeaux,restaurant,Ege Grill Restaurant,44.8383219,-0.590844,node,13043275106
+Bordeaux,restaurant,O Crok de Vince,44.8342822,-0.5883359,node,13045035125
+Bordeaux,restaurant,Bistro Cent Onze,44.8530737,-0.5702394,node,13046462423
+Bordeaux,restaurant,Casa Gaia,44.8505137,-0.5711486,node,13046524270
+Bordeaux,restaurant,230ºC,44.8368666,-0.5722634,node,13062309700
+Bordeaux,restaurant,Sans nom,44.850269,-0.5722881,node,13065439930
+Bordeaux,restaurant,La Pizz,44.8295092,-0.5733572,node,13068356133
+Bordeaux,restaurant,Momoko,44.8459246,-0.5792571,node,13069630324
+Bordeaux,restaurant,Le Bistrot des Grands Hommes,44.8430041,-0.5780876,node,13075413966
+Bordeaux,restaurant,La Cantina Roni,44.8481088,-0.5969392,node,13082691701
+Bordeaux,restaurant,Colette,44.825491,-0.5773884,node,13103302880
+Bordeaux,restaurant,Benteaux,44.8354178,-0.5833539,node,13104053978
+Bordeaux,restaurant,Bangkok Station,44.8297904,-0.5724864,node,13107738217
+Bordeaux,restaurant,Apolonia,44.8900343,-0.5623198,node,13124535601
+Bordeaux,restaurant,Le Plateau,44.8479714,-0.5971443,node,13184364813
+Bordeaux,restaurant,Le petit parc,44.8571847,-0.578865,node,13185837001
+Bordeaux,restaurant,Le Resto – UCPA Sport Station,44.8594418,-0.5430197,node,13233129269
+Bordeaux,restaurant,Le Caillou,44.8446954,-0.5587174,node,13236316039
+Bordeaux,restaurant,French Kiss,44.8439304,-0.5568624,node,13236318538
+Bordeaux,restaurant,POF,44.8673029,-0.5619034,node,13240597746
+Bordeaux,restaurant,Pizza Cosy,44.8581228,-0.5579085,node,13240612090
+Bordeaux,restaurant,Hush Hush,44.8372127,-0.5709613,node,13240612218
+Bordeaux,restaurant,Eriu,44.84595,-0.5802394,node,13256090143
+Bordeaux,restaurant,Nicuzza,44.840039,-0.5999523,node,13269781463
+Bordeaux,restaurant,Papi Louis,44.8118818,-0.564145,node,13272714208
+Bordeaux,restaurant,L'Estacade,44.8435384,-0.5646625,way,77922326
+Bordeaux,restaurant,Les Voyageurs,44.8428894,-0.5540304,way,77944097
+Bordeaux,restaurant,Le Ballion,44.8433977,-0.5766021,way,79715654
+Bordeaux,restaurant,Toscane,44.8393693,-0.5709141,way,79758600
+Bordeaux,restaurant,chez Bibi,44.8358716,-0.5781694,way,80015190
+Bordeaux,restaurant,65 Degrés,44.8362065,-0.5758072,way,80015230
+Bordeaux,restaurant,Baklava,44.8358583,-0.5703223,way,80044884
+Bordeaux,restaurant,Cafétéria,44.8243419,-0.6013441,way,115477869
+Bordeaux,restaurant,Sicilia in Bocca,44.8324142,-0.5982426,way,117542416
+Bordeaux,restaurant,⛽,44.9122573,-0.627103,way,119252514
+Bordeaux,restaurant,Campanile,44.890722,-0.5638305,way,154148305
+Bordeaux,restaurant,Hippopotamus,44.8898515,-0.564158,way,154148379
+Bordeaux,restaurant,Buffalo Grill,44.878075,-0.5618695,way,154154223
+Bordeaux,restaurant,L'Cuisine,44.8645435,-0.5809675,way,154688561
+Bordeaux,restaurant,Sans nom,44.8639834,-0.59927,way,154688803
+Bordeaux,restaurant,Sans nom,44.866618,-0.606607,way,154689474
+Bordeaux,restaurant,La Terrasse du Bouscat,44.8654839,-0.6084954,way,154691295
+Bordeaux,restaurant,Foison,44.8449585,-0.5801265,way,154850346
+Bordeaux,restaurant,La Djaf,44.8445405,-0.581001,way,154852140
+Bordeaux,restaurant,La table d'hôtes,44.8319795,-0.58781,way,155594363
+Bordeaux,restaurant,Panaille,44.8295325,-0.58655,way,155601068
+Bordeaux,restaurant,Cuisine centrale Bordeaux-Mérignac,44.841032,-0.628095,way,156066496
+Bordeaux,restaurant,Phan Phan,44.8594425,-0.6318545,way,156076229
+Bordeaux,restaurant,Restaurant l'Olicia,44.8296475,-0.6084625,way,156143389
+Bordeaux,restaurant,Sans nom,44.858396,-0.622956,way,156164794
+Bordeaux,restaurant,Casa Ferretti,44.8562345,-0.6179325,way,156174556
+Bordeaux,restaurant,Funti,44.853339,-0.598011,way,156193006
+Bordeaux,restaurant,Sushi Soleil,44.8601215,-0.610809,way,156203307
+Bordeaux,restaurant,Maison Franco,44.859535,-0.6080435,way,156205324
+Bordeaux,restaurant,Lycée Grand Lebrun,44.850533,-0.6077565,way,156229707
+Bordeaux,restaurant,Ö sens 60,44.812751,-0.541117,way,159365299
+Bordeaux,restaurant,La poubelle du chef,44.842237,-0.633088,way,163476394
+Bordeaux,restaurant,Ibaïa Café,44.8498617,-0.5694869,way,193297094
+Bordeaux,restaurant,Restaurant Seniors du Jard,44.8428492,-0.638778,way,230507480
+Bordeaux,restaurant,Ristorante Del Arte,44.8884259,-0.5608763,way,256942178
+Bordeaux,restaurant,Meltin' Potes Caffé,44.8271696,-0.6212146,way,286420633
+Bordeaux,restaurant,Sans nom,44.8535108,-0.5976544,way,780137006
+Bordeaux,restaurant,Radisson,44.8216041,-0.5543642,way,917446252
+Bordeaux,restaurant,Flunch,44.8814817,-0.5651997,way,1049251464
+Bordeaux,restaurant,Sans Pression,44.8387262,-0.5863457,way,1076119451
+Bordeaux,restaurant,Chihiro,44.8793204,-0.5698518,way,1103217483
+Bordeaux,restaurant,MetSens,44.8236285,-0.5551354,way,1163816434
+Bordeaux,restaurant,Le Grand Comptoir,44.8260489,-0.5563132,way,1163927218
+Bordeaux,restaurant,Oz Boat,44.863364,-0.5545501,way,1380094112
+Bordeaux,restaurant,Côtés Pâtes,44.8118941,-0.5906722,way,1420528465
+Bordeaux,restaurant,Tanger Med,44.8118303,-0.5906892,way,1420528471
+Bordeaux,restaurant,Linh Traiteur d'Asie,44.8117902,-0.5906999,way,1420528472
+Bordeaux,restaurant,Le Comptoir du Marché,44.8117855,-0.5905916,way,1420528476
+Bordeaux,restaurant,L'étal Ibérique,44.8119255,-0.5906225,way,1420528483
+Bordeaux,restaurant,O'Marisko,44.8118249,-0.5906493,way,1420528484
+Bordeaux,restaurant,Resto U' le Mascaret,44.8233656,-0.6073404,relation,18177130
+Bordeaux,station,Mérignac Arlac,44.8267789,-0.6261731,node,648505624
+Bordeaux,station,Bruges,44.8869972,-0.6094758,node,746849938
+Bordeaux,station,Bordeaux-Saint-Jean,44.8255227,-0.5556498,node,5615156624
+Bordeaux,station,Caudéran-Mérignac,44.8427995,-0.6274696,node,9547002179
+Bordeaux,station,Le Bouscat Sainte-Germaine,44.8709177,-0.6140203,node,10948825437
+Bordeaux,station,Bordeaux Saint-Jean,44.8255012,-0.5560289,way,1163982892
+Bordeaux,historic,Sans nom,44.8360527,-0.5922511,node,281223830
+Bordeaux,historic,Hôtel Fenwick,44.8489132,-0.570998,node,282078480
+Bordeaux,historic,Sans nom,44.8429429,-0.5857687,node,331887925
+Bordeaux,historic,Porte de la Monnaie,44.8331238,-0.5618451,node,656508097
+Bordeaux,historic,Sans nom,44.868107,-0.5349639,node,823477822
+Bordeaux,historic,Sans nom,44.8385268,-0.5787677,node,933422943
+Bordeaux,historic,Monument aux Morts 1870-71,44.834888,-0.5797885,node,1202256365
+Bordeaux,historic,Sans nom,44.8388358,-0.5740888,node,1508828930
+Bordeaux,historic,Monument aux Morts,44.8508271,-0.6067815,node,1964235078
+Bordeaux,historic,France Libre 1940-1945,44.8372038,-0.5831156,node,1999715932
+Bordeaux,historic,Sans nom,44.821861,-0.5826854,node,2333702257
+Bordeaux,historic,Orgues de l'abbatiale Sainte-Croix,44.8310692,-0.5608924,node,2517725899
+Bordeaux,historic,Statue de Jacques Chaban-Delmas,44.8380737,-0.5770712,node,2659439284
+Bordeaux,historic,Gare de Bordeaux-Ségur,44.8267938,-0.5860166,node,2736319518
+Bordeaux,historic,Sans nom,44.8402427,-0.5693928,node,2811436023
+Bordeaux,historic,Sans nom,44.8416045,-0.5796516,node,2811471966
+Bordeaux,historic,Sans nom,44.8419393,-0.5801502,node,2811471967
+Bordeaux,historic,Sans nom,44.8404801,-0.5804751,node,2811536464
+Bordeaux,historic,Sans nom,44.8407195,-0.580026,node,2811536467
+Bordeaux,historic,Sans nom,44.8407514,-0.5800202,node,2811536468
+Bordeaux,historic,Sans nom,44.8410701,-0.5812765,node,2811536470
+Bordeaux,historic,Sans nom,44.8410743,-0.5799988,node,2811536471
+Bordeaux,historic,Sans nom,44.8412527,-0.5799734,node,2811536472
+Bordeaux,historic,Sans nom,44.841335,-0.5799665,node,2811536473
+Bordeaux,historic,Sans nom,44.841406,-0.5799588,node,2811536474
+Bordeaux,historic,Sans nom,44.841472,-0.5812647,node,2811536475
+Bordeaux,historic,Sans nom,44.8415412,-0.5798462,node,2811536476
+Bordeaux,historic,Sans nom,44.8415637,-0.5812624,node,2811536477
+Bordeaux,historic,Sans nom,44.8417419,-0.5809407,node,2811536479
+Bordeaux,historic,Sans nom,44.8417537,-0.5808343,node,2811536480
+Bordeaux,historic,Sans nom,44.841815,-0.5802871,node,2811536482
+Bordeaux,historic,Sans nom,44.8418739,-0.5802416,node,2811536483
+Bordeaux,historic,Sans nom,44.8405003,-0.5717558,node,2811554158
+Bordeaux,historic,Sans nom,44.8407391,-0.5717056,node,2811554159
+Bordeaux,historic,Sans nom,44.8381781,-0.5677132,node,2811576928
+Bordeaux,historic,Sans nom,44.8383662,-0.5678485,node,2811576930
+Bordeaux,historic,Sans nom,44.8386406,-0.5680748,node,2811576934
+Bordeaux,historic,Sans nom,44.838765,-0.5681502,node,2811576935
+Bordeaux,historic,Sans nom,44.8389575,-0.5683057,node,2811576936
+Bordeaux,historic,Sans nom,44.8391525,-0.5684612,node,2811576937
+Bordeaux,historic,Sans nom,44.834884,-0.5642609,node,2811600182
+Bordeaux,historic,Sans nom,44.8354076,-0.5648423,node,2811600185
+Bordeaux,historic,Sans nom,44.8372484,-0.5667363,node,2811600189
+Bordeaux,historic,Sans nom,44.8372759,-0.566763,node,2811600190
+Bordeaux,historic,Sans nom,44.8374006,-0.56692,node,2811600191
+Bordeaux,historic,Sans nom,44.837443,-0.5669538,node,2811600192
+Bordeaux,historic,Sans nom,44.8368189,-0.5663195,node,2811600195
+Bordeaux,historic,Sans nom,44.8368531,-0.566303,node,2811600196
+Bordeaux,historic,Tour de Gassie,44.8392615,-0.5702995,node,3027435131
+Bordeaux,historic,Général Toussaint Louverture,44.8472522,-0.5648096,node,3150891636
+Bordeaux,historic,Ulysse Despaux,44.8334914,-0.566393,node,3150929905
+Bordeaux,historic,Sans nom,44.8728289,-0.5726108,node,3353904302
+Bordeaux,historic,Chapelle Guillaume Marmiche,44.8367548,-0.5898256,node,4348454803
+Bordeaux,historic,Cénotaphe de Goya,44.83649,-0.5949685,node,4348454804
+Bordeaux,historic,Jean-Victor Crozatier,44.8373946,-0.5905381,node,4348454805
+Bordeaux,historic,Laurent Lafaurie de Monbadon,44.8365044,-0.596577,node,4348498050
+Bordeaux,historic,Sans nom,44.855121,-0.5869804,node,4770331321
+Bordeaux,historic,Sans nom,44.8550721,-0.5867717,node,4841779807
+Bordeaux,historic,Sans nom,44.8409992,-0.5800073,node,4955113410
+Bordeaux,historic,Sans nom,44.8409349,-0.5712874,node,4955113411
+Bordeaux,historic,Sans nom,44.8361818,-0.5661576,node,4955113413
+Bordeaux,historic,Sans nom,44.8149164,-0.584208,node,5071479292
+Bordeaux,historic,Sans nom,44.8154334,-0.5827811,node,5071479303
+Bordeaux,historic,Sans nom,44.8126682,-0.5812941,node,5071479310
+Bordeaux,historic,Sans nom,44.8150071,-0.582473,node,5071515096
+Bordeaux,historic,Sans nom,44.8144401,-0.5821954,node,5071515097
+Bordeaux,historic,Sans nom,44.8285569,-0.6114347,node,5270114849
+Bordeaux,historic,Sans nom,44.846484,-0.5714485,node,5380389775
+Bordeaux,historic,Sans nom,44.8346735,-0.5639841,node,5429751901
+Bordeaux,historic,Sans nom,44.8347111,-0.5640243,node,5429751902
+Bordeaux,historic,Sans nom,44.8348585,-0.5642195,node,5429751903
+Bordeaux,historic,Sans nom,44.8353333,-0.564765,node,5429751904
+Bordeaux,historic,Sans nom,44.8353628,-0.5647998,node,5429751905
+Bordeaux,historic,Sans nom,44.8361072,-0.5655549,node,5429751906
+Bordeaux,historic,Sans nom,44.8361238,-0.5655938,node,5429751907
+Bordeaux,historic,Sans nom,44.8361005,-0.5656742,node,5429751908
+Bordeaux,historic,Sans nom,44.8360962,-0.5657916,node,5429751909
+Bordeaux,historic,Sans nom,44.8361795,-0.5661055,node,5429751910
+Bordeaux,historic,Sans nom,44.8381365,-0.5676868,node,5429751911
+Bordeaux,historic,Sans nom,44.8383925,-0.5679041,node,5429751912
+Bordeaux,historic,Sans nom,44.8385884,-0.5680272,node,5429751913
+Bordeaux,historic,Sans nom,44.8386141,-0.5680513,node,5429751914
+Bordeaux,historic,Sans nom,44.838736,-0.5681345,node,5429751915
+Bordeaux,historic,Sans nom,44.8387622,-0.568206,node,5429751916
+Bordeaux,historic,Sans nom,44.8389291,-0.5682838,node,5429751917
+Bordeaux,historic,Sans nom,44.8391298,-0.5684373,node,5429751918
+Bordeaux,historic,Sans nom,44.8395017,-0.5687317,node,5429751919
+Bordeaux,historic,Sans nom,44.8412896,-0.5707356,node,5429752221
+Bordeaux,historic,Sans nom,44.8411733,-0.5705502,node,5429752222
+Bordeaux,historic,Sans nom,44.8411082,-0.5704992,node,5429752223
+Bordeaux,historic,Sans nom,44.8410642,-0.5704861,node,5429752224
+Bordeaux,historic,Sans nom,44.8410199,-0.5704682,node,5429752225
+Bordeaux,historic,Sans nom,44.8409438,-0.5703951,node,5429752226
+Bordeaux,historic,Sans nom,44.8409058,-0.5702945,node,5429752227
+Bordeaux,historic,Sans nom,44.8413556,-0.5707602,node,5429752228
+Bordeaux,historic,Sans nom,44.8419679,-0.5705317,node,5429752229
+Bordeaux,historic,Sans nom,44.8419084,-0.5706591,node,5429752230
+Bordeaux,historic,Sans nom,44.8418556,-0.5707034,node,5429752231
+Bordeaux,historic,Sans nom,44.8418091,-0.5707382,node,5429752232
+Bordeaux,historic,Sans nom,44.841761,-0.5707537,node,5429752233
+Bordeaux,historic,Sans nom,44.841704,-0.5707315,node,5429752234
+Bordeaux,historic,Sans nom,44.8416526,-0.5707107,node,5429752235
+Bordeaux,historic,Sans nom,44.8416046,-0.570692,node,5429752236
+Bordeaux,historic,Sans nom,44.8415062,-0.5707,node,5429752237
+Bordeaux,historic,Immeuble (reste du Noviciat des Jésuites),44.8311326,-0.5629166,node,5438078827
+Bordeaux,historic,"Tour du Greffe, dite aussi tour du Châtelet de la Porte-Saint-Eloi",44.835278,-0.5713937,node,5438078828
+Bordeaux,historic,Sans nom,44.8419237,-0.57966,node,5438078829
+Bordeaux,historic,Sans nom,44.84184,-0.5797043,node,5438078830
+Bordeaux,historic,Sans nom,44.8416139,-0.5795871,node,5438078831
+Bordeaux,historic,Sans nom,44.8415962,-0.5797106,node,5438078832
+Bordeaux,historic,Sans nom,44.8415791,-0.579771,node,5438078833
+Bordeaux,historic,Sans nom,44.8412002,-0.5799809,node,5438078834
+Bordeaux,historic,Sans nom,44.8405084,-0.5801612,node,5438078835
+Bordeaux,historic,Sans nom,44.8405003,-0.5802699,node,5438078836
+Bordeaux,historic,Sans nom,44.840496,-0.5803181,node,5438078837
+Bordeaux,historic,Sans nom,44.8404893,-0.58041,node,5438078838
+Bordeaux,historic,Sans nom,44.8404836,-0.5804402,node,5438078839
+Bordeaux,historic,Sans nom,44.8406681,-0.581259,node,5438078840
+Bordeaux,historic,Hôtel de Babylone,44.8424247,-0.5832612,node,5438078841
+Bordeaux,historic,Hôtel des archives départementales de la Gironde,44.8502962,-0.5764114,node,5438078843
+Bordeaux,historic,La Fusion Intendance,44.841941,-0.5751732,node,5438078845
+Bordeaux,historic,Sans nom,44.8406846,-0.5717139,node,5438078846
+Bordeaux,historic,Sans nom,44.8406061,-0.571734,node,5438078847
+Bordeaux,historic,Sans nom,44.8405548,-0.5717427,node,5438078848
+Bordeaux,historic,Sans nom,44.8409147,-0.5719272,node,5438078849
+Bordeaux,historic,Sans nom,44.8409214,-0.5720076,node,5438078850
+Bordeaux,historic,Sans nom,44.8402772,-0.5694108,node,5438078851
+Bordeaux,historic,Sans nom,44.8389094,-0.5683483,node,5438078852
+Bordeaux,historic,Ermitage Sainte-Catherine,44.8755099,-0.5349378,node,5443184749
+Bordeaux,historic,Ancien domaine de Lachaise,44.8150587,-0.5365747,node,5443184752
+Bordeaux,historic,Théâtre de l'Alhambra,44.8415616,-0.5884904,node,5443184753
+Bordeaux,historic,Fontaine,44.8283634,-0.5897326,node,5443184754
+Bordeaux,historic,Ancienne Manufacture des Tabacs,44.8337746,-0.5850364,node,5443184755
+Bordeaux,historic,Sans nom,44.8415011,-0.5799039,node,5443184756
+Bordeaux,historic,Porte Dijeaux,44.8406427,-0.5798544,node,5686094295
+Bordeaux,historic,Sans nom,44.8118828,-0.6299651,node,5940408089
+Bordeaux,historic,Aux morts Indochinois de 1914-1918,44.8596355,-0.6207854,node,5948552493
+Bordeaux,historic,Aux morts de 1870-1871,44.860018,-0.6209402,node,6029928647
+Bordeaux,historic,Mort SHUMAN,44.8596565,-0.6212382,node,6029948292
+Bordeaux,historic,Sans nom,44.838873,-0.6298364,node,6092929989
+Bordeaux,historic,Sans nom,44.8412806,-0.554654,node,6313074317
+Bordeaux,historic,Sans nom,44.8652987,-0.6103423,node,6343065077
+Bordeaux,historic,Appel du 18 juin,44.8685756,-0.6085695,node,6343065078
+Bordeaux,historic,Sans nom,44.8673752,-0.6184075,node,6343065083
+Bordeaux,historic,Aux soldats bouscatais,44.8666429,-0.5940009,node,6344610584
+Bordeaux,historic,Monument des morts du Bouscat,44.863556,-0.5996728,node,6344611485
+Bordeaux,historic,Statue de Modeste Testas,44.8482543,-0.569923,node,6464924259
+Bordeaux,historic,Sans nom,44.8376667,-0.5928277,node,6581446962
+Bordeaux,historic,Sans nom,44.8283366,-0.5630939,node,6581446993
+Bordeaux,historic,Sans nom,44.8287959,-0.628687,node,6596918717
+Bordeaux,historic,Grue Wellman,44.8666282,-0.5588187,node,6924637744
+Bordeaux,historic,Ancienne tour de contrôle du Pont du Pertuis,44.8674096,-0.558808,node,6930706433
+Bordeaux,historic,Monument des époux Baudon,44.8829334,-0.6298831,node,6968724047
+Bordeaux,historic,Croix du Vigean,44.8818796,-0.6299681,node,6968724048
+Bordeaux,historic,Sans nom,44.8137351,-0.5973575,node,7008068189
+Bordeaux,historic,Sans nom,44.8817821,-0.6130509,node,7080377927
+Bordeaux,historic,Galerie Bordelaise,44.841496,-0.5740455,node,7310720056
+Bordeaux,historic,Grue Wallace,44.8649885,-0.5536747,node,7334211449
+Bordeaux,historic,Statue de Montaigne,44.8449355,-0.5728009,node,7392973683
+Bordeaux,historic,Statue de Montesquieu,44.8462393,-0.5730405,node,7392973684
+Bordeaux,historic,Palais de la Bourse,44.8421984,-0.5708231,node,7684873859
+Bordeaux,historic,Monument aux Morts,44.9094143,-0.6320011,node,8376658488
+Bordeaux,historic,Sans nom,44.8702964,-0.5607701,node,8755812553
+Bordeaux,historic,Sans nom,44.8494402,-0.5607624,node,8757830734
+Bordeaux,historic,Sans nom,44.8794774,-0.611203,node,8758059166
+Bordeaux,historic,monument aux blessés,44.8311356,-0.5712038,node,8768310310
+Bordeaux,historic,Sans nom,44.8734179,-0.5923986,node,8850431658
+Bordeaux,historic,Sans nom,44.8764558,-0.5917756,node,8850431698
+Bordeaux,historic,Sans nom,44.8618875,-0.6157099,node,9422675765
+Bordeaux,historic,Sans nom,44.8527772,-0.6200305,node,9422810971
+Bordeaux,historic,Sans nom,44.8366672,-0.5965461,node,9510417587
+Bordeaux,historic,Sans nom,44.8367137,-0.5959697,node,9510417588
+Bordeaux,historic,Sans nom,44.8368347,-0.5954942,node,9510417589
+Bordeaux,historic,Robert Lateulade,44.8393224,-0.586462,node,9868530010
+Bordeaux,historic,Sans nom,44.8269803,-0.6287004,node,9876816263
+Bordeaux,historic,Abbatiale Saintee-Croix,44.8310495,-0.5615038,node,11397697284
+Bordeaux,historic,Sans nom,44.8198747,-0.5840821,node,11711955263
+Bordeaux,historic,Sans nom,44.8264545,-0.5561394,node,11985684293
+Bordeaux,historic,Sans nom,44.8266166,-0.5562601,node,11985711974
+Bordeaux,historic,Sans nom,44.8267473,-0.5562113,node,11985718365
+Bordeaux,historic,Sans nom,44.8267199,-0.5562202,node,11985723947
+Bordeaux,historic,Sans nom,44.8286754,-0.6270763,node,12327211614
+Bordeaux,historic,Sans nom,44.8584426,-0.5580972,node,12516750753
+Bordeaux,historic,Sans nom,44.8411249,-0.5551814,node,12618875888
+Bordeaux,historic,Sans nom,44.8491329,-0.5789117,node,12751842014
+Bordeaux,historic,Pierre Berland,44.8380843,-0.5777488,node,12819181217
+Bordeaux,historic,Sans nom,44.8344749,-0.5711882,node,12837313087
+Bordeaux,historic,Plaque commémorative Bacalan,44.8739886,-0.5456397,node,12993253685
+Bordeaux,historic,Abraham Baumgart,44.8398647,-0.5707939,node,13037738124
+Bordeaux,historic,Chana Baumgart née Jawic,44.8398657,-0.5707945,node,13037738125
+Bordeaux,historic,Roland Baumgart,44.8398671,-0.5707937,node,13037738126
+Bordeaux,historic,Bernard Baumgart,44.8398661,-0.5707932,node,13037738127
+Bordeaux,historic,Léon Henri Kociolek,44.8398651,-0.5707926,node,13037738128
+Bordeaux,historic,Fritz Weiss,44.8364718,-0.5800322,node,13037738129
+Bordeaux,historic,Alfred G. Ochshorn,44.8364708,-0.5800315,node,13037738130
+Bordeaux,historic,Alfred Loner,44.8364698,-0.5800309,node,13037738131
+Bordeaux,historic,Berthe Katz,44.8371788,-0.5671562,node,13037793157
+Bordeaux,historic,Martin Katz,44.83718,-0.5671564,node,13037793158
+Bordeaux,historic,Marcelle Borruel,44.8213211,-0.5762347,node,13037793159
+Bordeaux,historic,Ginette Borruel,44.821322,-0.5762337,node,13037793160
+Bordeaux,historic,André Murrate,44.831399,-0.5827783,node,13037793161
+Bordeaux,historic,Berthe Murrate,44.8314001,-0.5827791,node,13037793162
+Bordeaux,historic,Sabatino Schinazi,44.872437,-0.5468734,node,13037793163
+Bordeaux,historic,Jean-Bernard Bonnafon,44.8324748,-0.5719248,node,13037909864
+Bordeaux,historic,Germaine Bonnafon,44.8324756,-0.5719256,node,13037909865
+Bordeaux,historic,Hirsch Alisvaks,44.8353267,-0.5757487,node,13037909866
+Bordeaux,historic,Antoinette Alisvaks,44.8353277,-0.575748,node,13037909867
+Bordeaux,historic,Nadia Cyrulnik,44.836944,-0.567737,node,13037909868
+Bordeaux,historic,Aaron Cyrulnik,44.8369433,-0.5677358,node,13037909869
+Bordeaux,historic,Juliette Benzacar,44.847165,-0.5835694,node,13072552965
+Bordeaux,historic,Joseph Benzacar,44.8471641,-0.5835689,node,13072552966
+Bordeaux,historic,Sans nom,44.8429103,-0.5500613,node,13122049286
+Bordeaux,historic,Sans nom,44.8429465,-0.5558809,node,13142853261
+Bordeaux,historic,Germaine Cantelaube,44.8183276,-0.5644647,node,13253118552
+Bordeaux,historic,Jean Cantelaube,44.8183269,-0.5644663,node,13253118553
+Bordeaux,historic,Base Sous-Marine de Bordeaux,44.8703215,-0.558554,way,27589401
+Bordeaux,historic,Ancienne gare Saint-Louis,44.8629701,-0.5679417,way,28087490
+Bordeaux,historic,Forteresse de Blanquefort,44.9011917,-0.6301024,way,57870364
+Bordeaux,historic,Maison Internationale,44.8249651,-0.5775741,way,61729812
+Bordeaux,historic,Maison cantonale,44.8416175,-0.5530285,way,77944246
+Bordeaux,historic,Ancien centre de tri Saint-Jean,44.828524,-0.5553165,way,78430364
+Bordeaux,historic,Ancien bureau de perception de l'octroi - Barrière de Toulouse,44.8148593,-0.5724732,way,78554648
+Bordeaux,historic,Sans nom,44.8445018,-0.5775148,way,79715674
+Bordeaux,historic,Sans nom,44.8445274,-0.5775952,way,79715685
+Bordeaux,historic,Sans nom,44.8447123,-0.5777495,way,79715761
+Bordeaux,historic,Sans nom,44.8449994,-0.5772807,way,79733780
+Bordeaux,historic,Sans nom,44.8450144,-0.5774242,way,79733786
+Bordeaux,historic,Sans nom,44.8408501,-0.5724254,way,79757728
+Bordeaux,historic,Sans nom,44.8404456,-0.5720928,way,79757786
+Bordeaux,historic,Sans nom,44.83946,-0.5687648,way,79757834
+Bordeaux,historic,Hôtel des douanes,44.840682,-0.5698641,way,79757860
+Bordeaux,historic,Sans nom,44.838522,-0.5680285,way,79757891
+Bordeaux,historic,Sans nom,44.8407827,-0.5724227,way,79758029
+Bordeaux,historic,Sans nom,44.8384741,-0.5679808,way,79758036
+Bordeaux,historic,Sans nom,44.8409334,-0.5717676,way,79758057
+Bordeaux,historic,Sans nom,44.8398458,-0.5690323,way,79758082
+Bordeaux,historic,Sans nom,44.8404001,-0.5720008,way,79758252
+Bordeaux,historic,Sans nom,44.8395661,-0.5688456,way,79758262
+Bordeaux,historic,Sans nom,44.8390385,-0.5684398,way,79758282
+Bordeaux,historic,Sans nom,44.8393007,-0.5686429,way,79758285
+Bordeaux,historic,Sans nom,44.8386694,-0.5681555,way,79758315
+Bordeaux,historic,Sans nom,44.8419726,-0.573977,way,79758332
+Bordeaux,historic,Sans nom,44.8391873,-0.5685553,way,79758452
+Bordeaux,historic,Grand Bar Castan,44.8403293,-0.5695215,way,79758500
+Bordeaux,historic,Sans nom,44.8386986,-0.5681799,way,79758645
+Bordeaux,historic,Sans nom,44.8409349,-0.5718496,way,79758776
+Bordeaux,historic,Sans nom,44.8397686,-0.5689754,way,79758778
+Bordeaux,historic,Sans nom,44.840692,-0.5724182,way,79758833
+Bordeaux,historic,Sans nom,44.8404146,-0.5721977,way,79758852
+Bordeaux,historic,Sans nom,44.8392168,-0.5685771,way,79758927
+Bordeaux,historic,Sans nom,44.8401543,-0.5693981,way,79758937
+Bordeaux,historic,Sans nom,44.8382725,-0.5678228,way,79759038
+Bordeaux,historic,Sans nom,44.8384293,-0.567944,way,79759051
+Bordeaux,historic,Sans nom,44.8419424,-0.5743422,way,79759068
+Bordeaux,historic,Sans nom,44.8382254,-0.5677939,way,79759077
+Bordeaux,historic,Sans nom,44.8409364,-0.5721242,way,79759080
+Bordeaux,historic,Sans nom,44.8396451,-0.5689134,way,79759148
+Bordeaux,historic,Sans nom,44.8405001,-0.5723125,way,79759163
+Bordeaux,historic,Maison construite pour Jean-Jacques Bosc,44.8394547,-0.569572,way,79759167
+Bordeaux,historic,Tour Pey Berland,44.837604,-0.5766144,way,79978925
+Bordeaux,historic,Sans nom,44.8404486,-0.580671,way,79979217
+Bordeaux,historic,Sans nom,44.8404399,-0.5805621,way,79979632
+Bordeaux,historic,Sans nom,44.8411457,-0.5798929,way,79979662
+Bordeaux,historic,Sans nom,44.8405255,-0.5798785,way,79980266
+Bordeaux,historic,Sans nom,44.8408092,-0.5799227,way,79980900
+Bordeaux,historic,Hôtel particulier Mel de Fontenay,44.8384995,-0.5803049,way,79981106
+Bordeaux,historic,Sans nom,44.8408799,-0.5799257,way,79981790
+Bordeaux,historic,Grosse Cloche,44.8354463,-0.571358,way,80032457
+Bordeaux,historic,Sans nom,44.8366385,-0.5665026,way,80044068
+Bordeaux,historic,Sans nom,44.8368449,-0.5665967,way,80044080
+Bordeaux,historic,Sans nom,44.83789,-0.5674986,way,80044094
+Bordeaux,historic,Sans nom,44.8370422,-0.5665541,way,80044151
+Bordeaux,historic,Sans nom,44.8370829,-0.5666061,way,80044186
+Bordeaux,historic,Sans nom,44.8377,-0.567281,way,80044315
+Bordeaux,historic,Sans nom,44.8377956,-0.5673888,way,80044334
+Bordeaux,historic,Sans nom,44.8365004,-0.5664341,way,80044350
+Bordeaux,historic,Sans nom,44.8366872,-0.5665163,way,80044362
+Bordeaux,historic,Sans nom,44.8369972,-0.566506,way,80044370
+Bordeaux,historic,Sans nom,44.8367904,-0.5663896,way,80044389
+Bordeaux,historic,Sans nom,44.8364076,-0.5666183,way,80044445
+Bordeaux,historic,Sans nom,44.8365101,-0.566512,way,80044446
+Bordeaux,historic,Sans nom,44.8377471,-0.5673348,way,80044491
+Bordeaux,historic,Sans nom,44.8365768,-0.5664836,way,80044516
+Bordeaux,historic,Sans nom,44.8368034,-0.5665465,way,80044543
+Bordeaux,historic,Sans nom,44.8372477,-0.5669112,way,80044586
+Bordeaux,historic,Sans nom,44.8375553,-0.5671207,way,80044703
+Bordeaux,historic,Sans nom,44.8376522,-0.5672259,way,80044733
+Bordeaux,historic,Sans nom,44.8371839,-0.5667279,way,80044757
+Bordeaux,historic,Sans nom,44.8376101,-0.5671782,way,80044796
+Bordeaux,historic,Maison Acquart,44.8377049,-0.5681773,way,80044812
+Bordeaux,historic,Sans nom,44.8365224,-0.5666092,way,80044820
+Bordeaux,historic,Ancienne Maison de Montaigne,44.8374125,-0.5688497,way,80044830
+Bordeaux,historic,Sans nom,44.8367403,-0.5664885,way,80044832
+Bordeaux,historic,Sans nom,44.837153,-0.5666928,way,80044909
+Bordeaux,historic,Sans nom,44.8363786,-0.5667114,way,80044943
+Bordeaux,historic,Sans nom,44.8378426,-0.5674432,way,80044991
+Bordeaux,historic,Sans nom,44.8373378,-0.5669033,way,80044996
+Bordeaux,historic,Sans nom,44.8370987,-0.5666707,way,80045032
+Bordeaux,historic,Château de Curégan,44.906053,-0.629292,way,110452616
+Bordeaux,historic,Hôtel Gradis,44.8347201,-0.5730977,way,115507152
+Bordeaux,historic,Porte d'Aquitaine,44.83115,-0.572748,way,116016762
+Bordeaux,historic,Sans nom,44.8354755,-0.5649361,way,116378851
+Bordeaux,historic,Sans nom,44.8356502,-0.5651295,way,116378856
+Bordeaux,historic,Sans nom,44.834887,-0.5643809,way,116378874
+Bordeaux,historic,Sans nom,44.8360316,-0.5655786,way,116378880
+Bordeaux,historic,Sans nom,44.835897,-0.5654107,way,116378886
+Bordeaux,historic,Sans nom,44.8361015,-0.5660593,way,116378887
+Bordeaux,historic,Sans nom,44.8347994,-0.5642068,way,116378908
+Bordeaux,historic,Sans nom,44.8351325,-0.5646121,way,116378919
+Bordeaux,historic,Sans nom,44.8358734,-0.5653817,way,116378940
+Bordeaux,historic,Sans nom,44.8356031,-0.5650777,way,116378968
+Bordeaux,historic,Sans nom,44.8355141,-0.564978,way,116378976
+Bordeaux,historic,Sans nom,44.8355569,-0.5650243,way,116378996
+Bordeaux,historic,Sans nom,44.8351782,-0.5647334,way,116379003
+Bordeaux,historic,Sans nom,44.8352489,-0.5648134,way,116379005
+Bordeaux,historic,Sans nom,44.835073,-0.564549,way,116379064
+Bordeaux,historic,Sans nom,44.8346844,-0.5641557,way,116379068
+Bordeaux,historic,Sans nom,44.8349452,-0.5643958,way,116379097
+Bordeaux,historic,Sans nom,44.8361019,-0.5659747,way,116379125
+Bordeaux,historic,Sans nom,44.8359806,-0.5655189,way,116379229
+Bordeaux,historic,Sans nom,44.8357466,-0.5652363,way,116379255
+Bordeaux,historic,Sans nom,44.8359318,-0.5654563,way,116379257
+Bordeaux,historic,Sans nom,44.8351693,-0.564662,way,116379258
+Bordeaux,historic,Sans nom,44.8347612,-0.564158,way,116379263
+Bordeaux,historic,Sans nom,44.8356963,-0.5651811,way,116379299
+Bordeaux,historic,Sans nom,44.8361259,-0.5661854,way,116379314
+Bordeaux,historic,Sans nom,44.8352194,-0.5647776,way,116379321
+Bordeaux,historic,Sans nom,44.8358378,-0.5653371,way,116379328
+Bordeaux,historic,Bourse Maritime,44.8484816,-0.5713033,way,117456212
+Bordeaux,historic,CAPC - Musée d'art contemporain de Bordeaux,44.8486068,-0.5721515,way,117456213
+Bordeaux,historic,Sans nom,44.840386,-0.5813015,way,117469981
+Bordeaux,historic,Sans nom,44.830995,-0.5588283,way,119060948
+Bordeaux,historic,Château Descas,44.8303897,-0.5578607,way,119060956
+Bordeaux,historic,Sans nom,44.831083,-0.5584861,way,119061037
+Bordeaux,historic,Maison Montigny,44.9112435,-0.63206,way,119247365
+Bordeaux,historic,Château Dehez,44.9075185,-0.6098713,way,119247757
+Bordeaux,historic,La Dimière,44.9118907,-0.6339816,way,119247906
+Bordeaux,historic,Hôtel de Ville de Blanquefort,44.9086659,-0.6295103,way,119248474
+Bordeaux,historic,Immeuble (vestige du Noviciat des Jésuites),44.8310696,-0.5627236,way,126668816
+Bordeaux,historic,Immeuble (vestige du Noviciat des Jésuites),44.8310311,-0.5623145,way,126668934
+Bordeaux,historic,Sans nom,44.8319695,-0.5629194,way,126669074
+Bordeaux,historic,Immeuble (vestige du Noviciat des Jésuites),44.8310609,-0.5626419,way,126669467
+Bordeaux,historic,Sans nom,44.8774335,-0.54957,way,154112428
+Bordeaux,historic,Sans nom,44.880003,-0.543837,way,154114045
+Bordeaux,historic,Sans nom,44.8808535,-0.5486485,way,154114046
+Bordeaux,historic,Sans nom,44.879747,-0.551702,way,154114049
+Bordeaux,historic,Sans nom,44.8785075,-0.5489015,way,154114051
+Bordeaux,historic,Sans nom,44.8780135,-0.5471055,way,154114053
+Bordeaux,historic,Sans nom,44.880412,-0.5464065,way,154114259
+Bordeaux,historic,Château de Treulon,44.882471,-0.6170286,way,154212453
+Bordeaux,historic,Sans nom,44.881596,-0.6120101,way,154212955
+Bordeaux,historic,Château du Grand Darnal,44.8849965,-0.604663,way,154224861
+Bordeaux,historic,Anciens silos à grain,44.8642265,-0.551442,way,154280918
+Bordeaux,historic,Sans nom,44.864115,-0.5496365,way,154283601
+Bordeaux,historic,Sans nom,44.8682145,-0.5548065,way,154283657
+Bordeaux,historic,Abri anti-aérien de la SNCASO,44.8712105,-0.5543345,way,154284224
+Bordeaux,historic,Temple des Chartrons,44.8496265,-0.5719695,way,154322410
+Bordeaux,historic,Château Labottière,44.8538025,-0.5895125,way,154395137
+Bordeaux,historic,Castel d'Andorte,44.8658295,-0.610646,way,154690214
+Bordeaux,historic,Sans nom,44.860891,-0.5932825,way,154690454
+Bordeaux,historic,Château des Tours,44.862976,-0.6031305,way,154696871
+Bordeaux,historic,Pavillon de musique,44.8494895,-0.5821645,way,154771071
+Bordeaux,historic,Hôtel dit de la Faïencerie,44.846226,-0.5775815,way,154773049
+Bordeaux,historic,Sans nom,44.845732,-0.585335,way,154788098
+Bordeaux,historic,Sans nom,44.8418415,-0.5807035,way,154845392
+Bordeaux,historic,Sans nom,44.8420595,-0.580147,way,154845764
+Bordeaux,historic,Hôtel de Bryas,44.846385,-0.580513,way,154846128
+Bordeaux,historic,Sans nom,44.8476345,-0.5916205,way,154846334
+Bordeaux,historic,Sans nom,44.8418885,-0.58062,way,154847322
+Bordeaux,historic,Sans nom,44.8417825,-0.581042,way,154847465
+Bordeaux,historic,Sans nom,44.8425615,-0.5799501,way,154847544
+Bordeaux,historic,Sans nom,44.8418975,-0.580483,way,154849823
+Bordeaux,historic,Sans nom,44.844366,-0.5818615,way,154850223
+Bordeaux,historic,Sans nom,44.8427195,-0.5797911,way,154851040
+Bordeaux,historic,Sans nom,44.841787,-0.5807665,way,154852671
+Bordeaux,historic,Sans nom,44.8409845,-0.5814435,way,154884380
+Bordeaux,historic,Sans nom,44.8405755,-0.5812935,way,154884491
+Bordeaux,historic,Sans nom,44.8413825,-0.58135,way,154884740
+Bordeaux,historic,Ancien Octroi,44.821484,-0.582912,way,155596507
+Bordeaux,historic,Sans nom,44.827317,-0.5611685,way,155683480
+Bordeaux,historic,Sans nom,44.8225435,-0.579722,way,155724935
+Bordeaux,historic,Sans nom,44.826068,-0.5918915,way,155974554
+Bordeaux,historic,Sans nom,44.8419765,-0.604302,way,156051872
+Bordeaux,historic,Sans nom,44.8406635,-0.5998915,way,156057144
+Bordeaux,historic,Sans nom,44.8515655,-0.5957265,way,156193106
+Bordeaux,historic,Sans nom,44.859936,-0.612377,way,156193234
+Bordeaux,historic,Sans nom,44.851235,-0.620066,way,156217777
+Bordeaux,historic,Sans nom,44.8487445,-0.6244485,way,156219106
+Bordeaux,historic,Maison connue sous le nom de Bourdieu de la Jalle,44.844559,-0.60565,way,156230559
+Bordeaux,historic,Château des Arts,44.814187,-0.5973325,way,162254275
+Bordeaux,historic,Fontaine d'Arlac,44.826428,-0.6249555,way,164145536
+Bordeaux,historic,Ancienne fontaine du Tondu,44.826137,-0.614754,way,164147172
+Bordeaux,historic,Sans nom,44.8222455,-0.6123655,way,164151177
+Bordeaux,historic,Château de Bourran,44.838712,-0.62925,way,164154647
+Bordeaux,historic,Château Bel Air,44.885255,-0.6302695,way,173354778
+Bordeaux,historic,Château Lescat,44.885177,-0.62979,way,173355456
+Bordeaux,historic,Sans nom,44.8771655,-0.6239555,way,173355633
+Bordeaux,historic,Château Lagravade,44.8844255,-0.6382255,way,173355674
+Bordeaux,historic,Château Primerose,44.884148,-0.6286065,way,173368820
+Bordeaux,historic,Château Vigean-Ségur,44.8855005,-0.632723,way,173368972
+Bordeaux,historic,Château Eysinoff,44.8772275,-0.623883,way,173369496
+Bordeaux,historic,Sans nom,44.83809,-0.589935,way,189486939
+Bordeaux,historic,Arche Palais Gallien,44.847198,-0.5819139,way,219119805
+Bordeaux,historic,Gare de Bordeaux-Bastide,44.8416245,-0.562075,way,219626597
+Bordeaux,historic,Château Chambret,44.8110125,-0.636098,way,223472356
+Bordeaux,historic,Marché des Douves,44.8307299,-0.5661621,way,289538288
+Bordeaux,historic,Lébade de Blanquefort,44.9034938,-0.6310056,way,442956408
+Bordeaux,historic,Lébade de Blanquefort,44.8896556,-0.6238926,way,442965882
+Bordeaux,historic,Passerelle Eiffel,44.8320861,-0.5518638,way,459203955
+Bordeaux,historic,Porte de Bourgogne,44.8363327,-0.5662558,way,496949277
+Bordeaux,historic,Monument aux Girondins,44.8453952,-0.5748552,way,568436009
+Bordeaux,historic,Sans nom,44.8887343,-0.6182462,way,667955695
+Bordeaux,historic,Sans nom,44.8478405,-0.5828227,way,703849019
+Bordeaux,historic,Sans nom,44.8475745,-0.5829442,way,703849020
+Bordeaux,historic,Sans nom,44.847572,-0.5828994,way,703849021
+Bordeaux,historic,Sans nom,44.8736969,-0.5558587,way,758399501
+Bordeaux,historic,Lébade de Blanquefort,44.855291,-0.5898294,way,770649587
+Bordeaux,historic,Sans nom,44.8774324,-0.5433224,way,780230189
+Bordeaux,historic,Anciens massifs d'ancrage du pont transbordeur de Bordeaux,44.8514966,-0.5588625,way,921992486
+Bordeaux,historic,Anciennes piles du pont transbordeur de Bordeaux,44.8525393,-0.5600874,way,921992489
+Bordeaux,historic,Les Citernes,44.8211266,-0.5593515,way,935336316
+Bordeaux,historic,Sans nom,44.821187,-0.5592914,way,935336317
+Bordeaux,historic,Sans nom,44.821149,-0.5593302,way,935336318
+Bordeaux,historic,Sans nom,44.82111,-0.5593664,way,935336319
+Bordeaux,historic,Sans nom,44.8210716,-0.5594047,way,935336320
+Bordeaux,historic,Sans nom,44.8249089,-0.5359248,way,936635333
+Bordeaux,historic,La Glacière,44.8386401,-0.6251578,way,958465897
+Bordeaux,historic,Château La Tour Haut Brion,44.8115129,-0.6009024,way,958771235
+Bordeaux,historic,Lébade de Blanquefort,44.8515632,-0.5868099,way,1023103704
+Bordeaux,historic,Porte Cailhau,44.838757,-0.5684998,way,1093782523
+Bordeaux,historic,Sans nom,44.9011562,-0.6301576,way,1102399780
+Bordeaux,historic,Sans nom,44.8142566,-0.6127976,way,1232967453
+Bordeaux,historic,Sans nom,44.8154003,-0.6056002,way,1236248661
+Bordeaux,historic,Sans nom,44.8477554,-0.5662459,way,1391877475
+Bordeaux,historic,Sans nom,44.8493925,-0.5647487,way,1391877476
+Bordeaux,historic,Sans nom,44.8494098,-0.5646057,way,1391877477
+Bordeaux,historic,Ancienne Préfecture de Gironde,44.8427189,-0.5727955,relation,1241228
+Bordeaux,historic,Place de la Bourse,44.8414563,-0.5701272,relation,1818973
+Bordeaux,historic,Sans nom,44.8424903,-0.580047,relation,2081048
+Bordeaux,historic,Sans nom,44.8409165,-0.581408,relation,2081409
+Bordeaux,historic,Sans nom,44.8411745,-0.581403,relation,2081417
+Bordeaux,historic,Château du Burck,44.8169001,-0.6372471,relation,2182125
+Bordeaux,historic,Bourse du Travail,44.8322547,-0.5775987,relation,2226561
+Bordeaux,historic,Place de la Bourse,44.8414563,-0.5701272,relation,3011554
+Bordeaux,historic,La Lébade,45.075259,-0.7556293,relation,4102457
+Bordeaux,historic,Lébade de Blanquefort,44.8815582,-0.6103749,relation,6593638
+Bordeaux,historic,Ruines du Palais Gallien,44.8477429,-0.5828315,relation,9786800
+Bordeaux,historic,Sans nom,44.8477948,-0.5828697,relation,9786844
+Bordeaux,historic,Formes de radoub,44.8656033,-0.5544359,relation,10922337
+Bordeaux,historic,Maison Saint-Louis,44.9091612,-0.6326064,relation,14705621

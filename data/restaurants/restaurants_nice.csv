@@ -1,0 +1,60 @@
+restaurant_id,city,name,latitude,longitude,rating,total_ratings,price_range,cuisine_type,address,phone,website,opening_hours,data_source
+nice_resto_001,Nice,La Table du Nice,43.66182,7.278749,3.4,196,€€€,Italienne,121 Rue Principale,0285579781,https://www.nice-restaurant-1.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_002,Nice,Le Table de Nice,43.753306,7.236913,4.0,49,€,Niçoise,60 Rue Principale,0311541640,https://www.nice-restaurant-2.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_003,Nice,Les Traditionnel Comptoir,43.68033,7.223869,4.1,459,€€,Provençale,90 Rue du Centre,0137604897,https://www.nice-restaurant-3.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_004,Nice,Brasserie Chez Central,43.708439,7.24287,3.2,144,€€,Méditerranéenne,86 Rue Principale,0339518524,https://www.nice-restaurant-4.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_005,Nice,Le Nouveau Restaurant,43.741841,7.267914,4.3,291,€,Provençale,135 Rue Principale,0260726956,https://www.nice-restaurant-5.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_006,Nice,Restaurant Chez du Marché,43.754835,7.245897,3.5,12,€,Méditerranéenne,90 Rue Principale,0395507941,https://www.nice-restaurant-6.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_007,Nice,Le Table de Nice,43.752001,7.269896,3.9,162,€,Provençale,99 Rue Principale,0514374276,https://www.nice-restaurant-7.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_008,Nice,Le Cuisine du Nice,43.719387,7.298983,4.2,208,€€€,Méditerranéenne,137 Rue du Centre,0638403192,https://www.nice-restaurant-8.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_009,Nice,Au Café Nice,43.697626,7.295151,4.2,489,€,Niçoise,82 Rue de Paris,0536732736,https://www.nice-restaurant-9.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_010,Nice,Chez Vieux Café,43.686109,7.271039,4.0,338,€€,Méditerranéenne,131 Rue Principale,0242377152,https://www.nice-restaurant-10.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_011,Nice,Table Au du Port,43.702106,7.270616,3.5,456,€€,Niçoise,107 Rue Victor Hugo,0587969099,https://www.nice-restaurant-11.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_012,Nice,Le Table de Nice,43.663602,7.295195,4.6,301,€,Italienne,51 Rue du Centre,0664941436,https://www.nice-restaurant-12.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_013,Nice,Au Café Nice,43.706308,7.223783,4.3,430,€€€,Italienne,36 Rue du Centre,0461639910,https://www.nice-restaurant-13.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_014,Nice,Le Cuisine de Nice,43.728899,7.233171,3.2,78,€€,Niçoise,152 Rue du Centre,0299141773,https://www.nice-restaurant-14.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_015,Nice,Au Grand Café,43.660621,7.246211,4.6,138,€€€,Poisson,93 Rue de Paris,0218378985,https://www.nice-restaurant-15.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_016,Nice,Restaurant Chez du Marché,43.753902,7.303197,4.0,415,€€€,Italienne,4 Rue Principale,0143255657,https://www.nice-restaurant-16.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_017,Nice,Le Bouchon Nice,43.702689,7.216845,4.8,58,€€,Niçoise,164 Rue Principale,0328538555,https://www.nice-restaurant-17.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_018,Nice,Le Cuisine du Nice,43.717949,7.300973,4.4,91,€,Poisson,186 Rue Victor Hugo,0486183153,https://www.nice-restaurant-18.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_019,Nice,Chez Bouchon Nice,43.721152,7.25626,3.9,305,€€€,Méditerranéenne,126 Rue Principale,0236932237,https://www.nice-restaurant-19.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_020,Nice,La Café Nice,43.759008,7.219987,3.8,201,€€€,Provençale,89 Rue Principale,0554739263,https://www.nice-restaurant-20.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_021,Nice,Le Table de Nice,43.680896,7.220158,3.7,97,€€€,Méditerranéenne,197 Rue Principale,0657637163,https://www.nice-restaurant-21.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_022,Nice,Les Vieux Brasserie,43.66268,7.302535,3.8,281,€,Niçoise,174 Rue Principale,0643351311,https://www.nice-restaurant-22.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_023,Nice,Les Vieux Café,43.726616,7.213692,3.6,495,€,Méditerranéenne,51 Rue Victor Hugo,0339235754,https://www.nice-restaurant-23.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_024,Nice,Chez Bouchon Nice,43.736051,7.22709,3.3,279,€€€,Méditerranéenne,104 Rue du Centre,0557541867,https://www.nice-restaurant-24.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_025,Nice,Le Comptoir Nice,43.727639,7.221782,4.7,120,€€€,Poisson,148 Rue de Paris,0134183011,https://www.nice-restaurant-25.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_026,Nice,Le Comptoir Nice,43.7115,7.295308,4.2,258,€€,Provençale,158 Rue du Centre,0469416036,https://www.nice-restaurant-26.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_027,Nice,Café La Nice,43.736219,7.267065,3.3,185,€€,Provençale,102 Rue Principale,0691887359,https://www.nice-restaurant-27.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_028,Nice,Chez Typique Restaurant,43.700228,7.282008,3.5,316,€€,Méditerranéenne,103 Rue du Centre,0399135673,https://www.nice-restaurant-28.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_029,Nice,Brasserie Au du Marché,43.737225,7.232164,3.9,478,€,Niçoise,105 Rue Victor Hugo,0546551144,https://www.nice-restaurant-29.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_030,Nice,Le Café Nice,43.738283,7.294113,3.3,258,€,Niçoise,74 Rue Principale,0216757462,https://www.nice-restaurant-30.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_031,Nice,La Cuisine de Nice,43.677588,7.277965,4.4,488,€€,Méditerranéenne,197 Rue du Centre,0497169577,https://www.nice-restaurant-31.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_032,Nice,Restaurant Chez Central,43.673615,7.2196,4.4,203,€€€,Méditerranéenne,27 Rue du Centre,0686212692,https://www.nice-restaurant-32.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_033,Nice,Restaurant Les du Marché,43.728938,7.229041,3.7,305,€,Provençale,127 Rue du Centre,0198897440,https://www.nice-restaurant-33.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_034,Nice,Café Le Central,43.745034,7.28753,3.8,318,€€€,Provençale,110 Rue Principale,0171928457,https://www.nice-restaurant-34.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_035,Nice,Le Comptoir Nice,43.674673,7.292424,3.7,325,€,Italienne,29 Rue Principale,0117524713,https://www.nice-restaurant-35.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_036,Nice,Le Vieux Café,43.725269,7.216804,4.4,181,€€,Méditerranéenne,24 Rue Principale,0411156611,https://www.nice-restaurant-36.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_037,Nice,Brasserie Les du Marché,43.759849,7.281239,4.2,75,€,Italienne,34 Rue Victor Hugo,0335129810,https://www.nice-restaurant-37.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_038,Nice,Au Café Nice,43.73077,7.274333,3.9,398,€,Italienne,15 Rue Victor Hugo,0327614792,https://www.nice-restaurant-38.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_039,Nice,Brasserie Le Nice,43.683182,7.29435,4.6,491,€€,Niçoise,156 Rue Principale,0425644233,https://www.nice-restaurant-39.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_040,Nice,Le Typique Restaurant,43.721132,7.224949,4.7,431,€€€,Poisson,165 Rue Victor Hugo,0393505959,https://www.nice-restaurant-40.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_041,Nice,Le Table du Nice,43.726105,7.240243,3.7,128,€€€,Méditerranéenne,151 Rue Victor Hugo,0665599438,https://www.nice-restaurant-41.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_042,Nice,Table Le Central,43.719829,7.216724,4.2,268,€,Italienne,189 Rue Principale,0614673159,https://www.nice-restaurant-42.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_043,Nice,Comptoir Au de la Gare,43.75645,7.216252,4.7,186,€€,Provençale,108 Rue de Paris,0383371046,https://www.nice-restaurant-43.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_044,Nice,Comptoir Chez du Port,43.667912,7.268042,4.4,139,€,Poisson,49 Rue du Centre,0683443127,https://www.nice-restaurant-44.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_045,Nice,La Cuisine du Nice,43.733478,7.241165,3.9,358,€€€,Provençale,98 Rue de Paris,0568259378,https://www.nice-restaurant-45.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_046,Nice,Chez Comptoir Nice,43.722862,7.224226,3.5,376,€€€,Méditerranéenne,107 Rue Victor Hugo,0230113589,https://www.nice-restaurant-46.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_047,Nice,Les Traditionnel Bistro,43.693694,7.295065,3.4,122,€€,Méditerranéenne,36 Rue de Paris,0325144311,https://www.nice-restaurant-47.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_048,Nice,Table Chez Nice,43.71956,7.295376,3.4,348,€€€,Provençale,186 Rue de Paris,0518592282,https://www.nice-restaurant-48.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_049,Nice,Au Traditionnel Bistro,43.666318,7.279387,3.8,274,€€,Méditerranéenne,95 Rue Victor Hugo,0112327585,https://www.nice-restaurant-49.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_050,Nice,Le Bouchon Nice,43.738863,7.284386,4.5,7,€€,Méditerranéenne,102 Rue Principale,0585859774,https://www.nice-restaurant-50.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_051,Nice,Les Café Nice,43.743781,7.284522,4.2,29,€€,Poisson,111 Rue de Paris,0314413557,https://www.nice-restaurant-51.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_052,Nice,Café Les Central,43.666365,7.285377,4.1,151,€€€,Niçoise,137 Rue du Centre,0519711533,https://www.nice-restaurant-52.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_053,Nice,Comptoir Le de la Gare,43.705737,7.218985,3.3,45,€€€,Niçoise,74 Rue Principale,0663353510,https://www.nice-restaurant-53.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_054,Nice,Comptoir Chez Nice,43.73343,7.227779,4.0,366,€,Provençale,185 Rue de Paris,0646148380,https://www.nice-restaurant-54.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_055,Nice,La Table de Nice,43.660545,7.25008,3.5,46,€,Méditerranéenne,72 Rue du Centre,0534929819,https://www.nice-restaurant-55.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_056,Nice,La Cuisine de Nice,43.668223,7.219613,3.7,398,€€€,Niçoise,92 Rue Victor Hugo,0466277145,https://www.nice-restaurant-56.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_057,Nice,Table Chez du Port,43.743202,7.269564,4.8,244,€€€,Provençale,190 Rue Principale,0663613694,https://www.nice-restaurant-57.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_058,Nice,Café Au Central,43.743374,7.310089,3.9,315,€€€,Poisson,43 Rue du Centre,0664359145,https://www.nice-restaurant-58.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_059,Nice,La Café Nice,43.736705,7.23441,4.5,237,€€€,Provençale,67 Rue du Centre,0217144815,https://www.nice-restaurant-59.fr,"12:00-14:00, 19:00-22:00",generated_data

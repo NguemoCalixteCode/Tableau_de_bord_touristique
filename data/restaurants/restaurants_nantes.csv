@@ -1,0 +1,63 @@
+restaurant_id,city,name,latitude,longitude,rating,total_ratings,price_range,cuisine_type,address,phone,website,opening_hours,data_source
+nantes_resto_001,Nantes,La Cuisine du Nantes,47.260973,-1.596955,4.3,84,€€,Française,26 Rue de Paris,0648585269,https://www.nantes-restaurant-1.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_002,Nantes,Les Nouveau Café,47.246267,-1.546564,4.5,398,€€€,Traditionnelle,173 Rue Principale,0447254354,https://www.nantes-restaurant-2.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_003,Nantes,Au Comptoir Nantes,47.256142,-1.556705,4.3,111,€€€,Traditionnelle,135 Rue Victor Hugo,0282422870,https://www.nantes-restaurant-3.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_004,Nantes,Le Comptoir Nantes,47.202885,-1.547318,3.8,158,€€,Produits de la mer,76 Rue de Paris,0212132987,https://www.nantes-restaurant-4.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_005,Nantes,La Typique Table,47.211027,-1.504123,4.6,402,€,Française,157 Rue Victor Hugo,0313718035,https://www.nantes-restaurant-5.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_006,Nantes,Brasserie Les Nantes,47.169948,-1.60291,3.8,329,€€€,Française,198 Rue de Paris,0599627027,https://www.nantes-restaurant-6.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_007,Nantes,Comptoir La du Port,47.212568,-1.528597,4.7,384,€,Traditionnelle,116 Rue de Paris,0220834813,https://www.nantes-restaurant-7.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_008,Nantes,La Bouchon Nantes,47.265462,-1.526395,4.4,117,€€,Traditionnelle,132 Rue Victor Hugo,0410803892,https://www.nantes-restaurant-8.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_009,Nantes,Brasserie Les de la Gare,47.189737,-1.52627,4.4,273,€€,Traditionnelle,162 Rue Victor Hugo,0149243542,https://www.nantes-restaurant-9.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_010,Nantes,Les Comptoir Nantes,47.208313,-1.567379,4.8,218,€€,Française,151 Rue de Paris,0296799690,https://www.nantes-restaurant-10.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_011,Nantes,Brasserie La des Arts,47.174052,-1.581044,3.7,331,€€€,Produits de la mer,199 Rue de Paris,0328503524,https://www.nantes-restaurant-11.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_012,Nantes,Café Les Nantes,47.215364,-1.555426,4.5,354,€€€,Produits de la mer,35 Rue du Centre,0352902689,https://www.nantes-restaurant-12.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_013,Nantes,Chez Nouveau Bistro,47.212367,-1.537606,4.0,159,€€,Française,82 Rue Victor Hugo,0233607867,https://www.nantes-restaurant-13.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_014,Nantes,Comptoir Les du Port,47.239793,-1.556155,3.3,334,€,Française,46 Rue du Centre,0669464538,https://www.nantes-restaurant-14.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_015,Nantes,Restaurant Chez Nantes,47.179727,-1.586423,3.6,358,€€,Française,64 Rue du Centre,0146785119,https://www.nantes-restaurant-15.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_016,Nantes,La Table du Nantes,47.223444,-1.537778,4.1,43,€,Traditionnelle,71 Rue de Paris,0561886138,https://www.nantes-restaurant-16.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_017,Nantes,Chez Nouveau Table,47.246285,-1.55916,3.6,128,€,Produits de la mer,31 Rue de Paris,0569239285,https://www.nantes-restaurant-17.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_018,Nantes,Le Table de Nantes,47.191869,-1.595039,4.6,459,€,Traditionnelle,129 Rue de Paris,0413543890,https://www.nantes-restaurant-18.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_019,Nantes,Chez Nouveau Restaurant,47.208464,-1.597271,3.8,398,€,Française,49 Rue du Centre,0679457825,https://www.nantes-restaurant-19.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_020,Nantes,La Cuisine de Nantes,47.170432,-1.564136,4.0,338,€,Française,76 Rue de Paris,0385798164,https://www.nantes-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_021,Nantes,La Cuisine de Nantes,47.257247,-1.512998,4.6,133,€€,Produits de la mer,3 Rue du Centre,0117225266,https://www.nantes-restaurant-21.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_022,Nantes,La Bouchon Nantes,47.173435,-1.597914,3.9,142,€,Traditionnelle,95 Rue de Paris,0440489593,https://www.nantes-restaurant-22.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_023,Nantes,Au Comptoir Nantes,47.225468,-1.558622,3.9,158,€€€,Traditionnelle,149 Rue Victor Hugo,0693773718,https://www.nantes-restaurant-23.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_024,Nantes,Brasserie La des Arts,47.175997,-1.544603,3.2,338,€,Française,111 Rue du Centre,0487471199,https://www.nantes-restaurant-24.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_025,Nantes,Le Table de Nantes,47.206902,-1.559129,3.7,85,€€€,Française,166 Rue de Paris,0376868727,https://www.nantes-restaurant-25.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_026,Nantes,Bistro Chez du Port,47.22998,-1.561782,4.3,92,€€€,Française,177 Rue de Paris,0265963429,https://www.nantes-restaurant-26.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_027,Nantes,Brasserie Les Nantes,47.216033,-1.563433,4.6,56,€€€,Française,121 Rue Victor Hugo,0482251972,https://www.nantes-restaurant-27.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_028,Nantes,La Bon Café,47.264128,-1.591444,4.4,205,€€,Française,136 Rue de Paris,0474182343,https://www.nantes-restaurant-28.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_029,Nantes,Le Petit Bistro,47.234246,-1.54565,3.6,312,€€€,Produits de la mer,59 Rue Victor Hugo,0281393563,https://www.nantes-restaurant-29.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_030,Nantes,Les Comptoir Nantes,47.205415,-1.562558,3.4,343,€,Traditionnelle,138 Rue de Paris,0518265926,https://www.nantes-restaurant-30.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_031,Nantes,La Café Nantes,47.250103,-1.599687,4.2,94,€€€,Traditionnelle,155 Rue Principale,0346191731,https://www.nantes-restaurant-31.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_032,Nantes,La Cuisine du Nantes,47.254105,-1.598372,4.6,466,€€,Française,162 Rue Victor Hugo,0160961869,https://www.nantes-restaurant-32.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_033,Nantes,Chez Bouchon Nantes,47.198755,-1.519247,4.5,35,€,Traditionnelle,107 Rue Victor Hugo,0644873739,https://www.nantes-restaurant-33.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_034,Nantes,Brasserie La Central,47.248834,-1.570107,3.9,48,€€,Française,62 Rue Victor Hugo,0140256529,https://www.nantes-restaurant-34.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_035,Nantes,La Cuisine de Nantes,47.213811,-1.53175,4.3,117,€€,Française,98 Rue Principale,0345948790,https://www.nantes-restaurant-35.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_036,Nantes,Le Comptoir Nantes,47.215583,-1.582331,4.0,237,€€€,Traditionnelle,43 Rue du Centre,0241982394,https://www.nantes-restaurant-36.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_037,Nantes,Les Nouveau Restaurant,47.192967,-1.538709,4.7,399,€,Produits de la mer,89 Rue Principale,0347341725,https://www.nantes-restaurant-37.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_038,Nantes,Le Bouchon Nantes,47.252364,-1.540327,3.7,91,€€€,Traditionnelle,193 Rue du Centre,0244437093,https://www.nantes-restaurant-38.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_039,Nantes,La Table de Nantes,47.24097,-1.53861,3.3,213,€€€,Produits de la mer,30 Rue Principale,0391878154,https://www.nantes-restaurant-39.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_040,Nantes,Café La Nantes,47.267165,-1.588613,3.6,256,€€,Traditionnelle,199 Rue du Centre,0237139766,https://www.nantes-restaurant-40.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_041,Nantes,Le Bon Comptoir,47.266614,-1.528798,4.7,372,€€€,Traditionnelle,144 Rue Principale,0333582328,https://www.nantes-restaurant-41.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_042,Nantes,Au Bouchon Nantes,47.221071,-1.592679,3.7,313,€€€,Produits de la mer,70 Rue du Centre,0682264579,https://www.nantes-restaurant-42.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_043,Nantes,Brasserie La du Port,47.265301,-1.57861,4.7,39,€,Française,40 Rue Principale,0174259142,https://www.nantes-restaurant-43.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_044,Nantes,Le Vieux Bistro,47.175232,-1.575994,3.3,367,€,Traditionnelle,87 Rue de Paris,0195969434,https://www.nantes-restaurant-44.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_045,Nantes,Chez Comptoir Nantes,47.231882,-1.511737,3.5,423,€€,Produits de la mer,120 Rue Principale,0367459857,https://www.nantes-restaurant-45.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_046,Nantes,La Table de Nantes,47.216058,-1.599816,3.5,379,€€€,Française,40 Rue de Paris,0565363499,https://www.nantes-restaurant-46.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_047,Nantes,Le Grand Comptoir,47.213538,-1.54644,4.1,219,€€,Française,195 Rue Principale,0348326649,https://www.nantes-restaurant-47.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_048,Nantes,Le Cuisine du Nantes,47.211558,-1.538568,4.4,483,€€,Produits de la mer,99 Rue du Centre,0577519520,https://www.nantes-restaurant-48.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_049,Nantes,La Cuisine du Nantes,47.243485,-1.545155,3.7,81,€,Produits de la mer,163 Rue du Centre,0227889657,https://www.nantes-restaurant-49.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_050,Nantes,Bistro Le des Arts,47.207631,-1.563075,4.4,102,€€,Traditionnelle,64 Rue Principale,0254758876,https://www.nantes-restaurant-50.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_051,Nantes,La Cuisine du Nantes,47.227733,-1.52648,3.8,225,€€,Traditionnelle,44 Rue de Paris,0634457544,https://www.nantes-restaurant-51.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_052,Nantes,Le Nouveau Café,47.218079,-1.552478,4.7,102,€,Produits de la mer,147 Rue du Centre,0330723817,https://www.nantes-restaurant-52.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_053,Nantes,Le Table de Nantes,47.217874,-1.508032,4.8,107,€€,Française,114 Rue du Centre,0484156616,https://www.nantes-restaurant-53.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_054,Nantes,Le Traditionnel Restaurant,47.251957,-1.585692,3.3,189,€€€,Traditionnelle,126 Rue de Paris,0592284794,https://www.nantes-restaurant-54.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_055,Nantes,Chez Vieux Restaurant,47.264178,-1.59977,3.3,177,€€,Française,133 Rue Principale,0197846740,https://www.nantes-restaurant-55.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_056,Nantes,Le Bouchon Nantes,47.207803,-1.538451,4.1,102,€€€,Produits de la mer,132 Rue Victor Hugo,0221812388,https://www.nantes-restaurant-56.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_057,Nantes,Les Comptoir Nantes,47.185187,-1.53714,3.9,179,€,Traditionnelle,55 Rue Victor Hugo,0689201391,https://www.nantes-restaurant-57.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_058,Nantes,Bistro La de la Gare,47.230511,-1.569525,4.7,87,€,Traditionnelle,12 Rue de Paris,0581665831,https://www.nantes-restaurant-58.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_059,Nantes,Café Chez Central,47.247072,-1.530344,3.2,350,€,Produits de la mer,26 Rue de Paris,0621353550,https://www.nantes-restaurant-59.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_060,Nantes,Le Bouchon Nantes,47.209114,-1.563385,3.9,178,€€,Produits de la mer,193 Rue de Paris,0282489533,https://www.nantes-restaurant-60.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_061,Nantes,La Vieux Bistro,47.173473,-1.533892,4.1,13,€€,Traditionnelle,180 Rue de Paris,0579457066,https://www.nantes-restaurant-61.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_062,Nantes,Au Café Nantes,47.246876,-1.598848,4.7,480,€€€,Traditionnelle,70 Rue du Centre,0281359052,https://www.nantes-restaurant-62.fr,"12:00-14:00, 19:00-22:00",generated_data

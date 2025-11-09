@@ -1,0 +1,78 @@
+restaurant_id,city,name,latitude,longitude,rating,total_ratings,price_range,cuisine_type,address,phone,website,opening_hours,data_source
+bordeaux_resto_001,Bordeaux,Le Nouveau Bistro,44.86183,-0.627311,3.5,451,€€,Sud-Ouest,49 Rue de Paris,0593419063,https://www.bordeaux-restaurant-1.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_002,Bordeaux,Les Café Bordeaux,44.871159,-0.614739,3.3,378,€€€,Vins,162 Rue Victor Hugo,0264406639,https://www.bordeaux-restaurant-2.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_003,Bordeaux,Le Comptoir Bordeaux,44.807405,-0.596419,4.2,172,€€€,Canard,117 Rue du Centre,0488281189,https://www.bordeaux-restaurant-3.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_004,Bordeaux,Au Bouchon Bordeaux,44.845385,-0.562588,4.1,223,€€€,Vins,124 Rue Victor Hugo,0396423297,https://www.bordeaux-restaurant-4.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_005,Bordeaux,Le Table du Bordeaux,44.873551,-0.54202,4.2,198,€,Gastronomique,83 Rue de Paris,0485328317,https://www.bordeaux-restaurant-5.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_006,Bordeaux,Le Table du Bordeaux,44.872711,-0.572153,3.9,425,€€,Gastronomique,95 Rue de Paris,0115297839,https://www.bordeaux-restaurant-6.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_007,Bordeaux,Table Chez du Marché,44.839411,-0.538387,3.5,120,€€,Française,30 Rue Principale,0192556855,https://www.bordeaux-restaurant-7.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_008,Bordeaux,Le Cuisine du Bordeaux,44.830113,-0.547453,3.8,494,€,Sud-Ouest,171 Rue de Paris,0212891019,https://www.bordeaux-restaurant-8.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_009,Bordeaux,Les Café Bordeaux,44.882736,-0.606609,4.6,324,€€€,Gastronomique,110 Rue Principale,0174116676,https://www.bordeaux-restaurant-9.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_010,Bordeaux,La Bouchon Bordeaux,44.848029,-0.589846,4.2,19,€,Canard,58 Rue Principale,0393215765,https://www.bordeaux-restaurant-10.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_011,Bordeaux,Les Bouchon Bordeaux,44.834535,-0.587606,3.6,62,€€€,Française,57 Rue Victor Hugo,0224462659,https://www.bordeaux-restaurant-11.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_012,Bordeaux,Les Vieux Restaurant,44.867919,-0.610922,3.2,267,€€,Canard,5 Rue Principale,0235328820,https://www.bordeaux-restaurant-12.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_013,Bordeaux,La Bouchon Bordeaux,44.822211,-0.560253,4.0,312,€€,Gastronomique,80 Rue de Paris,0630233511,https://www.bordeaux-restaurant-13.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_014,Bordeaux,Le Cuisine de Bordeaux,44.833748,-0.594349,3.4,172,€,Sud-Ouest,166 Rue Principale,0532815346,https://www.bordeaux-restaurant-14.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_015,Bordeaux,La Table de Bordeaux,44.829458,-0.603405,4.5,437,€,Canard,33 Rue du Centre,0620243345,https://www.bordeaux-restaurant-15.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_016,Bordeaux,Comptoir Au Bordeaux,44.860729,-0.597488,3.6,289,€€€,Canard,35 Rue Principale,0391301390,https://www.bordeaux-restaurant-16.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_017,Bordeaux,Au Café Bordeaux,44.805673,-0.595702,4.7,6,€,Vins,86 Rue de Paris,0558547149,https://www.bordeaux-restaurant-17.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_018,Bordeaux,Les Nouveau Comptoir,44.816187,-0.563317,3.8,113,€,Canard,49 Rue Principale,0633942967,https://www.bordeaux-restaurant-18.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_019,Bordeaux,Brasserie Les du Marché,44.822897,-0.573909,4.2,345,€€,Gastronomique,128 Rue Victor Hugo,0359239292,https://www.bordeaux-restaurant-19.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_020,Bordeaux,Le Cuisine de Bordeaux,44.804306,-0.621382,4.1,14,€,Sud-Ouest,50 Rue de Paris,0241942852,https://www.bordeaux-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_021,Bordeaux,La Café Bordeaux,44.808843,-0.60854,3.3,32,€,Française,40 Rue de Paris,0550634691,https://www.bordeaux-restaurant-21.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_022,Bordeaux,Le Cuisine du Bordeaux,44.837275,-0.573963,3.3,427,€,Canard,119 Rue du Centre,0373203870,https://www.bordeaux-restaurant-22.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_023,Bordeaux,La Table du Bordeaux,44.814083,-0.537298,4.1,191,€,Canard,181 Rue du Centre,0617284773,https://www.bordeaux-restaurant-23.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_024,Bordeaux,Table Au du Marché,44.849853,-0.566389,3.9,273,€€,Gastronomique,8 Rue Victor Hugo,0278237953,https://www.bordeaux-restaurant-24.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_025,Bordeaux,Café La du Marché,44.884274,-0.580297,3.5,160,€,Française,52 Rue de Paris,0188436178,https://www.bordeaux-restaurant-25.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_026,Bordeaux,Restaurant Chez des Arts,44.815227,-0.592196,3.3,307,€€€,Vins,45 Rue Victor Hugo,0580439616,https://www.bordeaux-restaurant-26.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_027,Bordeaux,Au Bon Café,44.851263,-0.572663,4.6,126,€€,Française,94 Rue Principale,0443574399,https://www.bordeaux-restaurant-27.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_028,Bordeaux,Bistro Au du Marché,44.868803,-0.560253,3.8,392,€,Vins,187 Rue Victor Hugo,0399362276,https://www.bordeaux-restaurant-28.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_029,Bordeaux,Café Chez du Port,44.832278,-0.578232,4.4,488,€€€,Canard,196 Rue Principale,0616847454,https://www.bordeaux-restaurant-29.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_030,Bordeaux,Au Comptoir Bordeaux,44.817192,-0.617349,3.5,361,€€€,Sud-Ouest,115 Rue Victor Hugo,0169203955,https://www.bordeaux-restaurant-30.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_031,Bordeaux,Bistro Les du Port,44.867832,-0.592036,3.6,488,€€€,Gastronomique,163 Rue Principale,0210806782,https://www.bordeaux-restaurant-31.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_032,Bordeaux,Café Le Central,44.873102,-0.536523,4.5,461,€€€,Sud-Ouest,132 Rue du Centre,0260261772,https://www.bordeaux-restaurant-32.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_033,Bordeaux,Le Table de Bordeaux,44.827205,-0.580236,3.6,336,€€,Gastronomique,89 Rue du Centre,0665465223,https://www.bordeaux-restaurant-33.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_034,Bordeaux,La Cuisine du Bordeaux,44.795961,-0.564433,4.3,250,€,Vins,116 Rue Victor Hugo,0180323424,https://www.bordeaux-restaurant-34.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_035,Bordeaux,Les Grand Café,44.814286,-0.580143,4.3,39,€€,Canard,76 Rue du Centre,0653718815,https://www.bordeaux-restaurant-35.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_036,Bordeaux,Au Petit Comptoir,44.806232,-0.544659,3.7,44,€,Vins,168 Rue Victor Hugo,0385293427,https://www.bordeaux-restaurant-36.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_037,Bordeaux,Comptoir La Bordeaux,44.810127,-0.534738,3.7,389,€,Canard,12 Rue du Centre,0120246115,https://www.bordeaux-restaurant-37.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_038,Bordeaux,Le Cuisine de Bordeaux,44.817991,-0.589238,4.5,192,€€,Gastronomique,137 Rue du Centre,0287142281,https://www.bordeaux-restaurant-38.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_039,Bordeaux,Restaurant Chez de la Gare,44.850598,-0.617939,3.5,345,€€,Canard,32 Rue du Centre,0470357473,https://www.bordeaux-restaurant-39.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_040,Bordeaux,Le Traditionnel Comptoir,44.86111,-0.615337,3.5,440,€€€,Vins,37 Rue de Paris,0389886133,https://www.bordeaux-restaurant-40.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_041,Bordeaux,La Cuisine du Bordeaux,44.796696,-0.530849,3.5,159,€€€,Gastronomique,124 Rue de Paris,0597506786,https://www.bordeaux-restaurant-41.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_042,Bordeaux,Au Comptoir Bordeaux,44.816423,-0.542316,4.0,308,€€€,Gastronomique,80 Rue du Centre,0367675541,https://www.bordeaux-restaurant-42.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_043,Bordeaux,Le Table du Bordeaux,44.808112,-0.57166,4.8,339,€€€,Gastronomique,95 Rue Principale,0695827285,https://www.bordeaux-restaurant-43.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_044,Bordeaux,Les Bouchon Bordeaux,44.845615,-0.595531,3.8,428,€,Sud-Ouest,65 Rue de Paris,0397901546,https://www.bordeaux-restaurant-44.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_045,Bordeaux,Chez Comptoir Bordeaux,44.796199,-0.545968,4.0,67,€€,Française,125 Rue Victor Hugo,0682857127,https://www.bordeaux-restaurant-45.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_046,Bordeaux,Le Nouveau Café,44.832283,-0.564618,4.6,170,€,Gastronomique,99 Rue de Paris,0120771629,https://www.bordeaux-restaurant-46.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_047,Bordeaux,Chez Petit Café,44.846333,-0.552028,4.0,378,€,Française,9 Rue Victor Hugo,0125903874,https://www.bordeaux-restaurant-47.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_048,Bordeaux,Bistro Les Bordeaux,44.846433,-0.586382,3.5,211,€€€,Sud-Ouest,79 Rue de Paris,0124459550,https://www.bordeaux-restaurant-48.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_049,Bordeaux,Les Nouveau Brasserie,44.872471,-0.603457,4.7,429,€€,Vins,72 Rue du Centre,0391992071,https://www.bordeaux-restaurant-49.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_050,Bordeaux,Table Au Central,44.805732,-0.623337,4.0,192,€,Sud-Ouest,43 Rue Victor Hugo,0391338433,https://www.bordeaux-restaurant-50.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_051,Bordeaux,Chez Typique Table,44.796912,-0.544428,4.0,390,€€,Française,166 Rue de Paris,0482577847,https://www.bordeaux-restaurant-51.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_052,Bordeaux,Brasserie Les de la Gare,44.85748,-0.59963,4.2,49,€€,Canard,141 Rue du Centre,0588894364,https://www.bordeaux-restaurant-52.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_053,Bordeaux,Au Café Bordeaux,44.805238,-0.623425,3.8,159,€€,Française,40 Rue de Paris,0657473779,https://www.bordeaux-restaurant-53.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_054,Bordeaux,Les Nouveau Restaurant,44.824294,-0.564724,4.0,355,€,Française,46 Rue du Centre,0412733484,https://www.bordeaux-restaurant-54.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_055,Bordeaux,La Cuisine de Bordeaux,44.850179,-0.593679,3.5,433,€€€,Canard,192 Rue de Paris,0693908274,https://www.bordeaux-restaurant-55.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_056,Bordeaux,Les Typique Restaurant,44.834145,-0.549404,3.2,109,€€,Française,195 Rue du Centre,0636864544,https://www.bordeaux-restaurant-56.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_057,Bordeaux,Les Petit Brasserie,44.841869,-0.56299,3.7,120,€,Française,65 Rue Principale,0420554342,https://www.bordeaux-restaurant-57.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_058,Bordeaux,Chez Bon Restaurant,44.823823,-0.562463,3.7,144,€€,Vins,77 Rue de Paris,0480612350,https://www.bordeaux-restaurant-58.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_059,Bordeaux,La Comptoir Bordeaux,44.799638,-0.596493,3.9,68,€€€,Gastronomique,136 Rue du Centre,0435198057,https://www.bordeaux-restaurant-59.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_060,Bordeaux,Chez Grand Café,44.791319,-0.619401,3.3,82,€€,Vins,27 Rue du Centre,0396184469,https://www.bordeaux-restaurant-60.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_061,Bordeaux,Au Café Bordeaux,44.883526,-0.618109,3.8,354,€€€,Canard,148 Rue du Centre,0471325530,https://www.bordeaux-restaurant-61.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_062,Bordeaux,Au Petit Restaurant,44.824249,-0.531469,4.6,477,€€,Canard,138 Rue du Centre,0384603122,https://www.bordeaux-restaurant-62.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_063,Bordeaux,Le Café Bordeaux,44.846224,-0.577163,3.4,376,€,Gastronomique,150 Rue du Centre,0492548127,https://www.bordeaux-restaurant-63.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_064,Bordeaux,Le Cuisine du Bordeaux,44.858171,-0.588327,3.5,395,€,Canard,26 Rue de Paris,0686361712,https://www.bordeaux-restaurant-64.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_065,Bordeaux,La Café Bordeaux,44.827658,-0.580505,4.1,205,€,Vins,87 Rue du Centre,0386838859,https://www.bordeaux-restaurant-65.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_066,Bordeaux,Le Grand Table,44.826363,-0.543745,4.4,387,€,Vins,60 Rue du Centre,0124477278,https://www.bordeaux-restaurant-66.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_067,Bordeaux,Le Comptoir Bordeaux,44.842442,-0.592834,3.5,359,€,Canard,65 Rue Principale,0223843437,https://www.bordeaux-restaurant-67.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_068,Bordeaux,Table Les des Arts,44.885484,-0.562299,3.8,292,€€€,Française,37 Rue Principale,0454524272,https://www.bordeaux-restaurant-68.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_069,Bordeaux,Café Les Bordeaux,44.808404,-0.599935,4.0,413,€€€,Canard,33 Rue du Centre,0241309449,https://www.bordeaux-restaurant-69.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_070,Bordeaux,Chez Comptoir Bordeaux,44.843625,-0.611496,3.8,331,€€€,Canard,66 Rue de Paris,0426198063,https://www.bordeaux-restaurant-70.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_071,Bordeaux,Les Bon Comptoir,44.85543,-0.574797,3.3,242,€€€,Canard,83 Rue de Paris,0398366922,https://www.bordeaux-restaurant-71.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_072,Bordeaux,Les Grand Bistro,44.796834,-0.599441,4.1,392,€€€,Sud-Ouest,167 Rue du Centre,0277519935,https://www.bordeaux-restaurant-72.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_073,Bordeaux,Le Table de Bordeaux,44.817208,-0.577753,4.4,106,€€,Gastronomique,122 Rue Victor Hugo,0234733142,https://www.bordeaux-restaurant-73.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_074,Bordeaux,La Grand Café,44.856659,-0.603049,3.5,219,€,Française,197 Rue du Centre,0450682584,https://www.bordeaux-restaurant-74.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_075,Bordeaux,Les Bon Comptoir,44.885657,-0.571792,3.5,86,€,Française,146 Rue de Paris,0387834975,https://www.bordeaux-restaurant-75.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_076,Bordeaux,Au Vieux Table,44.85256,-0.618239,4.0,323,€€,Gastronomique,196 Rue de Paris,0319681056,https://www.bordeaux-restaurant-76.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_077,Bordeaux,Au Bouchon Bordeaux,44.864317,-0.571271,3.6,83,€,Gastronomique,25 Rue de Paris,0128846772,https://www.bordeaux-restaurant-77.fr,"12:00-14:00, 19:00-22:00",generated_data

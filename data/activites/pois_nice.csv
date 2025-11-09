@@ -1,0 +1,1329 @@
+city,category,name,lat,lon,osm_type,osm_id
+Nice,museum,Palais Lascaris,43.6976417,7.2772555,node,578023554
+Nice,museum,Musée Volti,43.7017095,7.310623,node,1297270381
+Nice,museum,Museum d'Histoire Naturelle,43.7017759,7.2795802,node,1398474011
+Nice,museum,Musée Goetz-Boumeester,43.7016417,7.3106329,node,2264574277
+Nice,museum,Salle Souvenir du 24e BCA,43.701601,7.3106059,node,2264574278
+Nice,museum,Collection Roux,43.7011297,7.3109172,node,2264574279
+Nice,museum,Musée de la Marine,43.7023621,7.3122689,node,2279265380
+Nice,museum,Musée National du Sport,43.7062629,7.1923789,node,4688828348
+Nice,museum,Musée de la photographie Charles Nègre,43.6959151,7.2745989,node,4688883802
+Nice,museum,Musée Franciscain,43.7201242,7.2789108,node,4689017366
+Nice,museum,Musée Terra Amata,43.6977993,7.2892892,node,10106819239
+Nice,museum,Musée de la résistance azuréene,43.668023,7.2133862,node,12096621255
+Nice,museum,Le 109,43.7173594,7.2841095,node,12923381180
+Nice,museum,Musée Masséna,43.6950496,7.2590494,way,19597352
+Nice,museum,Musée des Arts Asiatiques,43.6679866,7.2160298,way,81023334
+Nice,museum,Espace Lympia,43.6948909,7.2862476,way,137195056
+Nice,museum,Musée Matisse,43.7194005,7.2762085,way,139931873
+Nice,museum,Musée d'Archéologie de Nice-Cimiez,43.719174,7.2755415,way,139932041
+Nice,museum,Musée Marc Chagall,43.709142,7.269506,way,140067117
+Nice,museum,Musée des Beaux Arts,43.694623,7.2488795,way,140260291
+Nice,museum,Musée international d'art naïf Anatole Jakovsky,43.6862206,7.2327223,way,708311359
+Nice,museum,Musée Prieuré du Vieux Logis,43.7206281,7.2549719,way,1070004963
+Nice,museum,Musée d'art moderne et d'art contemporain,43.7014456,7.2784999,relation,1949582
+Nice,park,Musée Masséna,43.6950496,7.2590494,way,19597352
+Nice,park,Promenade du Paillon,43.697406,7.2717883,way,19597958
+Nice,park,Promenade du Paillon,43.6979001,7.273635,way,19598003
+Nice,park,Promenade du Paillon,43.6990123,7.2761113,way,19598209
+Nice,park,Jardin de l'Armenie,43.6958363,7.2666452,way,19598286
+Nice,park,Colline du Château,43.6963102,7.2804899,way,19668745
+Nice,park,Place Mozart,43.7006384,7.261933,way,20685053
+Nice,park,Sans nom,43.7022111,7.2790352,way,23706854
+Nice,park,Jardin Cardinal Clément Ferrero,43.7004161,7.2768957,way,23707585
+Nice,park,Jardin Alziari de Malaussena,43.6975906,7.2633196,way,25382472
+Nice,park,Jardin Général Ferrie,43.6911762,7.2452625,way,25384700
+Nice,park,Jardin Adolphe Lions,43.6996118,7.2390964,way,25384979
+Nice,park,square Dominique Durandy,43.7014453,7.2723059,way,25386277
+Nice,park,Place Wilson,43.7004784,7.2733549,way,25399787
+Nice,park,Jardin Jeanne d'Arc,43.7127477,7.263459,way,25399975
+Nice,park,Place de l'armée du Rhin,43.707465,7.28353,way,25411883
+Nice,park,Jardin Léon Teisseire,43.7098645,7.2680813,way,25427297
+Nice,park,Jardin Roland Dorgelles,43.7119427,7.2646551,way,27175868
+Nice,park,Square Notre Dame,43.7029768,7.265042,way,28292496
+Nice,park,Square Colonel Jean Pierre,43.7058738,7.2586576,way,28349266
+Nice,park,Jardin Kennedy,43.7067569,7.2822216,way,28510549
+Nice,park,Parc Vigier,43.6936273,7.2905077,way,33057700
+Nice,park,Parc Phoenix,43.6683189,7.2176609,way,33730005
+Nice,park,Jardin des Arènes de Cimiez,43.7199673,7.2768497,way,33730172
+Nice,park,Jardin du Monastère,43.7190533,7.2784992,way,33730273
+Nice,park,Parc Municipal Castel des Deux Rois,43.7002344,7.2915008,way,37273699
+Nice,park,Jardin du Général Thiole,43.7097526,7.2628696,way,37824702
+Nice,park,Jardin Jean Moreno,43.6988065,7.2638819,way,38719502
+Nice,park,Square Raimu,43.7022746,7.2549139,way,47921929
+Nice,park,Parc François LAYET,43.6758648,7.1913714,way,56702996
+Nice,park,Sans nom,43.6764766,7.1904985,way,56994626
+Nice,park,Place Jean Médecin,43.6743082,7.1896176,way,56994643
+Nice,park,Jardin François Binon,43.7021027,7.3082433,way,158936662
+Nice,park,Jardin des Chasseurs,43.7025337,7.3106127,way,159338245
+Nice,park,Sans nom,43.7038978,7.2537563,way,165453173
+Nice,park,Sans nom,43.7113764,7.1942831,way,197528431
+Nice,park,Square Théodore de Banville,43.6903553,7.2942869,way,210004089
+Nice,park,Jardins de la Citadelle,43.7012543,7.3113917,way,217542080
+Nice,park,Jardin Narvick,43.7007208,7.3091682,way,217546633
+Nice,park,Jardin Botanique,43.685131,7.2107035,way,237656062
+Nice,park,Square Guynemer,43.6942168,7.2826327,way,243766746
+Nice,park,Square Booth,43.7138281,7.2508275,way,246705303
+Nice,park,Esplanade Georges Pompidou,43.6954333,7.271102,way,252135079
+Nice,park,Jardin d'Alsace-Lorraine,43.6981476,7.2570093,way,254809432
+Nice,park,Square Normandie Niemen,43.7040648,7.2879587,way,257243889
+Nice,park,Parc Chambrun,43.7230027,7.2625705,way,262741094
+Nice,park,Parc du Régina,43.7194734,7.2727716,way,273257258
+Nice,park,Sans nom,43.7235262,7.2849494,way,275877732
+Nice,park,Parc Paradisio,43.7091796,7.2721308,way,304663621
+Nice,park,Square Doyen Lépine,43.7156074,7.2621224,way,351242695
+Nice,park,Jardin Joseph Pisano,43.7044785,7.2947716,way,362102960
+Nice,park,Sans nom,43.6937663,7.2384852,way,366443268
+Nice,park,Sans nom,43.6935319,7.2525781,way,469517096
+Nice,park,"Parc du Chateau de Valrose, Coté Grand Chateau",43.7165368,7.266948,way,469518616
+Nice,park,"Parc du Chateau de Valrose, Coté Batiments Université",43.7163567,7.2678192,way,469518627
+Nice,park,Grand Chateau de Valrose,43.7171635,7.2670212,way,469578593
+Nice,park,Parc du Musée des Beaux Arts,43.6944916,7.2489616,way,469580902
+Nice,park,Sans nom,43.6788815,7.2304009,way,469582386
+Nice,park,Sans nom,43.6783623,7.2300042,way,469582389
+Nice,park,Sans nom,43.6780289,7.2301494,way,469582391
+Nice,park,Sans nom,43.6775459,7.2295575,way,469582392
+Nice,park,Sans nom,43.698272,7.2559479,way,470046312
+Nice,park,Square Henri Christine,43.6966982,7.2538497,way,470047409
+Nice,park,Sans nom,43.6761184,7.2286159,way,478835816
+Nice,park,Sans nom,43.6766877,7.2292859,way,478871855
+Nice,park,Sans nom,43.6770286,7.2304118,way,478871858
+Nice,park,Sans nom,43.6748979,7.2278588,way,478871860
+Nice,park,Sans nom,43.6754509,7.2281775,way,478871862
+Nice,park,Sans nom,43.6767901,7.2288924,way,478871863
+Nice,park,Sans nom,43.7027152,7.2758151,way,499243257
+Nice,park,Sans nom,43.6969261,7.2784786,way,499650591
+Nice,park,Parc Valrose - Chimie,43.7172632,7.2685559,way,602973834
+Nice,park,Parc Valrose - Montebello,43.7180987,7.2679193,way,602973835
+Nice,park,Jardin Philippe Giovannini,43.710827,7.2918642,way,623039487
+Nice,park,Jardin Louis Pin,43.7133539,7.2817546,way,627103887
+Nice,park,Parc Robini,43.6827933,7.202236,way,703236174
+Nice,park,Jardin du Bois de Boulogne,43.673608,7.2007561,way,746120088
+Nice,park,Jardin des Hoirs de Cessole,43.714112,7.2549184,way,799483146
+Nice,park,Parc du Ray,43.7235024,7.2585701,way,799837082
+Nice,park,Sans nom,43.7087542,7.2813386,way,820173260
+Nice,park,Sans nom,43.6833344,7.2317962,way,821649669
+Nice,park,Jardin Paul Scoffier,43.6767368,7.2206098,way,821653838
+Nice,park,Sans nom,43.70219,7.2754624,way,827515768
+Nice,park,Square Chanoine Robert Henri Barbe,43.7270965,7.2468895,way,839123338
+Nice,park,Square Jean Gabin,43.7090984,7.2291132,way,841511536
+Nice,park,Parc du Jaquon,43.6663783,7.182503,way,871681250
+Nice,park,Cour de récréation,43.7093255,7.2818709,way,923675822
+Nice,park,Snack,43.7092448,7.2813244,way,923675828
+Nice,park,Cour de récréation,43.7095943,7.280495,way,923675842
+Nice,park,Parc de l'Éco-Vallée,43.6954702,7.1956672,way,931438183
+Nice,park,Square des Jacarandas,43.6737205,7.2036474,way,990178052
+Nice,park,Sans nom,43.6853916,7.2225936,way,992325338
+Nice,park,Square Félix Ziem,43.6850607,7.2354978,way,1009733643
+Nice,park,Sans nom,43.7109588,7.1935597,way,1072793408
+Nice,park,Jardin Avenue de la Pastorelle,43.6843718,7.2279789,way,1080926148
+Nice,park,Sans nom,43.6809015,7.2031469,way,1093767691
+Nice,park,Jardin Saint Jean d'Angély,43.7091821,7.2903502,way,1095638247
+Nice,park,Jardin Louis Genari,43.7177541,7.2940856,way,1100859826
+Nice,park,Jardin Jean Gilletta,43.717895,7.2912561,way,1100861481
+Nice,park,Sans nom,43.6742686,7.2046059,way,1136839385
+Nice,park,Sans nom,43.6743273,7.2047457,way,1136839386
+Nice,park,Sans nom,43.6750055,7.2043221,way,1137933049
+Nice,park,Sans nom,43.6745216,7.203816,way,1138008796
+Nice,park,Sans nom,43.6745448,7.2034128,way,1138008797
+Nice,park,Le Verger,43.6763496,7.202565,way,1146094241
+Nice,park,Partage Ton Talent,43.6757181,7.2048426,way,1146094243
+Nice,park,Jardin des Moulins,43.6729664,7.2079186,way,1146094249
+Nice,park,Sans nom,43.6732097,7.207448,way,1146094251
+Nice,park,Jardin Comte de Falicon,43.7293281,7.2560915,way,1187821266
+Nice,park,Sans nom,43.7046716,7.2807084,way,1240974184
+Nice,park,Jardin Jacques Ibert,43.7007971,7.2564062,way,1355951414
+Nice,park,Sans nom,43.7102028,7.2683815,way,1390952103
+Nice,park,Jardin Traverse des Arboras,43.6927947,7.1996391,way,1431489403
+Nice,park,Jardin Albert 1er,43.6961296,7.2682872,relation,2369263
+Nice,park,Parc Carol de Roumanie,43.6873954,7.2310019,relation,7932937
+Nice,park,Parc de l'Indochine,43.6877384,7.2325738,relation,11085554
+Nice,park,Espace naturel du Dauphiné,43.7051333,7.2477525,relation,11511771
+Nice,park,Parc de la Clua,43.7270938,7.2423271,relation,11634152
+Nice,park,Jardin de la Villa Ratti,43.71016,7.2750666,relation,11645760
+Nice,park,Sans nom,43.6615329,7.183415,relation,16374930
+Nice,restaurant,Le Kobé,43.6995121,7.2780869,node,256699215
+Nice,restaurant,La Maison Libanaise,43.708402,7.2611232,node,310593075
+Nice,restaurant,Au grill d'or,43.7080533,7.2599731,node,310593083
+Nice,restaurant,Le Castello,43.7070087,7.2571234,node,311348760
+Nice,restaurant,La Voglia,43.6956094,7.2733957,node,313186331
+Nice,restaurant,Le Cessole,43.7201356,7.2514778,node,364682397
+Nice,restaurant,Crazy Wok,43.7041992,7.2650561,node,373343489
+Nice,restaurant,Shalimar,43.7029095,7.2695469,node,373343492
+Nice,restaurant,Le Pacific,43.7089068,7.2629424,node,373343498
+Nice,restaurant,Hippopotamus,43.6976371,7.2705424,node,384744931
+Nice,restaurant,Rodizio,43.6978837,7.2714504,node,384744938
+Nice,restaurant,La Favola,43.6958859,7.2737237,node,384744991
+Nice,restaurant,Chez Freddy,43.6954533,7.2751668,node,439226954
+Nice,restaurant,Le Safari,43.6956626,7.2762711,node,439226955
+Nice,restaurant,Chez André,43.7099276,7.257238,node,446960213
+Nice,restaurant,L'Union,43.7145597,7.2611569,node,449076318
+Nice,restaurant,Le Gambetta,43.7099994,7.261526,node,449085162
+Nice,restaurant,Bollywood Lollywood,43.6983071,7.2688463,node,453141938
+Nice,restaurant,L'Original,43.7049139,7.2562781,node,458905899
+Nice,restaurant,Lu Fran Calin,43.697377,7.2756962,node,465035447
+Nice,restaurant,Le Romarin,43.69742,7.2758706,node,465035450
+Nice,restaurant,Maison JIN,43.7045569,7.2633064,node,469796898
+Nice,restaurant,Mezza Rosa,43.7035002,7.2654888,node,485249894
+Nice,restaurant,L'Ecurie,43.6976575,7.2752788,node,488577391
+Nice,restaurant,Voyageur Nissart,43.7037601,7.2633233,node,488715018
+Nice,restaurant,Metà e metà,43.7037492,7.2699507,node,530728217
+Nice,restaurant,Chez Pipo,43.6999467,7.2855034,node,539387779
+Nice,restaurant,Mamma Mia,43.695588,7.2766805,node,546559154
+Nice,restaurant,Acchiardo,43.6965124,7.2771436,node,546559155
+Nice,restaurant,Royal Kebab,43.6984196,7.2780114,node,573359413
+Nice,restaurant,La Socca d'Or,43.7005837,7.2856803,node,640250651
+Nice,restaurant,La Mousson,43.6579848,7.188416,node,699628165
+Nice,restaurant,L'Appart,43.6751136,7.1883748,node,706799504
+Nice,restaurant,Le Pellegrini,43.7033251,7.282243,node,930079300
+Nice,restaurant,Lou Casteù,43.6960422,7.279792,node,937862323
+Nice,restaurant,Da Andrea,43.7077135,7.2637057,node,996912985
+Nice,restaurant,Au Rendez-vous des Amis,43.7438622,7.2650643,node,1088555711
+Nice,restaurant,La Merenda,43.6964898,7.2731012,node,1130923412
+Nice,restaurant,Alfred Burger,43.6982559,7.2778393,node,1134619386
+Nice,restaurant,Le Bar du Coin,43.6982791,7.2777497,node,1134619732
+Nice,restaurant,Pamir,43.6982287,7.277932,node,1134619778
+Nice,restaurant,Chez Palmyre,43.6981201,7.277542,node,1324217699
+Nice,restaurant,ProvAmi,43.7085881,7.2626058,node,1377323631
+Nice,restaurant,Le Magnan,43.6911019,7.244813,node,1424362945
+Nice,restaurant,Les Jardins du Capitole,43.6936733,7.2549218,node,1426365232
+Nice,restaurant,Delhi Belhi,43.6959739,7.2758954,node,1445374663
+Nice,restaurant,Lou Gesu,43.6968412,7.277096,node,1486397327
+Nice,restaurant,Indian Lounge,43.6968957,7.2772261,node,1486397336
+Nice,restaurant,Helios,43.6981309,7.2761677,node,1573051131
+Nice,restaurant,Les Palmiers,43.7328604,7.2716584,node,1606578014
+Nice,restaurant,La Baleine Joyeuse,43.6983756,7.3069184,node,1608196640
+Nice,restaurant,Le Grand Chelem,43.7234232,7.2558629,node,1633638988
+Nice,restaurant,Mister Pizza,43.7197275,7.2564533,node,1642784259
+Nice,restaurant,Auberge de l'aire Saint-Michel,43.7436267,7.2631619,node,1659175416
+Nice,restaurant,Restaurant Simon,43.7438761,7.2646293,node,1659213531
+Nice,restaurant,Le Biscarra,43.7026434,7.2683206,node,1661467109
+Nice,restaurant,Le Cenac,43.7025558,7.268056,node,1661467113
+Nice,restaurant,Vin sur Vin,43.70262,7.2682493,node,1661467151
+Nice,restaurant,Chez Tanh,43.7048938,7.2693932,node,1662277146
+Nice,restaurant,Le Kashmir,43.6573782,7.1854832,node,1671606709
+Nice,restaurant,Le Cocodile,43.693877,7.2557502,node,1674910163
+Nice,restaurant,L'Oursin bleu,43.703862,7.3122323,node,1714546663
+Nice,restaurant,La Mère Germaine,43.7036914,7.3121706,node,1714546678
+Nice,restaurant,espuma,43.7066076,7.3136834,node,1714546721
+Nice,restaurant,Lou Bantry,43.704022,7.3123663,node,1714546738
+Nice,restaurant,Le Cosmo,43.7031814,7.3115199,node,1714561393
+Nice,restaurant,Le Trastevere,43.7035792,7.3121318,node,1715875722
+Nice,restaurant,Spalato,43.7035016,7.3120916,node,1715875723
+Nice,restaurant,La Pizze,43.7033561,7.3109346,node,1715875729
+Nice,restaurant,Marechiaro,43.7027646,7.3112326,node,1716093372
+Nice,restaurant,Le Calypso,43.7029475,7.3118284,node,1716144002
+Nice,restaurant,Le Mayssa,43.7024273,7.3121915,node,1716376996
+Nice,restaurant,Mi-Am,43.7045184,7.2632049,node,1749731304
+Nice,restaurant,Académie Culinaire Escom,43.7002203,7.2501908,node,1751120351
+Nice,restaurant,L'Escalinada,43.6996311,7.2789959,node,1782362044
+Nice,restaurant,Bozzi,43.6963806,7.2735614,node,1867139329
+Nice,restaurant,Don Carlo,43.7008173,7.2667931,node,1867139343
+Nice,restaurant,Fleur de Jade,43.7027095,7.2641,node,1867139362
+Nice,restaurant,La Matta,43.6959719,7.273498,node,1867139371
+Nice,restaurant,Food City,43.7027069,7.2642426,node,1867139372
+Nice,restaurant,Phnom Penh,43.6970199,7.2725391,node,1867139406
+Nice,restaurant,Attimi,43.6966341,7.2712472,node,1867139425
+Nice,restaurant,Güz'el,43.709988,7.2601302,node,1871154941
+Nice,restaurant,Asia House,43.7100035,7.2596314,node,1871154944
+Nice,restaurant,Chez Mireille,43.7064756,7.267129,node,1871804515
+Nice,restaurant,Table Marine,43.6975859,7.2865104,node,1888427839
+Nice,restaurant,La Vigna,43.6981256,7.2866038,node,1888427841
+Nice,restaurant,Yose,43.7005612,7.2838616,node,1888437563
+Nice,restaurant,Lou Pilha Leva,43.6981152,7.2767178,node,1901937170
+Nice,restaurant,Le Gioffredo,43.6987174,7.2713164,node,1914012353
+Nice,restaurant,La Caravelle,43.7035435,7.3117024,node,1920715817
+Nice,restaurant,Le Boréal,43.7074875,7.262853,node,1922208880
+Nice,restaurant,Le 5 Amour,43.707865,7.2636053,node,1922208906
+Nice,restaurant,Alice and I,43.707227,7.2602677,node,1922256282
+Nice,restaurant,7 Villermont,43.7091017,7.2645472,node,1922275416
+Nice,restaurant,La table de Mamane,43.7090128,7.2642921,node,1922275421
+Nice,restaurant,Le Bistrot des Docks,43.7102806,7.2624642,node,1941671036
+Nice,restaurant,Asia Libération,43.7103122,7.2625857,node,1941671045
+Nice,restaurant,La Route du Miam,43.7129847,7.2614073,node,1950490039
+Nice,restaurant,Le bistrot des Viviers,43.7002256,7.2645449,node,1950618077
+Nice,restaurant,Côté Sud,43.7156513,7.2717644,node,2000541979
+Nice,restaurant,La gaîté nallino,43.7327655,7.2763094,node,2000541985
+Nice,restaurant,Chez Green Turtle,43.7132112,7.2840528,node,2031585904
+Nice,restaurant,O'Palio,43.7121984,7.2850465,node,2031598989
+Nice,restaurant,La Rosticceria,43.7004585,7.2852507,node,2031997078
+Nice,restaurant,Lou Pantaïl,43.7141228,7.2624237,node,2057420420
+Nice,restaurant,Chez Marie-Ange,43.7020185,7.2599372,node,2066937735
+Nice,restaurant,Le Tchitchou,43.7015659,7.2629134,node,2066937736
+Nice,restaurant,La Langouste,43.7020124,7.2655251,node,2066937742
+Nice,restaurant,Le Tono,43.7017506,7.2640373,node,2066937743
+Nice,restaurant,Eelam,43.7064124,7.288816,node,2073399830
+Nice,restaurant,Le Socle,43.7019254,7.2830173,node,2104717477
+Nice,restaurant,Chez Emy-Ly,43.6788094,7.2279017,node,2139416984
+Nice,restaurant,Pizza Fiorentina,43.6774187,7.2225009,node,2142856699
+Nice,restaurant,Les Amoureux,43.7008256,7.2856503,node,2144379514
+Nice,restaurant,La Piccada,43.6802528,7.2305773,node,2150846256
+Nice,restaurant,L'Aziz,43.6767045,7.2256328,node,2154775761
+Nice,restaurant,Lib,43.6803023,7.2306714,node,2157576481
+Nice,restaurant,La jetée,43.6803427,7.2307172,node,2173932800
+Nice,restaurant,Fuzion,43.6795039,7.2288536,node,2191422039
+Nice,restaurant,Le Dauphin,43.680386,7.2305833,node,2199973900
+Nice,restaurant,Le Potiron Gourmet,43.6804714,7.2298376,node,2199974319
+Nice,restaurant,Le Mesclun,43.6805299,7.2306966,node,2206369001
+Nice,restaurant,La Socca,43.6805725,7.2307529,node,2206370195
+Nice,restaurant,Cuisine des iles,43.6780682,7.2266035,node,2206385969
+Nice,restaurant,May Ly,43.6808632,7.2304734,node,2214889319
+Nice,restaurant,Le Flore,43.6957989,7.2746085,node,2241158536
+Nice,restaurant,Le Kiff,43.7065435,7.2874622,node,2249045268
+Nice,restaurant,Saveur d'Azur,43.7055286,7.2868883,node,2278551895
+Nice,restaurant,Chez Yanny,43.6757234,7.2242647,node,2287697676
+Nice,restaurant,Le Celtic,43.6833865,7.2331241,node,2289461166
+Nice,restaurant,Les Arcades,43.6988873,7.2841113,node,2295788661
+Nice,restaurant,Fjord,43.6990744,7.2841179,node,2295791468
+Nice,restaurant,Le galet,43.6946388,7.2660282,node,2304269025
+Nice,restaurant,Café de Turin,43.7005778,7.2795676,node,2307709056
+Nice,restaurant,Senso,43.6975703,7.274706,node,2307709058
+Nice,restaurant,eat SUSHI,43.6977423,7.2750628,node,2307709059
+Nice,restaurant,La Barque Bleue,43.6974706,7.2864854,node,2308178847
+Nice,restaurant,Pizza du Mont Boron,43.6879204,7.2961579,node,2308187790
+Nice,restaurant,Nuvoletta,43.7010114,7.2760162,node,2324226130
+Nice,restaurant,Les Deux Chefs,43.7093336,7.2571298,node,2346762103
+Nice,restaurant,Brasserie Gal,43.7033487,7.285316,node,2376996487
+Nice,restaurant,L'Uzine,43.6994799,7.2839247,node,2377005541
+Nice,restaurant,Le Québec,43.6968064,7.2653958,node,2379426861
+Nice,restaurant,La Trattoria,43.6958736,7.2617319,node,2379428518
+Nice,restaurant,Le San Juan,43.694328,7.287683,node,2385493159
+Nice,restaurant,La Claire Fontaine,43.6971762,7.2765397,node,2386309639
+Nice,restaurant,Epiro,43.6948192,7.2866757,node,2389181396
+Nice,restaurant,Saint Georges,43.695318,7.2864813,node,2390691619
+Nice,restaurant,MalaVita,43.6960103,7.2866181,node,2391165932
+Nice,restaurant,Les Pêcheurs,43.6964898,7.2861772,node,2392131801
+Nice,restaurant,Le Buffet de la Gare,43.760563,7.2027353,node,2402327616
+Nice,restaurant,La Villa d'Este,43.697796,7.2679444,node,2512898291
+Nice,restaurant,Le Léopard,43.7048021,7.2638579,node,2561894919
+Nice,restaurant,Thai Fine,43.705763,7.2823685,node,2638566244
+Nice,restaurant,Onakaya,43.6980012,7.2675345,node,2686110742
+Nice,restaurant,Renée,43.6949489,7.2624099,node,2686110745
+Nice,restaurant,Iberica,43.7020668,7.2770552,node,2779377537
+Nice,restaurant,Garden,43.701661,7.2763226,node,2779377566
+Nice,restaurant,L'Atelier,43.7016199,7.2762919,node,2779377570
+Nice,restaurant,La Gauloise,43.7089625,7.2629136,node,2781033938
+Nice,restaurant,Les Epicuriens,43.7006079,7.2729034,node,2783277613
+Nice,restaurant,Bistrot de l'Opéra,43.695865,7.2729532,node,2783300038
+Nice,restaurant,Bocca Nissa,43.695841,7.2731754,node,2783300045
+Nice,restaurant,CaSa Leya,43.6955801,7.2737565,node,2783300054
+Nice,restaurant,La Lupita,43.6968394,7.2744312,node,2783304560
+Nice,restaurant,Les pins d'Alep,43.6965515,7.2867357,node,2837453478
+Nice,restaurant,Le Barbecue,43.6988396,7.2786543,node,2867269950
+Nice,restaurant,Castel,43.6944015,7.2783606,node,3039344236
+Nice,restaurant,Chez Juliette,43.6971617,7.2767556,node,3039344237
+Nice,restaurant,China Park,43.6959826,7.2612495,node,3039344238
+Nice,restaurant,Splash,43.6973034,7.2768217,node,3039344248
+Nice,restaurant,Etna Rosso,43.6974304,7.2768458,node,3039344249
+Nice,restaurant,Ruhl Plage,43.6946032,7.2648694,node,3039344566
+Nice,restaurant,La plage,43.6649729,7.2133269,node,3050886637
+Nice,restaurant,Carne e Verdura,43.7046185,7.2891692,node,3051015150
+Nice,restaurant,Le Lunel,43.6958983,7.2832603,node,3085402572
+Nice,restaurant,Cave Washington,43.6955557,7.2542075,node,3118272204
+Nice,restaurant,Yass Restaurant,43.6951305,7.2553579,node,3118274975
+Nice,restaurant,Le Trimaran,43.6986764,7.278323,node,3127810562
+Nice,restaurant,Socca chez René,43.7000159,7.2789193,node,3246911017
+Nice,restaurant,Les 3 saveurs,43.719635,7.256516,node,3253327422
+Nice,restaurant,Le Chantecler,43.6944586,7.2580822,node,3333916614
+Nice,restaurant,Piccola Italia,43.6978983,7.2765005,node,3338963133
+Nice,restaurant,La Rossettisserie,43.6975249,7.2764159,node,3372830235
+Nice,restaurant,Restaurant Dante,43.6957445,7.2551552,node,3511223721
+Nice,restaurant,Beach Club,43.6574218,7.186144,node,3667468600
+Nice,restaurant,L'Atelier B,43.6579143,7.1877543,node,3667468609
+Nice,restaurant,L'Éden,43.657937,7.1881164,node,3667468610
+Nice,restaurant,Le Lotus Bleu,43.6571775,7.1833421,node,3667468613
+Nice,restaurant,Leedy's,43.6570728,7.1829282,node,3667468614
+Nice,restaurant,Le Sant'Ana,43.6571055,7.1830731,node,3667468619
+Nice,restaurant,Les Jardins d'Asadir,43.6571465,7.1832655,node,3667468620
+Nice,restaurant,Osaka,43.6569027,7.1822482,node,3667470127
+Nice,restaurant,Tortola,43.6579419,7.1891661,node,3667470131
+Nice,restaurant,Asia Food,43.7001761,7.287358,node,3667697906
+Nice,restaurant,Brasserie du Col,43.7057342,7.3009651,node,3667750841
+Nice,restaurant,La Pizza Cresci,43.6969703,7.2652916,node,3679141193
+Nice,restaurant,Brasserie du Port,43.6988538,7.2844931,node,3696363325
+Nice,restaurant,Le Gaglio,43.6991875,7.2778287,node,3742288525
+Nice,restaurant,Au petit libanais,43.7074666,7.262717,node,3784851054
+Nice,restaurant,Di Piu,43.6953993,7.2733207,node,3830946413
+Nice,restaurant,Taverne Masséna,43.6972416,7.2662741,node,3830977309
+Nice,restaurant,The Taste,43.6975396,7.2756248,node,3830986957
+Nice,restaurant,El Almacen,43.7090472,7.2628496,node,3876751102
+Nice,restaurant,Doma,43.7060833,7.2686361,node,3878587731
+Nice,restaurant,Les Sens,43.7002905,7.2701743,node,3886080862
+Nice,restaurant,La Tartane,43.6963516,7.2867029,node,3889061999
+Nice,restaurant,Les Copains,43.699783,7.2852172,node,3898673351
+Nice,restaurant,Le Borghese,43.6993111,7.2851297,node,3898673353
+Nice,restaurant,Tradiswiss,43.6961295,7.2640622,node,3932768989
+Nice,restaurant,La Vague,43.6967078,7.2618255,node,3932889264
+Nice,restaurant,Le Séjour Café,43.6989337,7.2649109,node,3932889266
+Nice,restaurant,JAN,43.6998235,7.2848055,node,3932889268
+Nice,restaurant,La terrasse de Cimiez,43.7104079,7.2763766,node,3978381580
+Nice,restaurant,Kumano,43.7027402,7.2690366,node,4030235052
+Nice,restaurant,Eataly Budget,43.6808191,7.1996991,node,4037285174
+Nice,restaurant,Chez Tonton David,43.7000532,7.2842801,node,4163766889
+Nice,restaurant,Le Bistrot de Jan,43.6998169,7.2848909,node,4163766895
+Nice,restaurant,La Fromagerie,43.6997962,7.285076,node,4163766896
+Nice,restaurant,Pizzéria Cyrnos,43.7173126,7.2531354,node,4200517930
+Nice,restaurant,Le Bouchon,43.711694,7.2909991,node,4208919983
+Nice,restaurant,La Trinquette,43.699802,7.3087182,node,4248807978
+Nice,restaurant,Oliviera,43.6981594,7.2770986,node,4270022681
+Nice,restaurant,Blue Beach,43.6941927,7.2597603,node,4301698789
+Nice,restaurant,L'Altra Casa,43.7098687,7.2615231,node,4324871710
+Nice,restaurant,Paneolio,43.6995666,7.2781465,node,4350890138
+Nice,restaurant,Cave de la Tour,43.6996643,7.2784167,node,4350890139
+Nice,restaurant,Le VLT,43.6995388,7.2783762,node,4350890141
+Nice,restaurant,Sans nom,43.7040901,7.3113654,node,4410656363
+Nice,restaurant,Le Duc,43.6947997,7.2606522,node,4423573862
+Nice,restaurant,Le 36 Bonap,43.7004706,7.2850921,node,4497134305
+Nice,restaurant,Influence,43.7007053,7.2839994,node,4497134330
+Nice,restaurant,Kalos,43.7008146,7.2824646,node,4498308556
+Nice,restaurant,Posto 17,43.7008689,7.2827975,node,4498785612
+Nice,restaurant,Peixes,43.7007353,7.2818093,node,4498785617
+Nice,restaurant,Alhambar,43.7007235,7.2816243,node,4498785619
+Nice,restaurant,Le Maquis,43.6967062,7.2755302,node,4514089490
+Nice,restaurant,La Cave Nature,43.7038942,7.3116562,node,4550918558
+Nice,restaurant,O Corcovado,43.6960514,7.260883,node,4586072689
+Nice,restaurant,Z,43.6952362,7.2611332,node,4588746090
+Nice,restaurant,Blast,43.6953037,7.2765865,node,4688949144
+Nice,restaurant,Amore,43.6958662,7.2718071,node,4717138328
+Nice,restaurant,Fine Geule,43.696034,7.2718379,node,4717139157
+Nice,restaurant,La Cantine de Jo,43.6963627,7.2721598,node,4717150194
+Nice,restaurant,Le Frog,43.6955026,7.2721772,node,4717255857
+Nice,restaurant,Le Grand Balcon,43.6956566,7.2719784,node,4717261057
+Nice,restaurant,Bistrot Jennifer,43.6955921,7.2736196,node,4717589053
+Nice,restaurant,La Storia,43.6956816,7.2760566,node,4718731782
+Nice,restaurant,La Cambuse,43.6957229,7.2755514,node,4718731787
+Nice,restaurant,Le Lodge,43.6963502,7.2652521,node,4762891090
+Nice,restaurant,Chez Ritho,43.6961809,7.2652805,node,4762891091
+Nice,restaurant,Annette,43.6960993,7.2652942,node,4762891092
+Nice,restaurant,Soho,43.6965407,7.2652372,node,4762891096
+Nice,restaurant,Boccaccio,43.6976786,7.2684824,node,4763851339
+Nice,restaurant,Le Petit Café de France,43.69641,7.2639655,node,4764950422
+Nice,restaurant,La Rotonde,43.6943991,7.2577595,node,4767119356
+Nice,restaurant,O'Palermo,43.6971371,7.2660752,node,4768361532
+Nice,restaurant,1847,43.6974479,7.2668684,node,4768361544
+Nice,restaurant,La Peche à la Vigne,43.6995911,7.2828536,node,4801289365
+Nice,restaurant,Le Bedouin - Chez Michel,43.7028284,7.2688697,node,4852259624
+Nice,restaurant,La Planxa,43.7050136,7.2648194,node,4852259724
+Nice,restaurant,Le Panier,43.6958141,7.2767095,node,4852260921
+Nice,restaurant,Creperie du Port,43.6969512,7.286381,node,4852365024
+Nice,restaurant,L'Agua,43.6961989,7.2869132,node,4852365324
+Nice,restaurant,Panasia,43.6573251,7.1971299,node,4861606740
+Nice,restaurant,Évasion,43.6574237,7.1969903,node,4861606741
+Nice,restaurant,Edgar,43.6574939,7.1966752,node,4861606743
+Nice,restaurant,Au vieux Four,43.7014194,7.283538,node,4887457348
+Nice,restaurant,Lalqila,43.6983254,7.2874297,node,4930432605
+Nice,restaurant,Le Mozart,43.7002311,7.2621289,node,5043098988
+Nice,restaurant,Le Victor Hugo,43.6983319,7.2589545,node,5043098991
+Nice,restaurant,Le Bistrot d'Antoine,43.6963914,7.2761835,node,5060092821
+Nice,restaurant,Le Fonétic,43.7206905,7.2512764,node,5060092921
+Nice,restaurant,Maizon,43.7019798,7.2780597,node,5060119521
+Nice,restaurant,Citrus,43.6966521,7.2759109,node,5060119523
+Nice,restaurant,Bistrot Gourmand,43.6959834,7.2698625,node,5060275721
+Nice,restaurant,Les Cocottes,43.6957453,7.2426822,node,5060321528
+Nice,restaurant,1-2-3 Pizza,43.7253912,7.2488855,node,5076303470
+Nice,restaurant,Casablanca,43.7054452,7.255834,node,5130886962
+Nice,restaurant,Thym & Olives,43.7050196,7.2562753,node,5130914183
+Nice,restaurant,L'Escale,43.7053366,7.2559641,node,5130914187
+Nice,restaurant,Brasserie Borriglione,43.7134549,7.261789,node,5206841824
+Nice,restaurant,Mi Casa,43.6977308,7.2757808,node,5273498925
+Nice,restaurant,Le Grec Imperial,43.7089029,7.2524661,node,5348034938
+Nice,restaurant,La Friterie,43.7095696,7.2552442,node,5348050809
+Nice,restaurant,Lao Viet,43.7022108,7.2646623,node,5365590543
+Nice,restaurant,Pasta Basta,43.6962981,7.2761151,node,5365608372
+Nice,restaurant,La Cantine d'Olive,43.6568715,7.1821108,node,5398826531
+Nice,restaurant,La Gourmandise,43.6570374,7.1827733,node,5398826533
+Nice,restaurant,Le Paradis Marin,43.6571325,7.1831903,node,5398826536
+Nice,restaurant,Dolce Vita,43.657182,7.1836477,node,5398826538
+Nice,restaurant,La Maison de L'Entrecôte,43.6572082,7.1837737,node,5398826539
+Nice,restaurant,Sirtaki Dilan,43.6572314,7.184113,node,5398826541
+Nice,restaurant,Portofino,43.6572994,7.1846106,node,5398826542
+Nice,restaurant,Bistro-quai,43.6573362,7.1849914,node,5398826544
+Nice,restaurant,Pain & Cie,43.6958107,7.273455,node,5401302981
+Nice,restaurant,Le Bateleur,43.695384,7.2758539,node,5401302996
+Nice,restaurant,Campo di Fiori,43.6954237,7.2755107,node,5401302997
+Nice,restaurant,Meraki,43.6954722,7.2749722,node,5401303003
+Nice,restaurant,Savoia Caffe,43.6952855,7.2743546,node,5401303006
+Nice,restaurant,Paradice,43.6955081,7.2746101,node,5401303007
+Nice,restaurant,Gigi Tavola,43.6977029,7.2865268,node,5489074324
+Nice,restaurant,Pop-o-Thym,43.6954363,7.2753328,node,5612690021
+Nice,restaurant,Le Bistro du Port,43.6947469,7.2829325,node,5615246678
+Nice,restaurant,Le Bombay Palace,43.6945488,7.2828662,node,5615246679
+Nice,restaurant,La Coccinelle,43.6933373,7.2508682,node,5618020856
+Nice,restaurant,Polly and Cie,43.7209311,7.2612245,node,5618159724
+Nice,restaurant,Waynakh,43.6960384,7.2567372,node,5620206104
+Nice,restaurant,Pampam,43.6950324,7.2550517,node,5620206110
+Nice,restaurant,Nooris,43.6974352,7.2654573,node,5623112954
+Nice,restaurant,BA MA,43.6972385,7.2623211,node,5623112962
+Nice,restaurant,Fun Sushi,43.6972175,7.2622501,node,5623112963
+Nice,restaurant,Deli Roll,43.6971693,7.2620231,node,5623112964
+Nice,restaurant,O'Crazy,43.6947386,7.2541967,node,5623112981
+Nice,restaurant,Yafo,43.7011498,7.2725889,node,5642031321
+Nice,restaurant,Café Beyrouth,43.6973257,7.2627028,node,5667374326
+Nice,restaurant,Le Local,43.698974,7.2855711,node,5667384026
+Nice,restaurant,Le Petit Lascaris,43.6981657,7.2775691,node,5676201122
+Nice,restaurant,Chez Pipo,43.6650589,7.2140809,node,5745287213
+Nice,restaurant,Café de Nice,43.6973446,7.2657379,node,5784883053
+Nice,restaurant,Bleu Bay,43.6580261,7.1899034,node,5829436919
+Nice,restaurant,Dylano,43.6579722,7.1895849,node,5829436921
+Nice,restaurant,Casa Luna,43.6579054,7.188668,node,5829436922
+Nice,restaurant,L'Atoll,43.6578885,7.1869652,node,5829436923
+Nice,restaurant,Isabelle's,43.6578715,7.1867611,node,5829436924
+Nice,restaurant,Voile Rouge,43.6578495,7.1865571,node,5829436925
+Nice,restaurant,Le Bar des Oiseaux,43.6969354,7.2749341,node,5863070162
+Nice,restaurant,Ma cave,43.7114578,7.292574,node,5884323855
+Nice,restaurant,L'auberg'in,43.7110912,7.2922337,node,5884323856
+Nice,restaurant,La Tour Halévy,43.696364,7.2650442,node,5968325064
+Nice,restaurant,Pekin Restaurant,43.7026933,7.2655661,node,6041704641
+Nice,restaurant,Hely,43.7005419,7.287934,node,6239574292
+Nice,restaurant,Le Grand Cafe de France,43.6992549,7.2686614,node,6355252486
+Nice,restaurant,Campanile Nice Aéroport,43.6670369,7.2146188,node,6426422059
+Nice,restaurant,Amethis,43.6674166,7.2141909,node,6426422060
+Nice,restaurant,L'entre 2,43.6674599,7.2138822,node,6426422061
+Nice,restaurant,Le First Restaurant,43.66842,7.2143328,node,6426422062
+Nice,restaurant,L'Etna,43.6676597,7.2142134,node,6426422063
+Nice,restaurant,Lettuce & co,43.6677221,7.2143659,node,6426422064
+Nice,restaurant,La Bonne Pause,43.6676999,7.2144707,node,6426422065
+Nice,restaurant,Maï cuisine,43.6689093,7.2146951,node,6426422067
+Nice,restaurant,Novotel Café,43.6670977,7.2140966,node,6426422068
+Nice,restaurant,Le Central,43.7035529,7.2656523,node,6438393794
+Nice,restaurant,Amélia,43.6967495,7.2715843,node,6445550087
+Nice,restaurant,L’Eau de Vie,43.7016512,7.2757035,node,6445550089
+Nice,restaurant,L’epicerie Georges,43.6961158,7.2770004,node,6445567088
+Nice,restaurant,Le Bocal,43.6991284,7.2720793,node,6445662385
+Nice,restaurant,Franchin,43.6963914,7.2641986,node,6462062886
+Nice,restaurant,Casa Tua,43.6959426,7.2771954,node,6579622985
+Nice,restaurant,Chez Mori's,43.6965942,7.264744,node,6641195886
+Nice,restaurant,Le Rocher,43.6939297,7.2821593,node,6665147485
+Nice,restaurant,Chez Thérésa,43.6970806,7.2772566,node,6665520585
+Nice,restaurant,Le Bistro de l'étoile,43.7040571,7.3101902,node,6705097387
+Nice,restaurant,Le Canon,43.6970513,7.2603512,node,6726699286
+Nice,restaurant,La Cucina,43.6963308,7.264757,node,6764942685
+Nice,restaurant,Le Grand Cafe de France,43.6964783,7.2641817,node,6774298211
+Nice,restaurant,Le Millésisme,43.7038457,7.2836001,node,6805217711
+Nice,restaurant,Mamma Roma,43.6985694,7.2715009,node,6823202886
+Nice,restaurant,Lao Vientiane,43.6972847,7.26252,node,6844064808
+Nice,restaurant,21 Paysans,43.7043031,7.2707927,node,6866407968
+Nice,restaurant,Lou Balico,43.7013624,7.2776451,node,6877909112
+Nice,restaurant,Panda Chine,43.6969855,7.2747334,node,6888800985
+Nice,restaurant,Paper plane,43.6998369,7.2732469,node,6924617950
+Nice,restaurant,La Table Alziari,43.6995184,7.2790673,node,6953181342
+Nice,restaurant,Les Palmeria,43.7028818,7.3112351,node,6965518376
+Nice,restaurant,La Belle Etoile,43.7041615,7.3114255,node,6965634655
+Nice,restaurant,La Cuisine,43.7038406,7.3116361,node,6965634657
+Nice,restaurant,La Tavola,43.7036855,7.3115408,node,6965634658
+Nice,restaurant,Le Mekong,43.7036894,7.3112807,node,6965634659
+Nice,restaurant,La Grignotière,43.7034005,7.3112324,node,6965634660
+Nice,restaurant,La Praria,43.7065804,7.3172781,node,6986352132
+Nice,restaurant,Alma Goût Méditerranée - Villefranche,43.7049729,7.3128211,node,6986352134
+Nice,restaurant,La busca,43.6676797,7.1920761,node,6994648286
+Nice,restaurant,Davisto,43.6954577,7.2552412,node,7015264836
+Nice,restaurant,Le Mandarin,43.6965408,7.2618628,node,7023702316
+Nice,restaurant,Le Virginie,43.7052882,7.289528,node,7036040421
+Nice,restaurant,La Corderie,43.6976581,7.3065876,node,7036065758
+Nice,restaurant,Chez Cane,43.697667,7.2092445,node,7042266079
+Nice,restaurant,Le Saëtone,43.7040044,7.2642328,node,7052737785
+Nice,restaurant,Carpe Diem,43.6969662,7.2767485,node,7093689786
+Nice,restaurant,Au Bureau,43.6966419,7.2649819,node,7096559386
+Nice,restaurant,Le Lotus,43.7017642,7.2605841,node,7097850959
+Nice,restaurant,Le Keter,43.7017754,7.2605103,node,7097850960
+Nice,restaurant,Sentimi,43.7013366,7.2794968,node,7098416555
+Nice,restaurant,Le Napoléon,43.7014818,7.279854,node,7098519652
+Nice,restaurant,Little Boho,43.7014263,7.2795414,node,7098520512
+Nice,restaurant,Campo Caffé,43.7015184,7.2797436,node,7098526601
+Nice,restaurant,La Tapenade,43.6964242,7.2759913,node,7099728463
+Nice,restaurant,Le Rossini,43.7010554,7.2563934,node,7099812753
+Nice,restaurant,New Bharati,43.7013351,7.2570596,node,7099812760
+Nice,restaurant,Babbo Mio,43.7009754,7.2831699,node,7103266987
+Nice,restaurant,Bistrot Dalpozzo,43.6967726,7.261811,node,7103266988
+Nice,restaurant,Vabbuò,43.6961253,7.2608506,node,7103267086
+Nice,restaurant,Le Bard'O,43.6950796,7.2830439,node,7119253795
+Nice,restaurant,Safran,43.6948394,7.2829635,node,7119267093
+Nice,restaurant,Le Barachois,43.7012671,7.2569882,node,7142810492
+Nice,restaurant,L'Autobus,43.7339606,7.2616404,node,7174507585
+Nice,restaurant,Le Magenta,43.6976604,7.2669314,node,7178660387
+Nice,restaurant,Magnolia Café,43.7007664,7.2820571,node,7194997185
+Nice,restaurant,Palais Thai,43.6954996,7.2550118,node,7214770580
+Nice,restaurant,Le Curry,43.6954249,7.2550415,node,7214771824
+Nice,restaurant,Saj,43.6965699,7.2770552,node,7233617866
+Nice,restaurant,Chabrol,43.6996979,7.2852,node,7274029585
+Nice,restaurant,La Vieille Crêpe,43.6966037,7.2763167,node,7296202912
+Nice,restaurant,Sakura Sushi,43.716611,7.2531527,node,7387454812
+Nice,restaurant,3 Brasseurs,43.6962395,7.2700257,node,7628803585
+Nice,restaurant,Banh Mei,43.6972281,7.277838,node,7637892086
+Nice,restaurant,Clay,43.7006156,7.2816924,node,7684647086
+Nice,restaurant,L'Oliveraie,43.7597596,7.2306018,node,7698887286
+Nice,restaurant,La Pignatiera,43.7099468,7.2637779,node,7712005416
+Nice,restaurant,Galinetta,43.7007658,7.2772528,node,7725641349
+Nice,restaurant,Casa Elli,43.6974581,7.265665,node,7745493285
+Nice,restaurant,Le P'tit Resto,43.6965995,7.2765025,node,7747389585
+Nice,restaurant,Pappagallo,43.7010769,7.2820096,node,7772522086
+Nice,restaurant,Carré d'Or,43.6978582,7.2668593,node,7775742887
+Nice,restaurant,Deli Bo,43.7068468,7.3156546,node,7796500344
+Nice,restaurant,Pin-pin,43.7004881,7.2825811,node,7802055759
+Nice,restaurant,Le Garnier,43.7101905,7.2561789,node,7818206298
+Nice,restaurant,Pho 38,43.6950071,7.2549739,node,7876966853
+Nice,restaurant,Le Rossetti,43.697426,7.2763158,node,8016625586
+Nice,restaurant,Le Clocher,43.6973727,7.2760998,node,8016625685
+Nice,restaurant,Restaurant du Club Nautique de Nice,43.6921266,7.2899653,node,8016886153
+Nice,restaurant,Chez Davia,43.6991033,7.2648218,node,8047795586
+Nice,restaurant,A Buteghinna,43.6973885,7.2746051,node,8047838886
+Nice,restaurant,Maïdo,43.6994936,7.2740896,node,8259785986
+Nice,restaurant,Indian Food Corner,43.7097954,7.2929699,node,8831815021
+Nice,restaurant,Babel Babel,43.6951499,7.2758402,node,8842976319
+Nice,restaurant,Lou trambalan,43.7097432,7.2922169,node,8844760797
+Nice,restaurant,Nha Trang,43.7113322,7.2922634,node,8865826700
+Nice,restaurant,Figue & Olive,43.6956714,7.201132,node,8871342717
+Nice,restaurant,Korner's,43.709986,7.285915,node,8887791113
+Nice,restaurant,Oceanosa,43.695708,7.2561013,node,8895683578
+Nice,restaurant,La Cantina,43.6574809,7.196858,node,8949744711
+Nice,restaurant,Gusti,43.7047749,7.2647787,node,8954208917
+Nice,restaurant,Hôtel Amour Beach,43.6933525,7.2560225,node,8960177417
+Nice,restaurant,Vingt4,43.7003129,7.264518,node,9002257817
+Nice,restaurant,Les Terrasses du Parc Impérial,43.7048208,7.2524191,node,9153330662
+Nice,restaurant,Il paesello,43.7041819,7.2678372,node,9229513910
+Nice,restaurant,Les Balancelles,43.7042241,7.2700877,node,9229532369
+Nice,restaurant,Tasty Trame,43.7044302,7.2689911,node,9229539989
+Nice,restaurant,L'appart,43.7039651,7.2682092,node,9229541177
+Nice,restaurant,La Pignata,43.6909134,7.2137077,node,9236758015
+Nice,restaurant,Chez Jo,43.6953677,7.2542251,node,9269447720
+Nice,restaurant,La Petite Maison,43.6958155,7.2708314,node,9321219489
+Nice,restaurant,Cok Bafa,43.7081223,7.2609756,node,9353486417
+Nice,restaurant,Café de Paris,43.6951093,7.2650367,node,9366158168
+Nice,restaurant,Balthazar,43.6951664,7.2652277,node,9366158169
+Nice,restaurant,La ficelle,43.6943904,7.244967,node,9376527916
+Nice,restaurant,La Nice Etoilée,43.6932554,7.2464223,node,9376595524
+Nice,restaurant,Beirut Grill House,43.7034125,7.2644596,node,9380199323
+Nice,restaurant,Nha trang,43.7033166,7.2644784,node,9380199324
+Nice,restaurant,Le Khelcom,43.7079243,7.2626826,node,9480616226
+Nice,restaurant,La Goulette,43.7035843,7.256002,node,9535067787
+Nice,restaurant,Origines,43.70151,7.2740799,node,9577685617
+Nice,restaurant,Apopino,43.6990484,7.2648501,node,9577746917
+Nice,restaurant,O'tejo,43.7063595,7.2671931,node,9627166334
+Nice,restaurant,Labottega,43.7059801,7.2656918,node,9627166337
+Nice,restaurant,Poco Loco,43.6962469,7.2619286,node,9627968849
+Nice,restaurant,Akoya,43.7090155,7.2646064,node,9631664514
+Nice,restaurant,Peppino,43.6977372,7.2763713,node,9652192817
+Nice,restaurant,La Taverna du 9,43.6989632,7.2709762,node,9652228217
+Nice,restaurant,Chaud-Vin,43.698405,7.2714713,node,9653733917
+Nice,restaurant,Le Duclin,43.708215,7.2628205,node,9689317945
+Nice,restaurant,Le faubourg Montmartre,43.7049766,7.2658139,node,9689821712
+Nice,restaurant,Royal Kashmir,43.7050427,7.2660125,node,9689821713
+Nice,restaurant,Djourdjoura,43.7050892,7.266695,node,9689821716
+Nice,restaurant,Tandoori Flame,43.6983354,7.2768348,node,9695350020
+Nice,restaurant,Sawasdee,43.6976194,7.2753496,node,9695648133
+Nice,restaurant,Route des Inde,43.6974744,7.2755828,node,9695658199
+Nice,restaurant,Sans nom,43.7001114,7.2690368,node,9705010944
+Nice,restaurant,La Boulisterie Club,43.6998571,7.2844051,node,9804781708
+Nice,restaurant,Ikko Ramen,43.6971078,7.2748738,node,9815821417
+Nice,restaurant,Le Temps d‘un été,43.6944023,7.2613301,node,9831594017
+Nice,restaurant,Terra Madre,43.6950824,7.2636835,node,9877388418
+Nice,restaurant,La Cantine Portugaise,43.7065075,7.2917892,node,9906224965
+Nice,restaurant,À la Table Du Marche,43.7102482,7.2586493,node,9943439759
+Nice,restaurant,NÂGA Street-food,43.6977488,7.2407963,node,9947483963
+Nice,restaurant,Cumin et Cannelle,43.7084862,7.2620579,node,10004974715
+Nice,restaurant,Chez Paulette,43.7008545,7.2827101,node,10006626017
+Nice,restaurant,Le Garibaldi,43.7009204,7.2810539,node,10056958982
+Nice,restaurant,Casa Nissa,43.6981455,7.2703274,node,10069025315
+Nice,restaurant,Le Panama,43.7003322,7.2807497,node,10073564218
+Nice,restaurant,Gina,43.6975045,7.2695026,node,10075369304
+Nice,restaurant,Le Siècle,43.6946664,7.2597581,node,10078385907
+Nice,restaurant,Le Liber'tea,43.6980223,7.2672307,node,10078386724
+Nice,restaurant,La Fontaine,43.6978449,7.2672871,node,10078386725
+Nice,restaurant,Maison Margaux,43.6977848,7.2673394,node,10078386726
+Nice,restaurant,Oscar,43.6974333,7.2667345,node,10084914627
+Nice,restaurant,La Riviera,43.6970057,7.2657837,node,10084914631
+Nice,restaurant,Le Petit Beefbar,43.6957999,7.2704186,node,10087629252
+Nice,restaurant,Le Garden Grill,43.6962915,7.2645184,node,10092377300
+Nice,restaurant,La Femme de boulanger,43.6963551,7.2649234,node,10092377301
+Nice,restaurant,La Grande Brune,43.6950891,7.2639728,node,10101454046
+Nice,restaurant,Loka,43.696563,7.2646183,node,10101454050
+Nice,restaurant,La Villa Massenet,43.6963274,7.2642159,node,10101454053
+Nice,restaurant,Boozen,43.6974493,7.2655651,node,10101454058
+Nice,restaurant,Greek House,43.6973921,7.2651571,node,10101454061
+Nice,restaurant,Villa d'Isa,43.7104301,7.2617161,node,10102762618
+Nice,restaurant,Pinocchio,43.6940507,7.2565201,node,10103304232
+Nice,restaurant,Le Prom,43.6950388,7.2627421,node,10103304234
+Nice,restaurant,Büma,43.6980514,7.2656214,node,10114971366
+Nice,restaurant,Ornato,43.6968052,7.2717989,node,10120197182
+Nice,restaurant,Le Petit Palais,43.6970241,7.2735849,node,10139253355
+Nice,restaurant,Nespo,43.6985835,7.260246,node,10150915076
+Nice,restaurant,Le Verdi,43.6995041,7.2614613,node,10150915080
+Nice,restaurant,Pera,43.6973381,7.2744354,node,10156448676
+Nice,restaurant,O'Morena,43.697349,7.275138,node,10156448682
+Nice,restaurant,La Civette Garibaldi,43.7004526,7.2792524,node,10156614992
+Nice,restaurant,Le Cèdre,43.7069548,7.2830785,node,10156614999
+Nice,restaurant,Arito Sushi,43.7061973,7.2826537,node,10156615001
+Nice,restaurant,Le Raja,43.6952957,7.2831195,node,10178610978
+Nice,restaurant,Yans,43.6951404,7.2830643,node,10178610979
+Nice,restaurant,Eden Garden,43.6946598,7.2829034,node,10178610981
+Nice,restaurant,La Cantine de Mémé,43.6987301,7.2669947,node,10189048466
+Nice,restaurant,Allo Liban,43.7132341,7.2585848,node,10204502413
+Nice,restaurant,L'Escale,43.6960483,7.2860254,node,10214996741
+Nice,restaurant,La Popote d'Ondine,43.6996248,7.2709089,node,10267033709
+Nice,restaurant,Rumah Bali,43.6994894,7.2588867,node,10289393963
+Nice,restaurant,Arkose Cantine,43.7060772,7.193753,node,10294009273
+Nice,restaurant,Le Coffee,43.6919113,7.2469331,node,10536657843
+Nice,restaurant,Sixsa,43.6990572,7.2709265,node,10571502709
+Nice,restaurant,Deli Bao,43.6976784,7.2662379,node,10572661110
+Nice,restaurant,La Vela,43.6922836,7.2515065,node,10596473696
+Nice,restaurant,Marcel,43.6967783,7.2752164,node,10596473697
+Nice,restaurant,Snack Mod's,43.7181055,7.2524732,node,10655805712
+Nice,restaurant,Aux 2 Palmiers,43.6995349,7.26549,node,10659648227
+Nice,restaurant,l'Alchimie,43.6989591,7.2644789,node,10661818425
+Nice,restaurant,Daar Djerba,43.6957476,7.2605742,node,10676051402
+Nice,restaurant,il vicoletto,43.6967793,7.2642884,node,10678742038
+Nice,restaurant,Ya Habibi,43.6966813,7.2643943,node,10678742039
+Nice,restaurant,Côté Lounge,43.6967764,7.2647832,node,10678742043
+Nice,restaurant,Ô Mai,43.7001583,7.2703569,node,10680962294
+Nice,restaurant,Aromate,43.6992993,7.2699223,node,10680962299
+Nice,restaurant,Le Daily-Ric,43.6993671,7.2705379,node,10680962303
+Nice,restaurant,Le 3e,43.6952298,7.2629982,node,10684250163
+Nice,restaurant,Panisse,43.7008923,7.269575,node,10685786723
+Nice,restaurant,Ya Habibi,43.6959987,7.2633831,node,10686280171
+Nice,restaurant,Demi Lune,43.6951522,7.2635964,node,10686280175
+Nice,restaurant,Olive & Artichaut,43.6964992,7.2759971,node,10686905777
+Nice,restaurant,Maïoun,43.7003755,7.2802569,node,10686905779
+Nice,restaurant,Pezza,43.7026816,7.2684344,node,10688291778
+Nice,restaurant,Icô,43.7027087,7.2685189,node,10688291779
+Nice,restaurant,Le P'tit Chez Nous,43.6978778,7.2645432,node,10691081165
+Nice,restaurant,Le Felix Faure,43.6980921,7.2723417,node,10695151018
+Nice,restaurant,L'Horloge,43.6980213,7.2720279,node,10695151019
+Nice,restaurant,Le Clin d'oeil,43.6981096,7.2716215,node,10695151022
+Nice,restaurant,Le Terre del Sud,43.6963287,7.2619103,node,10697557441
+Nice,restaurant,La Pairolière,43.6996057,7.2787669,node,10702617088
+Nice,restaurant,Café Noir,43.6960268,7.2707981,node,10705125049
+Nice,restaurant,Mets and Café,43.7056226,7.2659138,node,10706956642
+Nice,restaurant,Peixes,43.6960162,7.2710489,node,10712150510
+Nice,restaurant,Seen,43.6968694,7.2682554,node,10712593550
+Nice,restaurant,Piperno,43.6958434,7.2741563,node,10721673533
+Nice,restaurant,Indian Curry & Tandoori,43.6962014,7.2608223,node,10731270796
+Nice,restaurant,Nikaïa,43.6867172,7.1982228,node,10737970555
+Nice,restaurant,Carmela,43.6955023,7.2769766,node,10741074912
+Nice,restaurant,Sushi Iko,43.6936018,7.2515337,node,10753022859
+Nice,restaurant,Eatsa,43.7004693,7.2707504,node,10756759909
+Nice,restaurant,Meat House,43.7061972,7.2663044,node,10804995966
+Nice,restaurant,Lou Pastrouil,43.6968751,7.27432,node,10923821809
+Nice,restaurant,Mamie Jany,43.6976447,7.2681668,node,10923821810
+Nice,restaurant,Comptoir du Marché,43.6974968,7.2750103,node,10924831711
+Nice,restaurant,Le Tire Bouchon,43.6965732,7.2753941,node,10926177382
+Nice,restaurant,O'Staff,43.700871,7.2669357,node,10926244971
+Nice,restaurant,Le Bistro d'Aqui,43.696835,7.2753468,node,10926982345
+Nice,restaurant,Marinette,43.6970645,7.2753254,node,10926982347
+Nice,restaurant,Ville de Sienne,43.6969117,7.2750648,node,10926982352
+Nice,restaurant,Pachamama,43.6976994,7.2762458,node,10929276384
+Nice,restaurant,Ohana,43.6977174,7.2753831,node,10929297207
+Nice,restaurant,Mascareignes,43.6965371,7.2763208,node,10929360563
+Nice,restaurant,Acqua & Farina,43.6962949,7.2769935,node,10929360568
+Nice,restaurant,Kesar,43.7012675,7.2662558,node,10931864868
+Nice,restaurant,Angelo,43.6999596,7.2655034,node,10936280403
+Nice,restaurant,Bistrot Rossetti,43.6973144,7.2766332,node,10959575288
+Nice,restaurant,Dona,43.6976393,7.2768954,node,10959575293
+Nice,restaurant,Le Banthai,43.6970382,7.2771455,node,10969661707
+Nice,restaurant,Casa Becchio,43.6982366,7.2729103,node,10970555469
+Nice,restaurant,Saporedipane,43.6984131,7.2736318,node,10970555471
+Nice,restaurant,La P'tite Cocotte,43.6991679,7.27896,node,10973347452
+Nice,restaurant,Perlone,43.7015894,7.2777846,node,10973907417
+Nice,restaurant,Cibo,43.7018875,7.2775405,node,10973907420
+Nice,restaurant,Battambang Food,43.7021987,7.2782218,node,10973907461
+Nice,restaurant,Les Compagnons de la Grappe,43.7002257,7.2807337,node,10974532761
+Nice,restaurant,Roze,43.7005437,7.2808557,node,10974532771
+Nice,restaurant,La Treille,43.6993279,7.2790781,node,10976172203
+Nice,restaurant,Rouge,43.6972394,7.2827118,node,10982611860
+Nice,restaurant,Chez Les Garçons,43.6984169,7.2821492,node,10984926136
+Nice,restaurant,Le Bam chez Agnes,43.7004198,7.2824833,node,11007276949
+Nice,restaurant,O'Braisé,43.7099883,7.2881916,node,11010740105
+Nice,restaurant,Novotel Nice Aeroport Arenas,43.667112,7.2142531,node,11011216610
+Nice,restaurant,l'insolent,43.6993594,7.2635883,node,11014685870
+Nice,restaurant,Miamici,43.6996122,7.2644731,node,11014685874
+Nice,restaurant,L'Evelina,43.6972466,7.2751944,node,11017483595
+Nice,restaurant,La Cave du Fromager,43.696723,7.276796,node,11017531397
+Nice,restaurant,Nuances,43.6991907,7.2835292,node,11026484720
+Nice,restaurant,Matacito,43.6991475,7.2838625,node,11026484722
+Nice,restaurant,Ruines,43.699036,7.2860411,node,11027171845
+Nice,restaurant,Peche chez Bati,43.6989163,7.2855616,node,11027171846
+Nice,restaurant,Lavomatique,43.6975472,7.2761753,node,11028323205
+Nice,restaurant,Bella Bay,43.6982489,7.269713,node,11029527552
+Nice,restaurant,Bocca Mar,43.6945033,7.2631344,node,11062073205
+Nice,restaurant,Green Meridia,43.679958,7.2038764,node,11149800428
+Nice,restaurant,O'Grill Bleu,43.6798779,7.203327,node,11149800429
+Nice,restaurant,Chez Tonton,43.6785734,7.2030902,node,11149874959
+Nice,restaurant,Brasserie St Vincent,43.684379,7.202238,node,11149874960
+Nice,restaurant,Lou papa,43.6832328,7.2037097,node,11149874961
+Nice,restaurant,Le Bavastro,43.7007445,7.285405,node,11157927391
+Nice,restaurant,Asie Riviera,43.7064314,7.2869232,node,11162779707
+Nice,restaurant,La Maison de Marie,43.6975273,7.2687006,node,11165679894
+Nice,restaurant,Delizi,43.6971817,7.2617201,node,11172454205
+Nice,restaurant,Ma Yucca,43.6969707,7.2609476,node,11172454206
+Nice,restaurant,Toné Géorgien,43.6971324,7.2605701,node,11172454208
+Nice,restaurant,Maison Joia,43.6994796,7.2567353,node,11187616302
+Nice,restaurant,L'Antica,43.7007444,7.2614345,node,11192648024
+Nice,restaurant,Tavlyn,43.7016597,7.2615458,node,11192678837
+Nice,restaurant,La Mascotte,43.7012016,7.2605547,node,11196048484
+Nice,restaurant,Berlin,43.7022482,7.2626837,node,11200461847
+Nice,restaurant,La Grenade,43.7021149,7.2627032,node,11200461851
+Nice,restaurant,Le Buggy,43.7019307,7.2627072,node,11200461852
+Nice,restaurant,Gusti,43.7046938,7.2645459,node,11203485867
+Nice,restaurant,Tonton Barbac,43.7146383,7.2623625,node,11210620856
+Nice,restaurant,Cave Marta,43.6982047,7.2659495,node,11241175269
+Nice,restaurant,Giorgia,43.6978167,7.2711914,node,11242196311
+Nice,restaurant,Joseph,43.6577996,7.1963519,node,11245923471
+Nice,restaurant,Lou Pistou,43.6965582,7.2731148,node,11249128546
+Nice,restaurant,Caruso,43.6975317,7.2748985,node,11286174299
+Nice,restaurant,Omura,43.6974396,7.2663108,node,11286468013
+Nice,restaurant,Socca Da Titin,43.6976156,7.2666893,node,11286468016
+Nice,restaurant,Téta Marie,43.6961719,7.2617176,node,11315116886
+Nice,restaurant,Hanoï Opéra,43.6962408,7.2617018,node,11315116887
+Nice,restaurant,l'antidote,43.6963502,7.2616792,node,11327813720
+Nice,restaurant,MI U MI,43.6977484,7.2757022,node,11332898376
+Nice,restaurant,Chez Alex,43.700263,7.2735997,node,11341136851
+Nice,restaurant,Kavkaz,43.6961442,7.2518148,node,11341643561
+Nice,restaurant,Le Bistrot de Jeff,43.7006174,7.2714304,node,11357612336
+Nice,restaurant,L'Ovale,43.7006053,7.2711213,node,11357612340
+Nice,restaurant,Le Montalbano,43.7021114,7.2744182,node,11361323458
+Nice,restaurant,Le My,43.7014638,7.2731034,node,11361323461
+Nice,restaurant,Le Relax,43.7012898,7.2728808,node,11361378971
+Nice,restaurant,Apulia,43.7024426,7.2765561,node,11368530082
+Nice,restaurant,La Table de Brice,43.7017431,7.2759338,node,11368530096
+Nice,restaurant,Caffe Gambetta,43.698765,7.2560392,node,11370378584
+Nice,restaurant,Basilic & Co,43.7009388,7.2715639,node,11377220591
+Nice,restaurant,Flaveur,43.7013005,7.2718374,node,11377220599
+Nice,restaurant,Gillou,43.70103,7.2711877,node,11377220607
+Nice,restaurant,Xitlali,43.6990418,7.2833523,node,11392843796
+Nice,restaurant,Asian Factory,43.7009264,7.2830212,node,11392843800
+Nice,restaurant,Prima Volta,43.7010075,7.2833973,node,11392843801
+Nice,restaurant,L'Antica Trottoria,43.7009863,7.2844516,node,11392843802
+Nice,restaurant,Les Agitateurs,43.7005164,7.2843652,node,11392843804
+Nice,restaurant,Le Poppy,43.7023802,7.2884324,node,11402941302
+Nice,restaurant,Chez Max,43.6960005,7.2653107,node,11460973976
+Nice,restaurant,La Pizza Sale e Pepe,43.702254,7.2733938,node,11494802535
+Nice,restaurant,Bistrot Poète,43.701999,7.273202,node,11494802539
+Nice,restaurant,That's Amore,43.7095705,7.2553872,node,11496952881
+Nice,restaurant,Göz,43.7033292,7.274118,node,11497594950
+Nice,restaurant,l'Olivier,43.7028139,7.2692719,node,11506512732
+Nice,restaurant,Asia Cook,43.7027141,7.2689728,node,11506512733
+Nice,restaurant,Nomad,43.6989628,7.2776002,node,11506774909
+Nice,restaurant,Sushi Ya,43.7029051,7.2690774,node,11513439396
+Nice,restaurant,Le Palacio,43.7033423,7.27066,node,11514317098
+Nice,restaurant,Sushi Arson,43.701981,7.2851852,node,11521816698
+Nice,restaurant,La Flara,43.7003021,7.2855466,node,11521816701
+Nice,restaurant,Gioia,43.7024135,7.272107,node,11522341242
+Nice,restaurant,Le Sun Sea,43.7043079,7.2701644,node,11522370986
+Nice,restaurant,Hit à Nissa !,43.7039709,7.2699621,node,11528454616
+Nice,restaurant,La Grande Bleue,43.702552,7.2645958,node,11542816338
+Nice,restaurant,Los Amigos,43.7106397,7.1937524,node,11556727870
+Nice,restaurant,Le Carino,43.7044931,7.2691626,node,11560814430
+Nice,restaurant,Jour Galeries Lafayette Nice,43.6578613,7.1975237,node,11572336469
+Nice,restaurant,Berco,43.6973334,7.2749005,node,11631032022
+Nice,restaurant,Comme un dimanche,43.6998035,7.2849856,node,11634218211
+Nice,restaurant,Assalit,43.7058383,7.2665408,node,11638526010
+Nice,restaurant,Le Leviathan,43.7061039,7.2660392,node,11638526015
+Nice,restaurant,Rajmahal,43.7059314,7.2659433,node,11638526016
+Nice,restaurant,La Maison WM,43.7056245,7.267672,node,11649418161
+Nice,restaurant,Culiacan Taco,43.7056852,7.2668854,node,11649418164
+Nice,restaurant,Le Nubuck,43.7061451,7.2674641,node,11659176668
+Nice,restaurant,Côté Marais,43.6973892,7.2750219,node,11663207623
+Nice,restaurant,Pirouette,43.7004822,7.2849602,node,11663207634
+Nice,restaurant,Le Mood,43.6573201,7.1848992,node,11668569669
+Nice,restaurant,Aradhana,43.700132,7.2873523,node,11673192056
+Nice,restaurant,Crudo,43.6987434,7.2858724,node,11673222374
+Nice,restaurant,Maison F.,43.6953093,7.2859231,node,11685357388
+Nice,restaurant,Le Pass'Port,43.6954664,7.2859606,node,11685357390
+Nice,restaurant,Duchesse,43.6956021,7.2859955,node,11685357392
+Nice,restaurant,l'Orée du Port,43.695798,7.2860116,node,11685357394
+Nice,restaurant,La Goelette,43.6965824,7.2862315,node,11685357402
+Nice,restaurant,La Charbonnade,43.6980548,7.277607,node,11708608329
+Nice,restaurant,Quilombo,43.6941989,7.2823471,node,11734397569
+Nice,restaurant,Indigo,43.7015809,7.2884941,node,11751679217
+Nice,restaurant,L'Heteroclite,43.697043,7.2767694,node,11769273606
+Nice,restaurant,Civette de la Prefecture,43.6963783,7.2762718,node,11778581369
+Nice,restaurant,Mother India,43.6959953,7.2770631,node,11780659950
+Nice,restaurant,Taouk,43.6959483,7.2760096,node,11795677295
+Nice,restaurant,Barbacane,43.6957039,7.2759171,node,11802254451
+Nice,restaurant,Cose Cosi,43.69599,7.2755992,node,11802254452
+Nice,restaurant,King Marcel,43.695447,7.2752506,node,11805624501
+Nice,restaurant,Onice,43.6987866,7.2827938,node,11807301737
+Nice,restaurant,L'Opera plage,43.6947343,7.2724973,node,11809889154
+Nice,restaurant,Al Capone,43.6981154,7.2713533,node,11826224847
+Nice,restaurant,Kooc Bao,43.7032204,7.2704277,node,11840453069
+Nice,restaurant,Kooc Tea,43.7036036,7.270048,node,11840468369
+Nice,restaurant,Les Deux Canailles,43.6982977,7.2715196,node,11848295931
+Nice,restaurant,Brasserie de Castillon,43.6990744,7.2837049,node,11850666025
+Nice,restaurant,La Charbonnade,43.697727,7.276019,node,11863110501
+Nice,restaurant,L'Olivula,43.7039403,7.3122765,node,11871959561
+Nice,restaurant,Dry,43.7041179,7.3124534,node,11871959562
+Nice,restaurant,Ancora,43.6994878,7.3086526,node,11871959563
+Nice,restaurant,Le Boudoir,43.6989236,7.2712058,node,11876481028
+Nice,restaurant,Lou Tape,43.6988329,7.2712608,node,11876481029
+Nice,restaurant,Tigermilk,43.6998965,7.2693162,node,11879452567
+Nice,restaurant,Le Patio,43.693913,7.279416,node,11881893452
+Nice,restaurant,La Terrasse,43.6952104,7.2657904,node,11881893454
+Nice,restaurant,Provenciaga,43.6983665,7.2734414,node,11886403579
+Nice,restaurant,Salette,43.7006679,7.2846364,node,11893131393
+Nice,restaurant,La Plage,43.6938257,7.2579825,node,11898796575
+Nice,restaurant,À l'infini,43.7045381,7.2903142,node,11901113634
+Nice,restaurant,Le Richelieu,43.7039065,7.2902226,node,11901125568
+Nice,restaurant,Pauline fait la cuisine,43.701836,7.2814184,node,11907271869
+Nice,restaurant,Grill house,43.6995287,7.2864193,node,11917509008
+Nice,restaurant,Asie Riviera,43.7005993,7.2868233,node,11917932465
+Nice,restaurant,So'bella,43.7013022,7.2872131,node,11918060838
+Nice,restaurant,"La Table ""à"" Julie",43.7033672,7.2884777,node,11919734617
+Nice,restaurant,Le Eleven,43.7043424,7.2887644,node,11919850727
+Nice,restaurant,L'Esterel,43.7050341,7.2891318,node,11919974124
+Nice,restaurant,D'AQUÌ,43.698923,7.2835427,node,11921600669
+Nice,restaurant,Bangkok,43.6969315,7.2656442,node,11944750174
+Nice,restaurant,Servella,43.7108484,7.1962233,node,11952024570
+Nice,restaurant,La Verrière,43.7078582,7.2631779,node,11961118126
+Nice,restaurant,Le Libe,43.708942,7.2623679,node,11961118128
+Nice,restaurant,L'Instant,43.708465,7.261981,node,11961118134
+Nice,restaurant,Yaal,43.7069023,7.2598755,node,11970552671
+Nice,restaurant,D'Art Bnet's,43.7063189,7.2598287,node,11970552672
+Nice,restaurant,L'Atelier du Carnivore,43.6967074,7.2770649,node,11976414548
+Nice,restaurant,Maison De Re,43.7073007,7.265608,node,11978668929
+Nice,restaurant,Ratapignata,43.7252238,7.2528494,node,11978781769
+Nice,restaurant,La Marsa,43.6951103,7.2564449,node,11978842572
+Nice,restaurant,Frisson,43.6975861,7.275543,node,11980516673
+Nice,restaurant,Verdant,43.7002156,7.2734863,node,11983804650
+Nice,restaurant,Nissa Tamoul,43.7045333,7.2888703,node,11985583107
+Nice,restaurant,Basilic & Co,43.7090089,7.2606674,node,11987672508
+Nice,restaurant,Flowers,43.7024497,7.2713743,node,11991752811
+Nice,restaurant,Big Pickle Cafe,43.7015918,7.2897992,node,12020527275
+Nice,restaurant,King Sushi & Wok,43.7043237,7.2819855,node,12064857376
+Nice,restaurant,Jojo's,43.7060264,7.2677616,node,12085369969
+Nice,restaurant,Utopia,43.701286,7.2771497,node,12088482469
+Nice,restaurant,Darcom,43.7033111,7.2640068,node,12091882719
+Nice,restaurant,Restaurant Solidaire - Face06,43.703843,7.2641351,node,12091892644
+Nice,restaurant,La Terrasse,43.7027238,7.2652513,node,12091892647
+Nice,restaurant,China Town,43.7034897,7.2639855,node,12091902376
+Nice,restaurant,Le Soleil d'Asie,43.7035675,7.2639692,node,12091903561
+Nice,restaurant,Cave à Jazz,43.7037376,7.2646133,node,12091904807
+Nice,restaurant,China 12,43.7039326,7.2636248,node,12091910063
+Nice,restaurant,Zen,43.7035868,7.264453,node,12091919197
+Nice,restaurant,Ishtar,43.7041207,7.2637327,node,12091919726
+Nice,restaurant,Sans nom,43.7025568,7.2645023,node,12091921855
+Nice,restaurant,L'Oli,43.7341605,7.3026825,node,12091925666
+Nice,restaurant,Real Tacos,43.7046884,7.2647619,node,12091926514
+Nice,restaurant,Baguettes d'argent,43.7042086,7.264691,node,12091926515
+Nice,restaurant,Dragon d'asie,43.6679077,7.213548,node,12171847845
+Nice,restaurant,Mange Voyage Aime,43.7035191,7.2854349,node,12181811601
+Nice,restaurant,La Casbah,43.7025692,7.2694522,node,12211209041
+Nice,restaurant,Ao House,43.7043853,7.285,node,12229276270
+Nice,restaurant,Le Bistrot des Serruriers,43.6973635,7.2783076,node,12299771699
+Nice,restaurant,Colita,43.698988,7.2816993,node,12299789913
+Nice,restaurant,Le Bonjour,43.7097456,7.2612751,node,12301580101
+Nice,restaurant,Gare du Sud,43.7092744,7.2612541,node,12301922902
+Nice,restaurant,Yamas,43.657585,7.1971135,node,12309380816
+Nice,restaurant,Braise,43.7097263,7.2612011,node,12314304088
+Nice,restaurant,Jardin d'Afrique,43.7076565,7.2659178,node,12320485366
+Nice,restaurant,La Flamme D'Or,43.6958696,7.2420492,node,12323193521
+Nice,restaurant,Essamba Long Courrier,43.7059576,7.2655849,node,12327342134
+Nice,restaurant,Piccolo Mondo,43.7001661,7.264577,node,12327342140
+Nice,restaurant,Biogstore,43.7027169,7.2675103,node,12329420922
+Nice,restaurant,Le Frenchie,43.7042265,7.2843329,node,12345759468
+Nice,restaurant,Chefoo,43.7042966,7.284375,node,12345759469
+Nice,restaurant,Taulissa,43.6964535,7.2666179,node,12365246053
+Nice,restaurant,Together,43.6573248,7.1975429,node,12368360072
+Nice,restaurant,La Dinette,43.6985997,7.2669706,node,12378437126
+Nice,restaurant,Shazi,43.6962033,7.261169,node,12382053291
+Nice,restaurant,El Kantaoui,43.7060453,7.2562256,node,12390598946
+Nice,restaurant,Khae Sarap,43.7060133,7.2573575,node,12390598953
+Nice,restaurant,Le Golden,43.6953587,7.2658159,node,12398101809
+Nice,restaurant,Mani,43.6963134,7.2650722,node,12402681348
+Nice,restaurant,Le Taj'Nice,43.6945753,7.256455,node,12404539198
+Nice,restaurant,Grillades de l'Avenue,43.7035178,7.2815055,node,12407323505
+Nice,restaurant,Armavir,43.7037805,7.2810146,node,12407323516
+Nice,restaurant,Vogue d'Asie,43.6991897,7.2656013,node,12416520988
+Nice,restaurant,Rivea Restaurant,43.6579301,7.1961539,node,12441617179
+Nice,restaurant,Jardin du Cap,43.6593647,7.1977066,node,12441623207
+Nice,restaurant,Cañas y Tapas,43.6569651,7.1983407,node,12441623231
+Nice,restaurant,IT Villagio,43.657737,7.1977526,node,12441623232
+Nice,restaurant,L'Oiseau d'Été,43.6966307,7.2618427,node,12497967653
+Nice,restaurant,Carlos & Maria,43.7086279,7.2561908,node,12529701546
+Nice,restaurant,Le Libey,43.709988,7.2589052,node,12531990812
+Nice,restaurant,La Tonnelle,43.7048227,7.2559614,node,12533779248
+Nice,restaurant,Canoun Dou Miejou,43.7033646,7.2821297,node,12543956348
+Nice,restaurant,Castel,43.7035222,7.2839114,node,12585286052
+Nice,restaurant,Délices de Corse,43.7048397,7.284012,node,12596574903
+Nice,restaurant,Giovanni,43.704895,7.2837994,node,12596574904
+Nice,restaurant,Chez Margot,43.7019142,7.2853987,node,12600893891
+Nice,restaurant,La Chaumière,43.7167876,7.3122506,node,12603434080
+Nice,restaurant,Jacques en terrasse,43.6954807,7.2748268,node,12612795001
+Nice,restaurant,Le Figuier,43.7103749,7.2881407,node,12636217905
+Nice,restaurant,Chez Garpo,43.7116399,7.2650756,node,12660867858
+Nice,restaurant,Cave Villermont,43.7109235,7.2631913,node,12660888927
+Nice,restaurant,Pompette,43.700599,7.2814921,node,12674264382
+Nice,restaurant,Les Filous,43.7037524,7.2868954,node,12674264394
+Nice,restaurant,Chez Angelo,43.7044141,7.287289,node,12674264400
+Nice,restaurant,Bouchet,43.6990754,7.2855912,node,12681090425
+Nice,restaurant,Mian,43.7035781,7.2815752,node,12685399101
+Nice,restaurant,Kagura,43.7045735,7.2642575,node,12685556802
+Nice,restaurant,Pure & Vins,43.6993693,7.2743442,node,12687171804
+Nice,restaurant,Grazie Mille,43.7032027,7.2893214,node,12692888297
+Nice,restaurant,La Casa di Gadia,43.720223,7.2962435,node,12698919692
+Nice,restaurant,Bienvenue en Asie,43.6995738,7.2720065,node,12698976212
+Nice,restaurant,La Grillade Niçoise,43.7074683,7.2840839,node,12712865771
+Nice,restaurant,Le Grand Aigle,43.7098011,7.2866307,node,12713012172
+Nice,restaurant,Le Joseph,43.7110495,7.192499,node,12742153335
+Nice,restaurant,Gigi Tavola,43.7105415,7.1930489,node,12742153338
+Nice,restaurant,Les mimosas du cours,43.6952932,7.2767877,node,12768426701
+Nice,restaurant,La Melina,43.7070516,7.283375,node,12778309593
+Nice,restaurant,Amande & Pistache,43.7066619,7.2833186,node,12778329709
+Nice,restaurant,La Vela,43.6928811,7.253577,node,12812009001
+Nice,restaurant,Couleurs Café,43.7072683,7.2866178,node,12823752636
+Nice,restaurant,Le Garçons,43.7039017,7.3117573,node,12829706616
+Nice,restaurant,Bistrot des serruriers,43.6973618,7.2782786,node,12875746201
+Nice,restaurant,Le Petit Bouchon,43.6934587,7.251163,node,12895070262
+Nice,restaurant,Le Goût des Crêpes,43.702883,7.2709325,node,12994665430
+Nice,restaurant,La halte de Gairaut,43.7341032,7.2618409,node,13121607373
+Nice,restaurant,La Pétanque,43.6977471,7.3065912,node,13176492456
+Nice,restaurant,La cave de Peixes,43.699751,7.2811378,node,13180392678
+Nice,restaurant,Asia Sushi & Wok,43.7105019,7.2560527,node,13183777178
+Nice,restaurant,La délicieuse,43.7044217,7.2559415,node,13185791735
+Nice,restaurant,Le Mékong,43.7067065,7.2559291,node,13185824670
+Nice,restaurant,Wok Viet,43.7132668,7.2615728,node,13186501753
+Nice,restaurant,Le Mahou,43.7045845,7.2815675,node,13200945353
+Nice,restaurant,Sans nom,43.6977497,7.1982707,node,13250260853
+Nice,restaurant,MARMAR,43.6993474,7.2846681,node,13256378909
+Nice,restaurant,Épicentre,43.6990647,7.2857191,node,13256378910
+Nice,restaurant,Sans nom,43.721412,7.2605694,node,13267047921
+Nice,restaurant,Pizza Square,43.7159998,7.2613062,node,13267065312
+Nice,restaurant,Ramen Litolito,43.7160361,7.2612989,node,13267089873
+Nice,restaurant,Restaurant Universitaire Carlone,43.6929617,7.2387932,way,92744943
+Nice,restaurant,Maison Barale Raviolis,43.6964465,7.276059,way,137226161
+Nice,restaurant,La Réserve,43.6916564,7.2912817,way,138302425
+Nice,restaurant,Lou Ginestre,43.6975435,7.227185,way,139036278
+Nice,restaurant,Restaurant Universitaire Nice Centre,43.69652,7.24627,way,139144239
+Nice,restaurant,La Locanda,43.698227,7.2470815,way,139144607
+Nice,restaurant,Le Bistronome,43.7211534,7.2606289,way,139936066
+Nice,restaurant,Club House la Résidence,43.6867623,7.2227481,way,140242260
+Nice,restaurant,Parcours,43.74882,7.2786525,way,142231807
+Nice,restaurant,Au Thé de la Reine,43.7496775,7.2782805,way,142233846
+Nice,restaurant,Restaurant de la Victorine (Bâtiment 8),43.6745198,7.2175513,way,143790343
+Nice,restaurant,Le Plongeoir,43.691911,7.2908742,way,248216595
+Nice,restaurant,Resto U Montebello,43.7177577,7.2676298,way,363728809
+Nice,restaurant,Bar à Mômes,43.6882925,7.2303328,way,555710646
+Nice,restaurant,Club House,43.6901654,7.2291291,way,725090560
+Nice,restaurant,Plage Beau Rivage,43.6947001,7.2698076,way,834589465
+Nice,restaurant,Cantine,43.7095101,7.2812545,way,923675827
+Nice,restaurant,Des Pizzas Mais Pas Que...,43.7105739,7.2917647,way,958180774
+Nice,restaurant,Régence Plage,43.6843305,7.2358421,way,964605948
+Nice,station,Nice Saint-Augustin,43.6684958,7.2106118,node,27333931
+Nice,station,Villefranche-sur-Mer,43.7069401,7.3141855,node,33016767
+Nice,station,Nice-Ville,43.7047452,7.2615981,node,33017158
+Nice,station,La Trinité-Victor,43.7427854,7.3114604,node,35727528
+Nice,station,Saint-Laurent-du-Var,43.6623911,7.1945888,node,269037849
+Nice,station,La Madeleine,43.7084426,7.2319363,node,471830992
+Nice,station,Drap - Cantaron,43.7599931,7.3169148,node,1011304028
+Nice,station,L'Ariane - La Trinité,43.7343826,7.3026154,node,2277046620
+Nice,station,Nice Riquier,43.7058196,7.2904984,node,3667436504
+Nice,station,Nice Pont Michel,43.7222662,7.2914241,node,5284203138
+Nice,station,Saint-Philippe,43.702986,7.2451272,node,9408100511
+Nice,station,Nice - CP,43.7089508,7.2596054,node,9593207189
+Nice,station,Lingostière,43.7205255,7.1882302,node,10931285550
+Nice,historic,Monument aux morts de Rauba-Capèu,43.6937162,7.281109,node,204105723
+Nice,historic,Tombe de Henri Matisse,43.7207565,7.2792438,node,385682055
+Nice,historic,Croix de Marbre,43.6961378,7.2627382,node,456969920
+Nice,historic,Menica Rondelly,43.6981681,7.2793307,node,937862316
+Nice,historic,Sans nom,43.6931389,7.2816543,node,937862388
+Nice,historic,Monument aux victimes civiles des bombardements,43.6759065,7.1900923,node,1277588346
+Nice,historic,Monument à Garibaldi,43.7007707,7.2800791,node,1631291404
+Nice,historic,Sans nom,43.7021517,7.3082574,node,1712487435
+Nice,historic,Sans nom,43.6784994,7.2294282,node,2153425066
+Nice,historic,Caucade,43.6774299,7.2170091,node,2156973113
+Nice,historic,Plaque commémorative Roger SIMON,43.6797383,7.2296005,node,2198100727
+Nice,historic,Grotte préhistorique du Lazaret,43.690727,7.2948061,node,2201542117
+Nice,historic,Chapelle Ange Gardien,43.7029032,7.3237446,node,2268063712
+Nice,historic,Chapelle de la Madone Noire,43.707033,7.3238095,node,2268065214
+Nice,historic,Chapelle Saint-Elme,43.7012683,7.3111629,node,2268217125
+Nice,historic,Chapelle Sainte-Elisabeth,43.7040685,7.3103959,node,2268228949
+Nice,historic,Rue Obscure,43.7038808,7.3119349,node,2279267982
+Nice,historic,Crypte Archéologique de Nice,43.7005471,7.2786767,node,2307709054
+Nice,historic,croix,43.7168446,7.2942567,node,2331729652
+Nice,historic,Sans nom,43.6654584,7.2029416,node,2564547790
+Nice,historic,Monument commémoratif des Résistants du 14e canton,43.6697063,7.2197119,node,2627598532
+Nice,historic,Pyramide de Falicon,43.7499202,7.2603751,node,2691041835
+Nice,historic,Thermes du Nord,43.7193822,7.2768383,node,2868127193
+Nice,historic,Thermes de l'Est,43.7188724,7.2765138,node,2868127194
+Nice,historic,Thermes de l'Ouest,43.7189267,7.2758754,node,2868127195
+Nice,historic,Monument du Bicentenaire de la Révolution Française,43.7411172,7.3110954,node,3445661513
+Nice,historic,Léopold II,43.6882346,7.3238661,node,3748231695
+Nice,historic,памятник Цесаревичу Николаю Александровичу,43.7040362,7.2540004,node,3755627399
+Nice,historic,Jean-Paul II,43.7202128,7.2784445,node,4018136142
+Nice,historic,Stèle Du Souvenir,43.677929,7.229689,node,4688962409
+Nice,historic,Colonne du pape Pie VII,43.6962974,7.2626539,node,4834638232
+Nice,historic,Croix séraphique de Cimiez,43.720432,7.2786482,node,4834638233
+Nice,historic,Gustave V,43.6962653,7.2662746,node,4993385854
+Nice,historic,Buste de Jean Médecin,43.6951439,7.2667895,node,5059051921
+Nice,historic,Thermes romains de Cimiez,43.7192045,7.2766051,node,5469794534
+Nice,historic,Mémorial des victimes de l'attentat du 14 juillet 2016,43.6946007,7.2591338,node,6355252485
+Nice,historic,Monument comméoratif des Résistants du IVe canton,43.6982636,7.2570087,node,7147701394
+Nice,historic,Sans nom,43.6982468,7.2569546,node,7147701395
+Nice,historic,Stèle des Maréchaux,43.698223,7.2568984,node,7147701396
+Nice,historic,Monument à Paul Déroulède,43.6982567,7.2572463,node,7147701397
+Nice,historic,L'Homme du 18 Juin,43.7100318,7.261894,node,7160896296
+Nice,historic,Palais de l'Exposition Internationale de Nice 1884,43.7069628,7.2540513,node,7638931676
+Nice,historic,Tombe de Raoul Dufy,43.7196624,7.2793845,node,7794167479
+Nice,historic,Monument commémoratif du maquis F.F.I. F.T.P,43.7101102,7.2557535,node,7821194980
+Nice,historic,Monument Maurice Maeterlinck,43.6871267,7.29983,node,7833875546
+Nice,historic,Sans nom,43.7003203,7.2468692,node,7918207591
+Nice,historic,Cité des Aveugles de Guerre,43.7182395,7.2653771,node,8206074919
+Nice,historic,Monument aux morts du quartier Cimiez,43.7202528,7.278788,node,8429944828
+Nice,historic,Sans nom,43.6588607,7.201842,node,9120007789
+Nice,historic,Plaque commémorative du quartier Madonette-Terron,43.6937427,7.2257051,node,9340800522
+Nice,historic,Marie Bashkirtseff,43.6930152,7.2520254,node,9370386818
+Nice,historic,Theodor Wolff,43.6930942,7.2524714,node,9372136949
+Nice,historic,Gaston Leroux,43.69849,7.2799852,node,9373736745
+Nice,historic,René Goscinny,43.6971655,7.2803111,node,9373736749
+Nice,historic,Jules Lefebvre,43.6976465,7.2800845,node,9373736750
+Nice,historic,Monument aux morts de l'incendie de l'opéra (1881),43.6984066,7.2803473,node,9373736752
+Nice,historic,Sans nom,43.6952658,7.2381193,node,9373872448
+Nice,historic,Sans nom,43.7082066,7.2156061,node,9418015902
+Nice,historic,Sans nom,43.7372969,7.2583674,node,9522610372
+Nice,historic,Tir du canon de midi,43.6972507,7.2804723,node,9572301748
+Nice,historic,La Madonette,43.7382736,7.2504792,node,9579425420
+Nice,historic,Heinrich Mann,43.6976078,7.2627664,node,9630794147
+Nice,historic,Plaques commémoratives du 163e R.I.,43.696734,7.2737008,node,10159032246
+Nice,historic,Princesse Grace de Monaco,43.6941829,7.3062003,node,10764397796
+Nice,historic,Napoleon Bonaparte,43.695661,7.2731376,node,11007425037
+Nice,historic,Sans nom,43.6968747,7.2836579,node,11010148801
+Nice,historic,Giuseppe Garibaldi,43.6983447,7.2836876,node,11010160576
+Nice,historic,Friedrich Nietzsche,43.6975242,7.2827772,node,11010202312
+Nice,historic,Sans nom,43.7588171,7.2187127,node,11010234611
+Nice,historic,Sans nom,43.695648,7.2732803,node,11010894011
+Nice,historic,Sans nom,43.695193,7.2701058,node,11010920285
+Nice,historic,Thomas Jefferson,43.6953472,7.2735067,node,11010946535
+Nice,historic,Sans nom,43.6952352,7.2714158,node,11010949628
+Nice,historic,Monument aux morts,43.7554381,7.3200753,node,11012923896
+Nice,historic,Sans nom,43.6987932,7.2807926,node,11014057634
+Nice,historic,Sans nom,43.6984035,7.2799794,node,11014057668
+Nice,historic,Berlioz,43.6943639,7.2794535,node,11014086948
+Nice,historic,Monument aux morts 1870-1871,43.6958829,7.2715625,node,11014548235
+Nice,historic,plaque commémorative Francis GALLO,43.6977196,7.2753344,node,11014922290
+Nice,historic,Sans nom,43.697601,7.2754203,node,11017326373
+Nice,historic,Plaque paroissiale Sainte-Réparate,43.6972489,7.2760819,node,11017526846
+Nice,historic,Sans nom,43.6973619,7.2746777,node,11017534009
+Nice,historic,Plaques commémoratives de l'église Saint-Jacques,43.6967123,7.2771606,node,11017535975
+Nice,historic,Sans nom,43.6977851,7.2773678,node,11017598156
+Nice,historic,Sans nom,43.699606,7.2811836,node,11017837900
+Nice,historic,Plaque commémorative quartiers Saint-Augustin et Sainte-Clair,43.6994597,7.279589,node,11017948609
+Nice,historic,Plaque commémorative quartier Sainte-Claire,43.6981909,7.2792263,node,11017949255
+Nice,historic,Sans nom,43.6981791,7.2792527,node,11017950790
+Nice,historic,Sans nom,43.6985125,7.2790955,node,11017966065
+Nice,historic,Sans nom,43.6993019,7.2789906,node,11018095261
+Nice,historic,Sans nom,43.6963155,7.2729008,node,11018545614
+Nice,historic,Justes parmi les Nations,43.6967373,7.2805737,node,11019827556
+Nice,historic,Menica Rondelly,43.6986425,7.2800795,node,11020140229
+Nice,historic,Emil Jellinek,43.6976862,7.2805598,node,11020481191
+Nice,historic,Sans nom,43.7493039,7.2779146,node,11033266563
+Nice,historic,Plaque commémorative MACCAGNAN,43.7412096,7.310888,node,11048630669
+Nice,historic,Sans nom,43.7429902,7.3132822,node,11048692415
+Nice,historic,Sans nom,43.7395007,7.2867818,node,11073660521
+Nice,historic,Sans nom,43.6762399,7.1904259,node,11081807308
+Nice,historic,Stèle commémorative ABONNEL et LEDIEU,43.6706408,7.1898778,node,11081931663
+Nice,historic,Monument aux morts du cimetière,43.7037803,7.3086901,node,11251442167
+Nice,historic,Monument régimentaire des Chasseurs Alpins,43.7023643,7.3109078,node,11251632492
+Nice,historic,Plaque commémorative Louis MISSUD,43.7034777,7.311432,node,11251678860
+Nice,historic,Plaque commémorative du col de Villefranche,43.7050204,7.301227,node,11251745325
+Nice,historic,Mémorial aux marins français de Mers-El-Kébir,43.7027882,7.3237736,node,11251890382
+Nice,historic,Plaque commémorative de Charlotte SALOMON,43.703862,7.3063312,node,11251912855
+Nice,historic,Monument aux morts paroissial Notre-Dame de Lourdes quartier Arénas,43.6691712,7.2199523,node,11253369752
+Nice,historic,Monument aux morts de l'Ariane et de l'Abadie,43.7377606,7.3068369,node,11264973076
+Nice,historic,Monument aux morts du cimetière de la Madeleine,43.7103776,7.2323029,node,11265178209
+Nice,historic,Plaque commémorative du Souvenir Français cimetière Saint-Roch,43.7193667,7.2952811,node,11267631999
+Nice,historic,Monumernt commémoratif aux élèves de l’école Caucade,43.6779138,7.2115654,node,11270520592
+Nice,historic,Monument aux morts quartier Gairaut,43.7374235,7.258543,node,11277324134
+Nice,historic,Monument aux morts du quartier Riquier,43.7060521,7.289817,node,11278189898
+Nice,historic,Monument aux morts du quartier Saint-Antoine,43.707319,7.2164818,node,11279443452
+Nice,historic,Monument aux morts du quartier Ventabrun,43.7032761,7.2288079,node,11286983561
+Nice,historic,Monument aux morts du quartier Saint-Isidore,43.7111,7.1958346,node,11287176514
+Nice,historic,Monument aux Morts du quartier Pasteur,43.7189712,7.2827543,node,11291945577
+Nice,historic,Monuments commémoratifs des artilleurs à pied et de montagne,43.7115016,7.2862638,node,11295543132
+Nice,historic,Plaques commémoratives MORALÈS et BOBICHON F.F.I.,43.6969,7.273743,node,11295821057
+Nice,historic,Plaque commémorative de la Résistance 1er canton,43.6958821,7.271593,node,11295841340
+Nice,historic,Plaques commémoratives Gordolon et Giuge F.F.I.,43.695803,7.2713599,node,11296148187
+Nice,historic,Plaque commémorative Jean Gironne,43.70011,7.2757909,node,11296307481
+Nice,historic,Plaque commémorative Andreï KONSTANTINOW,43.6990284,7.2578503,node,11297472711
+Nice,historic,Plaque commémorative quartier Saint-Sylvestre et Saint-Barthelemy supérieur,43.7260464,7.2471727,node,11297594314
+Nice,historic,Plaque commémorative Joseph POMAROLA,43.7004653,7.2870607,node,11297772007
+Nice,historic,Square Odette et Moussa Abadi,43.7021968,7.2578014,node,11332845904
+Nice,historic,Plaque commémorative du 363e RI,43.7023746,7.2709237,node,11365136556
+Nice,historic,Plaque commémorative CORBANI Virgile,43.6988946,7.2783277,node,11365196996
+Nice,historic,Plaque commémorative Jacques ADAM,43.7056587,7.2661112,node,11366604217
+Nice,historic,Plaque commémorative Vincent BOSCAROLLO,43.7007431,7.2792355,node,11366774294
+Nice,historic,Plaque commémorative Sauveur DANA,43.7048009,7.2556064,node,11366922657
+Nice,historic,Stèle commémorative Antoine SOUCHON,43.6670102,7.2134664,node,11366958163
+Nice,historic,Plaque commémorative Eugène GREGORINI,43.7039022,7.2179641,node,11367219795
+Nice,historic,Stèle commémorative MACCAGNO - MARI - ROSSI,43.6939247,7.2384528,node,11367300156
+Nice,historic,stèle commémorative Marius FANTINO,43.7235592,7.2839828,node,11367416757
+Nice,historic,Plaque commémorative Emile KRIEGER,43.7097547,7.2707844,node,11367524141
+Nice,historic,Plaque commémorative Pierre SÉMARD,43.7158779,7.2896005,node,11368421864
+Nice,historic,Plaque commémorative MAIFFRET Père et Fils,43.716082,7.2569174,node,11368440911
+Nice,historic,Plaque commémorative Raymond ALBIN,43.7024165,7.2850416,node,11368633618
+Nice,historic,Plaques commémoratives ARNAUDO et BADINO,43.696856,7.2737335,node,11372101608
+Nice,historic,Plaque commémorative René MATAN,43.7154499,7.2713361,node,11372235515
+Nice,historic,Plaque commémorative 1914-18 cimetière Saint-Barthélémy,43.7187055,7.2548183,node,11372252668
+Nice,historic,Plaque commémorative 1870 cimetière Saint-Barthélémy,43.7187186,7.2548773,node,11373069398
+Nice,historic,Médaillon Max BAREL,43.7006951,7.2871928,node,11373678111
+Nice,historic,Plaque commémorative Auguste BOGNIOT,43.7104286,7.2621094,node,11374043814
+Nice,historic,Plaque commémorative Paul DUSSOUR Arno KLARSFELD,43.7025747,7.2643158,node,11374366285
+Nice,historic,Plaque commémorative du 8 mai 1945,43.6944324,7.2789594,node,11378108732
+Nice,historic,Plaque commémorative J. MILANO,43.7152408,7.2883379,node,11378166227
+Nice,historic,Plaque commémorative Antoine GENOUILLAC,43.7030971,7.2813166,node,11378352802
+Nice,historic,Plaque commémorative Alphonse CORNIL,43.7082151,7.256151,node,11378492065
+Nice,historic,Plaque commémorative Gabriel PICA,43.69356,7.2505005,node,11378535819
+Nice,historic,Plaque commémorative Laurent LUQUET,43.7304453,7.2469153,node,11378587045
+Nice,historic,Plaque commémorative Paul BERAUD,43.6988506,7.2531931,node,11379326906
+Nice,historic,Plaque commémorative François SUAREZ,43.7052079,7.2838635,node,11379450451
+Nice,historic,Plaque commémorative Séraphin TORRIN,43.698747,7.2692717,node,11379760886
+Nice,historic,Plaque commémorative Georges MAKOVSKI,43.6996736,7.2605633,node,11379777861
+Nice,historic,Plaque paroissiale église Saint-Roch,43.7124183,7.2917983,node,11380021115
+Nice,historic,Sans nom,43.7124077,7.2917868,node,11380021116
+Nice,historic,Plaque commémorative Ange GRASSI,43.6986924,7.2691092,node,11380357553
+Nice,historic,Plaque commémorative Eugène ALENTCHENKO,43.7018385,7.2776054,node,11380396660
+Nice,historic,Main à l’urne,43.6980884,7.2570182,node,11806735472
+Nice,historic,Tombe de Gambetta,43.6977224,7.2806765,node,11809597925
+Nice,historic,Monument des fusillés de l'Ariane,43.7437866,7.309337,node,11918038364
+Nice,historic,Plaque commémorative des juifs de la caserne Auvare,43.7118928,7.2882875,node,11951826803
+Nice,historic,Plaque commémoratif du quartier de Bellet,43.7444551,7.2145312,node,11952133806
+Nice,historic,Plaque commémorative de l'hôtel Excelsior,43.703307,7.2625231,node,11952272660
+Nice,historic,Plaque commémorative de l'école Mantéga,43.7092379,7.2520077,node,11952503577
+Nice,historic,Plaque commémorative de l'école Fuon Cauda,43.712484,7.2642411,node,11953684129
+Nice,historic,Plaque commémorative de l'école Auber,43.7029518,7.2616292,node,11953804574
+Nice,historic,"Plaque commémorative, Résistants de France d'Abord",43.7011402,7.2644179,node,11954253989
+Nice,historic,Plaque commémorative de Paul VALLAGHÉ,43.7005855,7.2799857,node,11954525191
+Nice,historic,Plaque commémorative Bernardo SAUVEUR,43.7054418,7.2909885,node,11954599436
+Nice,historic,Plaque commémorative LieutenantRené BENSAID,43.7047369,7.2636248,node,11954612317
+Nice,historic,Plaque commémorative Eugénie APROSIO,43.7022359,7.2581659,node,11954692913
+Nice,historic,Plaque commémoraive PAUSELLIDERMADIROSSIAN RATTI F.T.P.F.,43.6965288,7.2643041,node,11956178123
+Nice,historic,Plaque commémorative René SAINSON,43.6964702,7.2611714,node,11956478779
+Nice,historic,Plaque commémorative Jean LIPPMANN/Capitaine LORRAIN,43.6978339,7.2683944,node,11956620453
+Nice,historic,Plaque commémorative Raymond FRESCO,43.711789,7.2651089,node,11958735817
+Nice,historic,Plaque commémorative Raoul BRES et André DUJAT DES ALLIMES,43.7014733,7.2711899,node,11958809715
+Nice,historic,stele commémorative Venance CARTEGIANI,43.6845283,7.2033667,node,11958854788
+Nice,historic,Plaque commémorative Verdun VIAL,43.6971796,7.2731052,node,11958871891
+Nice,historic,Plaque commémorative aux Résistants du 28 août 1944,43.703069,7.2656184,node,11959165151
+Nice,historic,Plaque commémorative Jean-Baptiste MALAUSSÉNA,43.732623,7.2714778,node,11960816581
+Nice,historic,Plaque commémorative Jean Moulin,43.6961593,7.2623829,node,11960863355
+Nice,historic,Plaque du Comité Insurrectionnel de Nice,43.7118438,7.2556272,node,11961191767
+Nice,historic,Plaques commémoratives des résistants du passage à niveau,43.7102668,7.2561064,node,11961240879
+Nice,historic,Monument commémoratif René CASSIN,43.6726874,7.2251884,node,11961583942
+Nice,historic,Monument commémoratif des fusillés du Verdon,43.6758783,7.220099,node,11961609468
+Nice,historic,Sans nom,43.7088585,7.2751281,node,11994539030
+Nice,historic,Camille Teisseire,43.6973432,7.2757347,node,12003494559
+Nice,historic,Sans nom,43.6958854,7.279944,node,12091916849
+Nice,historic,Sans nom,43.6958853,7.2799622,node,12091917050
+Nice,historic,Mémorial Pierre de Coubertin,43.7087121,7.1952996,node,12571887508
+Nice,historic,Sans nom,43.7083517,7.2930435,node,12586141519
+Nice,historic,Sans nom,43.7201448,7.2965618,node,12698919696
+Nice,historic,Sans nom,43.6861553,7.3051165,node,12716348772
+Nice,historic,Sans nom,43.6861859,7.3052068,node,12716381730
+Nice,historic,Buste de Albert 1er,43.6962654,7.2684646,node,12766271627
+Nice,historic,Voie Romaine,43.7456768,7.3180189,way,28732552
+Nice,historic,Voie Romaine,43.7451767,7.3194845,way,28732554
+Nice,historic,Voie Romaine,43.744903,7.3201756,way,28732556
+Nice,historic,Voie Romaine,43.7455089,7.3186409,way,28732564
+Nice,historic,Tour Saint-François,43.699471,7.2785205,way,137240735
+Nice,historic,Palais Lascaris,43.6976745,7.277152,way,137241044
+Nice,historic,"Palais de la Préfecture, ancien palais des rois de Sardaigne",43.6963365,7.275156,way,137418631
+Nice,historic,Tour de l'Horloge,43.696879,7.2736916,way,137418694
+Nice,historic,Sans nom,43.7166995,7.3125399,way,138319519
+Nice,historic,Villa Schmitz,43.7217091,7.2971584,way,138321755
+Nice,historic,Maison de Garde,43.7379362,7.259663,way,138556716
+Nice,historic,Sans nom,43.7361935,7.2622345,way,138558610
+Nice,historic,Château d'Azur,43.7349335,7.2665095,way,138559077
+Nice,historic,Sans nom,43.736973,7.261955,way,138559401
+Nice,historic,Monument aux morts du quartier saint-Pancrace,43.7439565,7.2412555,way,138574898
+Nice,historic,Sans nom,43.7407735,7.21638,way,138619959
+Nice,historic,Sans nom,43.747948,7.2089095,way,138642508
+Nice,historic,Sans nom,43.7487735,7.2099735,way,138642752
+Nice,historic,Sans nom,43.732451,7.198463,way,138652047
+Nice,historic,Sans nom,43.699388,7.205595,way,138666952
+Nice,historic,Villa Durandy,43.720126,7.215942,way,138693890
+Nice,historic,Sans nom,43.712479,7.226027,way,138696232
+Nice,historic,Sans nom,43.7254401,7.2531181,way,138716201
+Nice,historic,Djenné,43.7255049,7.2530699,way,138716720
+Nice,historic,Sans nom,43.7257198,7.2530449,way,138716768
+Nice,historic,Sans nom,43.7258329,7.252989,way,138716824
+Nice,historic,Sans nom,43.7256479,7.2530816,way,138716836
+Nice,historic,Villa Bianca,43.7264324,7.2526696,way,138716842
+Nice,historic,Villa Mado,43.7261118,7.2529003,way,138716857
+Nice,historic,Sans nom,43.705747,7.233817,way,138952324
+Nice,historic,Sans nom,43.705387,7.233819,way,138954972
+Nice,historic,Sans nom,43.6949455,7.239551,way,139119847
+Nice,historic,Villa Beaumagnan,43.69444,7.2396965,way,139120030
+Nice,historic,La Tour de Magnan,43.6960075,7.243246,way,139120055
+Nice,historic,Sans nom,43.69543,7.23923,way,139120060
+Nice,historic,Sans nom,43.6957475,7.242743,way,139120109
+Nice,historic,Sans nom,43.6959115,7.240302,way,139120156
+Nice,historic,Sans nom,43.723358,7.2607025,way,139669567
+Nice,historic,Sans nom,43.7292365,7.275782,way,139878596
+Nice,historic,Villa Allegria,43.723209,7.27717,way,139905725
+Nice,historic,Villa Orangini,43.723275,7.269625,way,139906130
+Nice,historic,Pavillon Béthanie,43.7240325,7.2755315,way,139906725
+Nice,historic,Sans nom,43.7241955,7.2777055,way,139906739
+Nice,historic,Oratoire Sainte-Anne,43.720773,7.275541,way,139932051
+Nice,historic,Temple de Diane,43.7230319,7.2624225,way,139933322
+Nice,historic,Sans nom,43.720264,7.2607635,way,139935446
+Nice,historic,Sans nom,43.7221795,7.2599575,way,139935586
+Nice,historic,Villa Rose,43.7205145,7.26056,way,139935597
+Nice,historic,Sans nom,43.719964,7.2604615,way,139935643
+Nice,historic,Sans nom,43.7208495,7.260128,way,139935736
+Nice,historic,Palais du Parc Fleuri,43.7196935,7.2612005,way,139935752
+Nice,historic,Palais du Parc Fleuri,43.7197625,7.2614625,way,139935850
+Nice,historic,Palais du Parc Fleuri,43.719628,7.260943,way,139935877
+Nice,historic,Palais du Parc Fleuri,43.719828,7.2617265,way,139935885
+Nice,historic,Sans nom,43.7201265,7.2599425,way,139935893
+Nice,historic,Arènes de Cimiez,43.7199731,7.2752896,way,140009090
+Nice,historic,Cemenelum,43.7189221,7.2765254,way,140009100
+Nice,historic,Villa Il Paradiso,43.7094219,7.2712908,way,140067206
+Nice,historic,Le Majestic,43.706107,7.2707175,way,140101294
+Nice,historic,Grand Palais,43.7060245,7.272097,way,140101549
+Nice,historic,Sans nom,43.6914385,7.2059715,way,140224603
+Nice,historic,Musée d'Art Naif Anatole Jakovski,43.6861955,7.232839,way,140247147
+Nice,historic,Villa la Luna,43.6818415,7.231979,way,140247359
+Nice,historic,Château de Barla,43.685731,7.231744,way,140247460
+Nice,historic,Palais de Marbre,43.687695,7.23467,way,140247545
+Nice,historic,Manoir Leliwa,43.6832355,7.2313855,way,140247554
+Nice,historic,Sans nom,43.687337,7.2321565,way,140248464
+Nice,historic,Sans nom,43.6820795,7.215396,way,140251401
+Nice,historic,Villa La Niçoise,43.6803285,7.2232505,way,140251603
+Nice,historic,Sans nom,43.6804615,7.223971,way,140251791
+Nice,historic,Sans nom,43.6812305,7.2099475,way,140253663
+Nice,historic,Villa Furtado-Heine,43.6938435,7.2523175,way,140818220
+Nice,historic,Gloria-Mansions II,43.6935,7.251646,way,140818669
+Nice,historic,Sans nom,43.7104695,7.2512055,way,141188333
+Nice,historic,Manoir Belgrano,43.71756,7.2743685,way,141225516
+Nice,historic,Villa Indochinoise,43.7151115,7.2634405,way,141247826
+Nice,historic,Villa Lou Bercail,43.7098328,7.2499919,way,141273055
+Nice,historic,Château de Saint-André,43.7455881,7.2885185,way,141482588
+Nice,historic,Château de Saint-André,43.7456308,7.2880815,way,141485192
+Nice,historic,Villa Eulalie,43.710218,7.253997,way,143322811
+Nice,historic,Sans nom,43.7098205,7.2533895,way,143322856
+Nice,historic,Chapelle Notre-Dame de Bon-Voyage,43.7302486,7.2844928,way,143587721
+Nice,historic,Voie Romaine,43.722017,7.2795884,way,146825618
+Nice,historic,Batterie du Mont Boron,43.6897156,7.3008187,way,165968141
+Nice,historic,Fouilles archéologiques,43.695745,7.2810261,way,197933222
+Nice,historic,Batterie du Cimetière Russe,43.6795628,7.2151676,way,251609453
+Nice,historic,Château de la Tour,43.696296,7.249693,way,297524409
+Nice,historic,Sans nom,43.701327,7.3001493,way,329337113
+Nice,historic,Église de l'Annonciation,43.6961672,7.2763833,way,370340919
+Nice,historic,Monument du Centenaire,43.6953611,7.2678068,way,572928734
+Nice,historic,Villa Masséna,43.6952325,7.2589535,way,700743140
+Nice,historic,Voie Romaine,43.72138,7.2804447,way,827427862
+Nice,historic,Château de Crémat,43.7237712,7.2093945,way,1023719334
+Nice,historic,Emil Jellinek,43.6976739,7.2805507,way,1186534769
+Nice,historic,Léon Gambetta,43.6977167,7.2806752,way,1186534770
+Nice,historic,Sans nom,43.7191782,7.2760634,way,1295262719
+Nice,historic,Sans nom,43.7190946,7.2766569,way,1295262728
+Nice,historic,Voie Romaine,43.745707,7.3181395,way,1330755543
+Nice,historic,Voie Romaine,43.7456428,7.3178338,way,1332919099
+Nice,historic,Voie Romaine,43.7456439,7.3178975,way,1332919100
+Nice,historic,Voie Romaine,43.7235992,7.2810234,way,1346745793
+Nice,historic,Voie Romaine,43.7229231,7.2807227,way,1346745794
+Nice,historic,Voie Romaine,43.7210388,7.2786371,way,1346745796
+Nice,historic,Voie Romaine,43.7213355,7.2791574,way,1346745798
+Nice,historic,Sans nom,43.7326036,7.2865778,way,1410306474
+Nice,historic,Sans nom,43.7341304,7.2618385,way,1427359380
+Nice,historic,Monastère franciscain de Cimiez,43.7198489,7.2790896,relation,1469212
+Nice,historic,Fort du Mont-Alban,43.701327,7.30015,relation,4610223
+Nice,historic,"Ancienne abbaye de Saint-Pons, actuellement hôpital Pasteur",43.7251235,7.283144,relation,7080140
+Nice,historic,Citadelle Saint-Elme,43.7013684,7.3105889,relation,10116067

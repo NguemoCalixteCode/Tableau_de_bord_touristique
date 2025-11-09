@@ -1,0 +1,1292 @@
+city,category,name,lat,lon,osm_type,osm_id
+Lille,museum,Saint-Sauveur - Salle d'exposition,50.626861,3.0717035,node,1525100971
+Lille,museum,Le Tripostal,50.6366637,3.0728035,node,1525113136
+Lille,museum,Maison Folie Le Colysée,50.6391909,3.0352871,node,1895321285
+Lille,museum,Musée des canonniers sédentaires de Lille,50.6408753,3.0693702,node,5058102713
+Lille,museum,Musée de l'Institut Pasteur de Lille,50.6286689,3.0743084,node,5325785675
+Lille,museum,Flow-Centre Eurorégional Des Cultures Urbaines,50.6225692,3.0676225,node,5525293585
+Lille,museum,Maison Folie de Lille Wazemmes,50.6244555,3.0481165,node,5525538037
+Lille,museum,Centre d'Arts Plastiques et Visuels - Wazemmes,50.6256295,3.0512744,node,5525538038
+Lille,museum,Espace Édouard Pignon,50.6322117,3.0275373,node,5525557119
+Lille,museum,Institut pour la photographie,50.6434143,3.0655676,node,7448518939
+Lille,museum,Musée de l'Hospice Comtesse,50.6411688,3.0632054,node,7818582178
+Lille,museum,Lasécu,50.6310851,3.0892027,node,9321288021
+Lille,museum,Musée de l’illusion,50.63843,3.0721978,node,12006710458
+Lille,museum,Gare Saint-Sauveur - Hall d'exposition,50.6268081,3.0720603,way,36986420
+Lille,museum,Musée d'Histoire Naturelle et de Géologie,50.6266631,3.066891,way,41065833
+Lille,museum,Maison natale de Charles de Gaulle,50.6458349,3.0587631,way,84451082
+Lille,museum,Ecomusée des Écoles Publiques de Lille,50.6295782,3.0728799,way,84696650
+Lille,museum,Palais des Beaux-Arts,50.6304557,3.0628375,way,152835085
+Lille,museum,Maison Folie Beaulieu,50.640933,2.9918126,way,333914013
+Lille,museum,Sans nom,50.641085,3.0635695,way,837722515
+Lille,museum,Sans nom,50.6413291,3.0632274,way,837722518
+Lille,park,Parc Henri Matisse,50.6405192,3.0724767,way,23475365
+Lille,park,Square Dutilleul,50.6365068,3.0556605,way,24018820
+Lille,park,Square Foch,50.635595,3.0571814,way,24018821
+Lille,park,Jardin Vauban,50.6367583,3.0487692,way,24204754
+Lille,park,Square de l'Église Sainte-Thérèse,50.6570184,3.0098623,way,29189688
+Lille,park,Plaine Norbert Ségard,50.6510359,3.015318,way,29189761
+Lille,park,Clos Saint-Pierre,50.6555297,3.0233853,way,29208682
+Lille,park,Sans nom,50.6438324,3.0341451,way,29245997
+Lille,park,Parc du Docteur Martin,50.6409595,3.026724,way,30859585
+Lille,park,Parc François Mitterrand,50.6282954,3.1091716,way,35134261
+Lille,park,Jardin des Plantes,50.6148697,3.0673969,way,37498158
+Lille,park,Parc Jean-Baptiste Lebas,50.6263716,3.0690294,way,37548402
+Lille,park,Sans nom,50.6309263,3.122427,way,38455063
+Lille,park,Square Gavarni,50.6333703,3.0263341,way,39395049
+Lille,park,Parc De Lattre de Tassigny,50.6541641,3.0720809,way,40322687
+Lille,park,Parc Malraux,50.6557452,3.0746035,way,40322967
+Lille,park,Parc Saint-Vital,50.6579716,3.0629001,way,40323912
+Lille,park,Parc du campus Pont de bois,50.6297086,3.1261037,way,40730975
+Lille,park,Square Augustin Laurent,50.6316495,3.0706842,way,40917089
+Lille,park,Sans nom,50.6107909,2.9880698,way,53011548
+Lille,park,Parc de la Tortue,50.610193,2.9785191,way,53011554
+Lille,park,Place Massenet,50.6496598,3.077443,way,53638277
+Lille,park,Sans nom,50.6086813,2.977866,way,58233074
+Lille,park,Square Carnot,50.6395227,3.0658234,way,66037999
+Lille,park,Parc Germaine Tillion,50.6345015,3.0720391,way,70582515
+Lille,park,Mail Albert Samain,50.6468622,3.1159651,way,74928963
+Lille,park,Jardin des Olieux,50.6212289,3.063212,way,77496843
+Lille,park,Square Irène Devos,50.6203128,3.0533287,way,84400139
+Lille,park,Jardin Public de Loos,50.6162038,3.0155429,way,84455470
+Lille,park,Parc Bocquet,50.6251851,3.1082475,way,85092681
+Lille,park,Parc Picavez,50.6140459,3.1177214,way,85845216
+Lille,park,Parc Botanique,50.6471205,3.0811328,way,86444415
+Lille,park,Square Trévise,50.62253,3.0735905,way,94527161
+Lille,park,Sans nom,50.6221151,3.0740084,way,94958913
+Lille,park,Jardin de la Filature,50.6198087,3.0714263,way,94958924
+Lille,park,Square Denis Cacheux,50.6260672,3.0520552,way,95001687
+Lille,park,Square des Sarrazins,50.6244975,3.0474189,way,95001711
+Lille,park,Square Denis Cacheux,50.6261578,3.0518193,way,95001719
+Lille,park,Pelouse des Enfants du Paradis,50.6241826,3.048939,way,95001727
+Lille,park,Square de la Porte d'Arras,50.6170848,3.0623956,way,95012731
+Lille,park,Jardin Littré,50.6257526,3.055811,way,95067475
+Lille,park,Jardin botanique Nicolas Boulay,50.6328045,3.044631,way,95069542
+Lille,park,Jardin de la Treille,50.640103,3.0629983,way,95069548
+Lille,park,Square du Maréchal Birdwood,50.6299377,3.0469133,way,95069550
+Lille,park,Square Daubenton,50.6378659,3.0517274,way,95069574
+Lille,park,Jardin de l'Abbaye de Loos,50.6399442,3.0603293,way,95069583
+Lille,park,Façade de l'Esplanade,50.6439228,3.050611,way,95095496
+Lille,park,Plaine Marx Dormoy,50.6368592,3.034181,way,95097920
+Lille,park,Plaine des Vachers,50.6316018,3.0304156,way,95097938
+Lille,park,Place Corneille,50.6286938,2.9851034,way,95104618
+Lille,park,Sans nom,50.6282968,2.9795437,way,95254508
+Lille,park,Sans nom,50.6251922,2.9794213,way,95254565
+Lille,park,Jardin de la Porte d'Ypres,50.6479721,3.0521078,way,97564182
+Lille,park,Parc Arthur Notebart,50.6377971,3.0103796,way,97567139
+Lille,park,Plaine de la Poterne,50.6494549,3.058014,way,100857055
+Lille,park,Square Maurice Schumann,50.6445304,3.0756911,way,106507436
+Lille,park,Parc du Rossignol,50.6333095,3.0070359,way,108194412
+Lille,park,Square Normandie,50.6490659,3.096579,way,108404598
+Lille,park,Jardin des Géants,50.6428837,3.0747833,way,114787291
+Lille,park,Parc des dames de Saint-Maur,50.6536648,3.0794386,way,114947904
+Lille,park,Square du Tissage,50.6551447,3.0607997,way,114947927
+Lille,park,Square Irène Joliot-Curie,50.6477883,3.0930377,way,114958873
+Lille,park,Parc Monceau,50.648742,3.0834751,way,114958875
+Lille,park,Parc des Buissonnets,50.646918,3.0893371,way,114958884
+Lille,park,Square de l'Avenue du Peuple Belge,50.6463212,3.0614047,way,114990795
+Lille,park,Sans nom,50.6496372,3.0510538,way,115651255
+Lille,park,Plaine du Colysée,50.6415846,3.0362117,way,115651273
+Lille,park,Jardin Le Blan - Lafont,50.6320174,3.0214583,way,117108920
+Lille,park,Square Lardemer,50.6358317,3.0903082,way,134644674
+Lille,park,Jardin des Acacias,50.6416501,3.1018373,way,134658116
+Lille,park,Plaine des Métallurgistes,50.6266131,3.0983724,way,148035718
+Lille,park,Square de l'Arbonnoise,50.624575,3.0395041,way,149402997
+Lille,park,Jardin Rosa Parks,50.6388052,3.014164,way,155413165
+Lille,park,Square Henri Ghesquière,50.6239975,3.0511005,way,155600371
+Lille,park,Square Jules Ferry,50.6227475,3.1007495,way,167476048
+Lille,park,Square Gustave Courbet,50.6083885,3.0408013,way,168252507
+Lille,park,Parc de Loisirs et de Nature de Loos,50.6014463,3.0180542,way,174909193
+Lille,park,Jardins de l'Europe,50.6459364,3.0728973,way,177552429
+Lille,park,Parc de la Maison des Enfants,50.6475204,2.9933385,way,183856013
+Lille,park,Parc Naturel Urbain de Lomme,50.6559448,2.9850853,way,183858314
+Lille,park,Plaine Félix Grimonprez,50.6448268,3.0471188,way,184618334
+Lille,park,Sans nom,50.6493052,3.0448628,way,184631379
+Lille,park,Sans nom,50.6480468,3.0447007,way,184631381
+Lille,park,Parc des Pyramides,50.6370462,3.0392963,way,186746101
+Lille,park,Square Coustou,50.6318986,3.0985938,way,220386165
+Lille,park,Parc des Sarts,50.6404565,3.102394,way,221074443
+Lille,park,Parc des Franciscaines,50.6436924,3.0952664,way,221077668
+Lille,park,Square de la Victoire,50.6560774,3.0639663,way,222604614
+Lille,park,Square de Copenhague,50.6392424,3.0785894,way,224145955
+Lille,park,Jardin Jean-Baptiste Lelong,50.6316637,3.0862073,way,231801178
+Lille,park,Parc François Mitterrand,50.6609291,3.0543625,way,257132230
+Lille,park,Square des Anciens Combattants d'Afrique du Nord,50.6301667,3.1129755,way,264463269
+Lille,park,Square Faraday,50.6504658,3.0916479,way,270654541
+Lille,park,Square Faraday,50.6502334,3.0919506,way,271036507
+Lille,park,Square Cornil,50.6533188,3.0919277,way,271580312
+Lille,park,Square Gladbeck,50.6520515,3.0965546,way,272970886
+Lille,park,Square L. Devos,50.6389608,3.1039426,way,273133031
+Lille,park,Mail Henri Dunant,50.6409653,3.1111905,way,273142674
+Lille,park,Square Picardie,50.6482427,3.0964636,way,273191424
+Lille,park,Mail Armand Carrel,50.6390325,3.1111111,way,273992869
+Lille,park,Square Horace Vernet,50.6523266,3.0696904,way,274460208
+Lille,park,Square des Fleurs,50.6364894,3.0997225,way,276012082
+Lille,park,Jardin des 4 Saisons,50.6585162,3.0721964,way,276149960
+Lille,park,Square des Anciens Combattants,50.6548694,3.0700901,way,276150060
+Lille,park,Parc Anne Frank,50.6513753,3.078777,way,277742224
+Lille,park,Parc de l’Hôtel de Ville,50.6062439,3.0802603,way,293319220
+Lille,park,Jardin de Craie,50.6037244,3.0515744,way,296624009
+Lille,park,Square de l'Arsenal des Postes,50.6189603,3.0551702,way,296625471
+Lille,park,Square de la Bobine,50.6305384,3.075672,way,296625860
+Lille,park,Square du Manège,50.6381403,3.0809116,way,296626116
+Lille,park,Square Saint-Joseph,50.642352,3.0650338,way,296627124
+Lille,park,Square de la Houblonnière,50.627684,3.0340481,way,296628344
+Lille,park,Square Fulton,50.6228567,3.038162,way,296628540
+Lille,park,Square du Portugal,50.6234951,3.0310702,way,296628686
+Lille,park,Square Jules Guesde,50.6220931,3.0507462,way,296629037
+Lille,park,Square Flandre-Manuel,50.6272257,3.0543489,way,296629310
+Lille,park,Square Billon,50.6171997,3.0189153,way,303826626
+Lille,park,Place Jean Jaurès,50.6091394,3.0161478,way,305870134
+Lille,park,Jardin Philippe de Comines,50.6207809,3.0685433,way,313706173
+Lille,park,Square du Château,50.6590973,3.0741572,way,314871469
+Lille,park,Place Louis Trocmet,50.6352865,2.9915149,way,321520148
+Lille,park,Square Jean Monnet,50.6517999,3.0290191,way,322681092
+Lille,park,Square d'Armentières,50.6361559,3.0445677,way,339558858
+Lille,park,Halle de Glisse,50.6158358,3.0526324,way,339575729
+Lille,park,Parc du Grand Sud,50.6137303,3.0578809,way,339575731
+Lille,park,Parc du Grand Sud,50.6120317,3.0564487,way,339575733
+Lille,park,Parc du Grand Sud,50.6103844,3.0554745,way,339575734
+Lille,park,Parc Gustave Engrand,50.635228,3.1167755,way,351364319
+Lille,park,Square Carolus,50.6376777,3.0353996,way,359865793
+Lille,park,Sans nom,50.6358003,3.0379772,way,359865797
+Lille,park,Berges des Bois-Blancs,50.627257,3.0235647,way,359869202
+Lille,park,Sans nom,50.635276,3.0322503,way,359876701
+Lille,park,Sans nom,50.6570209,3.058776,way,360087155
+Lille,park,Sans nom,50.6575002,3.0571373,way,360087163
+Lille,park,Parc de la Croisette,50.6013607,3.0595071,way,360087927
+Lille,park,Parc des Charmettes,50.6466279,3.0214383,way,360297738
+Lille,park,Concorde,50.6187561,3.0418073,way,361640007
+Lille,park,Parc Danel,50.6130886,3.0134625,way,361641239
+Lille,park,Sans nom,50.615902,3.0235299,way,361641243
+Lille,park,Jardin des Coccinelles,50.614836,3.0328364,way,361641246
+Lille,park,Jardin des 18 Ponts,50.6185933,3.0776164,way,362405957
+Lille,park,Parc Notre-Dame,50.6191474,3.0151751,way,362428337
+Lille,park,Sans nom,50.6179479,3.0164415,way,362428343
+Lille,park,Sans nom,50.6174342,3.0139166,way,362428355
+Lille,park,Sans nom,50.6105437,3.1155376,way,363177055
+Lille,park,Square Angellier,50.627966,3.0649236,way,363208780
+Lille,park,Sans nom,50.6226746,2.983612,way,363212325
+Lille,park,Sans nom,50.6255765,2.9810491,way,363219657
+Lille,park,Sans nom,50.6301837,3.0632977,way,367847857
+Lille,park,Jardin public du Monument aux Morts,50.6426342,3.0147099,way,374587296
+Lille,park,Berges des Bois-Blancs,50.6298133,3.0300514,way,374849761
+Lille,park,Parc Jean-Baptiste Dumas,50.6281175,3.0085509,way,383790248
+Lille,park,Jardin public Voltaire-Sévigné,50.6335701,3.0042719,way,383791499
+Lille,park,Parc des Lilas,50.6370172,3.0151215,way,384171273
+Lille,park,Square Madringhem - Place Karl Marx,50.6469314,2.9799654,way,384173056
+Lille,park,Square Mattéotti,50.6437415,2.9851778,way,384173857
+Lille,park,Square Ravel-Debussy,50.6299856,3.0857117,way,384812260
+Lille,park,Square Saint-Denis,50.6281265,3.1110114,way,384822724
+Lille,park,Square Cordonnier,50.6291499,3.1161189,way,384823070
+Lille,park,Square des Tisserands,50.6322,3.1169467,way,384823913
+Lille,park,Square des Tisserands,50.6327148,3.116264,way,384824148
+Lille,park,Parc Leroy,50.634474,3.1097953,way,384824606
+Lille,park,Square Colette,50.6130315,3.050371,way,384827872
+Lille,park,Square Bardou,50.6073139,3.0571846,way,384829623
+Lille,park,Square Albert Thomas,50.605406,3.0563874,way,384830156
+Lille,park,Jardin de la Fauvette Grisette,50.6063735,3.054283,way,384831609
+Lille,park,Square de Filbertville,50.6121947,3.06672,way,384833204
+Lille,park,Square de Filbertville,50.6119845,3.0674881,way,384833233
+Lille,park,Sans nom,50.6511273,2.9889945,way,393571705
+Lille,park,Square Verhaeren,50.6195234,3.0300627,way,394065315
+Lille,park,Parc Henri Barbusse,50.6216101,3.0302055,way,394067592
+Lille,park,Square Ada Lovelace,50.6308317,3.0233613,way,405450339
+Lille,park,Parc de l'Avenue des Saules,50.6317301,3.0156105,way,405462498
+Lille,park,Place Raoul de Godewarsvelde,50.6196407,3.057577,way,408630005
+Lille,park,Parc Yvonne Abbas,50.6495986,3.0683801,way,417908777
+Lille,park,Square Omer Lammelein,50.6390235,2.9840601,way,421090976
+Lille,park,Square du Palais de Justice,50.6422125,3.0636707,way,433226236
+Lille,park,Sans nom,50.6524021,3.0554384,way,444585371
+Lille,park,Jardin de la Paresse,50.6204602,3.0496698,way,469221361
+Lille,park,Sans nom,50.6049541,2.9936604,way,480663996
+Lille,park,Parc Alphonse Juin,50.6548255,3.0720589,way,490688369
+Lille,park,Ilôt Dewas,50.6306407,3.1130866,way,493118735
+Lille,park,Sans nom,50.6280231,3.0771247,way,494293506
+Lille,park,Jardin de la Pouponnière,50.6217096,3.0574813,way,494294912
+Lille,park,Square Paul Cézanne,50.6186234,3.0446775,way,494768815
+Lille,park,Square Toulouse Lautrec,50.6183259,3.0473418,way,494770423
+Lille,park,Sans nom,50.6330431,3.1261538,way,498620379
+Lille,park,Square Senet,50.6419118,3.0217215,way,504450079
+Lille,park,Sans nom,50.6582629,3.0119051,way,511153498
+Lille,park,Square du Souvenir Français,50.6441337,3.0263747,way,514986837
+Lille,park,Sans nom,50.6526531,3.0020944,way,514992592
+Lille,park,Sans nom,50.6500785,2.9941794,way,514992593
+Lille,park,Square de Filbertville,50.6116679,3.0682156,way,521776532
+Lille,park,Parc Nicolas Barre,50.65485,3.0813138,way,524240775
+Lille,park,Square Massenet,50.6304538,3.0885501,way,524401916
+Lille,park,Sans nom,50.6304643,3.0879519,way,524405362
+Lille,park,Sans nom,50.6555352,3.0410693,way,524464396
+Lille,park,Sans nom,50.6556318,3.0388668,way,524464398
+Lille,park,Parc Jean-Louis Borloo,50.6557646,3.0314159,way,524464404
+Lille,park,Jardin d'Expression,50.6292557,3.0082126,way,551487148
+Lille,park,Sans nom,50.6461488,3.0183829,way,551493697
+Lille,park,Sans nom,50.6470678,3.0179004,way,551493700
+Lille,park,Sans nom,50.650072,3.0184472,way,551493711
+Lille,park,Sans nom,50.6524106,3.0212058,way,551493713
+Lille,park,Sans nom,50.6499606,3.0197025,way,551493718
+Lille,park,Sans nom,50.650256,3.0225987,way,551493719
+Lille,park,Square des Horticulteurs,50.6417021,3.0836964,way,558769073
+Lille,park,Square Racine,50.6057722,3.0865868,way,572037508
+Lille,park,Sans nom,50.6025844,3.0905952,way,572039731
+Lille,park,Parc de la Comtesse,50.602067,3.0912181,way,572177812
+Lille,park,Sans nom,50.6200616,3.0985723,way,583349614
+Lille,park,Square de Southborough,50.6396644,3.024735,way,585986884
+Lille,park,Sans nom,50.6462004,3.020872,way,590824975
+Lille,park,Parc Jean Jaurès,50.6049594,3.0713768,way,592789099
+Lille,park,Jardins Clemenceau,50.6171495,3.0089333,way,599316848
+Lille,park,Parc des 4 Saisons,50.6172568,3.0080322,way,599316849
+Lille,park,Square du Ramponneau,50.6390937,3.0529839,way,608929975
+Lille,park,Square Hedy Lamarr,50.6317304,3.0250823,way,625238431
+Lille,park,Square Katherine Johnson,50.6312882,3.024148,way,626637972
+Lille,park,Sans nom,50.6615771,3.051534,way,628519051
+Lille,park,Plaine du Bazinghien,50.6191258,3.0277475,way,656529792
+Lille,park,Sans nom,50.6536265,2.977254,way,660421528
+Lille,park,Sans nom,50.6506341,2.971159,way,660421530
+Lille,park,Sans nom,50.6517451,2.9701185,way,660421531
+Lille,park,Square de la Garonne,50.612823,3.0591696,way,660430128
+Lille,park,Plaine de la Collose,50.6170291,3.031576,way,663456028
+Lille,park,Sans nom,50.6038889,3.0449543,way,663492335
+Lille,park,Sans nom,50.6035694,3.0463023,way,663492337
+Lille,park,Sans nom,50.6034181,3.0479395,way,663492339
+Lille,park,Sans nom,50.6034561,3.0497333,way,663492340
+Lille,park,Square de l'Epi de Soil,50.604664,3.049524,way,663492405
+Lille,park,Sans nom,50.6032598,3.0488816,way,663500252
+Lille,park,Sans nom,50.6032998,3.0494407,way,663500253
+Lille,park,Sans nom,50.6033411,3.0499173,way,663500254
+Lille,park,Jardin de la Noble Tour,50.6308538,3.0742029,way,663756105
+Lille,park,Jardin Broca,50.6247648,3.0908411,way,663760146
+Lille,park,Parc Sainte-Hélène,50.6586824,3.0560522,way,665619209
+Lille,park,Square des Enfants,50.6179137,3.0768307,way,666491809
+Lille,park,Sans nom,50.6335354,3.0407869,way,668861338
+Lille,park,Jardin Defrenne,50.6506103,2.9875511,way,669713578
+Lille,park,Square Edouard Lalo,50.619365,3.0394434,way,672064783
+Lille,park,Parc de la solitude,50.6394631,3.1159593,way,675538374
+Lille,park,Sans nom,50.6397276,3.1118922,way,675538383
+Lille,park,Sans nom,50.6151999,3.0530365,way,681075388
+Lille,park,Sans nom,50.6153531,3.0521585,way,681075389
+Lille,park,Promenade Gutenberg,50.6366735,3.0936663,way,685882928
+Lille,park,Square de l'Avenue des Saules,50.632924,3.017635,way,686038795
+Lille,park,Square de l'Allée des Jardins,50.6103351,3.0417696,way,691963094
+Lille,park,Parc de la Pléïade,50.6426836,2.9766884,way,694245680
+Lille,park,Place Corneille,50.6284306,2.9847189,way,696094572
+Lille,park,Square du Cardinal Liénart,50.6430948,3.0341919,way,703504356
+Lille,park,Castel Saint-Gérard,50.6519037,3.0395768,way,703508525
+Lille,park,Sans nom,50.6141945,3.0657521,way,705843750
+Lille,park,Sans nom,50.6138482,3.0668876,way,705843754
+Lille,park,Place Alexandre Dumas,50.6405431,3.0941905,way,707206143
+Lille,park,Au Coin du Monde,50.6315052,3.1008589,way,707651363
+Lille,park,Sans nom,50.6324017,3.100412,way,707651385
+Lille,park,Sans nom,50.6320533,3.1004207,way,707651386
+Lille,park,Plaine Léon Jouhaux,50.6365009,3.0427259,way,710881650
+Lille,park,Sans nom,50.6261567,3.1081594,way,711703913
+Lille,park,Parc du Colombier,50.6038576,3.0692329,way,727884963
+Lille,park,Square Simons,50.6032952,3.0703842,way,727884970
+Lille,park,Parc de la Gare,50.6522029,3.0513604,way,812972012
+Lille,park,Sans nom,50.6571797,3.0549473,way,827015970
+Lille,park,Square Schumann,50.6539913,3.0699135,way,844220720
+Lille,park,Parc Fernand Hette,50.6031953,3.0929997,way,846739732
+Lille,park,Sans nom,50.6458513,3.1060983,way,860403614
+Lille,park,Sans nom,50.633619,3.1041701,way,865327496
+Lille,park,Parc du Baroeul,50.6478932,3.1093218,way,865838175
+Lille,park,Square Kuhlmann,50.6604797,3.0450805,way,911042862
+Lille,park,Sans nom,50.60978,3.0635686,way,930642068
+Lille,park,Sans nom,50.6492109,3.1068911,way,939050690
+Lille,park,Parc d'Herbigny,50.6119561,2.9836646,way,945821142
+Lille,park,Jardin des Tritons,50.6412695,3.0799864,way,950323452
+Lille,park,Square Marguerite Yourcenar,50.6011745,3.0672662,way,966388431
+Lille,park,Jardin Samuel Paty,50.6412433,2.9919303,way,991134518
+Lille,park,Square Léon Blum,50.649291,3.0048361,way,992722007
+Lille,park,Square de la Baltique,50.6159189,3.0342728,way,992736624
+Lille,park,Sans nom,50.6347322,3.0948155,way,998455463
+Lille,park,Sans nom,50.6490737,3.0135926,way,1004388889
+Lille,park,Sans nom,50.6316477,3.0297637,way,1008706264
+Lille,park,Parc Lino Ventura,50.6536782,3.0442329,way,1034650017
+Lille,park,Parc Lino Ventura,50.6538909,3.0442886,way,1034650018
+Lille,park,Parc des Tilleuls,50.6555895,3.0537549,way,1038010853
+Lille,park,Sans nom,50.6037886,3.0429035,way,1051517893
+Lille,park,Sans nom,50.6596344,3.0500878,way,1065905968
+Lille,park,Square Alexandre Desrousseaux,50.6593742,3.0364087,way,1066141537
+Lille,park,Square Coubertin,50.6520263,3.0736707,way,1080638647
+Lille,park,Sans nom,50.6192133,3.0223724,way,1089496456
+Lille,park,Sans nom,50.6429938,3.1113099,way,1093803297
+Lille,park,Sans nom,50.6437551,3.11137,way,1093803298
+Lille,park,Sans nom,50.6288916,3.1068126,way,1098835783
+Lille,park,Sans nom,50.6584089,3.0857189,way,1105220086
+Lille,park,Square de Poggibonsi,50.6599992,3.0817204,way,1148793381
+Lille,park,Square Boniface,50.6562151,3.0683171,way,1178377246
+Lille,park,Jardin du Presbytère,50.6313952,3.0057339,way,1181768287
+Lille,park,Parc Gabriel Pagnerre,50.6455402,3.1075788,way,1184430132
+Lille,park,Sans nom,50.653688,3.0391248,way,1187304041
+Lille,park,Sans nom,50.6580862,3.0182678,way,1191854878
+Lille,park,Sans nom,50.6229191,2.9872287,way,1193726368
+Lille,park,Parc de la Cessoie,50.6604007,3.0299012,way,1194008515
+Lille,park,Sans nom,50.6535329,3.0464532,way,1194269849
+Lille,park,Parc Lino Ventura,50.6533248,3.0455687,way,1194269850
+Lille,park,Sans nom,50.6570594,3.0435635,way,1196304391
+Lille,park,Sans nom,50.6043098,3.0661192,way,1201691344
+Lille,park,Sans nom,50.6018428,3.0637871,way,1202738001
+Lille,park,Sans nom,50.6217051,3.1184295,way,1205210150
+Lille,park,Parc Valmy,50.6524232,3.0929825,way,1205484861
+Lille,park,Parc de l'Épine,50.6201894,3.1069582,way,1216495267
+Lille,park,Square de la Congrégation,50.6513091,3.0711114,way,1238879429
+Lille,park,Jardin de la Médiathèque,50.6553834,3.0688804,way,1239891448
+Lille,park,Sans nom,50.6549615,3.0707849,way,1239907098
+Lille,park,Parc des Acacias,50.6564942,3.071218,way,1239907113
+Lille,park,Jardin Pédagogique Carnot,50.6536888,3.076956,way,1243205803
+Lille,park,Square Pitch,50.6046482,2.9876105,way,1262013950
+Lille,park,Square Mitch,50.6042039,2.9872052,way,1262013951
+Lille,park,Sans nom,50.6448378,3.1115794,way,1275074651
+Lille,park,Sans nom,50.6462662,3.1120109,way,1275074665
+Lille,park,Sans nom,50.6462686,3.1114859,way,1275074688
+Lille,park,Sans nom,50.6336656,3.0971054,way,1293641753
+Lille,park,Sans nom,50.6049869,2.9693221,way,1299549072
+Lille,park,Sans nom,50.6133891,3.0242378,way,1310586504
+Lille,park,Square Marcel Hoffmann,50.6272156,3.1151957,way,1327255305
+Lille,park,Sans nom,50.6519169,3.0167997,way,1357214847
+Lille,park,Sans nom,50.6479272,3.1190286,way,1363299964
+Lille,park,Parc DeBuire Du Buc,50.639341,3.028536,way,1369198492
+Lille,park,Sans nom,50.6543218,3.0268305,way,1369198800
+Lille,park,Sans nom,50.6552313,3.0138788,way,1369198929
+Lille,park,Square Loos-Béranger,50.6220825,3.0381959,way,1375572043
+Lille,park,Place Clovis Thiers,50.658009,3.1014074,way,1378341506
+Lille,park,Ferme éducative de Lomme,50.6549899,2.9891225,way,1380364428
+Lille,park,Sans nom,50.6595722,3.0108127,way,1380419329
+Lille,park,Parc Rosa Bonheur,50.6304525,3.0171407,way,1395674171
+Lille,park,Sans nom,50.6131467,2.9914453,way,1413958029
+Lille,park,Parc de la Charité,50.6263656,3.0352651,way,1417030113
+Lille,park,Square Concorde,50.6202373,3.0392867,way,1423502100
+Lille,park,Sans nom,50.6142771,2.9894316,way,1429069127
+Lille,park,Jardin Valentine Defeller,50.6486955,3.0712148,way,1430094683
+Lille,park,Sans nom,50.6479545,3.0717397,way,1431998443
+Lille,park,Parc de la Citadelle,50.642152,3.0448152,relation,2459077
+Lille,park,Square des Forgerons,50.6273122,3.1025824,relation,3008800
+Lille,park,Parc Tudor,50.6087368,3.0619565,relation,3462541
+Lille,park,Parc des Dondaines,50.636611,3.0794964,relation,4037377
+Lille,park,Plaine Winston Churchill,50.6489026,3.0650576,relation,5388426
+Lille,park,Parc du Fort de Mons,50.6454078,3.1206102,relation,5396856
+Lille,park,Square de l'Internationale,50.6250321,3.1015461,relation,5724795
+Lille,park,Square des Mères,50.6347718,3.0956519,relation,6680130
+Lille,park,Parc Barberousse,50.6412337,3.0875845,relation,8768198
+Lille,park,Square du Palais Rameau,50.6343166,3.0499581,relation,10837473
+Lille,park,Jardins de la Porte de Gand,50.6443028,3.0684617,relation,11372095
+Lille,park,Porte de Paris,50.6296232,3.068812,relation,11372138
+Lille,park,Square du Réduit,50.6298264,3.0713668,relation,11380953
+Lille,park,Square de Flandre,50.6239707,3.1210828,relation,11498608
+Lille,park,Berges des Bois-Blancs,50.6341426,3.0341471,relation,12861823
+Lille,park,Parvis des Nuages,50.6413927,3.0759005,relation,14324074
+Lille,park,Sans nom,50.6017338,3.0834895,relation,17611583
+Lille,park,Square Pierre Bérégovoy,50.6021914,3.0838067,relation,17611584
+Lille,park,Sans nom,50.6022378,3.0863036,relation,17611585
+Lille,park,Sans nom,50.6447795,2.9974657,relation,18812827
+Lille,restaurant,L'escale,50.6346408,3.0402339,node,527186674
+Lille,restaurant,Crêperie La Vieille Bourse,50.6371325,3.0641154,node,585221173
+Lille,restaurant,Pinocchio,50.6383299,3.0684087,node,617240499
+Lille,restaurant,L'Opera Corner,50.6375664,3.0675295,node,617240501
+Lille,restaurant,Le Royal,50.6381356,3.0664352,node,617240503
+Lille,restaurant,Restaurant In Bocca Lupo,50.6407517,3.0613787,node,617639561
+Lille,restaurant,Au Vieux de la Vieille,50.6408939,3.061407,node,617639563
+Lille,restaurant,Brasserie de la Cité,50.6101982,3.0403067,node,665892696
+Lille,restaurant,"Crêperie Saint-Georges,",50.6395356,3.0612698,node,674884875
+Lille,restaurant,La bottega,50.6411433,3.0618224,node,706335503
+Lille,restaurant,Au Feu de Bois,50.609149,2.9835129,node,711525806
+Lille,restaurant,Euro Istanbul,50.6108648,2.9834108,node,724226254
+Lille,restaurant,Au Bureau,50.6144973,3.1251486,node,766483368
+Lille,restaurant,Volfoni,50.6146007,3.1249983,node,766483369
+Lille,restaurant,Le Petit Boulevard,50.6594009,3.0911252,node,881586920
+Lille,restaurant,La Mamounia,50.6220277,3.0536026,node,981107113
+Lille,restaurant,Salade&Co,50.6154434,3.1252808,node,1000088357
+Lille,restaurant,Au Bistrot Batignolles,50.6144036,3.1252805,node,1000088479
+Lille,restaurant,Old Wild West,50.6152335,3.1254032,node,1000088530
+Lille,restaurant,Steak N Coffee,50.6158317,3.1252666,node,1000088628
+Lille,restaurant,Sushi Kyo,50.6157364,3.1251197,node,1000088651
+Lille,restaurant,Out Fry,50.6361608,3.0270592,node,1149410766
+Lille,restaurant,L'Orange Bleue,50.6385886,3.0627174,node,1288034974
+Lille,restaurant,Le Barbier qui fume,50.641375,3.0620802,node,1402607822
+Lille,restaurant,"La Réserve, bar à manger",50.6258148,3.051623,node,1502852082
+Lille,restaurant,La Braise du Gambetta,50.625715,3.0517462,node,1502852091
+Lille,restaurant,Krevette,50.624995,3.0682571,node,1632684049
+Lille,restaurant,Le chat qui fume,50.6294217,3.055281,node,1632827857
+Lille,restaurant,Sans nom,50.6134344,3.001749,node,1666919660
+Lille,restaurant,Jojo Grill,50.6313541,3.0596256,node,1667692964
+Lille,restaurant,Le Sémaphore,50.6020319,3.0388199,node,1753757037
+Lille,restaurant,Sans nom,50.6518449,3.1253024,node,1770253319
+Lille,restaurant,Rituel,50.639772,3.0538914,node,1780238366
+Lille,restaurant,Le Bistrot 235,50.6443896,3.0284593,node,1893343973
+Lille,restaurant,La Cense,50.6443079,3.0273581,node,1893346920
+Lille,restaurant,La Table du Colysée,50.6390871,3.0353058,node,1895318109
+Lille,restaurant,Le Melting Pot,50.6375676,3.066259,node,1988585061
+Lille,restaurant,Pancook Zénith,50.6309247,3.0766388,node,1998722265
+Lille,restaurant,Le Bistronome,50.6282999,3.0789427,node,1998722266
+Lille,restaurant,Hoover Garden,50.6271513,3.0794471,node,2036292626
+Lille,restaurant,Sushi Boutik,50.6265153,3.0797795,node,2036292629
+Lille,restaurant,Comfort,50.6473435,2.9759198,node,2061506779
+Lille,restaurant,Le Mother,50.6248761,3.0698595,node,2096288520
+Lille,restaurant,Britney,50.6270933,3.0698077,node,2096356682
+Lille,restaurant,La P'tite Place,50.6243816,3.0457961,node,2106822659
+Lille,restaurant,Suzanne,50.6282892,3.0609779,node,2194045043
+Lille,restaurant,La Ducasse,50.6322445,3.0531931,node,2209116650
+Lille,restaurant,Les Compagnons de la Grappe,50.6386495,3.0631737,node,2212550424
+Lille,restaurant,La Petite Table,50.6411917,3.0623798,node,2213793320
+Lille,restaurant,Sans nom,50.6421195,3.0609371,node,2213796431
+Lille,restaurant,Les Saveurs du Maroc,50.6352785,3.1145558,node,2300184592
+Lille,restaurant,Jomon Negishi,50.6411276,3.0655455,node,2303894710
+Lille,restaurant,Mam's,50.657565,3.0836524,node,2306297992
+Lille,restaurant,Hippopotamus,50.6158947,3.1248772,node,2327369839
+Lille,restaurant,Le Fort,50.6445483,3.1197086,node,2329407915
+Lille,restaurant,Pickles,50.6264299,3.0641593,node,2335382474
+Lille,restaurant,La Crinière - Bistrot,50.6294967,3.046585,node,2387702294
+Lille,restaurant,L'Île de Crête,50.6435137,3.0678416,node,2514383772
+Lille,restaurant,Le Barbue d'Anvers,50.6373783,3.0620151,node,2530847662
+Lille,restaurant,O'labo,50.6274687,3.0794838,node,2567893852
+Lille,restaurant,Les Fils à Maman,50.6425951,3.0664119,node,2580523463
+Lille,restaurant,Sweet Africa,50.6281366,3.0577936,node,2580536778
+Lille,restaurant,Daikanyama,50.6424418,3.0665156,node,2642036230
+Lille,restaurant,Le bistrot Lillois,50.6421205,3.0661265,node,2642036231
+Lille,restaurant,Sympa,50.6365999,3.0651858,node,2659704516
+Lille,restaurant,Bloempot,50.6381492,3.0583136,node,2684780752
+Lille,restaurant,À Taaable !!,50.6427879,3.0669498,node,2684794084
+Lille,restaurant,Taj Mahal,50.6321938,3.0883265,node,2694662620
+Lille,restaurant,MakiWaō,50.6135028,3.0626774,node,2701926610
+Lille,restaurant,Snack Center,50.6328659,3.0906961,node,2717259558
+Lille,restaurant,Pitta Fives,50.63266,3.0912611,node,2717259642
+Lille,restaurant,Thai Wok,50.6321941,3.0931931,node,2717259648
+Lille,restaurant,TAT Berliner kebab,50.6324757,3.0917502,node,2717259662
+Lille,restaurant,Spicy naan,50.631661,3.0939443,node,2717260093
+Lille,restaurant,Urban Burger,50.6315415,3.0942676,node,2717260147
+Lille,restaurant,Crêperie Beaurepaire,50.6374461,3.0619951,node,2835256530
+Lille,restaurant,La terrasse du Barœul,50.6500362,3.1082191,node,2875203834
+Lille,restaurant,Cœur Grenadine,50.6411458,3.0616704,node,2899737799
+Lille,restaurant,Pulcinella,50.6218735,3.0384794,node,2911845115
+Lille,restaurant,Het Hol,50.6416736,3.0143978,node,2914940549
+Lille,restaurant,Best Mama,50.6424229,3.0165717,node,2914965162
+Lille,restaurant,Chez Malay,50.6399277,3.0798447,node,2990459133
+Lille,restaurant,L'Ultimo,50.640005,3.080315,node,2990467933
+Lille,restaurant,Aux Éphérites,50.6296978,3.0614902,node,2995433301
+Lille,restaurant,Cố đô Huế,50.629691,3.0611845,node,2995433302
+Lille,restaurant,Patrimoine Kabyle,50.6292468,3.0611855,node,3009957235
+Lille,restaurant,Le Chantecler,50.6295794,3.0611866,node,3009957237
+Lille,restaurant,Habesa Snack-Bar,50.6202563,3.0730562,node,3018146147
+Lille,restaurant,Maharani,50.6336693,3.0614249,node,3021793001
+Lille,restaurant,Le Court Debout,50.6330314,3.0635147,node,3021793010
+Lille,restaurant,Sazanka,50.6528153,3.0824954,node,3041931181
+Lille,restaurant,Guérino,50.6542879,3.0846009,node,3041931185
+Lille,restaurant,Fast'Hoch,50.6291592,3.0748964,node,3071641295
+Lille,restaurant,L'Indigo,50.6255775,3.0560657,node,3145554688
+Lille,restaurant,Pub Goudale Restaurant Lomme,50.6522552,2.986979,node,3149810813
+Lille,restaurant,Mon Petit Thaï,50.6287187,3.0525338,node,3201800182
+Lille,restaurant,Le Dancing,50.648805,3.0429915,node,3342236315
+Lille,restaurant,L'adresse,50.6378546,3.0582614,node,3351412652
+Lille,restaurant,DjurDjura,50.6268569,3.0682055,node,3423952656
+Lille,restaurant,La Trinacria,50.6258418,3.0374524,node,3426407892
+Lille,restaurant,Tumi,50.6309846,3.060279,node,3430470069
+Lille,restaurant,All Pommodoro,50.6329563,3.0533082,node,3629249199
+Lille,restaurant,M'Eating,50.6359414,3.0269868,node,3713723394
+Lille,restaurant,L'Oriental,50.642834,3.016493,node,3732004444
+Lille,restaurant,Chiquita Bacana Brasil,50.6434066,3.0677395,node,3750397994
+Lille,restaurant,L'Estaminet Lillois,50.6386425,3.0575403,node,3772617554
+Lille,restaurant,La tulipe d'or,50.6082604,3.0897074,node,3878379244
+Lille,restaurant,La Perle,50.6097991,3.0860864,node,3878380943
+Lille,restaurant,Soho Urban Food,50.6379587,3.0661968,node,4024966415
+Lille,restaurant,Comptoir 44,50.6422166,3.0662314,node,4151403290
+Lille,restaurant,La Table de Siam,50.6416179,3.061669,node,4183809472
+Lille,restaurant,Izumi,50.6340989,3.0610747,node,4238109591
+Lille,restaurant,La Crêperie de Lille,50.6428342,3.067009,node,4260079415
+Lille,restaurant,Don Milano,50.6596169,3.0736712,node,4267971964
+Lille,restaurant,Yaya,50.6437993,3.0679238,node,4381067406
+Lille,restaurant,Alexens,50.6338901,3.0207151,node,4416740147
+Lille,restaurant,Bagelcorner,50.6342051,3.0202757,node,4416740148
+Lille,restaurant,Pickit Up,50.6345407,3.0214259,node,4416740151
+Lille,restaurant,Kok Piraat Péniche-Restaurant,50.6303364,3.0205609,node,4416740153
+Lille,restaurant,L'Gaïette,50.6327957,3.0548617,node,4421749744
+Lille,restaurant,Mian Dian,50.6323778,3.0485812,node,4421806114
+Lille,restaurant,Tbilisi,50.6325823,3.055718,node,4421868750
+Lille,restaurant,Petit Bouillon Alcide,50.6376964,3.0630167,node,4424239711
+Lille,restaurant,L'arrière pays,50.6387189,3.0612028,node,4424286721
+Lille,restaurant,Pizza Hut,50.6314726,3.0540794,node,4431626089
+Lille,restaurant,B-Routh,50.6323407,3.0427022,node,4432667906
+Lille,restaurant,Le Chti Charivari,50.6513596,2.9819243,node,4438230892
+Lille,restaurant,Memphis,50.6513985,2.9824343,node,4438235089
+Lille,restaurant,3 Brasseurs,50.6361629,3.0692959,node,4442146051
+Lille,restaurant,Chez Simone,50.6355036,3.069842,node,4442146055
+Lille,restaurant,Le Flandre,50.6354812,3.0704141,node,4442146057
+Lille,restaurant,Le Meunier,50.6356996,3.0706247,node,4442174795
+Lille,restaurant,Jaldi Jaldi,50.6318581,3.0550035,node,4445182609
+Lille,restaurant,Las Tapas,50.6463646,3.0553769,node,4496383796
+Lille,restaurant,Tasty,50.632033,3.0430369,node,4500229012
+Lille,restaurant,Pizza Factory,50.6321519,3.0466247,node,4500242564
+Lille,restaurant,Octopus,50.6287756,3.0588902,node,4509013420
+Lille,restaurant,Sans nom,50.6254537,3.1144091,node,4526720692
+Lille,restaurant,Dio Ristorante - Lille,50.6324799,3.0554875,node,4575796889
+Lille,restaurant,Dunya,50.6334297,3.0909028,node,4691245654
+Lille,restaurant,La cour de la ch’tite brigitte,50.6410405,3.0618926,node,4732669422
+Lille,restaurant,Toyotomi,50.6297943,3.0577964,node,4857672767
+Lille,restaurant,Yiso Ramen,50.6297515,3.0578675,node,4857672768
+Lille,restaurant,Le Passe-Porc,50.6296195,3.0581158,node,4857672771
+Lille,restaurant,Safran,50.6295857,3.0582022,node,4857672772
+Lille,restaurant,The Queen's Head,50.6416223,3.0648144,node,4893934324
+Lille,restaurant,Le Général,50.6395745,3.0618163,node,4893943621
+Lille,restaurant,Chtite Brigitte,50.638486,3.0582751,node,4960540123
+Lille,restaurant,Jour de Pêche,50.6369924,3.0617863,node,4960540124
+Lille,restaurant,Bistrot Tao,50.6332367,3.0648291,node,4969313621
+Lille,restaurant,Le Lion Bossu,50.6403296,3.0650938,node,4974260622
+Lille,restaurant,Maison L,50.62737,3.0494434,node,5072895821
+Lille,restaurant,Le 54,50.6279917,3.1115537,node,5075121573
+Lille,restaurant,Papà Raffaele,50.6403853,3.0652027,node,5109825553
+Lille,restaurant,Le Bouchon du Quai du Wault,50.6372718,3.0538519,node,5133702662
+Lille,restaurant,Baan Boon,50.6248942,3.0682398,node,5158700364
+Lille,restaurant,Le Verlaine,50.6263124,3.0681975,node,5158700365
+Lille,restaurant,Beatriz,50.6263697,3.0681993,node,5158700366
+Lille,restaurant,Aokamo,50.6363601,3.0658927,node,5162686333
+Lille,restaurant,Dumplings & Co,50.6370894,3.0640064,node,5162686334
+Lille,restaurant,De Rode Koe,50.6407084,3.0599395,node,5162686337
+Lille,restaurant,La Vieille Assiette,50.6346052,3.0402718,node,5163090898
+Lille,restaurant,Les Casseroles Lilloises,50.6313897,3.0542287,node,5163090903
+Lille,restaurant,Mezzé Royal,50.6293765,3.0547313,node,5163090914
+Lille,restaurant,4U restaurant,50.6295952,3.0552828,node,5163093722
+Lille,restaurant,Nigiri Thai,50.6299202,3.0560707,node,5163093726
+Lille,restaurant,Pho 117,50.6299788,3.0562324,node,5163093733
+Lille,restaurant,Chiba,50.6311184,3.0590319,node,5163093746
+Lille,restaurant,Beef Art,50.6313034,3.0594852,node,5163093748
+Lille,restaurant,Sushi Est,50.6339242,3.0662826,node,5163093755
+Lille,restaurant,Le Bar à Pizzas,50.6305825,3.0548476,node,5198639330
+Lille,restaurant,L'assiette Thai,50.6305564,3.0571231,node,5202232461
+Lille,restaurant,Fost,50.632403,3.0534428,node,5202358163
+Lille,restaurant,Le Dahu,50.6323511,3.0533878,node,5202358164
+Lille,restaurant,Chopsticks&Co,50.6274,3.0495216,node,5204529047
+Lille,restaurant,Layalina,50.6237458,3.0678459,node,5241464926
+Lille,restaurant,La Clairière,50.6344546,3.0573017,node,5242426940
+Lille,restaurant,Happy F'eat,50.6364055,3.0591069,node,5245088851
+Lille,restaurant,Restaurant Sébastopol,50.6288511,3.0589887,node,5246976006
+Lille,restaurant,Pizza Hut,50.6326208,3.0920099,node,5249086516
+Lille,restaurant,Chez Max,50.6309129,3.0551495,node,5267690933
+Lille,restaurant,My Fluffy,50.6332909,3.062733,node,5267690937
+Lille,restaurant,Pékin,50.6362053,3.068678,node,5274237682
+Lille,restaurant,Le Comptoir des Bistronomes,50.633197,3.0681938,node,5274962182
+Lille,restaurant,Au Soyeux,50.6423263,3.0663684,node,5298878521
+Lille,restaurant,Le Frigidaire,50.6242541,3.0684019,node,5299445563
+Lille,restaurant,Escale Thaï,50.6429246,3.0671278,node,5313702821
+Lille,restaurant,Fataya et Les Merveilles de Dakar,50.6300246,3.0457504,node,5316414395
+Lille,restaurant,Le jardin du bonheur,50.6297638,3.0573223,node,5324577310
+Lille,restaurant,Sans nom,50.6300275,3.0568227,node,5324577311
+Lille,restaurant,Maison Ramen,50.6301033,3.0571995,node,5324577316
+Lille,restaurant,Shuriken,50.6301743,3.0570501,node,5324577318
+Lille,restaurant,Restaurant Hajveri,50.6299539,3.0569607,node,5324577320
+Lille,restaurant,Saveurs des Iles,50.6282141,3.0513614,node,5325752878
+Lille,restaurant,Pizza du Marché,50.6268027,3.05054,node,5325752916
+Lille,restaurant,Aux Bretons,50.6262455,3.0488644,node,5325754268
+Lille,restaurant,Pizzeria Del Vera,50.6264318,3.0487396,node,5325754275
+Lille,restaurant,Tiparo Thai,50.6265296,3.0486658,node,5325754278
+Lille,restaurant,La petite fourchette,50.6266338,3.0486001,node,5325754284
+Lille,restaurant,Al Fassia,50.6263258,3.0473569,node,5325754306
+Lille,restaurant,Yatai,50.6262541,3.0471661,node,5325754310
+Lille,restaurant,Le Syrah Luna,50.625252,3.0482678,node,5325754312
+Lille,restaurant,La Popote,50.6253449,3.0488959,node,5325754313
+Lille,restaurant,Restaurant universitaire Châtelet,50.6143703,3.0349786,node,5325868605
+Lille,restaurant,Brasserie La Basoche,50.6191601,3.0700019,node,5325868608
+Lille,restaurant,Soleil d'Agadir,50.6461735,3.0594211,node,5333316104
+Lille,restaurant,Café des Nates,50.6321749,3.0514473,node,5343504208
+Lille,restaurant,Le Grand Angle,50.6345669,3.0571443,node,5343504216
+Lille,restaurant,Tok'ici,50.6317917,3.0271315,node,5361882735
+Lille,restaurant,La Luck,50.6462176,3.0597817,node,5383580071
+Lille,restaurant,Les Bistronautes,50.6372462,3.0614841,node,5383857938
+Lille,restaurant,N'autre Monde,50.6379752,3.0621104,node,5383857948
+Lille,restaurant,White lotus,50.637958,3.0622912,node,5383857949
+Lille,restaurant,La petit cour,50.6383396,3.0624671,node,5383857953
+Lille,restaurant,Lakson,50.6384257,3.0625858,node,5383857971
+Lille,restaurant,Le Fief de Papa,50.6314766,3.0949429,node,5405879884
+Lille,restaurant,La Petite Caille,50.6313485,3.0952891,node,5405879887
+Lille,restaurant,Sushi Chiwa,50.6368892,3.0682899,node,5407835062
+Lille,restaurant,Le Maroc,50.6344223,3.0573709,node,5455331786
+Lille,restaurant,Pixies Bar&Burger,50.6305838,3.0564494,node,5455331790
+Lille,restaurant,Pica Tapas,50.6307892,3.0559212,node,5455331791
+Lille,restaurant,Chimi,50.6286783,3.0529486,node,5455331792
+Lille,restaurant,Poggio,50.6288844,3.0614787,node,5505563189
+Lille,restaurant,O Thai,50.6373824,3.0674424,node,5538696787
+Lille,restaurant,M Thai,50.6363894,3.0689985,node,5555761904
+Lille,restaurant,Les Oiseaux,50.6305756,3.0601792,node,5577104565
+Lille,restaurant,La Meïda,50.6288593,3.072736,node,5577104567
+Lille,restaurant,Annie's Kitchen,50.6287736,3.0526551,node,5581233572
+Lille,restaurant,Block'out,50.648274,3.1169056,node,5589858395
+Lille,restaurant,Ô Cercle,50.6340152,3.0546749,node,5613162229
+Lille,restaurant,J'Thai,50.634182,3.042473,node,5613234021
+Lille,restaurant,Le Pubstore,50.6443868,3.0594791,node,5618395557
+Lille,restaurant,Yena Né,50.6293448,3.0569423,node,5620628413
+Lille,restaurant,Dina,50.6398201,3.0195791,node,5622721038
+Lille,restaurant,Au cœur de l'Inde,50.6363126,3.0266561,node,5650548248
+Lille,restaurant,La Villa Iacazio,50.6407893,3.0274965,node,5654841547
+Lille,restaurant,La Duchesse,50.6451764,3.0124786,node,5661404238
+Lille,restaurant,L’Émulsion,50.6518233,3.0271524,node,5685878544
+Lille,restaurant,La laiterie,50.6401071,3.0332265,node,5695491226
+Lille,restaurant,Les Petites Douceurs de Phuket,50.6362114,3.0269039,node,5700475751
+Lille,restaurant,Pizza Gourmande,50.6403049,3.0187666,node,5700475752
+Lille,restaurant,Il Ristorante,50.6341424,3.0660425,node,5724126441
+Lille,restaurant,Flandres Liban,50.6237125,3.0545975,node,5752649281
+Lille,restaurant,Le Beffroi,50.6375022,3.0641179,node,5761496453
+Lille,restaurant,Madre,50.6387159,3.0580564,node,5768108634
+Lille,restaurant,Le Chalet II,50.646536,3.0090049,node,5788114787
+Lille,restaurant,Pancook,50.6317659,3.0436062,node,5803644997
+Lille,restaurant,CoquO,50.6477363,3.0352068,node,5838730803
+Lille,restaurant,Le Présentoir,50.6366277,3.065153,node,5848952777
+Lille,restaurant,Fabrik Burger,50.6249193,3.0551816,node,5894248705
+Lille,restaurant,L'Atmo Pizza,50.6239055,3.0547013,node,5894248708
+Lille,restaurant,La Belleza Big Mamma,50.6389984,3.0587811,node,5929260225
+Lille,restaurant,Mezze & Co,50.6289091,3.0530025,node,5942418306
+Lille,restaurant,Itsy Bitsy - Cuisine Végétale,50.6317733,3.0629672,node,5942418318
+Lille,restaurant,Le lovibond,50.6308689,3.0637862,node,5942418319
+Lille,restaurant,Backyard Kitchen,50.6315345,3.0644108,node,5942418320
+Lille,restaurant,Kisoro,50.6327493,3.0637297,node,5942418323
+Lille,restaurant,SOlange,50.6234713,3.0376496,node,5942769312
+Lille,restaurant,Le Barbier qui fume,50.6402152,3.076969,node,5964926384
+Lille,restaurant,Croque’s & Pies,50.6394347,3.0647192,node,6032496250
+Lille,restaurant,La Crêperie de la Grand Place,50.6376498,3.0632242,node,6032496263
+Lille,restaurant,Club Marot,50.637463,3.0611166,node,6032496269
+Lille,restaurant,Seasons Cafe,50.6360975,3.0593229,node,6032496271
+Lille,restaurant,Yori,50.6359539,3.0592076,node,6032496272
+Lille,restaurant,Hopen Source,50.6325074,3.0650769,node,6041484070
+Lille,restaurant,Ginko,50.6353273,3.0601383,node,6068177348
+Lille,restaurant,Café Vedette,50.6414827,3.062199,node,6093847353
+Lille,restaurant,Estaminet,50.6412852,3.0622339,node,6093847355
+Lille,restaurant,Le Versailles,50.6290331,3.0737934,node,6093871632
+Lille,restaurant,Le Porthos,50.6411097,3.0625059,node,6093871633
+Lille,restaurant,La table du Clarance,50.6387555,3.0570541,node,6093890609
+Lille,restaurant,Tramontana Ristorante,50.6243163,3.0385349,node,6110928847
+Lille,restaurant,Café Peacock,50.6362119,3.0630819,node,6122249967
+Lille,restaurant,Aux Jours Heureux,50.6466091,3.0765992,node,6122331796
+Lille,restaurant,Le Président,50.6368503,3.0629345,node,6133393108
+Lille,restaurant,Le Marché Flottant,50.6311426,3.0585589,node,6140886610
+Lille,restaurant,Habesha,50.6377805,3.0693884,node,6158333253
+Lille,restaurant,Au Rassemblement,50.6022576,3.0393659,node,6158848666
+Lille,restaurant,Bleu Canard,50.6363302,3.0659298,node,6159414365
+Lille,restaurant,La Gondole,50.6369219,3.0248273,node,6171946491
+Lille,restaurant,Chez Mon Cousin,50.6379833,3.0236232,node,6172598441
+Lille,restaurant,Le Méditerraniéen,50.6418467,3.1088632,node,6178231226
+Lille,restaurant,Loos'Taminet,50.6153031,3.0178233,node,6190437844
+Lille,restaurant,Chicon pressé,50.6378416,3.0696111,node,6263863981
+Lille,restaurant,Le Nil,50.6376778,3.0694153,node,6263863982
+Lille,restaurant,Les Sales Gosses,50.6419279,3.0849268,node,6278076597
+Lille,restaurant,Bernard et Léon,50.6381951,3.064804,node,6325881982
+Lille,restaurant,Mama Kitchen Caffè,50.6382185,3.0744637,node,6329760222
+Lille,restaurant,HD Diner,50.6381549,3.0747337,node,6329760223
+Lille,restaurant,BeefHouse,50.6381082,3.0749317,node,6329760224
+Lille,restaurant,Pizzeria Juliet et Roméo,50.6253589,3.044866,node,6331894399
+Lille,restaurant,Yamstor,50.6456249,2.9883329,node,6335433747
+Lille,restaurant,Auchan Traiteur Englos,50.632259,2.9680188,node,6335433784
+Lille,restaurant,Sushitime,50.6506315,2.9758478,node,6335434113
+Lille,restaurant,Sushi Boutik,50.6520383,2.9826469,node,6335434122
+Lille,restaurant,Prima Fila,50.6299322,3.0211279,node,6338486525
+Lille,restaurant,Bombora,50.6330077,3.0191598,node,6389628510
+Lille,restaurant,L'ardoise,50.6372918,3.1233383,node,6412802337
+Lille,restaurant,Limpide,50.6410008,3.0320505,node,6426715016
+Lille,restaurant,Pureté,50.6415206,3.0618239,node,6426715017
+Lille,restaurant,Rouge Barre,50.6443664,3.0594052,node,6426715018
+Lille,restaurant,Switch,50.6326285,3.0427018,node,6427720566
+Lille,restaurant,City Wok,50.6154959,3.125585,node,6465811001
+Lille,restaurant,Calico Café,50.6386177,3.0653435,node,6485471687
+Lille,restaurant,Cul de poule,50.6288804,3.0728484,node,6511782890
+Lille,restaurant,Le Biplet,50.6392417,3.0201789,node,6525658393
+Lille,restaurant,Cordoba,50.6188928,3.0511101,node,6532278473
+Lille,restaurant,L'orpailleur,50.6194472,3.0507003,node,6532285269
+Lille,restaurant,Elephant Thaï,50.637191,3.0675946,node,6545230757
+Lille,restaurant,L'Annexe,50.6547652,3.0853143,node,6554702104
+Lille,restaurant,Brutus,50.6387818,3.0594171,node,6571108765
+Lille,restaurant,Les Délices De l'Inde,50.6354253,3.0692587,node,6581148866
+Lille,restaurant,Cozy Grill,50.613507,3.0628836,node,6581962394
+Lille,restaurant,Le Relais,50.6071094,3.0592777,node,6593039883
+Lille,restaurant,Adobo Loco,50.6514912,3.1254862,node,6602594842
+Lille,restaurant,L’Esprit de Famille,50.6154101,3.0184959,node,6605956602
+Lille,restaurant,"Joya, restaurant vietnamien",50.6482149,3.0773134,node,6811628043
+Lille,restaurant,Michel,50.6329388,3.0682207,node,6821185889
+Lille,restaurant,L'oriental,50.6577787,3.0402484,node,6835729003
+Lille,restaurant,Bouillant,50.6269507,3.0483995,node,6892270503
+Lille,restaurant,Jane,50.6396441,3.0674532,node,6899632394
+Lille,restaurant,Douceurs de Phuket,50.6266654,3.0496874,node,6905063158
+Lille,restaurant,Al'Carbone,50.6334012,3.0101615,node,6915068921
+Lille,restaurant,Celebrazioni,50.641895,2.9952686,node,6976838747
+Lille,restaurant,Lazy Susy,50.6388432,3.0620611,node,6983633933
+Lille,restaurant,Twister,50.6326074,3.0913943,node,6993856362
+Lille,restaurant,La Grange,50.6429203,2.9966602,node,7011014687
+Lille,restaurant,L'argana,50.6292328,3.1028174,node,7044899432
+Lille,restaurant,Tacos Maison,50.6293145,3.1024151,node,7044899433
+Lille,restaurant,Frit'Rit,50.6514649,2.9808968,node,7070334518
+Lille,restaurant,Champthé,50.6321256,3.0873231,node,7073122189
+Lille,restaurant,Aux Moules de Lille,50.6360284,3.063278,node,7123131536
+Lille,restaurant,L’Avant Scène,50.6282995,3.0607436,node,7123136896
+Lille,restaurant,Eva,50.6373683,3.0617403,node,7123137441
+Lille,restaurant,Jai Ho,50.6351074,3.0704671,node,7129378979
+Lille,restaurant,Le Comptoir par M et L,50.6577948,3.079328,node,7157089027
+Lille,restaurant,Saisons - Cave à Manger,50.6497585,3.0771155,node,7165438219
+Lille,restaurant,Palais du Dragon,50.6355055,3.0710804,node,7174535763
+Lille,restaurant,Ito Ramen,50.6323887,3.0523326,node,7216635201
+Lille,restaurant,Chez Molla,50.6365729,3.0860217,node,7230131507
+Lille,restaurant,Dozo,50.661169,3.09567,node,7279320969
+Lille,restaurant,Le Broc Vieux-Lille,50.6413104,3.0654864,node,7279652790
+Lille,restaurant,Le Broc Lille-Centre,50.6326382,3.0626373,node,7279652791
+Lille,restaurant,Origano la pizza,50.6288008,3.0591467,node,7343399820
+Lille,restaurant,Le Chti Long,50.6316218,3.064034,node,7353668125
+Lille,restaurant,Little Italy,50.631432,3.064555,node,7353668126
+Lille,restaurant,La Garenne,50.6098626,3.0207334,node,7413611816
+Lille,restaurant,Maboule,50.6334068,3.06817,node,7416536016
+Lille,restaurant,Ankara,50.6352885,3.0701378,node,7416672417
+Lille,restaurant,Le Quai,50.6358462,3.0288549,node,7417118348
+Lille,restaurant,Pizza Hut,50.6385332,3.0225452,node,7417412538
+Lille,restaurant,We Are Ara,50.636765,3.0649651,node,7418955855
+Lille,restaurant,Thaï Land Square,50.6366834,3.0650697,node,7418955856
+Lille,restaurant,Hippopotamus,50.6369547,3.0652078,node,7419198914
+Lille,restaurant,Le Palazzo,50.6337456,3.0678251,node,7419583300
+Lille,restaurant,Rocco Cantina,50.640569,3.0656372,node,7442763318
+Lille,restaurant,Le Cerisier en Ville,50.6420151,3.0643367,node,7444484996
+Lille,restaurant,La Brasserie du Cerisier,50.6420568,3.0642844,node,7444484997
+Lille,restaurant,Silex,50.641694,3.0657798,node,7444485004
+Lille,restaurant,La Fleur de Lille,50.6418331,3.0656765,node,7444485006
+Lille,restaurant,Meet People,50.641879,3.065714,node,7444485007
+Lille,restaurant,La Connivence,50.6419445,3.0659796,node,7444485011
+Lille,restaurant,Estaminet Rijsel,50.6420738,3.0658763,node,7444485012
+Lille,restaurant,Be Burger Lille,50.6425498,3.0663613,node,7446873363
+Lille,restaurant,Estaminet du Welsh,50.6426893,3.0665115,node,7446873365
+Lille,restaurant,Chez Raoul,50.6426076,3.0667153,node,7446873366
+Lille,restaurant,Umami,50.6427326,3.0665785,node,7446873367
+Lille,restaurant,Estaminet Chez la Vieille,50.6427391,3.0668967,node,7448518931
+Lille,restaurant,La Vieille France,50.6428522,3.0667304,node,7448518932
+Lille,restaurant,Aoyama,50.6429772,3.0671971,node,7448518934
+Lille,restaurant,Le Gan'ge,50.6432957,3.0676296,node,7448518937
+Lille,restaurant,Chez Ronny,50.6433735,3.0677033,node,7448518938
+Lille,restaurant,Le Bistrot Thaï,50.6383528,3.0591467,node,7467898591
+Lille,restaurant,Sakura,50.6382445,3.0590562,node,7467898593
+Lille,restaurant,Le 28,50.6380147,3.0588637,node,7467898594
+Lille,restaurant,Disco Volante,50.6378903,3.0587517,node,7467898596
+Lille,restaurant,Restaurant du Golf,50.6079327,3.1119909,node,7500209985
+Lille,restaurant,Méert,50.6376893,3.0618096,node,7507475195
+Lille,restaurant,L'Assiette Mijotée,50.6243006,3.0583444,node,7532319042
+Lille,restaurant,Le Douze,50.6320019,3.0585913,node,7593584851
+Lille,restaurant,La Crêperie du Sébasto,50.6298811,3.0576346,node,7603734154
+Lille,restaurant,Le charbon ardent,50.6289887,3.0556235,node,7614742840
+Lille,restaurant,Balme,50.6407866,3.0637958,node,7618566524
+Lille,restaurant,Opus,50.6500823,3.0753491,node,7741391201
+Lille,restaurant,Estaminet Gantois,50.6310767,3.0682932,node,7804550264
+Lille,restaurant,La Galerie,50.6409634,3.061651,node,7806362886
+Lille,restaurant,Berceau d'Afrique,50.6203789,3.0730201,node,7820142490
+Lille,restaurant,Saveurs du nord,50.6227687,3.054211,node,7864519937
+Lille,restaurant,Délices Univers,50.620745,3.061087,node,7881897331
+Lille,restaurant,Mumtaz Mahal,50.6270329,3.0572472,node,7881897335
+Lille,restaurant,Café Lovster,50.6378923,3.0647075,node,7893472517
+Lille,restaurant,Don Angelino,50.6235942,3.0429459,node,7903185584
+Lille,restaurant,Le Plaza Restaurant,50.6398224,3.0758676,node,7959162190
+Lille,restaurant,Restaurant Scolaire Jean Zay,50.6449624,3.1033026,node,7984585873
+Lille,restaurant,Ciao Ragazzi,50.6267061,3.0403385,node,8007833524
+Lille,restaurant,Gueuleton Lille,50.62931,3.0427117,node,8007833549
+Lille,restaurant,Ricordi,50.6523019,3.0264507,node,8013288485
+Lille,restaurant,La Terasse,50.6503433,3.0715084,node,8015860194
+Lille,restaurant,Aux Artistes,50.6418686,3.0613377,node,8015860199
+Lille,restaurant,L'Été Indien,50.6503061,3.071288,node,8015860794
+Lille,restaurant,Mon père,50.633494,3.0645197,node,8019505334
+Lille,restaurant,Xiong Mao Eat,50.6371705,3.0641909,node,8090914352
+Lille,restaurant,Nagoyra Roll,50.6342578,3.0303486,node,8121423688
+Lille,restaurant,Le Push,50.6445855,3.0374704,node,8196963423
+Lille,restaurant,Le barboteur,50.6293421,3.0215288,node,8301224645
+Lille,restaurant,Les Sales Mômes,50.629196,3.0216357,node,8301224646
+Lille,restaurant,Daehan,50.6301424,3.0614815,node,8418444926
+Lille,restaurant,La Récré,50.6309596,3.0444618,node,8425684273
+Lille,restaurant,KOF,50.6226125,3.0536601,node,8450790154
+Lille,restaurant,Germaine,50.637222,3.0344626,node,8520445948
+Lille,restaurant,Un Coin de paradis,50.6331964,3.0747255,node,8613544789
+Lille,restaurant,La pizza du marché,50.6545983,3.0670032,node,8636155435
+Lille,restaurant,Tavernaki,50.6278408,3.1223225,node,8675764642
+Lille,restaurant,Côté Sushi,50.6330522,3.0625105,node,8781776318
+Lille,restaurant,Happy Fox,50.6423293,3.0870042,node,8813490022
+Lille,restaurant,Le Saigon,50.6119788,3.0752087,node,8818589498
+Lille,restaurant,L'Estaminet du Pont,50.6120478,3.0744727,node,8818589500
+Lille,restaurant,Angle 95,50.6452806,3.0564899,node,8839018589
+Lille,restaurant,Voyages Gourmands,50.6352669,3.070082,node,8871443317
+Lille,restaurant,Bao Canteen Lille,50.6369434,3.0655986,node,8871538617
+Lille,restaurant,El Manar,50.6363422,3.0687706,node,8871570418
+Lille,restaurant,Saïgon 3 Saisons,50.6098722,3.065258,node,8893365133
+Lille,restaurant,Pizzéria Isola,50.606603,3.0767666,node,8897991342
+Lille,restaurant,La Salle à Manger,50.6579561,3.1032548,node,8933041588
+Lille,restaurant,Au Carmen,50.652809,3.1188978,node,8933071476
+Lille,restaurant,Le Festival Pizza,50.6553585,3.0735508,node,8936165639
+Lille,restaurant,Mood,50.6244053,3.0439223,node,8953238826
+Lille,restaurant,Gabbro Cuisine & Vins,50.6443356,3.0578357,node,8960893896
+Lille,restaurant,Autour de vous,50.6401381,3.0581733,node,8973547971
+Lille,restaurant,Le Petrouchka - Chti Resto,50.6409967,3.0570408,node,8984024517
+Lille,restaurant,Le Chamarel,50.6396568,3.0677555,node,8987567601
+Lille,restaurant,Le Bettigny,50.6427074,3.0635727,node,8989274101
+Lille,restaurant,Phetchabun,50.6380854,3.0668184,node,8994135754
+Lille,restaurant,Barrière Lille,50.6367635,3.0772599,node,9001441423
+Lille,restaurant,La clé de sol,50.6345087,3.0727557,node,9004135286
+Lille,restaurant,Sister's,50.6333912,3.0552185,node,9006193030
+Lille,restaurant,La Table d'Édouard,50.634977,3.0563522,node,9023003637
+Lille,restaurant,Pep's,50.6147501,3.0136151,node,9026105317
+Lille,restaurant,Le Renard et la Belette,50.6145764,3.0136818,node,9026147893
+Lille,restaurant,Baggio Pizza,50.6179502,3.0669796,node,9026871901
+Lille,restaurant,L'Espadopn,50.619995,3.0512245,node,9028296735
+Lille,restaurant,Le Rendez-vous du Marché,50.6355632,2.9714276,node,9029129933
+Lille,restaurant,Les Francs Burgers,50.6392446,3.0702933,node,9043833897
+Lille,restaurant,Le Palestro,50.6380475,3.0698112,node,9043833912
+Lille,restaurant,Nū Lille,50.6382816,3.072245,node,9043833913
+Lille,restaurant,Bi Bim Bap,50.6371099,3.0683834,node,9043836655
+Lille,restaurant,Le Tizi-ouzien. Club 104,50.6226082,3.0444443,node,9045129698
+Lille,restaurant,Le Beau café,50.6302935,3.0626554,node,9045494580
+Lille,restaurant,Mambo Miam Miam,50.6337264,3.0614303,node,9046147391
+Lille,restaurant,Neri,50.6537324,3.0690663,node,9049170779
+Lille,restaurant,Le Braque,50.6410405,3.0626959,node,9050061551
+Lille,restaurant,Félicie,50.615203,3.016412,node,9060022151
+Lille,restaurant,Le Narjis,50.6178444,3.0661639,node,9061585702
+Lille,restaurant,La Ferme blanche,50.6546516,3.0043803,node,9064683670
+Lille,restaurant,Mozza Pizza,50.6458573,3.1038551,node,9085026817
+Lille,restaurant,Le Big Ben,50.6178433,3.0237682,node,9118090709
+Lille,restaurant,Chalet,50.6201228,3.0228353,node,9122769070
+Lille,restaurant,Salsa Posada,50.6432018,3.0593888,node,9136359798
+Lille,restaurant,Les Tontons Afro,50.6412964,3.0625033,node,9136359801
+Lille,restaurant,Les Saveurs d'Asie - Lomme,50.6382901,3.0224243,node,9138046672
+Lille,restaurant,Beef,50.6370949,3.0616578,node,9144685907
+Lille,restaurant,Lille Opéra Brasserie,50.6386691,3.0625024,node,9144685908
+Lille,restaurant,Mardasteph Food,50.6257563,3.0516925,node,9155912005
+Lille,restaurant,Café - Brasserie Le Delory,50.6335077,3.0693516,node,9159416248
+Lille,restaurant,49R,50.6403932,3.0573017,node,9160545170
+Lille,restaurant,Ma reine,50.6395882,3.0674771,node,9160569880
+Lille,restaurant,Choroni,50.6468758,3.057963,node,9163304908
+Lille,restaurant,La Dinette,50.6458086,3.0561018,node,9163304910
+Lille,restaurant,Le Phoenix,50.6356926,3.1229556,node,9171354627
+Lille,restaurant,The Black Lab,50.6524343,3.1220106,node,9179662639
+Lille,restaurant,Marta,50.634267,3.0226271,node,9208100582
+Lille,restaurant,Kairos,50.6255068,3.1135279,node,9214321577
+Lille,restaurant,Chez Tizote,50.637631,3.0237147,node,9229747015
+Lille,restaurant,Come Prima,50.6294814,3.0654707,node,9234035314
+Lille,restaurant,Chez Brigitte,50.6383654,3.058463,node,9249238122
+Lille,restaurant,Davonn,50.6386493,3.0604533,node,9249238129
+Lille,restaurant,IT - Italian Trattoria,50.6369014,3.0693246,node,9270326617
+Lille,restaurant,Paradise Sushi,50.6346404,3.0572694,node,9294632453
+Lille,restaurant,L'endroit,50.6351062,3.0572271,node,9294632454
+Lille,restaurant,Sans Chichi,50.6387178,3.0654263,node,9319545921
+Lille,restaurant,Basilic & Co,50.6358906,3.0595391,node,9319545923
+Lille,restaurant,Bella Italia,50.6345333,3.062622,node,9332852614
+Lille,restaurant,La Fossetta,50.6346159,3.0629812,node,9332852615
+Lille,restaurant,La Patate qui Fume,50.6292322,3.036319,node,9336960218
+Lille,restaurant,Babe,50.6343841,3.0611535,node,9377178017
+Lille,restaurant,Au 30 meal,50.6329688,3.0748716,node,9405062817
+Lille,restaurant,L'Enjoy,50.6331429,3.0682003,node,9415569465
+Lille,restaurant,Aux Indes,50.6376047,3.0585568,node,9472516392
+Lille,restaurant,Tigermilk,50.6404783,3.0646241,node,9472599614
+Lille,restaurant,Shahi Palais,50.6337949,3.0640721,node,9495073818
+Lille,restaurant,Le Berliner,50.6395685,3.0583666,node,9548356275
+Lille,restaurant,Millésime,50.6445103,3.0575704,node,9616194038
+Lille,restaurant,54 THAI,50.6444273,3.0579995,node,9616194039
+Lille,restaurant,Le Gourmet d'Asie,50.6150003,3.0166555,node,9646105458
+Lille,restaurant,Smoki,50.6295609,3.0213757,node,9675632251
+Lille,restaurant,La Houblonnière,50.6373265,3.0636556,node,9708892963
+Lille,restaurant,Sushi Leba,50.6147377,3.0135655,node,9761040517
+Lille,restaurant,Lucky Panda,50.6395896,3.0577896,node,9813270676
+Lille,restaurant,Jaipur,50.6327148,3.0682376,node,9914682166
+Lille,restaurant,The Kays Cellar,50.6303184,3.0547903,node,9945316208
+Lille,restaurant,Lebon-bon,50.6276296,3.0621879,node,9964058003
+Lille,restaurant,Le bon bistrot,50.6282895,3.0615606,node,9964058004
+Lille,restaurant,Le Petit Prince,50.6399507,3.0580907,node,9979496885
+Lille,restaurant,Le Passage Rihour,50.6361865,3.0630318,node,9983956177
+Lille,restaurant,Le Barbier qui fume Rihour,50.6361474,3.0629594,node,9983956178
+Lille,restaurant,L'arc en ciel,50.6476647,3.1150757,node,10018038943
+Lille,restaurant,Rodizio Brazil,50.6342338,3.0659477,node,10028391266
+Lille,restaurant,Jour,50.6382231,3.0721739,node,10028391267
+Lille,restaurant,La Table Afghane,50.6200709,3.069134,node,10028391268
+Lille,restaurant,La Pampa,50.6467212,3.0574376,node,10036408028
+Lille,restaurant,Kyoto,50.6357853,3.0699373,node,10112876228
+Lille,restaurant,La Cloche,50.6373585,3.0642467,node,10130417959
+Lille,restaurant,Chez Guido,50.6421632,3.0661631,node,10135421380
+Lille,restaurant,Arancinis Lovers,50.6444315,3.0576859,node,10154338669
+Lille,restaurant,Poppie's Pizza,50.613667,3.0623702,node,10243448546
+Lille,restaurant,Archimède,50.6392697,3.052569,node,10251682753
+Lille,restaurant,Les Jardins de l'Hamadryade,50.6385256,3.1178447,node,10253543755
+Lille,restaurant,La Cantine Urbaine,50.634664,3.0540583,node,10261380151
+Lille,restaurant,RU Châtillon,50.6297113,3.0627623,node,10273012867
+Lille,restaurant,Salad&Co,50.6368635,3.0625027,node,10275122889
+Lille,restaurant,Clubtrotter,50.6406189,3.0541389,node,10291449542
+Lille,restaurant,Ghosn,50.6348153,3.0566598,node,10565017540
+Lille,restaurant,Paloma,50.6360647,3.0633366,node,10583773424
+Lille,restaurant,La Guinguette de la Marine,50.6368109,3.0467985,node,10600934027
+Lille,restaurant,Le 17.45 Lille,50.6451838,3.0566592,node,10601616266
+Lille,restaurant,Épicé,50.6451187,3.0570444,node,10601616269
+Lille,restaurant,Estaminet des Trolls et Petits Lutins,50.6260208,3.0662817,node,10604059574
+Lille,restaurant,Cosy Lunch,50.6339247,3.0509101,node,10620348700
+Lille,restaurant,El Riadh,50.637179,3.0680353,node,10697160447
+Lille,restaurant,Osaka,50.6370503,3.0688313,node,10697160450
+Lille,restaurant,Petit Jaja,50.6438459,3.0584773,node,10734692923
+Lille,restaurant,Pulpe,50.6431669,3.0594512,node,10765931355
+Lille,restaurant,Café de Paris – Chez Boubiers 1930,50.638283,3.0650336,node,10778318652
+Lille,restaurant,Wagon,50.6359608,3.0696493,node,10797382773
+Lille,restaurant,Mama Africa,50.6201032,3.0639045,node,10814169751
+Lille,restaurant,Ô Welsh,50.6137994,3.0623145,node,10837173155
+Lille,restaurant,Juno,50.6454773,3.0562412,node,10917865141
+Lille,restaurant,Bistrot Régent,50.6381536,3.0720363,node,10917865143
+Lille,restaurant,La Halle Gourmande,50.6276801,3.092402,node,10943723402
+Lille,restaurant,Au 1er Mai,50.6298433,3.0211552,node,11002119405
+Lille,restaurant,My Resto Pizza,50.6257336,3.0561748,node,11015676080
+Lille,restaurant,L'Assiette du Boucher,50.6192113,3.050938,node,11085316239
+Lille,restaurant,Le Culot,50.6348402,3.0609312,node,11158709459
+Lille,restaurant,Yop City,50.632334,3.0650887,node,11158709460
+Lille,restaurant,Aromat,50.6021619,3.0388717,node,11193152209
+Lille,restaurant,Indian Garden,50.6236727,3.0426881,node,11217722575
+Lille,restaurant,Brasserie Dufour,50.6429961,3.0676445,node,11217722576
+Lille,restaurant,Nems by Eli,50.6332424,3.0420457,node,11233583273
+Lille,restaurant,Costaud,50.6326631,3.0635599,node,11266440840
+Lille,restaurant,La Buissonière,50.6352704,3.0133051,node,11365976326
+Lille,restaurant,Touloulou,50.6433807,3.0591511,node,11383427952
+Lille,restaurant,Morel & Fils - Au Moulin d'Or,50.6376779,3.0639409,node,11383427954
+Lille,restaurant,Chez Duda,50.6561968,3.0901447,node,11411791928
+Lille,restaurant,Ice'Crêp,50.6268928,3.1089759,node,11681002264
+Lille,restaurant,Cappuccino,50.6278646,3.1074515,node,11681030857
+Lille,restaurant,L'aubergeoise,50.624132,3.0809314,node,11787104951
+Lille,restaurant,Koko & Riko,50.6139728,3.0614854,node,11851461084
+Lille,restaurant,Nachos,50.6158854,3.1253691,node,11866489740
+Lille,restaurant,Jumbo,50.6229567,3.0643228,node,11945211973
+Lille,restaurant,Brother & Sister,50.6421754,3.0608848,node,11960966437
+Lille,restaurant,Mesa,50.6349832,3.0804174,node,11992003124
+Lille,restaurant,Squadra,50.6347642,3.0802143,node,11992003125
+Lille,restaurant,Den Artiest,50.6360734,3.0628222,node,12043505524
+Lille,restaurant,Brasserie de la Paix,50.6357545,3.0634149,node,12043505525
+Lille,restaurant,Laurette,50.629204,3.0750284,node,12069524015
+Lille,restaurant,Coup de main,50.6460924,3.0557108,node,12093501395
+Lille,restaurant,Brasserie André,50.6332742,3.0629731,node,12182090613
+Lille,restaurant,Le Bangkok,50.6374633,3.0603055,node,12183955569
+Lille,restaurant,Salad&Co,50.6185649,3.0838109,node,12194426522
+Lille,restaurant,Leggerezza,50.6511644,3.0340063,node,12228430501
+Lille,restaurant,Sikaru,50.6265824,3.0681922,node,12312480004
+Lille,restaurant,Heureux Hasard,50.6246736,3.0981029,node,12463050465
+Lille,restaurant,La Promenade,50.6345546,3.0226624,node,12497848952
+Lille,restaurant,Popcup,50.6563771,3.0787499,node,12565617712
+Lille,restaurant,Côté Campagne,50.6556681,3.0780581,node,12565617715
+Lille,restaurant,La Place,50.6539461,3.0682512,node,12573647389
+Lille,restaurant,La Luna,50.6603142,3.0729812,node,12573930959
+Lille,restaurant,L'Essentiel,50.6539813,3.0478677,node,12574024090
+Lille,restaurant,L'amitié,50.6496332,3.0904772,node,12580129587
+Lille,restaurant,Afri Call Food,50.6326409,3.0913095,node,12595452770
+Lille,restaurant,Dolce Pizz',50.6097956,3.0751671,node,12600721860
+Lille,restaurant,Tripletta,50.6426268,3.066463,node,12876525901
+Lille,restaurant,Délice d'Alger,50.6325358,3.0915582,node,12895056516
+Lille,restaurant,Sans nom,50.6076192,2.9856849,node,12997565960
+Lille,restaurant,La part du lion,50.6370933,3.0517192,node,13005449446
+Lille,restaurant,La Piazzeta,50.6389968,3.0585396,node,13020599301
+Lille,restaurant,Duda's,50.6313548,3.0591029,node,13052531975
+Lille,restaurant,Ramen Oden,50.6331055,3.0681989,node,13094993950
+Lille,restaurant,Le Switch,50.6341436,3.0199407,way,39288816
+Lille,restaurant,Les Toquées,50.6381217,3.0348069,way,39437193
+Lille,restaurant,Le Bouddhabar'bu,50.6343389,3.0405427,way,40267927
+Lille,restaurant,Gusto Mio,50.6314679,3.0644294,way,40875591
+Lille,restaurant,Akira,50.6324316,3.0636431,way,40875629
+Lille,restaurant,Les chaussons de mamie,50.6301054,3.0742693,way,41184578
+Lille,restaurant,Allo Couscous,50.6253186,3.0418392,way,41290682
+Lille,restaurant,Restaurant universitaire Vauban - All Resto,50.6330773,3.0480021,way,41504432
+Lille,restaurant,Les saveurs de l'Inde,50.6289079,3.0596151,way,42054338
+Lille,restaurant,Los 3 compadres,50.6259041,3.0611229,way,42325110
+Lille,restaurant,Le Napoli,50.6243585,3.0610495,way,42326605
+Lille,restaurant,Le Saray,50.6361325,3.0584064,way,42425280
+Lille,restaurant,Le Fossile,50.6364174,3.0598357,way,42435247
+Lille,restaurant,Le Flam's,50.6371759,3.0616397,way,42507255
+Lille,restaurant,Omnia,50.6372067,3.0620766,way,42507271
+Lille,restaurant,Au goût du jour,50.6388816,3.0576022,way,42509988
+Lille,restaurant,Il Piccolino,50.6406007,3.0552528,way,42510122
+Lille,restaurant,Le Paon d'Or,50.6329393,3.0623293,way,42533732
+Lille,restaurant,Taberna Latina,50.6308562,3.0599897,way,42775986
+Lille,restaurant,Krama,50.6227769,3.0643567,way,43132443
+Lille,restaurant,La Chicorée,50.6359382,3.0632728,way,45826543
+Lille,restaurant,Chez Armand,50.6346741,3.0634249,way,45827055
+Lille,restaurant,Aromebase,50.6350218,3.0633269,way,45827936
+Lille,restaurant,Piccolo Mondo,50.6344981,3.0631874,way,45898609
+Lille,restaurant,Raptor Shack,50.6335891,3.0642057,way,45898795
+Lille,restaurant,Coq Hardi,50.6374127,3.0636359,way,45911888
+Lille,restaurant,Le Tropic 97,50.6394628,3.058915,way,48633928
+Lille,restaurant,La Criée,50.6508245,2.9820312,way,52027242
+Lille,restaurant,Italian Trattoria,50.6513326,2.9836963,way,52027263
+Lille,restaurant,3 Brasseurs,50.6515958,2.985996,way,52032564
+Lille,restaurant,Campanile,50.653361,2.9837355,way,52060449
+Lille,restaurant,L'Orangerie,50.6538379,3.0730669,way,53746658
+Lille,restaurant,Breizh Bistrot,50.646708,3.0768173,way,57015923
+Lille,restaurant,il piccolo mulino,50.6465402,3.0766195,way,57017729
+Lille,restaurant,L'Adress,50.626918,3.0573237,way,59197359
+Lille,restaurant,Chez Bacchus,50.6243147,3.054684,way,59287295
+Lille,restaurant,Le Mekong,50.6244503,3.0501539,way,60050251
+Lille,restaurant,Al Ritrovo,50.611572,2.9856986,way,63555828
+Lille,restaurant,Pizza Delizio,50.6224838,3.0719492,way,65487128
+Lille,restaurant,Le Lyautey,50.6227504,3.0665637,way,71580748
+Lille,restaurant,Ristorante Del Arte - Villeneuve d'Ascq Heron Park,50.6157901,3.1237239,way,79712009
+Lille,restaurant,Buffalo Grill,50.6132156,3.1236521,way,79713337
+Lille,restaurant,Les Quatre Vents,50.6128024,3.1217431,way,79713525
+Lille,restaurant,3 Brasseurs,50.6134059,3.1231134,way,79713867
+Lille,restaurant,Pizza Zio,50.615535,3.0203206,way,81716892
+Lille,restaurant,Restaurant Universitaire - L'Épi,50.6039918,3.0300429,way,81720152
+Lille,restaurant,Restaurant Scolaire municipal des Oliveaux,50.6084916,3.0059055,way,81722179
+Lille,restaurant,Chicken Street,50.6199917,3.0517021,way,84396860
+Lille,restaurant,L'ambassadeur,50.6198065,3.0510087,way,84399115
+Lille,restaurant,Tsing Tao,50.6248109,3.0496304,way,84401505
+Lille,restaurant,Sindbad,50.6244344,3.0498116,way,84402200
+Lille,restaurant,Alhambra,50.6218896,3.0531716,way,84402214
+Lille,restaurant,Diwan,50.6207681,3.051419,way,84403902
+Lille,restaurant,L'Alcazar,50.6211719,3.0520403,way,84404038
+Lille,restaurant,Bacio Divino,50.6455773,3.0558363,way,84447863
+Lille,restaurant,Le Scoop du Vieux Lille,50.6447145,3.0576824,way,84449472
+Lille,restaurant,Quai 38,50.6467118,3.0578036,way,84449573
+Lille,restaurant,La Piadina,50.6451493,3.0859425,way,84927474
+Lille,restaurant,La dioza,50.6371603,3.0848866,way,84928852
+Lille,restaurant,Restaurant le Faubourg,50.6405205,3.0817226,way,84930349
+Lille,restaurant,Caliente,50.6402533,3.0810362,way,84938728
+Lille,restaurant,Almeyo,50.6324147,3.0883673,way,85087028
+Lille,restaurant,Réfectoire,50.635143,3.1164843,way,85087135
+Lille,restaurant,El kantaoui,50.6285537,3.1055116,way,85087646
+Lille,restaurant,Don Pino Pizza,50.6261446,3.1122274,way,85090111
+Lille,restaurant,Le Cassini,50.6246052,3.0937218,way,85100221
+Lille,restaurant,A Legna,50.6332052,3.0907256,way,85102275
+Lille,restaurant,3 Brasseurs,50.628657,2.9679785,way,95274367
+Lille,restaurant,Au 49,50.6396964,3.0148738,way,108183039
+Lille,restaurant,Buffalo Grill,50.6510608,2.9850231,way,108183301
+Lille,restaurant,Old Wild West,50.651416,2.985545,way,108186893
+Lille,restaurant,Delices Wok,50.6441785,3.0095565,way,108187155
+Lille,restaurant,Hippopotamus,50.651257,2.9830735,way,108192107
+Lille,restaurant,Restaurant Campanile Lille Sud - CHR,50.6155437,3.0372711,way,108761626
+Lille,restaurant,Saïgon 2,50.6138714,3.062152,way,108761957
+Lille,restaurant,La Maniguette,50.657632,3.073574,way,108793007
+Lille,restaurant,Le QG,50.608944,3.1077814,way,110764686
+Lille,restaurant,Le By S',50.6427486,3.0752162,way,114787308
+Lille,restaurant,Aux Indes Royal,50.6448335,2.9737045,way,123389902
+Lille,restaurant,Au Bureau,50.6366485,2.9690415,way,124373192
+Lille,restaurant,Pizza Zio,50.6591925,3.052015,way,125783883
+Lille,restaurant,Au feu de bois,50.6600003,3.01205,way,125884720
+Lille,restaurant,Sans nom,50.6128143,3.0825042,way,153318729
+Lille,restaurant,RU Lille-Moulins,50.619155,3.0673366,way,272180798
+Lille,restaurant,Salad&Co,50.6537449,2.9852424,way,287945929
+Lille,restaurant,Trattoria Norte,50.6536507,2.9844856,way,287945930
+Lille,restaurant,Friterie Yolo,50.6146076,3.1152974,way,290485063
+Lille,restaurant,Guérino,50.6463567,3.0764611,way,305105836
+Lille,restaurant,FBI,50.6374797,3.0248727,way,312891851
+Lille,restaurant,Sans nom,50.6313107,3.1140112,way,528215191
+Lille,restaurant,Restaurant Scolaire,50.6100606,3.0151774,way,997370449
+Lille,restaurant,Rest'eau,50.6523517,3.1187151,way,1013193724
+Lille,restaurant,Flunch,50.6304676,2.9683974,way,1050981862
+Lille,restaurant,Chopsticks & Co,50.636677,3.0712599,way,1166326559
+Lille,restaurant,Sans nom,50.6388692,3.0759915,way,1167157296
+Lille,restaurant,Il Ristorante,50.6290109,2.9698957,way,1287318394
+Lille,restaurant,La Côte et l'Arête,50.6291832,2.9709296,way,1353692036
+Lille,restaurant,L'express,50.6356824,3.0699894,relation,1380266
+Lille,station,République - Beaux-Arts,50.6316436,3.0608205,node,302942316
+Lille,station,Rihour,50.6356739,3.0629969,node,302942324
+Lille,station,Saint-André,50.6544808,3.047538,node,314066672
+Lille,station,Porte des Postes,50.6184213,3.050264,node,389432270
+Lille,station,Square Flandres,50.6251809,3.1160694,node,392217616
+Lille,station,Mairie d'Hellemmes,50.6270877,3.1090277,node,392217617
+Lille,station,Marbrerie,50.6301511,3.0978885,node,392217618
+Lille,station,Madeleine Caulier,50.6367139,3.0868209,node,405255871
+Lille,station,Mairie de Lille,50.6328076,3.0706587,node,406517672
+Lille,station,Fort de Mons,50.6420581,3.1194332,node,428622060
+Lille,station,Port de Lille,50.6299552,3.0357267,node,439792372
+Lille,station,Gambetta,50.6269373,3.0527224,node,469323707
+Lille,station,Lomme – Lambersart – Arthur-Notebart,50.6406747,3.0187184,node,476644664
+Lille,station,Pont Supérieur,50.6443814,3.0138888,node,476644665
+Lille,station,Mitterie,50.6467613,3.0073866,node,476644666
+Lille,station,Lille Grand Palais,50.6296509,3.0749235,node,497394889
+Lille,station,La Madeleine,50.6607743,3.0726744,node,932744268
+Lille,station,Loos-lez-Lille,50.6127855,3.0169146,node,1222251915
+Lille,station,Cormontaigne,50.6262355,3.0402998,node,1635759514
+Lille,station,Bois Blancs,50.6345058,3.0304363,node,2061592504
+Lille,station,Canteleu – Euratechnologies,50.6371343,3.0246674,node,2061592702
+Lille,station,Mairie de Mons,50.6420965,3.1100713,node,2061592803
+Lille,station,Saint-Maurice Pellevoisin,50.6423001,3.0887019,node,2061592819
+Lille,station,Bourg,50.645574,2.9851942,node,2061592855
+Lille,station,Maison des Enfants,50.6463068,2.9952327,node,2061592877
+Lille,station,Wazemmes,50.6234558,3.0515983,node,2062882287
+Lille,station,Fives,50.633041,3.0905047,node,2062882464
+Lille,station,Gare Lille Europe,50.6393534,3.0762447,node,2208333145
+Lille,station,Hellemmes,50.6227466,3.1153365,node,3483925793
+Lille,station,Gare Lille Flandres,50.637416,3.0710579,node,5268053621
+Lille,station,Montebello,50.6220459,3.0454338,node,6132956431
+Lille,station,Mons Sarts,50.642081,3.0992754,node,6638170780
+Lille,station,Saint-Philibert,50.6521071,2.9742848,node,6659546245
+Lille,station,Haubourdin,50.6069674,2.9900408,node,8346106956
+Lille,station,Lille-Europe,50.638983,3.075714,node,8745537418
+Lille,station,Lille-Flandres,50.6363801,3.0705299,node,8745537419
+Lille,station,Ronchin,50.6045702,3.0783856,node,11091002876
+Lille,station,Lille Centre Hospitalier Régional,50.6145546,3.0342795,node,11559801317
+Lille,station,Porte de Valenciennes,50.6210614,3.0788805,node,12174630424
+Lille,station,Porte de Douai – Jardin des Plantes,50.6180617,3.0720998,way,35205656
+Lille,station,CHU – Centre Oscar Lambret,50.6130864,3.0364459,way,39841726
+Lille,station,CHU – Eurasanté,50.6080518,3.0389706,way,39841728
+Lille,station,Porte d'Arras,50.6176064,3.0623143,way,65203864
+Lille,historic,Mémorial de la Résistance et de la Déportation,50.6308009,3.0741851,node,799264731
+Lille,historic,Beffroi de la Bourse,50.6376829,3.0645146,node,802008610
+Lille,historic,Statue de Léon Trulin,50.6375013,3.0657009,node,802008612
+Lille,historic,Calvaire du Bon Dieu Noir,50.603073,3.0216455,node,860571200
+Lille,historic,Beffroi de Loos,50.6150414,3.0148545,node,981368273
+Lille,historic,Sans nom,50.6355643,3.0621555,node,1043788567
+Lille,historic,Mémorial aux victimes des 18 ponts,50.6225907,3.0723724,node,1098020918
+Lille,historic,Le 48e Mobile,50.6451173,3.0504421,node,1103218239
+Lille,historic,Centre de Mémoire : l'Usine de Fives aux Martyrs de 1939-1945,50.6262895,3.0909008,node,1377616863
+Lille,historic,Au Peuple Polonais,50.624094,3.0679707,node,1624363350
+Lille,historic,Monument au Maréchal Foch,50.6359269,3.0566177,node,1781018101
+Lille,historic,Statue de la Demoiselle de Fives,50.6329596,3.0901315,node,1788669983
+Lille,historic,Centre Charles de Gaulle,50.6472044,3.0185344,node,1891908942
+Lille,historic,Caserne Souham,50.6380874,3.0715486,node,2063752424
+Lille,historic,"Chapelle de la famille Gonnet, située au cimetière de l'Est",50.6434294,3.0810552,node,2063752434
+Lille,historic,Hôtel Cardon de Montreuil,50.6424098,3.0577162,node,2063752542
+Lille,historic,Hôtel particulier (hôtel de Tenremonde),50.6417318,3.058951,node,2063752614
+Lille,historic,Vestiges de l'ancienne collégiale Saint-Pierre,50.6421482,3.0626011,node,2063754349
+Lille,historic,Monument aux Morts d'Haubourdin,50.6111658,2.9876602,node,2369446454
+Lille,historic,Buste de Pasteur,50.6287848,3.0744933,node,2374013136
+Lille,historic,Monument aux Morts d'Hellemmes,50.6250021,3.1169003,node,2701286466
+Lille,historic,Monument aux morts de Lomme,50.6422771,3.0143644,node,4320870526
+Lille,historic,Porte de Dunkerque,50.6365038,3.0410806,node,4382773127
+Lille,historic,Moulin de la Citadelle,50.6399725,3.0456661,node,4386348395
+Lille,historic,parvis des justes,50.6350204,3.0645698,node,4501607219
+Lille,historic,Sans nom,50.6461197,3.0241405,node,5030293613
+Lille,historic,Sans nom,50.6302093,3.0563126,node,5101058482
+Lille,historic,Colonne Boufflers,50.6398234,3.0483473,node,5109337830
+Lille,historic,Sans nom,50.6301873,3.113006,node,5109662500
+Lille,historic,Sans nom,50.6308792,3.1127519,node,5109662501
+Lille,historic,Sans nom,50.6278335,3.1202682,node,5225035222
+Lille,historic,Monument de la famille Legrand,50.6324308,3.0855094,node,5525097719
+Lille,historic,Monument à Auguste Angellier,50.6279556,3.0649497,node,5525099873
+Lille,historic,Caponnière double,50.6457718,3.120203,node,5609848958
+Lille,historic,Caponnière simple,50.6443449,3.1213942,node,5609849000
+Lille,historic,54,50.6437451,3.1215233,node,5610157098
+Lille,historic,Monument aux Morts de Mons-en-Barœul,50.6447568,3.1006497,node,6050609227
+Lille,historic,Monument à Louise de Bettignies et aux femmes héroïques des pays envahis,50.6415924,3.0707997,node,6111603539
+Lille,historic,Édouard Lalo,50.6371914,3.0510829,node,6332919530
+Lille,historic,Statue de Jeanne Maillotte,50.6424564,3.0634148,node,6332919531
+Lille,historic,Mémorial De Gaulle,50.6373091,3.0513126,node,6333110203
+Lille,historic,Jesus,50.6201706,3.0221683,node,6367272820
+Lille,historic,Calvaire du Dieu de Marcq,50.6478157,3.0857418,node,6535796653
+Lille,historic,Monument régimentaire de l'ONU,50.6440863,3.0266212,node,6594865109
+Lille,historic,Monument Henri Jooris,50.6448258,3.0459063,node,6730329842
+Lille,historic,Monument Leon Trulin,50.6421634,3.040831,node,6730522607
+Lille,historic,Sans nom,50.624043,3.0806292,node,7606059706
+Lille,historic,Rue des Stations Notre-Dame,50.6315818,3.0538195,node,7630364214
+Lille,historic,Fort Saint-Sauveur,50.6295692,3.0714804,node,7792912330
+Lille,historic,Porte de Paris,50.6296519,3.0687993,node,7792930809
+Lille,historic,Vestiges de l'ancien tramway de Lille,50.6395439,3.071367,node,7792941715
+Lille,historic,Porte de Roubaix,50.6393524,3.0707895,node,7795367269
+Lille,historic,Fort de Mons,50.6448457,3.1201574,node,7816010937
+Lille,historic,Sans nom,50.6313333,3.0707642,node,7820820955
+Lille,historic,Sans nom,50.6369013,3.0634376,node,7821159751
+Lille,historic,À Jean Jaurès,50.6400581,3.0152892,node,8015860790
+Lille,historic,Jardin du souvenir,50.6444293,3.078908,node,8068496813
+Lille,historic,Sans nom,50.6273944,3.1090182,node,8331980260
+Lille,historic,Sans nom,50.6301058,3.0467516,node,8938113586
+Lille,historic,Stèle UNC - AFN,50.6017604,3.0698488,node,8940738815
+Lille,historic,Porte Royale,50.6406311,3.046316,node,9081981425
+Lille,historic,Monument aux morts,50.6601272,3.1069666,node,9292959190
+Lille,historic,Faël,50.6225816,3.0911896,node,9620820449
+Lille,historic,Sans nom,50.65581,3.0667529,node,9904749237
+Lille,historic,Porte de Paris,50.6296582,3.0688015,node,9954461717
+Lille,historic,Sans nom,50.6350641,3.0276255,node,9981197912
+Lille,historic,Marion,50.6219311,3.0883427,node,10743006220
+Lille,historic,Sans nom,50.6227957,2.9870622,node,11080638580
+Lille,historic,Sans nom,50.643999,3.0252777,node,11348839452
+Lille,historic,Plaque commémorative Désiré et André Leroy,50.6470012,3.058309,node,11349082294
+Lille,historic,David,50.6167521,3.0340459,node,11726978716
+Lille,historic,Sans nom,50.6072709,2.9898286,node,11822240772
+Lille,historic,Sans nom,50.6539836,3.1254931,node,12086198943
+Lille,historic,Sans nom,50.6343587,3.097547,node,12097879728
+Lille,historic,Sans nom,50.6396873,3.0691525,node,12339587234
+Lille,historic,"Monument aux Morts 1939-1945, Indochine, Algérie",50.6086716,3.021073,node,12388265876
+Lille,historic,Sans nom,50.6443928,2.9742269,node,12396636130
+Lille,historic,Philoméne VAN EYDE,50.6398728,3.0716359,node,12441290675
+Lille,historic,Plaque commémorative Maurice ORMERAY,50.6153046,3.0181337,node,12489407303
+Lille,historic,Sans nom,50.656968,3.0896057,node,12536481820
+Lille,historic,Sans nom,50.6599706,2.9764037,node,12546488207
+Lille,historic,Sans nom,50.6593646,3.0519111,node,12573804963
+Lille,historic,Sans nom,50.6582087,3.0518326,node,12573815322
+Lille,historic,Sans nom,50.6552108,3.0678334,node,12785498011
+Lille,historic,Sans nom,50.6565572,3.0645134,node,12785510591
+Lille,historic,Appel du 18 Juin,50.6113019,2.9876512,node,12896632451
+Lille,historic,Sans nom,50.6464137,3.0084622,node,12927586841
+Lille,historic,Mémorial du train de Loos,50.6043836,3.0233618,node,13017924859
+Lille,historic,Bruce Dowding,50.6593846,3.0736759,node,13043805590
+Lille,historic,François Duprez,50.6593854,3.073675,node,13043805591
+Lille,historic,Lipa Lambig,50.632106,3.0573089,node,13046364017
+Lille,historic,Maurice Swierc,50.6338387,3.0680277,node,13046364018
+Lille,historic,Bernard Teichler,50.637168,3.0682403,node,13046364019
+Lille,historic,Micheline Teichler,50.6371682,3.0682389,node,13046364020
+Lille,historic,Max Kopelowicz,50.6338343,3.0854382,node,13096418383
+Lille,historic,Rayzla Blank née Fuks,50.6335589,3.0721995,node,13096418384
+Lille,historic,Leib Rozenpik,50.6331605,3.056713,node,13096465293
+Lille,historic,Riwka Rozenpik née Szermann,50.6331613,3.0567116,node,13096465294
+Lille,historic,Liliane Rozenpik,50.633162,3.0567102,node,13096465295
+Lille,historic,Chaja Radoszycki née Knobel,50.6284061,3.0539165,node,13096465296
+Lille,historic,Jonas Radoszycki,50.6284071,3.0539157,node,13096465297
+Lille,historic,Esther Tobias née Israël,50.6297303,3.0555425,node,13096465298
+Lille,historic,Sisia Tobias,50.6297309,3.0555439,node,13096465299
+Lille,historic,Fanny Banach née Tobias,50.6297314,3.0555453,node,13096465300
+Lille,historic,Élie Rabinovitch,50.6305835,3.0572606,node,13096471701
+Lille,historic,Beila Komar née Galicka,50.6291794,3.0633834,node,13096471702
+Lille,historic,Abraham Grudki,50.6414414,3.0620179,node,13096471703
+Lille,historic,Léon Karmiol,50.6335328,3.0640957,node,13096471704
+Lille,historic,Blanche Karmiol née Rabinovitch,50.6335337,3.0640967,node,13096471705
+Lille,historic,Georges Kurcbard,50.6350196,3.0719995,node,13096471706
+Lille,historic,Gisza Kurcbard née Arman,50.6350202,3.0719981,node,13096471707
+Lille,historic,Sans nom,50.6070984,3.0314837,node,13188650227
+Lille,historic,Château Fanyau,50.6281305,3.1084951,way,35134259
+Lille,historic,Palais Rihour,50.6355255,3.0619779,way,37545143
+Lille,historic,Beffroi de Lille,50.6306236,3.0698142,way,40848253
+Lille,historic,Hôtel de Marchiennes,50.632443,3.0687622,way,41018836
+Lille,historic,Monument en Hommage aux Morts de la Police,50.6298721,3.0747948,way,41235313
+Lille,historic,Palais Rameau,50.6342953,3.0499596,way,41503514
+Lille,historic,Théâtre du Nord,50.6362125,3.0640621,way,45822366
+Lille,historic,La Voix du Nord,50.6362925,3.0645991,way,45822378
+Lille,historic,Hôtel d'Avelin,50.6404591,3.0670377,way,46656716
+Lille,historic,Église Sainte-Marie-Madeleine,50.644792,3.0631933,way,50363681
+Lille,historic,Statue de Faidherbe,50.6319721,3.0618488,way,56199984
+Lille,historic,La Noble Tour,50.6308796,3.0741926,way,65484244
+Lille,historic,Oratoire Saint-Maur,50.6531164,3.082317,way,74642026
+Lille,historic,Usine élévatoire de Saint-André,50.6484326,3.0605423,way,84449219
+Lille,historic,Magasins généraux,50.6457368,3.0531314,way,84450495
+Lille,historic,Notre-Dame de la Bonne Mort,50.6250038,3.1168961,way,85095148
+Lille,historic,Demi-lune de Gand,50.6448556,3.0682265,way,96389220
+Lille,historic,Réduit de demi-lune de la porte de Gand,50.6442892,3.0686585,way,96389231
+Lille,historic,Observatoire de l'Institut de mathématiques appliquées et d'astronomie,50.615145,3.0714762,way,108763035
+Lille,historic,Colonne de la Déesse,50.6369021,3.0634391,way,120444625
+Lille,historic,Colonne de la Déesse,50.6369029,3.0634384,way,120444627
+Lille,historic,Pavillon Louis XVI,50.658273,3.050419,way,125776963
+Lille,historic,Sans nom,50.658714,3.051219,way,125781106
+Lille,historic,Maison d'habitation Art-Déco,50.651643,3.034916,way,125877738
+Lille,historic,Cité Philanthropique,50.6235412,3.0584754,way,126502374
+Lille,historic,Crypte aux morts de la guerre 1914-1918,50.607872,3.0209958,way,280831019
+Lille,historic,Crypte Première Guerre mondiale,50.6078699,3.0209958,way,280834801
+Lille,historic,Moulin Saint-Pierre,50.6408865,3.063586,way,445603945
+Lille,historic,Monuments aux Morts du XIXe Siècle,50.6268293,3.1148825,way,495078210
+Lille,historic,La Rolande,50.6380228,3.0364845,way,525155267
+Lille,historic,Au pigeon voyageur,50.6383275,3.0504008,way,538586050
+Lille,historic,Sans nom,50.6146057,3.1166962,way,552899839
+Lille,historic,La Locomotive,50.6235541,3.108004,way,556534312
+Lille,historic,Le Marteau-Pilon,50.6250644,3.1015203,way,587275539
+Lille,historic,Fort de Mons,50.6446239,3.1198235,way,587286030
+Lille,historic,Sans nom,50.6233356,3.1084138,way,643100730
+Lille,historic,Lille à ses Fusillés,50.6377385,3.0516778,way,671209212
+Lille,historic,Monument à Delory et Salengro,50.6299518,3.0701327,way,676234551
+Lille,historic,Rangée Beauregard,50.6373829,3.064264,way,832982184
+Lille,historic,Corne de Gand,50.6461502,3.0695804,way,833029359
+Lille,historic,Corne de la Caserne Saint-Ruth,50.6491104,3.0550527,way,833044200
+Lille,historic,Réduit de demi-lune de la porte de Gand,50.6443317,3.0686585,way,833047872
+Lille,historic,Demi-lune de Gand,50.6447562,3.0680656,way,833047873
+Lille,historic,Demi-lune de Gand,50.6446234,3.0690095,way,833047874
+Lille,historic,Demi-lune de Gand,50.6447117,3.0683988,way,833047877
+Lille,historic,Demi-lune de Gand,50.6442043,3.0693176,way,833047878
+Lille,historic,Demi-lune de Gand,50.6446099,3.0681912,way,833047879
+Lille,historic,Demi-lune de Gand,50.6439985,3.06918,way,833047880
+Lille,historic,Corne de la Caserne Saint-Ruth,50.6497296,3.0543673,way,833096289
+Lille,historic,Corne de la Caserne Saint-Ruth,50.6494586,3.0536109,way,833096291
+Lille,historic,Corne de la Caserne Saint-Ruth,50.6491806,3.0526133,way,833097209
+Lille,historic,Corne de la Caserne Saint-Ruth,50.6492422,3.0519606,way,833097210
+Lille,historic,Sans nom,50.6296716,3.0688013,way,835132681
+Lille,historic,Sans nom,50.6296313,3.0688119,way,835132682
+Lille,historic,Sans nom,50.6158184,3.0782334,way,911024813
+Lille,historic,Sans nom,50.6460764,2.9807468,way,917064156
+Lille,historic,Citadelle de Lille,50.6412249,3.0444758,way,1096436747
+Lille,historic,Sans nom,50.6422773,3.0143775,way,1250801047
+Lille,historic,Hospice général,50.6463148,3.0622425,relation,408295
+Lille,historic,Chapelle des franciscaines,50.6414879,3.0600109,relation,416722
+Lille,historic,Vieille Bourse,50.6370464,3.06428,relation,1624692
+Lille,historic,Sans nom,50.6446482,3.1198305,relation,5396828
+Lille,historic,Porte de Roubaix,50.6393469,3.0707787,relation,6551811
+Lille,historic,Fort Saint-Sauveur,50.6294123,3.0715472,relation,7512966
+Lille,historic,Tenaille de Gand,50.6440794,3.0683475,relation,11372093
+Lille,historic,Bastion de la Madeleine,50.6446371,3.0672894,relation,11372097
+Lille,historic,Porte de Gand,50.6438349,3.0680143,relation,11372123
+Lille,historic,Courtine de Roubaix,50.6395174,3.0706864,relation,11372133
+Lille,historic,Porte de Paris,50.6296573,3.0688013,relation,11372135
+Lille,historic,Colonne de la Déesse,50.6369029,3.0634384,relation,11514592

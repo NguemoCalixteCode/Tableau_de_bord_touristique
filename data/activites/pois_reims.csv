@@ -1,0 +1,711 @@
+city,category,name,lat,lon,osm_type,osm_id
+Reims,museum,Musée Hôtel le Vergeur,49.2571018,4.0341284,node,7030744259
+Reims,museum,FRAC Champagne-Ardenne,49.246247,4.0397177,node,7856978404
+Reims,museum,Musée de l'aéronautique,49.2861192,4.0581372,way,86525151
+Reims,museum,Musée Automobile Reims Champagne,49.2501778,4.0500724,way,90739087
+Reims,museum,Palais du Tau,49.2532652,4.0343524,way,92296301
+Reims,museum,Musée du Fort de la Pompelle,49.2162527,4.1290784,way,171262951
+Reims,museum,Musée de l'aéronautique,49.2859532,4.0579658,way,403021095
+Reims,museum,Musée des Beaux-Arts,49.2529719,4.0304423,way,531616423
+Reims,museum,Musée Le Vergeur,49.2572242,4.0339318,way,629102313
+Reims,museum,Musée Saint-Remi,49.243381,4.041061,way,629193605
+Reims,museum,Chapelle Foujita,49.2641333,4.0382024,way,629231503
+Reims,museum,Musée de l'Automobile,49.2502074,4.0500724,way,629232715
+Reims,museum,Villa Demoiselle,49.2433113,4.0497384,way,658590691
+Reims,museum,Musée de la Reddition,49.2621965,4.0260679,relation,15585699
+Reims,park,Square Rue de Verzy,49.2381036,4.0335337,node,7352438149
+Reims,park,Sans nom,49.2324829,4.0680439,node,7947657561
+Reims,park,Sans nom,49.2321091,4.0676393,node,7947657578
+Reims,park,Hautes Promenades,49.2599473,4.0283355,way,27546158
+Reims,park,Basses Promenades,49.2565656,4.0237499,way,27546341
+Reims,park,Parc Saint-John Perse,49.2398143,4.006572,way,30883409
+Reims,park,Square rue George Sand,49.2409382,3.9999583,way,30883410
+Reims,park,Square André Gide,49.2196299,4.0309052,way,31293390
+Reims,park,Parc Pierre Mendès France,49.2216604,4.0253521,way,31293397
+Reims,park,Parc Léo Lagrange,49.2454647,4.0226906,way,31340676
+Reims,park,Square Charles Sarazin,49.2574131,4.0345316,way,31432297
+Reims,park,Square des Cordeliers,49.2548599,4.0381618,way,31432321
+Reims,park,Parc Saint-Remi,49.2439847,4.0411019,way,31526236
+Reims,park,Parc des Arènes du Sud,49.2404751,4.0409391,way,31526237
+Reims,park,Parc de la Butte Saint-Nicaise,49.243001,4.0472409,way,31678850
+Reims,park,Square Docteur Chevrier,49.2597933,4.0410628,way,31901468
+Reims,park,Parc Michel Sicre,49.268221,4.0763382,way,31910277
+Reims,park,Parc Michel Sicre,49.2696277,4.0755082,way,31910279
+Reims,park,Place Hélène Boucher,49.2775694,4.013193,way,32117194
+Reims,park,Square de la Cannetière,49.2872253,4.0037201,way,32119431
+Reims,park,Place Saint-Laurent,49.2352393,4.0502567,way,32642635
+Reims,park,Square des Victimes de la Gestapo,49.2539706,4.0262206,way,40710932
+Reims,park,Square des Jacobins,49.2517591,4.0317562,way,41455924
+Reims,park,Square René et Henri Druart,49.2523028,4.0312107,way,41455925
+Reims,park,Square Georges Jantzy,49.2469646,4.0448011,way,41662792
+Reims,park,Square Sylvain Consdorff,49.241341,4.0336635,way,41755987
+Reims,park,Square des Capucins,49.2507926,4.0313793,way,41989329
+Reims,park,Parc de Champagne,49.2383924,4.0548589,way,42718920
+Reims,park,Parc des Essillards,49.2330331,4.0655253,way,42755772
+Reims,park,Jardin Henri Deneux,49.2538641,4.0351064,way,84750313
+Reims,park,Sans nom,49.2236848,4.0512748,way,86581420
+Reims,park,Sans nom,49.2630481,4.0305617,way,90716204
+Reims,park,Parc des Buttes de la Muire,49.2356563,3.9974602,way,93798755
+Reims,park,Parc Marcel Lemaire,49.2830309,4.0045233,way,94215633
+Reims,park,Parc de l'Europe,49.2472556,4.0667585,way,94224713
+Reims,park,Parc du Pont de Vesle,49.2501824,4.0207364,way,94226516
+Reims,park,Parc de la Patte d'Oie,49.2537432,4.0207835,way,94230687
+Reims,park,Jardin d’horticulture Pierre Schneiter,49.2548293,4.0193361,way,94230730
+Reims,park,Parc de la Cure d'Air,49.2467618,4.0079772,way,94231689
+Reims,park,Parc des anciens des Trois Rivières,49.2331001,4.0451922,way,94237296
+Reims,park,Parc Jean Moulin,49.2529626,4.0609723,way,94639671
+Reims,park,Square Gustave Laurent,49.2540207,4.0525072,way,94656402
+Reims,park,Parc Trois Fontaines,49.2769592,4.0088301,way,94662941
+Reims,park,Parc des Landais,49.2285418,4.0110202,way,94665883
+Reims,park,Parc Saint-Bruno,49.2278099,4.0090931,way,94665885
+Reims,park,Square Léon Blum,49.2253346,4.0082435,way,94665888
+Reims,park,Parc François Arago,49.2293772,4.0056015,way,94666974
+Reims,park,Parc Maryse Bastié,49.2684693,4.0462479,way,94667216
+Reims,park,Parc de la Verrerie,49.2351387,4.0535998,way,94667281
+Reims,park,Parc rue Bazin,49.2305462,4.0327686,way,94667563
+Reims,park,Square Jacques Simon,49.2239024,4.0129443,way,94668327
+Reims,park,Parc Raoul Dufy,49.2251885,4.0132044,way,94668328
+Reims,park,Jardin du Musée des Beaux-Arts,49.2527488,4.0301658,way,94709564
+Reims,park,Espace de loisirs Orgeval,49.2841997,4.0225677,way,94709565
+Reims,park,Square Paul Vieille,49.2833598,4.0257666,way,94709569
+Reims,park,Square Laon-Belges,49.2751394,4.0173313,way,94716455
+Reims,park,Square Paul Machuel,49.2427137,4.0325838,way,94728375
+Reims,park,Square rue de Verzy,49.2380752,4.0336482,way,94759684
+Reims,park,Square rue de Canterbury,49.2340484,4.0347054,way,94767833
+Reims,park,Square Clément Marot,49.2218554,4.0325561,way,94836169
+Reims,park,Square Éric Tabarly,49.2265543,4.0351343,way,94837661
+Reims,park,Place Charles Lepagnol,49.2282913,4.0447622,way,94837897
+Reims,park,Square de la Porte de Paris,49.2493118,4.0157541,way,94945915
+Reims,park,Square du Chanoine Goderneaux,49.2616301,4.0518054,way,95037017
+Reims,park,Square Jean Machet,49.2625695,4.055259,way,95037020
+Reims,park,Place Dauphinot,49.263435,4.0568192,way,95037022
+Reims,park,Square rue de Cernay,49.2584649,4.0551451,way,95147870
+Reims,park,Square des Épinettes,49.2660491,4.069822,way,95148890
+Reims,park,Square Place Auguste Blanqui,49.2661502,4.0449639,way,95149498
+Reims,park,Square Georges Méliès,49.2139023,4.0295885,way,95151049
+Reims,park,Parc du Bois d'Amour,49.2496675,4.0114002,way,95151947
+Reims,park,Square du Palais de Justice,49.2536714,4.0322712,way,95459802
+Reims,park,Square Jan Palach,49.2607638,4.0155776,way,95508873
+Reims,park,Square Alexandre Henrot,49.2643678,4.0156609,way,95511236
+Reims,park,Square Henri Jolicoeur,49.2652989,4.025276,way,95516260
+Reims,park,Square René Dumont,49.2700705,4.0163239,way,95599646
+Reims,park,Square Jean Marcel Mourlanne,49.2753963,4.0321831,way,95809644
+Reims,park,Square Demaison,49.2479364,4.0633641,way,96508641
+Reims,park,Square des Moulins,49.2457692,4.0372374,way,96508642
+Reims,park,Square d’Aix-la-Chapelle,49.2533534,4.0626927,way,96508643
+Reims,park,Square Henri Lecompte,49.2761952,4.0139251,way,96509023
+Reims,park,Square Sadi Lecointe,49.2550675,4.06588,way,96509024
+Reims,park,Square Ponsardin,49.2472692,4.0436651,way,96509025
+Reims,park,Square des Frères Prot,49.2714667,4.0196072,way,96510152
+Reims,park,Square Michel-Ange,49.26769,4.0123194,way,96510153
+Reims,park,Square Jean-Baptiste Corot,49.2706724,4.0130112,way,96510155
+Reims,park,Square Saint-Jean,49.2893165,4.0057517,way,96510157
+Reims,park,Square Charles Péguy - Jacques Cellier,49.2825449,4.030476,way,96520904
+Reims,park,Square Hachette,49.2863842,4.01388,way,96520905
+Reims,park,Square des Tondeurs,49.2829928,4.0132193,way,96520906
+Reims,park,Square Berthe Aubert et Fernande Mondet,49.2685166,4.0297908,way,96520908
+Reims,park,Square des Droits de l'Enfant,49.2420418,4.0022994,way,96588681
+Reims,park,Parc des Grenouilles Vertes,49.2403981,4.0361636,way,222778703
+Reims,park,jardin du couvent,49.2489868,4.0386528,way,222784804
+Reims,park,jardin de l'espace culturel,49.2638283,4.1049748,way,222869026
+Reims,park,Esplanade des Capucins,49.2433102,4.0381943,way,224852464
+Reims,park,Parc des Crayères,49.2418794,4.049551,way,225381650
+Reims,park,Jardin du Musée-hôtel Le Vergeur,49.2572242,4.0338579,way,225384664
+Reims,park,Jardin des comtes de Champagne,49.2572969,4.033314,way,225384889
+Reims,park,jardin de l'hôtel Ponsardin,49.255964,4.0372978,way,225664191
+Reims,park,Square André Bridoux,49.2538763,3.9858649,way,367841006
+Reims,park,Sans nom,49.2956867,4.1227828,way,395450460
+Reims,park,Parc de la Muire,49.2210005,3.9861851,way,396391322
+Reims,park,Parc de la Cerisaie,49.2288466,4.0550328,way,396904829
+Reims,park,Parc Saint Charles,49.2558674,4.0126377,way,442473807
+Reims,park,Parc Bernard Stasi,49.2605578,4.0576746,way,475878769
+Reims,park,Promenade du Peignage,49.2599544,4.060239,way,475878770
+Reims,park,Square Sidi Bel Abbès,49.2674621,4.0700389,way,479524002
+Reims,park,Square de la Liberté,49.28439,4.0063424,way,491617914
+Reims,park,Sans nom,49.2821405,4.048749,way,549724439
+Reims,park,Parc Dannstadt-Schauernheim,49.2907431,4.0600037,way,550250907
+Reims,park,Square du Vieux Port,49.2453862,4.0324209,way,554614576
+Reims,park,Parc de la Vesle,49.2441321,4.0313241,way,558731962
+Reims,park,Sans nom,49.2368258,4.0619548,way,566033440
+Reims,park,Sans nom,49.237571,4.0627679,way,566033441
+Reims,park,Square Nathalie d'Esterno,49.2515277,4.0551345,way,624476223
+Reims,park,Parc Christian Pozzo di Borgo,49.2722213,4.027449,way,625731064
+Reims,park,Place Nicolas Bergier,49.2601261,4.053017,way,625755902
+Reims,park,Terrain rue de la Maladrerie,49.2700721,4.055874,way,625755903
+Reims,park,Parc Rosa Parks,49.2390688,4.0198333,way,625755906
+Reims,park,Parc Wangari Maathai,49.234847,4.0272849,way,625755907
+Reims,park,Place du 11 Novembre,49.248265,4.0566003,way,625755908
+Reims,park,Place Verte,49.2695418,4.0201316,way,625755909
+Reims,park,Place Amélie Doublié,49.2666122,4.0301417,way,625755910
+Reims,park,Square du Docteur Billard,49.2367072,4.0063728,way,627557427
+Reims,park,Square Joliot-Curie,49.2278623,4.0004646,way,629203637
+Reims,park,Parc des Châtillons,49.2294502,4.038433,way,629204607
+Reims,park,Sans nom,49.2296887,4.0046782,way,643160442
+Reims,park,Parc Camille Guérin,49.272803,4.0496975,way,655242627
+Reims,park,parc des Nelmonts,49.2884567,4.1091155,way,678715908
+Reims,park,aire de jeu de l'Escal,49.2949534,4.1168017,way,678732541
+Reims,park,parc du monument aux morts,49.2948273,4.1198497,way,678734369
+Reims,park,Parc de la Roseraie,49.237913,4.0382893,way,684469233
+Reims,park,Parc des Coteaux,49.220139,4.0013009,way,715912920
+Reims,park,Parc de la Roselière,49.2268706,3.9983283,way,715912921
+Reims,park,Sans nom,49.216955,3.9980969,way,718199335
+Reims,park,Square Colbert,49.2581613,4.0258241,way,720939798
+Reims,park,Sans nom,49.2201128,3.9940996,way,723872192
+Reims,park,Sans nom,49.2177913,3.998982,way,727144726
+Reims,park,Parc Jean Vancraeyenest,49.2868634,4.0379086,way,729493027
+Reims,park,Sans nom,49.271033,4.0127385,way,734600753
+Reims,park,parc et residence,49.2378681,4.0157781,way,741215757
+Reims,park,Place de la Mairie,49.288791,4.0052015,way,751249912
+Reims,park,Parc Benazir Bhutto,49.2817132,4.0157889,way,752030984
+Reims,park,Square Joséphine Baker,49.2800261,4.0231582,way,754393560
+Reims,park,Sans nom,49.281905,4.0185421,way,755440795
+Reims,park,Sans nom,49.2793771,4.0247976,way,755634434
+Reims,park,Sans nom,49.2794406,4.0251984,way,755634435
+Reims,park,Sans nom,49.2380644,4.0183636,way,760711366
+Reims,park,Sans nom,49.2870171,4.0550219,way,764620465
+Reims,park,Sans nom,49.2873812,4.055854,way,764620467
+Reims,park,Sans nom,49.2874164,4.0552205,way,764620468
+Reims,park,Parc Marie-Louise Dupont,49.2696289,4.0501498,way,764620481
+Reims,park,Square Colbert,49.2581613,4.0258241,way,770743824
+Reims,park,Sans nom,49.2489201,4.0368462,way,774959510
+Reims,park,Sans nom,49.2643388,3.9888458,way,779354509
+Reims,park,Parc de la Paix,49.220529,4.0528632,way,785858204
+Reims,park,Parc Claude-Monet,49.2183482,4.0415973,way,785869709
+Reims,park,Parc Jean-Giono,49.2194948,4.0451979,way,785900814
+Reims,park,Parc du Champ-Bertin,49.2186636,4.0554957,way,785997453
+Reims,park,Square des Fères Prot,49.2714667,4.0196072,way,788862964
+Reims,park,Berges du Vieux Port,49.247883,4.0274508,way,840249736
+Reims,park,Parc Pierre de Fermat,49.2792128,4.0207554,way,871858403
+Reims,park,Square de la Porte Mars,49.260771,4.0303147,way,875255057
+Reims,park,Cour des Ifs,49.2516486,4.0366937,way,877266447
+Reims,park,Sans nom,49.2833844,4.0564767,way,884315396
+Reims,park,Parc du Champagne Mumm,49.2644338,4.036938,way,886640929
+Reims,park,Sans nom,49.2244544,4.0007171,way,886710957
+Reims,park,Sans nom,49.2238428,4.0023943,way,886710958
+Reims,park,Sans nom,49.2269093,4.0055438,way,886795318
+Reims,park,Sans nom,49.2227173,4.0390001,way,887838261
+Reims,park,Sans nom,49.2207506,4.0399288,way,887863558
+Reims,park,Square Jean Macé,49.2759003,4.0188793,way,889186818
+Reims,park,Sans nom,49.2612246,3.9923473,way,911022996
+Reims,park,Sans nom,49.2109696,4.0199946,way,933912084
+Reims,park,Sans nom,49.2109393,4.0207109,way,933912085
+Reims,park,Sans nom,49.2100594,4.0197856,way,933919596
+Reims,park,Sans nom,49.2100995,4.0205892,way,933919598
+Reims,park,Sans nom,49.2266127,4.0054378,way,935126984
+Reims,park,Sans nom,49.2279441,4.0050301,way,935128220
+Reims,park,Sans nom,49.2283511,4.0028509,way,935522974
+Reims,park,Sans nom,49.2869864,4.0554476,way,961119281
+Reims,park,Sans nom,49.2162384,4.0956082,way,974813678
+Reims,park,Square du Trésor,49.2540775,4.0331084,way,997692908
+Reims,park,Sans nom,49.2689608,4.0121792,way,1064919027
+Reims,park,Sans nom,49.2148975,3.994085,way,1107172875
+Reims,park,Sans nom,49.2141521,4.0977683,way,1116010154
+Reims,park,Sans nom,49.2619635,4.0436689,way,1116975541
+Reims,park,Sans nom,49.267469,4.0501885,way,1123182211
+Reims,park,Sans nom,49.2577977,3.9924259,way,1157053035
+Reims,park,Sans nom,49.2764391,4.0277537,way,1223291639
+Reims,park,Sans nom,49.2503333,4.0475474,way,1262976204
+Reims,park,Sans nom,49.2498741,4.0467275,way,1262976206
+Reims,park,Sans nom,49.2475728,3.9899099,way,1275421047
+Reims,park,Square Jean de La Fontaine,49.2624096,4.099748,way,1294835643
+Reims,park,Parc Roger Copitet,49.234253,4.0465224,way,1395592569
+Reims,park,Parc Sadi Lecointe,49.256129,4.0659471,way,1415437221
+Reims,park,Sans nom,49.2663711,4.0501498,way,1432736942
+Reims,park,Parc de loisir et de sport de la Croix Cordier,49.244164,3.9888357,relation,5905841
+Reims,park,Square Hachette,49.2862152,4.0121857,relation,9111153
+Reims,park,Parc Gilles Ferreira,49.2127809,4.023973,relation,17538369
+Reims,restaurant,Le Bistrot du Forum,49.2562737,4.0340532,node,1071236209
+Reims,restaurant,La Rose des Sables,49.2517921,4.0424969,node,1118857350
+Reims,restaurant,Le Coq Rouge,49.2516342,4.0337432,node,1118918078
+Reims,restaurant,Au Petit Comptoir,49.2597532,4.0311847,node,1118918081
+Reims,restaurant,Le Coin des Crêpes,49.2669834,4.0245983,node,1118918127
+Reims,restaurant,La Maison,49.258008,4.0405056,node,1118918195
+Reims,restaurant,La Table des Halles,49.2598268,4.0310918,node,1118918232
+Reims,restaurant,Pic Adore,49.2498292,4.0336799,node,1118918238
+Reims,restaurant,La Ferme des Saveurs,49.2365227,4.0663303,node,1118980252
+Reims,restaurant,Papillons,49.232014,4.0837045,node,1118980257
+Reims,restaurant,Anna-S La Table Amoureuse,49.2506414,4.0352714,node,1753998125
+Reims,restaurant,Sardegna,49.2699998,4.0253266,node,1785414896
+Reims,restaurant,Kyodo Sushi,49.2673586,4.0247665,node,1785904349
+Reims,restaurant,Da Nello,49.2567149,4.0372071,node,1786720395
+Reims,restaurant,Bar Hôtel Restaurant Aux Bons Amis,49.265721,4.0390609,node,1834055391
+Reims,restaurant,A la table de Fred,49.2670772,4.0447636,node,1834071861
+Reims,restaurant,Les Sarments,49.2684949,4.0446081,node,1834074873
+Reims,restaurant,La vieille Champagne,49.2679558,4.0448012,node,1834075317
+Reims,restaurant,Le Jamin,49.2611662,4.0468432,node,1834363875
+Reims,restaurant,L'Expérience,49.2564904,4.0259286,node,2300164859
+Reims,restaurant,Le Clairmarais,49.2617491,4.0248668,node,2399713000
+Reims,restaurant,L'Ermitage,49.2676376,4.1272204,node,2968380596
+Reims,restaurant,Flunch,49.2611154,4.0668289,node,2986056091
+Reims,restaurant,Le Saint-Valentin,49.2628046,4.1055442,node,3033545574
+Reims,restaurant,Brasserie Au Conti,49.2569088,4.0257372,node,3328361092
+Reims,restaurant,Le Sarlette,49.2301299,4.0654207,node,3986043903
+Reims,restaurant,Les Pionniers,49.2178219,4.0227157,node,3992206591
+Reims,restaurant,Campanile,49.2191483,4.0224259,node,3992206600
+Reims,restaurant,Le Soleil d'Asie,49.2189027,4.0216072,node,3992207083
+Reims,restaurant,Shanghai Tower,49.2309142,4.0854826,node,3997430341
+Reims,restaurant,Le Hangar,49.2159066,4.059478,node,4387276100
+Reims,restaurant,Le Gaulois,49.2543976,4.0280328,node,4869858124
+Reims,restaurant,Salon de thé Le Tau,49.2531394,4.0340256,node,4903206070
+Reims,restaurant,L'Avenir,49.2582165,4.0212097,node,5141690037
+Reims,restaurant,Le Mandarin,49.2533604,4.0261076,node,5160740629
+Reims,restaurant,Le Bon Moine,49.2526425,4.0284875,node,5161358276
+Reims,restaurant,Au Bureau,49.2529084,4.0326095,node,5161366417
+Reims,restaurant,Shin'Zen,49.2514309,4.0239081,node,5163323114
+Reims,restaurant,L'Antica,49.2517687,4.0326394,node,5163802878
+Reims,restaurant,La Trattoria,49.2520519,4.0327499,node,5163802880
+Reims,restaurant,R & Co,49.2605425,4.0224935,node,5171794202
+Reims,restaurant,La Pizza de Nico,49.2615301,4.0200866,node,5171794204
+Reims,restaurant,L'Univers,49.2591392,4.0203406,node,5174221829
+Reims,restaurant,Chez Armand,49.2561867,4.0338478,node,5538329223
+Reims,restaurant,Côté Sushi,49.2561023,4.032644,node,5538329224
+Reims,restaurant,Ristorante Del Arte,49.2398877,4.0847993,node,5753490321
+Reims,restaurant,Sacré Brunch,49.2570393,4.03786,node,5782715098
+Reims,restaurant,Alba,49.257145,4.0312433,node,5792020602
+Reims,restaurant,Le Café du Palais,49.254644,4.0312482,node,5792583819
+Reims,restaurant,Restaurant Café de la Paix,49.2545324,4.026761,node,5808070687
+Reims,restaurant,Saigon Cà Phê,49.2548302,4.0270459,node,5808070691
+Reims,restaurant,L'Édito,49.2566949,4.0266701,node,5808070724
+Reims,restaurant,Aux Coteaux,49.2569046,4.0264986,node,5808070727
+Reims,restaurant,Le Grand Café,49.2570654,4.0263915,node,5808070730
+Reims,restaurant,Taj Mahal,49.2566505,4.0258656,node,5808070735
+Reims,restaurant,L'Apostrophe,49.2556756,4.02649,node,5808070750
+Reims,restaurant,Little Georgette,49.2533467,4.0318422,node,5821528802
+Reims,restaurant,Le Crypto,49.2563838,4.0343929,node,5858869487
+Reims,restaurant,Céleste,49.2558081,4.0328237,node,5858869490
+Reims,restaurant,Le Riad,49.2570488,4.0332345,node,5858981691
+Reims,restaurant,Vapeurs et Gourmandises,49.256573,4.0348749,node,5858981694
+Reims,restaurant,Ö double A,49.2570986,4.0345717,node,5858990388
+Reims,restaurant,Au Fil des Saisons,49.2570531,4.0355179,node,5858990390
+Reims,restaurant,Bulle 1924,49.2574552,4.0396889,node,5861221088
+Reims,restaurant,Sans nom,49.2537547,4.0281019,node,6129515287
+Reims,restaurant,Bootlegger Speakeasy,49.2607934,4.0218782,node,6132548185
+Reims,restaurant,Chez P'tit Viet,49.2543106,4.028918,node,6184855683
+Reims,restaurant,L'ArTdoise,49.2358882,4.0691951,node,6222668525
+Reims,restaurant,Punjab,49.2916124,4.0232101,node,6284566521
+Reims,restaurant,L'Atelier,49.2566904,4.0258291,node,6315996181
+Reims,restaurant,Le paradis du fruit,49.256124,4.0262099,node,6315996183
+Reims,restaurant,La Brigade,49.2553713,4.0267074,node,6316019448
+Reims,restaurant,Le Tablier,49.2549555,4.027699,node,6317937706
+Reims,restaurant,Hoang Van,49.258508,4.0427534,node,6358689933
+Reims,restaurant,Bistro de la Poste,49.2559805,4.0349812,node,6359311515
+Reims,restaurant,Le Millénaire,49.2561359,4.034262,node,6359311516
+Reims,restaurant,Le Palace,49.2578016,4.0407218,node,6359311526
+Reims,restaurant,Racine,49.2527649,4.0374948,node,6412459265
+Reims,restaurant,Restaurant Le Parc,49.241174,4.0516654,node,6550798570
+Reims,restaurant,La Boucherie,49.2162343,3.9960315,node,6747058052
+Reims,restaurant,La Maye,49.2852419,4.0584086,node,6770375697
+Reims,restaurant,Sushido,49.2485109,4.0373108,node,6799417094
+Reims,restaurant,Pizza Sarda,49.2486206,4.0372017,node,6924074785
+Reims,restaurant,La Braise,49.2580526,4.0330663,node,6932797185
+Reims,restaurant,Au Cul de Poule,49.2578133,4.0478964,node,6936993986
+Reims,restaurant,Sushi Bar,49.2575336,4.0325843,node,6951120889
+Reims,restaurant,Marcel & Jane,49.2477592,4.0383551,node,6967200388
+Reims,restaurant,Anamour Grill,49.2469428,4.0386062,node,6968939685
+Reims,restaurant,Reims Pizza Kebab,49.2488454,4.0369426,node,6976415885
+Reims,restaurant,Chez Françis,49.2538582,4.0411498,node,6976743686
+Reims,restaurant,La Casafa,49.2509127,4.0410104,node,6976759386
+Reims,restaurant,Chèvre et Menthe,49.2491266,4.0400561,node,6976783985
+Reims,restaurant,La Dame de Cœur,49.2456834,4.0359475,node,6978005088
+Reims,restaurant,Bistrot 31 Reims,49.2546566,4.0355628,node,6979247085
+Reims,restaurant,Gueuleton,49.254791,4.0355426,node,6979247086
+Reims,restaurant,Casa d’Urso,49.2511805,4.0382332,node,6982165886
+Reims,restaurant,Pizza Piano,49.2471012,4.0417484,node,6982165989
+Reims,restaurant,Nuraghé Pizza à Emporter,49.2449751,4.043822,node,6983072885
+Reims,restaurant,Pizzéria Venizia,49.2450683,4.0441183,node,6983085499
+Reims,restaurant,Au Plat du Jour,49.2454189,4.0438137,node,6983086289
+Reims,restaurant,Pizza La Mama,49.2522826,4.0437957,node,6983287885
+Reims,restaurant,Le Fontenoy,49.2507611,4.0525685,node,6983496885
+Reims,restaurant,Liji,49.2550441,4.0353602,node,6985301664
+Reims,restaurant,Le Clem Restaurant,49.2509751,4.048973,node,6986594989
+Reims,restaurant,La Verriére,49.2545517,4.0222505,node,6987074886
+Reims,restaurant,Che Diego,49.2619595,4.0300037,node,6987074887
+Reims,restaurant,Le Saint-Julien,49.2563174,4.0389446,node,6994582585
+Reims,restaurant,Chez Fred,49.2143862,4.0033906,node,7001503085
+Reims,restaurant,Samja,49.2573818,4.0324692,node,7002973285
+Reims,restaurant,La Bottega della Villa,49.2594404,4.0312955,node,7007594888
+Reims,restaurant,Le Bocal,49.260138,4.0309668,node,7007846585
+Reims,restaurant,Le Marché,49.2599395,4.0310516,node,7007904585
+Reims,restaurant,Le Boulingrin,49.2603671,4.030874,node,7007908085
+Reims,restaurant,La Gazelle,49.2579362,4.040252,node,7013152085
+Reims,restaurant,Le Flech,49.2427879,4.039933,node,7013811788
+Reims,restaurant,Au sans Souci,49.2511487,4.0353386,node,7018229485
+Reims,restaurant,Le Neuf,49.2693773,4.0481227,node,7023969685
+Reims,restaurant,New Saigon,49.2901882,4.0221491,node,7025250795
+Reims,restaurant,Le Bouclards,49.250017,4.0339293,node,7031571831
+Reims,restaurant,Le Valentino,49.2924772,4.0184038,node,7033206607
+Reims,restaurant,Flunch,49.215134,4.0569579,node,7042380186
+Reims,restaurant,La Table de Bertacchi,49.2221773,4.0027006,node,7044015485
+Reims,restaurant,L’Atelier du Pasta,49.2237919,4.003857,node,7044039985
+Reims,restaurant,Le 19 Green Bezannes,49.216301,4.0055107,node,7044982486
+Reims,restaurant,Le Farman,49.2367342,4.0728898,node,7048769985
+Reims,restaurant,Oh Caribou,49.2498048,4.0362001,node,7051659585
+Reims,restaurant,La Villa,49.259297,4.0318802,node,7058379186
+Reims,restaurant,Gabrielle,49.2526986,4.032732,node,7069085585
+Reims,restaurant,Le Bambi,49.2523509,4.0316907,node,7086408191
+Reims,restaurant,La Boucherie,49.2396702,4.0850618,node,7099351100
+Reims,restaurant,Royal St Brice,49.2791993,4.0049941,node,7099743311
+Reims,restaurant,Tip Khao,49.2518836,4.023995,node,7110353286
+Reims,restaurant,Feifei,49.2402437,4.0842821,node,7187507787
+Reims,restaurant,La Table D'Arthur,49.2554988,4.0356582,node,7207832585
+Reims,restaurant,brasserie,49.2247326,4.0216398,node,7353828518
+Reims,restaurant,The Food Box,49.2355594,4.007636,node,7354966635
+Reims,restaurant,Speedza 51,49.2360551,4.0070325,node,7354966637
+Reims,restaurant,Le Petit Vatel,49.2769096,4.026678,node,7366412150
+Reims,restaurant,L'Espace Pizza 51,49.2742173,4.0182192,node,7366782318
+Reims,restaurant,L'Espelette,49.2724863,4.0241454,node,7376596017
+Reims,restaurant,Les Cocottes,49.25729,4.0482038,node,7389878682
+Reims,restaurant,Restaurant du Parc,49.2409513,4.056776,node,7395080516
+Reims,restaurant,Casa Délice,49.2734432,4.0270809,node,7432964610
+Reims,restaurant,Mille et une Graines,49.2608536,4.0665085,node,7434309955
+Reims,restaurant,Chez Nous,49.2468051,4.0122057,node,7448534476
+Reims,restaurant,Le Saint-rémi,49.2427373,4.0396958,node,7474237239
+Reims,restaurant,Pause Café,49.242214,4.0376628,node,7474476830
+Reims,restaurant,La Cucina di Fossati,49.2571946,4.0470962,node,7500696105
+Reims,restaurant,La Caravane,49.2719983,4.0444212,node,7504371472
+Reims,restaurant,La Calle Havana,49.2722675,4.0431675,node,7511320010
+Reims,restaurant,Coco Pizzas,49.2847487,4.0569108,node,7543580913
+Reims,restaurant,Wasa Sushi,49.2828454,4.000148,node,7572199702
+Reims,restaurant,Duprat et Duprat,49.2707499,4.0266025,node,7591638237
+Reims,restaurant,Le Vérone,49.270523,4.0269287,node,7591638238
+Reims,restaurant,Top Pizza,49.2689561,4.0332315,node,7592458900
+Reims,restaurant,La Table Saint-Thomas,49.2658002,4.0289079,node,7592482065
+Reims,restaurant,Sans nom,49.2248401,4.0215049,node,7769564885
+Reims,restaurant,Pacific Pizza,49.2246306,4.0221464,node,7769564895
+Reims,restaurant,Chicken Best,49.2247193,4.0220039,node,7769775132
+Reims,restaurant,Eat Night,49.2247597,4.0219331,node,7769857563
+Reims,restaurant,Gokan Fast,49.2248859,4.0216491,node,7769857565
+Reims,restaurant,O'Comptoir,49.258737,4.0106393,node,7798382740
+Reims,restaurant,Chez Jeanne,49.2371473,4.0394046,node,7810075293
+Reims,restaurant,Un Truck de Food,49.2372907,4.0395415,node,7810075294
+Reims,restaurant,Bistrot des Halles,49.2601129,4.0315875,node,7816086303
+Reims,restaurant,Les Vieux de la Vieille,49.2601506,4.0323576,node,7816086304
+Reims,restaurant,V Saveur Pizza,49.214429,4.0028183,node,7820168706
+Reims,restaurant,Bouche B;Restaurent House,49.2145552,4.0029443,node,7820168707
+Reims,restaurant,La Medina,49.2557717,4.0258345,node,7872238935
+Reims,restaurant,Le Petit Carbet,49.2511688,4.0498024,node,7881238502
+Reims,restaurant,Comedia Pizza,49.2500501,4.0188655,node,7884438846
+Reims,restaurant,Cantine,49.2425535,4.0271459,node,8309498127
+Reims,restaurant,Restaurent House,49.241651,4.0854781,node,8390355875
+Reims,restaurant,Atelier Mala,49.2551414,4.0301834,node,8911456219
+Reims,restaurant,Gambetta Food,49.2506081,4.0357757,node,8990680841
+Reims,restaurant,Hortus,49.2184784,3.9979938,node,9001365620
+Reims,restaurant,La table Cora,49.216214,4.0543401,node,9893767650
+Reims,restaurant,Délices d'Asie,49.2608792,4.0484196,node,10017805520
+Reims,restaurant,Sans nom,49.2833927,4.0099243,node,10057112583
+Reims,restaurant,Piperno,49.255911,4.0270546,node,10095905817
+Reims,restaurant,ThaiShi,49.2630389,4.0543035,node,10103697517
+Reims,restaurant,Le Ch'ti Resto,49.2609389,4.0495432,node,10135380853
+Reims,restaurant,L'ours Bleu,49.2609417,4.0216298,node,10154109298
+Reims,restaurant,Resto U Paul Fort,49.2415756,4.0152585,node,10700021723
+Reims,restaurant,Casa Aprile,49.2573584,4.0397186,node,10704781896
+Reims,restaurant,L'Ardennais,49.2578259,4.0400144,node,10704806076
+Reims,restaurant,Brasserie Le Royal II,49.2556717,4.0335564,node,10704821226
+Reims,restaurant,Resto Afghan,49.2395153,4.0313446,node,10733333875
+Reims,restaurant,Dubble,49.2187667,3.9966304,node,10829853251
+Reims,restaurant,A Table !,49.2682187,4.0265906,node,10881190913
+Reims,restaurant,DK le gout du sénégal,49.2672909,4.0271752,node,10895993834
+Reims,restaurant,sacrebleu,49.2707654,4.0266865,node,10896049550
+Reims,restaurant,La Fontaine,49.2476267,4.0412812,node,11161887405
+Reims,restaurant,Croquignole,49.2605128,4.0406419,node,11278360269
+Reims,restaurant,Bangkok factory,49.2524568,4.0257562,node,11446193077
+Reims,restaurant,Chez Vincent,49.2376459,4.0900982,node,11593023569
+Reims,restaurant,Sans nom,49.2632853,4.0007441,node,11715726860
+Reims,restaurant,Cul Sec,49.257449,4.0481184,node,11746454549
+Reims,restaurant,Resto Grill,49.2578836,4.0401368,node,11802169629
+Reims,restaurant,3 Brasseurs,49.2562242,4.0261516,node,11816619177
+Reims,restaurant,Alfred Burger,49.2546564,4.0314668,node,11828367335
+Reims,restaurant,Chez Lauriane,49.2544624,4.0259698,node,11828396809
+Reims,restaurant,Aux Délices des Papilles,49.2128656,4.0496333,node,11846881792
+Reims,restaurant,Genki,49.2520541,4.0321343,node,11891072470
+Reims,restaurant,L'Antica,49.2587822,4.0434857,node,11912033973
+Reims,restaurant,Pulcinella,49.2516787,4.0329169,node,11916302275
+Reims,restaurant,Restaurant universitaire CROUS,49.2323447,4.0680993,node,11921753411
+Reims,restaurant,Louise,49.2538456,4.0280377,node,11924758069
+Reims,restaurant,Canard Street,49.2536038,4.0282705,node,11924768269
+Reims,restaurant,Giulia Ristorante,49.2581781,4.0324101,node,12050627949
+Reims,restaurant,L'ExtrA,49.2599569,4.0323811,node,12050627950
+Reims,restaurant,Version Originale,49.2599314,4.031825,node,12158375811
+Reims,restaurant,Aroma,49.2599691,4.0326514,node,12158375813
+Reims,restaurant,Copain comme cochon,49.2599669,4.0325203,node,12158375814
+Reims,restaurant,Réjane et Norbert,49.2553412,4.0307465,node,12192805470
+Reims,restaurant,Bœuf ou Salade,49.2552793,4.0267596,node,12193028934
+Reims,restaurant,Le Troquet du Tambour,49.2572885,4.0328274,node,12193369873
+Reims,restaurant,Séoul,49.256996,4.0264376,node,12196569572
+Reims,restaurant,Un indien dans la ville,49.2568641,4.0265411,node,12205673621
+Reims,restaurant,Cuivré,49.257254,4.0314673,node,12247065419
+Reims,restaurant,Odette,49.2575699,4.0264333,node,12271862928
+Reims,restaurant,Green sur mesure,49.2608664,4.0217523,node,12273053747
+Reims,restaurant,La Grande Georgette,49.2535101,4.0316688,node,12273120381
+Reims,restaurant,Les Cornichons,49.2585305,4.0303576,node,12344463532
+Reims,restaurant,La grosse bouteille,49.2587389,4.0320094,node,12438564159
+Reims,restaurant,Épices et tout,49.2576225,4.0217655,node,12648297890
+Reims,restaurant,La Renardière,49.221068,4.0974908,node,12759233401
+Reims,restaurant,La Bigoudène,49.2514096,4.0297572,node,12768464392
+Reims,restaurant,o sushi 51,49.2618866,4.0290435,node,12941645994
+Reims,restaurant,Sans nom,49.2626366,4.0055041,node,12992005302
+Reims,restaurant,Crêpe Touch Cormontreuil,49.2168886,4.0498942,node,13180502302
+Reims,restaurant,La Table de la boucherie Guiset,49.2186087,3.9980926,node,13254743701
+Reims,restaurant,Sans nom,49.2555319,4.0281636,node,13264577670
+Reims,restaurant,Brasserie Le Jardin,49.2408546,4.0504372,way,84665762
+Reims,restaurant,Restaurant Campanile,49.2176279,4.0730638,way,86541703
+Reims,restaurant,Pizza Paï,49.2170896,4.0571013,way,86581675
+Reims,restaurant,Buffalo Grill,49.2474747,4.0000955,way,86603957
+Reims,restaurant,Le Grain de Sel,49.246971,3.9997073,way,86604893
+Reims,restaurant,L'Assiette Champenoise,49.2479319,4.0029569,way,86606025
+Reims,restaurant,Le Saint-Léonard,49.2215207,4.0963664,way,86713727
+Reims,restaurant,Buffalo Grill,49.2850872,4.0251853,way,87842958
+Reims,restaurant,Le Vérone,49.2704717,4.0269155,way,87844749
+Reims,restaurant,Top Pizza,49.2689352,4.0333103,way,87851796
+Reims,restaurant,Sans nom,49.2657507,4.028942,way,87858821
+Reims,restaurant,Shiva,49.2448042,4.0191837,way,88250069
+Reims,restaurant,Le Panda,49.2694247,4.0695896,way,90716949
+Reims,restaurant,L'Etna,49.2512303,4.052842,way,90722836
+Reims,restaurant,Restaurant Universitaire Moulin de la Housse,49.2419462,4.0604098,way,90735188
+Reims,restaurant,O' Grand Buffet,49.2878346,4.0230368,way,90822631
+Reims,restaurant,Courtepaille,49.2315115,4.0856966,way,92041777
+Reims,restaurant,Brasserie Excelsior,49.2574151,4.0262602,way,92308922
+Reims,restaurant,Resto Romain,49.2832935,4.1097036,way,254729549
+Reims,restaurant,L’Épi d’Or,49.2907943,4.0287147,way,393898373
+Reims,restaurant,Buffalo Grill,49.2138731,4.0606518,way,474571240
+Reims,restaurant,Le Pavillon CG,49.2573144,4.0273876,way,660652677
+Reims,restaurant,Le Court 1920,49.250529,4.044798,way,660701918
+Reims,restaurant,Viet Quan,49.2620397,4.0514679,way,660723897
+Reims,restaurant,SODAD,49.2554156,4.0309427,way,662654730
+Reims,restaurant,Le Chamois,49.2514695,4.029662,way,666314944
+Reims,restaurant,Le Thiers,49.2581467,4.0289037,way,724531436
+Reims,restaurant,Le Spark,49.2578931,4.0268672,way,724551130
+Reims,restaurant,Le Foch,49.2580529,4.0270567,way,724568831
+Reims,restaurant,Comme chez Vous,49.2513464,4.022438,way,724766111
+Reims,restaurant,L'Atelier,49.2540952,4.0311401,way,727871566
+Reims,restaurant,L'Alambic,49.2546823,4.0229843,way,728503855
+Reims,restaurant,La Caravane Cantine,49.2719817,4.0444433,way,781053007
+Reims,restaurant,Sans nom,49.2543443,4.0252732,way,884342848
+Reims,restaurant,Sans nom,49.2525393,4.0590091,way,941967187
+Reims,restaurant,Bistro des Anges,49.2526417,4.0312146,way,976194451
+Reims,restaurant,Le Rem',49.2490128,4.0269795,way,1059343590
+Reims,restaurant,Le Restaurant,49.2486504,4.0275527,way,1059459420
+Reims,restaurant,Memphis,49.2157447,4.0436718,way,1060291962
+Reims,restaurant,Crêp Eat,49.2140196,4.0464524,way,1433358251
+Reims,station,Reims,49.258985,4.0243838,node,2517400258
+Reims,station,Champagne-Ardenne TGV,49.2142664,3.9943417,node,4043327189
+Reims,historic,Sans nom,49.2949309,4.1193263,node,874429343
+Reims,historic,Sans nom,49.2198082,4.0566063,node,1006665683
+Reims,historic,Sans nom,49.2870594,4.0550284,node,1012531076
+Reims,historic,Jeanne d'Arc,49.2570619,4.0341304,node,1071213823
+Reims,historic,Sans nom,49.2513091,4.0233671,node,1071291013
+Reims,historic,Statue de Jeanne d'Arc,49.2536376,4.032257,node,1106850130
+Reims,historic,Statue du Maréchal Drouet Comte d'Erlon,49.2476964,4.0439898,node,1118058373
+Reims,historic,Sans nom,49.2219927,3.986535,node,1141334746
+Reims,historic,Sans nom,49.2268955,3.9938081,node,2012704374
+Reims,historic,Monument aux victimes de la peste,49.250771,4.0208276,node,2318183811
+Reims,historic,tombe du Lieutenant Pépin,49.2239552,3.9972702,node,2370745712
+Reims,historic,Grotte de Remus,49.2607438,4.0303373,node,2729785175
+Reims,historic,Fontaine des Boucheries,49.2578305,4.028924,node,2930652216
+Reims,historic,Sans nom,49.2558038,4.0610388,node,3033454509
+Reims,historic,Borne Vauthier,49.2684834,4.0693915,node,4253228002
+Reims,historic,Borne Vauthier,49.2804173,4.0134199,node,4253228003
+Reims,historic,Sans nom,49.2889462,4.0058762,node,4399596809
+Reims,historic,Sans nom,49.255282,4.0336831,node,4825951009
+Reims,historic,Sans nom,49.2645578,3.9873491,node,5305567385
+Reims,historic,Sans nom,49.2858153,4.0625033,node,5308295834
+Reims,historic,En hommage au lieutenant de vaisseau Georges Hebert,49.2404445,4.0561238,node,5326108647
+Reims,historic,Monument de guerre,49.2395682,4.057907,node,5326108648
+Reims,historic,Monument aux Sportifs Rémois,49.2403437,4.0572794,node,5326108649
+Reims,historic,Stèle pommery,49.2386427,4.0526632,node,5326108650
+Reims,historic,Sans nom,49.2383099,4.0635854,node,5450272007
+Reims,historic,Hôtel Maupinot,49.2458637,4.0426824,node,5939390198
+Reims,historic,Sans nom,49.2622648,4.0260647,node,5939587147
+Reims,historic,Maison des Musiciens,49.2571885,4.0331421,node,5940233057
+Reims,historic,Sans nom,49.2557134,4.0335776,node,5940313321
+Reims,historic,Ancien Hôtel-Dieu,49.2540714,4.0319911,node,5940388915
+Reims,historic,Croix des Aviateurs,49.2624882,4.1223471,node,6312598939
+Reims,historic,Ancienne fontaine,49.2445615,4.0433903,node,6942475486
+Reims,historic,Immeuble Kodak (Art déco),49.2532333,4.0278698,node,6942492288
+Reims,historic,Statue Andrew Carnegie,49.2531192,4.0356988,node,6942499385
+Reims,historic,Les grands magasins (art déco),49.2549058,4.0295501,node,6944372085
+Reims,historic,Passage Subé (Art déco),49.2547692,4.0282859,node,6944385487
+Reims,historic,Docks rémois et familistère,49.2535169,4.0291527,node,6944385489
+Reims,historic,Ancien Cinéma Opéra (Art déco),49.2538511,4.0273012,node,6944397685
+Reims,historic,Villa Douce,49.2559074,4.0407006,node,6944415885
+Reims,historic,Ancienne fabrique de fromages Boucher (Art déco),49.2599868,4.0321216,node,6944415886
+Reims,historic,Fontaine des Carmes,49.2475671,4.0410699,node,6951142587
+Reims,historic,Sans nom,49.2397865,4.05806,node,6984825086
+Reims,historic,Monument à l’Armée Noire,49.2397871,4.0580414,node,6984935987
+Reims,historic,Sans nom,49.2594083,4.0237079,node,7014078718
+Reims,historic,Restitution d'un tumulus Gaulois,49.2900714,4.0206974,node,7036857830
+Reims,historic,Restitution d'une tombe à char gauloise,49.2905876,4.0203765,node,7036921358
+Reims,historic,Henry Herduin,49.2491414,4.0371147,node,7050050305
+Reims,historic,Sans nom,49.2441416,4.0415985,node,7229943997
+Reims,historic,V.FAY,49.2203821,4.062151,node,7235801857
+Reims,historic,Sans nom,49.2510077,4.0353138,node,7247120204
+Reims,historic,Sans nom,49.2510941,4.0353021,node,7247120205
+Reims,historic,Hommage aux Martyrs de la Résistance,49.2539836,4.0258944,node,7291406425
+Reims,historic,Sans nom,49.249918,4.0340412,node,7301742427
+Reims,historic,Sans nom,49.24964,4.0145959,node,7332066531
+Reims,historic,Sans nom,49.2472236,4.0115328,node,7335225207
+Reims,historic,Charles Arnould Ancien Maire de Reims,49.2694616,4.0201856,node,7374432346
+Reims,historic,Congrégation de l'Enfant Jésus,49.2493622,4.0394623,node,7382991921
+Reims,historic,Cathédrale de Reims,49.2535616,4.033298,node,7388163831
+Reims,historic,Sans nom,49.2480683,4.0081803,node,7392315338
+Reims,historic,Sans nom,49.2292342,4.0301976,node,7499113527
+Reims,historic,Sans nom,49.2455544,4.0458651,node,7508518309
+Reims,historic,Sans nom,49.2455854,4.0458798,node,7508534541
+Reims,historic,Souviens Toi,49.2653688,3.9883507,node,7523758037
+Reims,historic,Sans nom,49.2528933,4.0294989,node,7549526566
+Reims,historic,Pierre LEGROS,49.2483549,4.0406245,node,7691526128
+Reims,historic,Napoléon 1er,49.2540369,4.0300052,node,7720753677
+Reims,historic,COLLEGIUM,49.2522615,4.0371255,node,7792350493
+Reims,historic,Le 15 Mars 2007 Premier arrêt en gare Champagne-Ardenne TGV Reims - Bezanne,49.2145096,3.9948067,node,7819402644
+Reims,historic,1 Février 2006 Pose de la première pierre,49.2145378,3.9948253,node,7819412464
+Reims,historic,Sans nom,49.2607461,4.0292108,node,7822449455
+Reims,historic,Rhin et Danube,49.2600359,4.0282445,node,7822545457
+Reims,historic,Pierre Bouchez,49.2601467,4.0280302,node,7822545458
+Reims,historic,Mémorial Jean Mackenzie,49.2925451,4.0022587,node,7837082202
+Reims,historic,jacques DETRE,49.2529572,4.0380205,node,7843513431
+Reims,historic,Monument aux Morts,49.2210908,4.0517502,node,7844328879
+Reims,historic,Monument en l’honneur des martyrs de la Résistance.,49.2211541,4.0516843,node,7844328880
+Reims,historic,Marcel BATREAU,49.2417591,4.0356397,node,7846451307
+Reims,historic,Monument aux soldats russes du Fort de la Pompelle,49.216218,4.1281309,node,7847598723
+Reims,historic,Sans nom,49.2163885,4.128091,node,7849721019
+Reims,historic,Kiosque Anna Politkovskaïa,49.2539918,4.0202545,node,7850534572
+Reims,historic,Sans nom,49.2131978,4.02619,node,7856652374
+Reims,historic,Les Portes de Courlancy II,49.2464366,4.0181415,node,7862210001
+Reims,historic,Léon Mayeur,49.2521387,4.0393267,node,7891013854
+Reims,historic,Le Premier Voyage en Aéroplane,49.2394029,4.0599987,node,7902347988
+Reims,historic,Sans nom,49.2601093,4.0313081,node,7965893326
+Reims,historic,Maurice Rouas,49.2515591,4.0333169,node,7974718461
+Reims,historic,Marcel André Jazaron,49.2485637,4.0375941,node,7975901681
+Reims,historic,André Jazaron,49.248535,4.0376177,node,7975901682
+Reims,historic,Pierre Millant,49.2491565,4.0371056,node,7975931113
+Reims,historic,Sans nom,49.2608444,4.0290094,node,7977108244
+Reims,historic,Antoine Pluche,49.2572586,4.0343562,node,7978695411
+Reims,historic,André Louis Zimmermann,49.2571953,4.0329512,node,7978695414
+Reims,historic,Claudius Burgod,49.25691,4.0331771,node,7979999216
+Reims,historic,Monument aux morts tombés pour la conquête de Madagascar,49.2808561,4.0181238,node,7991973649
+Reims,historic,Sans nom,49.2280534,4.0101583,node,8107348995
+Reims,historic,Sans nom,49.2702955,4.0345742,node,8138375981
+Reims,historic,Sans nom,49.2545683,4.041797,node,8140952266
+Reims,historic,Sans nom,49.2521821,4.0553443,node,8186544984
+Reims,historic,Sans nom,49.2524429,4.0554537,node,8186544985
+Reims,historic,Église Saint-Michel de Reims,49.2546007,4.0336898,node,8189738891
+Reims,historic,"Edmond Marin la Meslée,",49.254153,4.0330984,node,8223880915
+Reims,historic,Sans nom,49.2861292,4.058349,node,8223894515
+Reims,historic,Marie François André Schneiter,49.2540973,4.0404412,node,8225404461
+Reims,historic,À Camille Rique,49.2413135,4.0399332,node,8263340908
+Reims,historic,Porte Bazée,49.2514766,4.0377549,node,8269652726
+Reims,historic,Sans nom,49.2775183,4.0179803,node,8306504355
+Reims,historic,Sequoi sempervirens,49.241672,4.0454792,node,8312902258
+Reims,historic,Sans nom,49.2510183,4.0355378,node,8342687211
+Reims,historic,Robert Berland,49.2547764,4.0292258,node,8494283260
+Reims,historic,Sans nom,49.2406894,4.0531248,node,8538246363
+Reims,historic,Stèle en mémoire du Docteur J.B. Langlet,49.2574756,4.0295675,node,8980977347
+Reims,historic,D.Eisenhower Citoyen d'Honneur de la ville de Reims,49.2589301,4.0372235,node,9001709488
+Reims,historic,Sans nom,49.2152257,4.0940762,node,9021156252
+Reims,historic,Sans nom,49.2516902,4.0292954,node,9031091869
+Reims,historic,Guillaume Tronson du Coudray,49.2557045,4.0352963,node,9214387012
+Reims,historic,Hommage des Réunionnais à Colbert,49.2560606,4.0351388,node,9214443855
+Reims,historic,Maison natale de Jean-baptiste Colbert,49.256042,4.0352878,node,9214457763
+Reims,historic,René HUON,49.2465952,4.0439377,node,9801450956
+Reims,historic,Jean TUAL,49.2469256,4.0436668,node,9801450957
+Reims,historic,Sans nom,49.2490307,3.9910064,node,10045958133
+Reims,historic,Sans nom,49.2263108,4.0365561,node,10158248135
+Reims,historic,Sans nom,49.265382,4.042707,node,10315621423
+Reims,historic,UNESCO,49.2532996,4.0331683,node,10911047627
+Reims,historic,Sans nom,49.2457543,4.0227994,node,11776467389
+Reims,historic,chateau de saint brice courcelles,49.2685347,3.9900498,node,11945984397
+Reims,historic,Sans nom,49.2534943,4.0452305,node,12014854676
+Reims,historic,Sans nom,49.2592722,4.0245706,node,12053358345
+Reims,historic,Sans nom,49.257514,4.0262571,node,12195400981
+Reims,historic,Raymond Poupart,49.2561764,4.036147,node,12288060044
+Reims,historic,Champagne Jacquart,49.2583115,4.0321678,node,12438564160
+Reims,historic,Thermes romains,49.2532283,4.0306206,node,13028537505
+Reims,historic,Cryptoportique,49.2566568,4.034014,way,31432295
+Reims,historic,Porte de Mars,49.2606072,4.0299544,way,31432810
+Reims,historic,Monuments aux Morts - Taissy,49.2123697,4.0924642,way,33621582
+Reims,historic,Place Royale,49.2555148,4.0341091,way,84595266
+Reims,historic,Château des Crayères,49.241156,4.051737,way,84665680
+Reims,historic,Monument à l'Armée Noire,49.2406812,4.0531217,way,84665688
+Reims,historic,Tour de la Poudrière,49.242648,4.0470973,way,90715968
+Reims,historic,Ateliers de fabrication,49.2680972,4.041418,way,90719109
+Reims,historic,Ancien Four Crématoire,49.2643939,4.0574971,way,90722016
+Reims,historic,Ateliers de fabrication,49.2680359,4.0433052,way,90722974
+Reims,historic,Église Saint-Nicaise,49.2480145,4.0550683,way,90728943
+Reims,historic,Ateliers de réparation,49.2687638,4.0438398,way,90730629
+Reims,historic,Le Château,49.2672324,4.0417227,way,90737161
+Reims,historic,Monument aux Morts de la Guerre 1914-1918,49.2618663,4.0304483,way,90737324
+Reims,historic,Sans nom,49.255849,4.0339816,way,92294370
+Reims,historic,Cirque de Reims,49.2549472,4.0221335,way,92294579
+Reims,historic,Sans nom,49.2557423,4.0337126,way,92294717
+Reims,historic,Le Trésor,49.2540516,4.0329458,way,92295160
+Reims,historic,Pavillon de Muire,49.2587326,4.0338722,way,92295845
+Reims,historic,Sans nom,49.2556881,4.0335767,way,92296278
+Reims,historic,Palais du Tau,49.2532652,4.0343524,way,92296301
+Reims,historic,Sans nom,49.255066,4.0336599,way,92296581
+Reims,historic,Maison natale de Jean-Baptiste de la Salle,49.2567369,4.0323252,way,92297261
+Reims,historic,Sans nom,49.2557978,4.0345142,way,92297458
+Reims,historic,Sans nom,49.2561402,4.0342941,way,92298119
+Reims,historic,Maison des comtes de Champagne,49.2573599,4.033008,way,92298547
+Reims,historic,Sans nom,49.2560804,4.0344408,way,92299407
+Reims,historic,Hôtel Ponsardin,49.2562454,4.0372243,way,92302076
+Reims,historic,Sans nom,49.2559552,4.0345188,way,92302809
+Reims,historic,Reims Cérès,49.2555168,4.034975,way,92303084
+Reims,historic,Ancienne usine Machuel & Néouze,49.241444,4.0330367,way,92303138
+Reims,historic,Sous-Préfecture de Reims,49.2551542,4.0344431,way,92303580
+Reims,historic,Manège de Reims,49.2544941,4.0219609,way,92304911
+Reims,historic,Hôtel Le Vergeur,49.2572117,4.0340604,way,92305081
+Reims,historic,Sans nom,49.2555222,4.0334385,way,92305331
+Reims,historic,Sans nom,49.2554274,4.0335344,way,92306799
+Reims,historic,Sans nom,49.2577563,4.0336463,way,92306970
+Reims,historic,Sans nom,49.2559545,4.0340746,way,92307963
+Reims,historic,Hôtel de Bézannes,49.2558028,4.0314573,way,92308627
+Reims,historic,ruines de l'ancien château de la Malle,49.272614,3.9879105,way,95431726
+Reims,historic,Château de Courcelles,49.268539,3.990009,way,95432015
+Reims,historic,Ruines du couvent des Cordeliers,49.2548625,4.0381388,way,95459809
+Reims,historic,Musée du Fort de la Pompelle,49.2162527,4.1290784,way,171262951
+Reims,historic,Monument à la bataille de Reims en 1814,49.2467053,4.0084658,way,222756999
+Reims,historic,Porte de Paris,49.2554661,4.022114,way,222779796
+Reims,historic,Monument à Henri Farman,49.2364462,4.0707455,way,222786309
+Reims,historic,Sans nom,49.2641343,4.1044422,way,222868686
+Reims,historic,monument aux morts,49.2305957,4.015194,way,222872434
+Reims,historic,Piscine du Tennis-Club,49.250215,4.0449866,way,224854137
+Reims,historic,Le Champ d’Émotion,49.2539164,4.0260553,way,225383900
+Reims,historic,Ancien Cellier d'expédition Mum,49.2583712,4.0321881,way,225385037
+Reims,historic,Monument 213 RI,49.2579932,4.0351321,way,238291521
+Reims,historic,Musée des Beaux-Arts,49.2529719,4.0304423,way,531616423
+Reims,historic,Porte du Chapitre,49.2549763,4.0330568,way,532059156
+Reims,historic,Monument aux infirmières,49.2573863,4.0391477,way,570822560
+Reims,historic,Porte servant autrefois d'entrée à «la Pourcelette»,49.252741,4.0340302,way,629071412
+Reims,historic,Fontaine,49.2475669,4.0410701,way,629076836
+Reims,historic,Sans nom,49.2558983,4.033931,way,629092431
+Reims,historic,Sans nom,49.2557952,4.0336852,way,629092432
+Reims,historic,Sans nom,49.2557304,4.0352615,way,629094318
+Reims,historic,Vestiges du Couvent des Jacobins,49.2516975,4.0318427,way,629100294
+Reims,historic,Collège des Jésuites,49.2460502,4.0403682,way,629160734
+Reims,historic,Sans nom,49.2590553,4.0320126,way,629168371
+Reims,historic,Sans nom,49.2538775,4.0272834,way,629169704
+Reims,historic,Sans nom,49.2432623,4.0434658,way,629170657
+Reims,historic,Sans nom,49.2556005,4.0333636,way,629175785
+Reims,historic,Porte Bazée,49.2514398,4.0376167,way,629178619
+Reims,historic,Villa Douce,49.2559881,4.0409682,way,629179947
+Reims,historic,Ancienne église Saint-Michel,49.2546007,4.0336899,way,629186116
+Reims,historic,Musée Saint-Remi,49.243381,4.041061,way,629193605
+Reims,historic,Forbo Sarlino,49.2681815,4.0420848,way,633476015
+Reims,historic,Sans nom,49.2674397,4.0384216,way,633617653
+Reims,historic,Sans nom,49.2691054,4.0439658,way,633708122
+Reims,historic,Sans nom,49.2672914,4.0446327,way,633708123
+Reims,historic,Anciens Établissements Taillet,49.2652394,4.034793,way,633713396
+Reims,historic,Résidence Le Nikkei,49.2664617,4.0432368,way,633716252
+Reims,historic,Sans nom,49.2665081,4.0402049,way,633720197
+Reims,historic,Sans nom,49.2640205,4.0351873,way,633721388
+Reims,historic,Logements de contremaître,49.2643738,4.0437607,way,635016801
+Reims,historic,Fort de la Pompelle,49.2160509,4.1291106,way,762534271
+Reims,historic,Monument aux Martyrs de la Résistance et de la Déportation,49.2598846,4.0278742,way,829972034
+Reims,historic,Pillier Sud de la Porte de Paris,49.2489713,4.0156997,way,877651944
+Reims,historic,Pillier Nord de la Porte de Paris,49.2491531,4.0156205,way,877651945
+Reims,historic,Sans nom,49.239394,4.0359641,way,1214321732
+Reims,historic,Hôtel de Ville,49.258247,4.0315483,relation,3757416
+Reims,historic,Voie Romaine Reims - Arras,49.5969758,3.5703168,relation,7478782
+Reims,historic,Champagne Henriot,49.2641183,4.0426372,relation,8823000
+Reims,historic,Voie Romaine Reims - Rethel,49.3995324,4.152491,relation,12662074
+Reims,historic,Voie romaine Reims - Trèves,49.4849899,5.1893018,relation,12662075

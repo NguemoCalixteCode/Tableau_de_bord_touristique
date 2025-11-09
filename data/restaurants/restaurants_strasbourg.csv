@@ -1,0 +1,47 @@
+restaurant_id,city,name,latitude,longitude,rating,total_ratings,price_range,cuisine_type,address,phone,website,opening_hours,data_source
+strasbourg_resto_001,Strasbourg,Au Grand Café,48.55307,7.801847,4.2,444,€€€,Allemande,148 Rue Principale,0447392767,https://www.strasbourg-restaurant-1.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_002,Strasbourg,La Comptoir Strasbourg,48.567366,7.724066,4.5,491,€,Française,195 Rue du Centre,0437649745,https://www.strasbourg-restaurant-2.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_003,Strasbourg,Table Au de la Gare,48.589591,7.712066,3.8,464,€€€,Choucroute,131 Rue Victor Hugo,0381659783,https://www.strasbourg-restaurant-3.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_004,Strasbourg,Le Table du Strasbourg,48.553624,7.739354,3.3,19,€€€,Allemande,152 Rue Victor Hugo,0172102562,https://www.strasbourg-restaurant-4.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_005,Strasbourg,La Cuisine du Strasbourg,48.577463,7.715271,4.0,158,€€,Allemande,178 Rue Victor Hugo,0546698937,https://www.strasbourg-restaurant-5.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_006,Strasbourg,La Typique Brasserie,48.60049,7.776684,4.2,171,€,Alsacienne,152 Rue Principale,0191191823,https://www.strasbourg-restaurant-6.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_007,Strasbourg,Le Typique Comptoir,48.606327,7.724758,4.6,218,€€,Française,198 Rue Principale,0452696469,https://www.strasbourg-restaurant-7.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_008,Strasbourg,Chez Comptoir Strasbourg,48.541174,7.723752,4.7,307,€€€,Allemande,71 Rue Principale,0297449726,https://www.strasbourg-restaurant-8.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_009,Strasbourg,La Table de Strasbourg,48.570566,7.72253,4.2,46,€€€,Alsacienne,122 Rue de Paris,0561984960,https://www.strasbourg-restaurant-9.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_010,Strasbourg,Chez Bon Comptoir,48.587101,7.775165,4.7,173,€,Choucroute,152 Rue Principale,0567252883,https://www.strasbourg-restaurant-10.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_011,Strasbourg,Chez Bouchon Strasbourg,48.605311,7.727893,4.5,410,€,Alsacienne,178 Rue du Centre,0420867814,https://www.strasbourg-restaurant-11.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_012,Strasbourg,Les Bouchon Strasbourg,48.580025,7.79375,3.6,456,€€,Française,99 Rue Victor Hugo,0235217587,https://www.strasbourg-restaurant-12.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_013,Strasbourg,La Cuisine du Strasbourg,48.570238,7.709303,3.8,245,€,Choucroute,4 Rue Victor Hugo,0166681045,https://www.strasbourg-restaurant-13.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_014,Strasbourg,La Comptoir Strasbourg,48.549906,7.756928,3.8,121,€,Choucroute,181 Rue Principale,0583557214,https://www.strasbourg-restaurant-14.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_015,Strasbourg,Brasserie Chez Strasbourg,48.56092,7.712442,4.0,169,€€€,Française,29 Rue de Paris,0498718969,https://www.strasbourg-restaurant-15.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_016,Strasbourg,Le Grand Café,48.617914,7.720729,3.6,314,€€€,Alsacienne,156 Rue Principale,0467451328,https://www.strasbourg-restaurant-16.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_017,Strasbourg,La Traditionnel Café,48.56804,7.793844,3.3,251,€€€,Allemande,124 Rue du Centre,0130427976,https://www.strasbourg-restaurant-17.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_018,Strasbourg,Les Typique Bistro,48.534676,7.758478,4.5,82,€€,Française,160 Rue du Centre,0290967952,https://www.strasbourg-restaurant-18.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_019,Strasbourg,Le Table du Strasbourg,48.552818,7.753708,4.4,319,€,Choucroute,133 Rue du Centre,0373939136,https://www.strasbourg-restaurant-19.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_020,Strasbourg,Bistro La des Arts,48.559869,7.77321,4.1,411,€,Allemande,83 Rue Principale,0127773284,https://www.strasbourg-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_021,Strasbourg,La Cuisine du Strasbourg,48.546597,7.721287,3.5,333,€,Choucroute,108 Rue Principale,0694364215,https://www.strasbourg-restaurant-21.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_022,Strasbourg,Les Petit Table,48.575027,7.747005,4.6,463,€€,Française,121 Rue de Paris,0383557410,https://www.strasbourg-restaurant-22.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_023,Strasbourg,Le Table de Strasbourg,48.582668,7.769387,3.9,180,€€,Française,121 Rue Principale,0623819245,https://www.strasbourg-restaurant-23.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_024,Strasbourg,Le Table du Strasbourg,48.566649,7.759277,4.3,491,€€,Française,22 Rue Principale,0265596555,https://www.strasbourg-restaurant-24.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_025,Strasbourg,Les Bouchon Strasbourg,48.574731,7.78221,4.0,430,€€€,Choucroute,102 Rue du Centre,0275327435,https://www.strasbourg-restaurant-25.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_026,Strasbourg,Le Grand Café,48.59351,7.781929,4.7,323,€€€,Française,136 Rue Principale,0429236994,https://www.strasbourg-restaurant-26.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_027,Strasbourg,Les Café Strasbourg,48.590557,7.785405,4.5,216,€,Choucroute,157 Rue du Centre,0433813924,https://www.strasbourg-restaurant-27.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_028,Strasbourg,Au Nouveau Comptoir,48.544885,7.76814,3.4,101,€,Alsacienne,98 Rue Principale,0696239583,https://www.strasbourg-restaurant-28.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_029,Strasbourg,Au Café Strasbourg,48.533471,7.732646,3.7,324,€€€,Choucroute,5 Rue Victor Hugo,0382584473,https://www.strasbourg-restaurant-29.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_030,Strasbourg,La Comptoir Strasbourg,48.617492,7.751076,3.9,248,€,Française,116 Rue Principale,0168623886,https://www.strasbourg-restaurant-30.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_031,Strasbourg,Table La de la Gare,48.620121,7.7226,4.6,467,€€€,Choucroute,116 Rue du Centre,0619657617,https://www.strasbourg-restaurant-31.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_032,Strasbourg,Chez Typique Restaurant,48.592806,7.704587,4.4,242,€,Choucroute,98 Rue Principale,0257189049,https://www.strasbourg-restaurant-32.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_033,Strasbourg,La Petit Table,48.613041,7.723132,3.5,371,€,Allemande,74 Rue de Paris,0243996982,https://www.strasbourg-restaurant-33.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_034,Strasbourg,Chez Petit Bistro,48.535584,7.768147,4.7,57,€€€,Choucroute,150 Rue du Centre,0337765184,https://www.strasbourg-restaurant-34.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_035,Strasbourg,Bistro Au du Marché,48.527007,7.763957,3.7,265,€€€,Française,40 Rue Victor Hugo,0514781234,https://www.strasbourg-restaurant-35.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_036,Strasbourg,Les Nouveau Bistro,48.570129,7.705706,4.3,173,€€,Alsacienne,50 Rue du Centre,0213276436,https://www.strasbourg-restaurant-36.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_037,Strasbourg,Le Table de Strasbourg,48.618018,7.775478,4.2,387,€€,Française,24 Rue du Centre,0598509484,https://www.strasbourg-restaurant-37.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_038,Strasbourg,Café Le du Port,48.539031,7.766097,4.7,50,€€€,Allemande,107 Rue de Paris,0687263921,https://www.strasbourg-restaurant-38.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_039,Strasbourg,La Table du Strasbourg,48.606944,7.798227,4.3,449,€,Allemande,34 Rue de Paris,0588993585,https://www.strasbourg-restaurant-39.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_040,Strasbourg,La Petit Bistro,48.57127,7.711505,4.0,350,€€,Française,193 Rue du Centre,0459217596,https://www.strasbourg-restaurant-40.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_041,Strasbourg,Les Bouchon Strasbourg,48.538099,7.801527,4.5,217,€,Alsacienne,8 Rue Principale,0376156472,https://www.strasbourg-restaurant-41.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_042,Strasbourg,Chez Traditionnel Bistro,48.560552,7.796269,3.4,110,€€€,Choucroute,171 Rue Victor Hugo,0455535923,https://www.strasbourg-restaurant-42.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_043,Strasbourg,Le Cuisine de Strasbourg,48.608792,7.713052,4.1,259,€€€,Choucroute,39 Rue Principale,0157179776,https://www.strasbourg-restaurant-43.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_044,Strasbourg,Le Table du Strasbourg,48.537729,7.77504,4.4,292,€,Française,145 Rue de Paris,0365273360,https://www.strasbourg-restaurant-44.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_045,Strasbourg,Le Table du Strasbourg,48.564145,7.786882,3.9,401,€,Alsacienne,187 Rue du Centre,0429118287,https://www.strasbourg-restaurant-45.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_046,Strasbourg,Table Les des Arts,48.58273,7.709116,4.1,186,€€,Alsacienne,131 Rue Principale,0525964831,https://www.strasbourg-restaurant-46.fr,"11:30-15:00, 18:30-23:00",generated_data

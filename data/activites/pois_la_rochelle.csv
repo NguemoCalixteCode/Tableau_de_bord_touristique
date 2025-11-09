@@ -1,0 +1,728 @@
+city,category,name,lat,lon,osm_type,osm_id
+La Rochelle,museum,Musée Maritime,46.1506021,-1.1506946,node,1355650229
+La Rochelle,museum,Musée des Beaux-Arts,46.1621097,-1.1515809,node,1445028137
+La Rochelle,museum,Musée Rochelais d'Histoire Protestante,46.1594892,-1.1499958,node,2403784183
+La Rochelle,museum,Le Bunker de La Rochelle,46.1610044,-1.1490899,node,3337725499
+La Rochelle,museum,Muséum d'Histoire Naturelle,46.164843,-1.151264,way,119814128
+La Rochelle,museum,Musée du Nouveau Monde,46.1615845,-1.151129,way,119815407
+La Rochelle,museum,Musée Maritime La Rochelle,46.1507431,-1.1517139,relation,7695523
+La Rochelle,park,Cours d'informatique adaptés aux seniors,46.1350685,-1.1284076,node,11025833515
+La Rochelle,park,Parc Kennedy,46.168505,-1.1832633,way,23005497
+La Rochelle,park,Parc Frank Delmas,46.1558594,-1.1723727,way,23005546
+La Rochelle,park,Parc Franck Espoir,46.1720669,-1.1619219,way,39097827
+La Rochelle,park,Parc de la Porte Royale,46.1611079,-1.1412743,way,39502643
+La Rochelle,park,"Parc Renée Michaud dite ""Marcelle""",46.1528775,-1.1478322,way,39603040
+La Rochelle,park,Sans nom,46.1541563,-1.1211066,way,39741428
+La Rochelle,park,Parc Jean Macé,46.1338903,-1.1104654,way,72093044
+La Rochelle,park,Jardin des Plantes,46.1649246,-1.1501173,way,126550326
+La Rochelle,park,Parc d'Orbigny,46.1548466,-1.1703832,way,128933365
+La Rochelle,park,Parc du Casino,46.1550891,-1.168029,way,128933366
+La Rochelle,park,Sans nom,46.1873935,-1.1192351,way,170306531
+La Rochelle,park,Sans nom,46.153244,-1.1560304,way,171046927
+La Rochelle,park,Parc de Laleu,46.1676054,-1.2022723,way,181022501
+La Rochelle,park,Square Alain Leloup,46.1604459,-1.179742,way,257691091
+La Rochelle,park,Square Jacques Bobinec,46.1546048,-1.1481603,way,304057778
+La Rochelle,park,Sans nom,46.1384537,-1.1151427,way,323407623
+La Rochelle,park,Sans nom,46.1405502,-1.1410312,way,377944254
+La Rochelle,park,Square Louis Rambaud,46.1416452,-1.1445056,way,377944255
+La Rochelle,park,Sans nom,46.1369117,-1.151944,way,384008515
+La Rochelle,park,Parc Adèle Charruyer,46.1618788,-1.1577783,way,394372836
+La Rochelle,park,Sans nom,46.1576939,-1.1428873,way,395543449
+La Rochelle,park,Sans nom,46.1558839,-1.1648013,way,397114424
+La Rochelle,park,Sans nom,46.1560001,-1.1621518,way,397114427
+La Rochelle,park,Sans nom,46.1557205,-1.168655,way,397114428
+La Rochelle,park,Place Olof Palme,46.165256,-1.1290353,way,512573646
+La Rochelle,park,Place New Rochelle,46.1618809,-1.2155245,way,525727717
+La Rochelle,park,Sans nom,46.1697967,-1.1931564,way,538944961
+La Rochelle,park,Sans nom,46.1554819,-1.1878982,way,538949994
+La Rochelle,park,Sans nom,46.1547157,-1.188988,way,538949995
+La Rochelle,park,Sans nom,46.1539937,-1.1879082,way,538949996
+La Rochelle,park,Sans nom,46.1540413,-1.1856065,way,538949997
+La Rochelle,park,Sans nom,46.1548043,-1.1856145,way,538949998
+La Rochelle,park,Sans nom,46.1555039,-1.1864657,way,538949999
+La Rochelle,park,Sans nom,46.1589943,-1.1241504,way,538966285
+La Rochelle,park,Sans nom,46.1544212,-1.1249843,way,538967796
+La Rochelle,park,Sans nom,46.1546587,-1.1292195,way,538968476
+La Rochelle,park,Sans nom,46.1537078,-1.1287491,way,538968652
+La Rochelle,park,square,46.1472821,-1.1489383,way,538970203
+La Rochelle,park,Parc des Pères,46.1380299,-1.1626533,way,538971718
+La Rochelle,park,Sans nom,46.1379994,-1.1578835,way,538971719
+La Rochelle,park,Sans nom,46.1390795,-1.1718372,way,538971722
+La Rochelle,park,Sans nom,46.1389297,-1.1689406,way,538971723
+La Rochelle,park,Sans nom,46.1384388,-1.1660876,way,538971724
+La Rochelle,park,Square Valin,46.1574195,-1.1507619,way,538972216
+La Rochelle,park,Parc du Bassin des Chasses,46.1568057,-1.1460883,way,538972571
+La Rochelle,park,Sans nom,46.1601984,-1.144509,way,538973150
+La Rochelle,park,Parc du Lac de la Sole,46.1451901,-1.1537252,way,538980417
+La Rochelle,park,Parc du plan d'eau de la Moulinette2,46.1499672,-1.1210834,way,540446793
+La Rochelle,park,Square Henri Gayot,46.1555944,-1.1651916,way,700025986
+La Rochelle,park,Square Pierre Ruibet et Claude Gâtineau,46.1666958,-1.150539,way,739595642
+La Rochelle,park,Sans nom,46.1898693,-1.1413832,way,752982853
+La Rochelle,park,Bois des Protestants,46.1749179,-1.1424151,way,765163565
+La Rochelle,park,Sans nom,46.1578926,-1.1237264,way,766238083
+La Rochelle,park,Sans nom,46.1553926,-1.1199734,way,766249484
+La Rochelle,park,Sans nom,46.1554981,-1.119715,way,766251556
+La Rochelle,park,Square Marie-Claude Memon,46.1424238,-1.1467053,way,779665763
+La Rochelle,park,Square Gabriel Lippmann,46.1401061,-1.1586052,way,781034981
+La Rochelle,park,Sans nom,46.1858401,-1.1163808,way,802429643
+La Rochelle,park,Parc André Charier,46.191244,-1.157818,way,840255813
+La Rochelle,park,Sans nom,46.1352068,-1.1275921,way,916481073
+La Rochelle,park,Sans nom,46.1697746,-1.1974787,way,938306255
+La Rochelle,park,Sans nom,46.1651069,-1.1380811,way,948743604
+La Rochelle,park,Sans nom,46.1632103,-1.1765923,way,951562892
+La Rochelle,park,Sans nom,46.1684764,-1.112212,way,954228148
+La Rochelle,park,Sans nom,46.1605205,-1.152943,way,979751201
+La Rochelle,park,Sans nom,46.159597,-1.1529315,way,1012818376
+La Rochelle,park,Sans nom,46.1560084,-1.1521728,way,1015768510
+La Rochelle,park,Sans nom,46.1703047,-1.2024131,way,1021599796
+La Rochelle,park,Parc littoral Jean Duvignaud,46.1519808,-1.1593509,way,1049990682
+La Rochelle,park,Sans nom,46.1829341,-1.1571219,way,1050003022
+La Rochelle,park,Parc Gabriel Coll,46.1903482,-1.151371,way,1050399071
+La Rochelle,park,Sans nom,46.180164,-1.1594502,way,1050474440
+La Rochelle,park,Place des Guigniers,46.1831821,-1.1602611,way,1050475121
+La Rochelle,park,Place des Merisiers,46.1818804,-1.1636379,way,1050477859
+La Rochelle,park,Sans nom,46.1629844,-1.1819426,way,1125033224
+La Rochelle,park,Parc du Bois Fleuri,46.1660459,-1.2053204,way,1138608368
+La Rochelle,park,Place du Château d'Eau,46.1700675,-1.178698,way,1147419672
+La Rochelle,park,Sans nom,46.1695388,-1.1800758,way,1147419673
+La Rochelle,park,Sans nom,46.1699564,-1.1497874,way,1149694846
+La Rochelle,park,Parc des Sources,46.178361,-1.1448824,way,1149700971
+La Rochelle,park,Parc de Coureilles,46.1419066,-1.1617689,way,1151220224
+La Rochelle,park,Sans nom,46.1623304,-1.18788,way,1151441549
+La Rochelle,park,Parc Louise Magnan,46.1431682,-1.1364248,way,1151541004
+La Rochelle,park,Square du 19 Mars 1962,46.1350311,-1.1126377,way,1167706985
+La Rochelle,park,Sans nom,46.1671794,-1.1975345,way,1208994040
+La Rochelle,park,Sans nom,46.1825073,-1.1605811,way,1329678553
+La Rochelle,park,Sans nom,46.1583569,-1.1426089,way,1359036116
+La Rochelle,park,Sans nom,46.1840185,-1.1140429,way,1376494818
+La Rochelle,park,Parc du plan d'eau de la Moulinette,46.1508838,-1.1292869,relation,7876268
+La Rochelle,restaurant,Le Manzio,46.148679,-1.1536333,node,616665766
+La Rochelle,restaurant,Le Mail,46.1561039,-1.1642569,node,1344585102
+La Rochelle,restaurant,Le Jardin du marché,46.1618443,-1.150655,node,1445028102
+La Rochelle,restaurant,L'Ecaille - Café Leffe,46.1563818,-1.1543422,node,1445028109
+La Rochelle,restaurant,Wallilabou Bay,46.1434125,-1.1541991,node,1822578937
+La Rochelle,restaurant,La Marie Galante,46.1421504,-1.1631032,node,1823898881
+La Rochelle,restaurant,Cafétéria des Sciences,46.1463279,-1.1579305,node,1836469159
+La Rochelle,restaurant,L'Équinoxe,46.1405353,-1.1704426,node,1853984208
+La Rochelle,restaurant,Le comptoir d'Assia,46.1485325,-1.1612474,node,1854044054
+La Rochelle,restaurant,Le Comptoir du Port,46.1488385,-1.1596297,node,1854044056
+La Rochelle,restaurant,Tasdon Pizza,46.1458304,-1.1429391,node,2181742490
+La Rochelle,restaurant,Bonheur du soleil,46.1470745,-1.1430879,node,2181816925
+La Rochelle,restaurant,La Taverne de Tasdon,46.1472075,-1.1431016,node,2181816928
+La Rochelle,restaurant,Garde manger,46.1486662,-1.1437723,node,2181816937
+La Rochelle,restaurant,La Solette,46.1577283,-1.1491912,node,2238678581
+La Rochelle,restaurant,La Marée,46.1540015,-1.148325,node,2371035186
+La Rochelle,restaurant,Ristorante Del Arte,46.147224,-1.1533534,node,2445858407
+La Rochelle,restaurant,Bun's garden,46.1399288,-1.1596354,node,2489449221
+La Rochelle,restaurant,Saint-Maurice Pizza,46.1639258,-1.1747138,node,2968814915
+La Rochelle,restaurant,L'Étoile du marin,46.1558035,-1.1483848,node,3057440555
+La Rochelle,restaurant,Un voyage à Damas,46.1553781,-1.1478395,node,3057474210
+La Rochelle,restaurant,Chez Titou,46.1557776,-1.1516205,node,3057514511
+La Rochelle,restaurant,Brasserie Saint-Nicolas,46.1557823,-1.1515081,node,3057514516
+La Rochelle,restaurant,Le Cabestan,46.1552416,-1.1515094,node,3057531954
+La Rochelle,restaurant,O'ZEN,46.1553551,-1.151274,node,3057550774
+La Rochelle,restaurant,La Cav' à So',46.1557765,-1.1511871,node,3057550782
+La Rochelle,restaurant,Le Verre Luisant,46.1557786,-1.1510709,node,3057550783
+La Rochelle,restaurant,Café du Nord,46.1557893,-1.1506529,node,3057550786
+La Rochelle,restaurant,Le Fratel',46.158014,-1.150443,node,3057604556
+La Rochelle,restaurant,Le Rupella,46.1583142,-1.151019,node,3057604558
+La Rochelle,restaurant,La Voile Blanche,46.1557488,-1.1502674,node,3059242658
+La Rochelle,restaurant,Les Grands Yachts,46.1557536,-1.1500268,node,3059242659
+La Rochelle,restaurant,André,46.1564114,-1.1548898,node,3059304533
+La Rochelle,restaurant,Le Bateau Ivre,46.1569206,-1.1543342,node,3059312943
+La Rochelle,restaurant,Les 4 Sergents,46.1561707,-1.1564219,node,3059318032
+La Rochelle,restaurant,Le Comptoir Italien,46.1564134,-1.1553417,node,3059318333
+La Rochelle,restaurant,Loma,46.1577181,-1.1494308,node,3062780751
+La Rochelle,restaurant,Les Jasmins,46.1577862,-1.1495979,node,3071870178
+La Rochelle,restaurant,Prao,46.1579071,-1.1497238,node,3071899351
+La Rochelle,restaurant,Cosmopolite café,46.1438895,-1.1537181,node,3076491384
+La Rochelle,restaurant,La bonne pâte,46.1579109,-1.149174,node,3092409729
+La Rochelle,restaurant,Brasserie Là-Haut,46.1535109,-1.1506489,node,3094245600
+La Rochelle,restaurant,Café Barrière,46.1554214,-1.1660629,node,3094403399
+La Rochelle,restaurant,Le 1929,46.162525,-1.1486975,node,3107167488
+La Rochelle,restaurant,La benèze,46.1612194,-1.1488935,node,3337736297
+La Rochelle,restaurant,L'ardoise des Cloutiers,46.1622826,-1.1489547,node,3346610928
+La Rochelle,restaurant,Seoul,46.1562062,-1.1554815,node,3486535794
+La Rochelle,restaurant,Aperta,46.1620562,-1.1491392,node,3486536093
+La Rochelle,restaurant,Les petits clous,46.1620329,-1.1489922,node,3486536393
+La Rochelle,restaurant,Pizzeria Lucgi,46.1344973,-1.1268349,node,3486589751
+La Rochelle,restaurant,Le Bistrot d'la Chaîne,46.1560282,-1.1549826,node,3487550093
+La Rochelle,restaurant,La Dame de Trèfle,46.1568288,-1.1545146,node,3487550193
+La Rochelle,restaurant,Ô bouchon,46.1613368,-1.1486259,node,3489180294
+La Rochelle,restaurant,Les frangins,46.1614717,-1.1484511,node,3489180493
+La Rochelle,restaurant,Bistrot d'André,46.156206,-1.1545083,node,3489181193
+La Rochelle,restaurant,Les Flots,46.1559493,-1.1544368,node,3489237293
+La Rochelle,restaurant,Au steak house,46.1572565,-1.1554755,node,3489237493
+La Rochelle,restaurant,Le Pass'Port,46.1582835,-1.1518417,node,3498015086
+La Rochelle,restaurant,L'Étoile Berbère,46.1562542,-1.157222,node,3625730505
+La Rochelle,restaurant,Ragazzi da Peppone,46.1570604,-1.1493207,node,3626267893
+La Rochelle,restaurant,Christopher Coutanceau,46.1553795,-1.1599853,node,3642820125
+La Rochelle,restaurant,Bon Temps,46.1561355,-1.1558563,node,4073681322
+La Rochelle,restaurant,Sans nom,46.1379496,-1.1293319,node,4320427329
+La Rochelle,restaurant,La Fleur de Sel,46.1561684,-1.1562699,node,4339638389
+La Rochelle,restaurant,Le Trimaran,46.1410967,-1.1687682,node,4356496101
+La Rochelle,restaurant,Le Cargo,46.1411293,-1.1686019,node,4356496102
+La Rochelle,restaurant,Le Calypso,46.1411599,-1.1684571,node,4356496103
+La Rochelle,restaurant,Yamato,46.1625017,-1.149667,node,4359319885
+La Rochelle,restaurant,So Dream,46.1630602,-1.149279,node,4387857119
+La Rochelle,restaurant,La table basque,46.1420684,-1.1631276,node,4858061521
+La Rochelle,restaurant,L'Épi de blé,46.1587795,-1.1514964,node,4876114521
+La Rochelle,restaurant,Le Yassa,46.1693087,-1.1699154,node,4945253345
+La Rochelle,restaurant,La Taverne du Rescator,46.1588135,-1.1511848,node,5064132498
+La Rochelle,restaurant,Annette,46.1591905,-1.1508808,node,5064132595
+La Rochelle,restaurant,La Nouvelle Brasserie des Dames,46.1578995,-1.1536476,node,5064730846
+La Rochelle,restaurant,My Self Restaurant,46.1521644,-1.1545648,node,5080910251
+La Rochelle,restaurant,Opaline,46.1634515,-1.1536953,node,5535655389
+La Rochelle,restaurant,Casa della Pizza,46.1701649,-1.1586714,node,5602642825
+La Rochelle,restaurant,La cave de Laleu,46.1689106,-1.2000646,node,5626829493
+La Rochelle,restaurant,Le Comptoir de Walter,46.1569565,-1.1491378,node,5776610409
+La Rochelle,restaurant,Gueuleton,46.1584253,-1.1544983,node,5815045527
+La Rochelle,restaurant,Les Hédonistes,46.1571126,-1.1555825,node,5815045530
+La Rochelle,restaurant,La Bigoudène,46.1562321,-1.1569566,node,5821154275
+La Rochelle,restaurant,Les Fils à Maman,46.1562048,-1.1567753,node,5821154276
+La Rochelle,restaurant,Le Saint Jean,46.1563445,-1.156652,node,5821154284
+La Rochelle,restaurant,Koï,46.1563338,-1.1565172,node,5821154287
+La Rochelle,restaurant,Sri Krishna,46.1563057,-1.1563658,node,5821154289
+La Rochelle,restaurant,Shalimar,46.1561383,-1.1559743,node,5821154290
+La Rochelle,restaurant,Les Pâtes Volantes,46.1561625,-1.1556585,node,5821154296
+La Rochelle,restaurant,Crêperie des Dames,46.1570642,-1.1541664,node,5823845369
+La Rochelle,restaurant,La Popote de la Mer,46.1569663,-1.154287,node,5823845633
+La Rochelle,restaurant,Les 2 Tours,46.1570178,-1.1542219,node,5823845953
+La Rochelle,restaurant,Le P’tit Amiral,46.1560667,-1.1548213,node,5846907065
+La Rochelle,restaurant,142 Avenue,46.1692084,-1.170636,node,6338150880
+La Rochelle,restaurant,La Grand Rive,46.1582648,-1.1525416,node,6396993728
+La Rochelle,restaurant,Brasserie Jean,46.1591232,-1.1613005,node,6648218085
+La Rochelle,restaurant,Le Trot Quai,46.1591494,-1.1617436,node,6648225385
+La Rochelle,restaurant,Chez Mick Bières et Viandes,46.1667132,-1.1362595,node,6738727399
+La Rochelle,restaurant,Le Panier de Crabe,46.157711,-1.1489878,node,6812407007
+La Rochelle,restaurant,Saveur dans L'R,46.1617495,-1.1477559,node,6895589536
+La Rochelle,restaurant,Yemanja,46.1578004,-1.1553842,node,6897984593
+La Rochelle,restaurant,Memphis,46.1731879,-1.1182451,node,6979446126
+La Rochelle,restaurant,Perle de l'Île Maurice,46.1481122,-1.1432688,node,7007083975
+La Rochelle,restaurant,Blue,46.1622291,-1.1489958,node,7018054824
+La Rochelle,restaurant,L'antre copains,46.1613268,-1.148534,node,7157363673
+La Rochelle,restaurant,Le Boute en train,46.1624853,-1.1490375,node,7170558743
+La Rochelle,restaurant,Le Bistrot des Bonnes Femmes,46.1624955,-1.1490906,node,7170558744
+La Rochelle,restaurant,Le Rouge aux Lèvres,46.1621424,-1.1489237,node,7170558748
+La Rochelle,restaurant,Loussa Pizza,46.165443,-1.1883205,node,7195442824
+La Rochelle,restaurant,Chabatz d'entrar...,46.1419759,-1.1563144,node,7666944753
+La Rochelle,restaurant,Le Baron Moleskine,46.1593333,-1.150046,node,7677828685
+La Rochelle,restaurant,Le Libanais,46.1580662,-1.1548886,node,7680306387
+La Rochelle,restaurant,Poké Bowl & Ramen,46.1586604,-1.1536031,node,7680310390
+La Rochelle,restaurant,Ohayo,46.1406004,-1.1662757,node,7700673886
+La Rochelle,restaurant,Pattaya,46.1559012,-1.1549737,node,7737932485
+La Rochelle,restaurant,Le Pompon,46.1566257,-1.1495431,node,8010080723
+La Rochelle,restaurant,Le Merluberlu,46.1567821,-1.1495967,node,8010091603
+La Rochelle,restaurant,Bistrot Gourmand,46.1574658,-1.1538404,node,8010638323
+La Rochelle,restaurant,June,46.1609148,-1.1492407,node,8212491094
+La Rochelle,restaurant,Le Bistrot de Mémé,46.1424035,-1.1630481,node,8212537536
+La Rochelle,restaurant,Annam,46.1613022,-1.1483623,node,8235819175
+La Rochelle,restaurant,Le Comptoir Soaufé,46.1585427,-1.1516665,node,8537058218
+La Rochelle,restaurant,L'Italien,46.1586841,-1.1507168,node,8537058225
+La Rochelle,restaurant,Via Roma,46.1586677,-1.151577,node,8537081418
+La Rochelle,restaurant,Le Bistrot du Port,46.1585197,-1.1515388,node,8537081419
+La Rochelle,restaurant,Paradie d'Asie,46.1587815,-1.1509743,node,8537081422
+La Rochelle,restaurant,Sushi Royal,46.1587062,-1.1515431,node,8537081617
+La Rochelle,restaurant,Papy Mougeot,46.1589151,-1.1511081,node,8537081619
+La Rochelle,restaurant,Nonno Leo,46.1591071,-1.150983,node,8537082917
+La Rochelle,restaurant,Pasta ciao,46.1593343,-1.1502137,node,8635414275
+La Rochelle,restaurant,Le delphin,46.1416056,-1.1676423,node,8856995248
+La Rochelle,restaurant,La Maison du Curry,46.1610006,-1.1492271,node,8935932419
+La Rochelle,restaurant,El Gauchito,46.1609548,-1.149232,node,8935941218
+La Rochelle,restaurant,Boniato,46.1624162,-1.1486884,node,8977881509
+La Rochelle,restaurant,Carlotta,46.1562796,-1.1560919,node,9008324123
+La Rochelle,restaurant,Fingers,46.1611343,-1.1492074,node,9023569882
+La Rochelle,restaurant,Le France 1,46.1511873,-1.1517492,node,9442900952
+La Rochelle,restaurant,La Bella Donna,46.155959,-1.1552289,node,9505094011
+La Rochelle,restaurant,Iséo,46.1562491,-1.1544259,node,9505094013
+La Rochelle,restaurant,La Storia,46.157345,-1.1539441,node,9505094014
+La Rochelle,restaurant,Le commerce,46.1629529,-1.1529679,node,9597968075
+La Rochelle,restaurant,Cartel aime,46.156701,-1.149163,node,9633569357
+La Rochelle,restaurant,Chez Hugo,46.1557831,-1.1508112,node,9773385317
+La Rochelle,restaurant,DIJO,46.1564748,-1.1551663,node,9774814417
+La Rochelle,restaurant,Le Tout du Cru,46.1612914,-1.1482782,node,9781470518
+La Rochelle,restaurant,Mamie Bigoude,46.1617076,-1.1486844,node,9810401918
+La Rochelle,restaurant,Luma,46.1412385,-1.1681068,node,9810445319
+La Rochelle,restaurant,L'Astrolabe,46.1618505,-1.1478763,node,9810447817
+La Rochelle,restaurant,Les P'tits Loups,46.1550373,-1.1507834,node,9810453317
+La Rochelle,restaurant,La Villa Blanche,46.1417496,-1.1675804,node,9810501417
+La Rochelle,restaurant,Bao Zi bar,46.1560093,-1.1550458,node,9943447994
+La Rochelle,restaurant,Ludoti,46.15605,-1.1548999,node,9943447995
+La Rochelle,restaurant,La yole de Chris,46.1554699,-1.1602218,node,9945874877
+La Rochelle,restaurant,Amore by Iséo,46.1614863,-1.1486064,node,10286270282
+La Rochelle,restaurant,La Côte Rôtie,46.1618554,-1.2027603,node,10287425380
+La Rochelle,restaurant,La Perla,46.1616785,-1.1603941,node,10832470116
+La Rochelle,restaurant,Les Délices d'Amal,46.1618051,-1.1606936,node,10832470117
+La Rochelle,restaurant,Tonton Louis,46.1491746,-1.2207071,node,10837887665
+La Rochelle,restaurant,Le Koya,46.1584178,-1.1543448,node,10840020709
+La Rochelle,restaurant,Hero Pizza,46.1539737,-1.1453076,node,10862496228
+La Rochelle,restaurant,Hattori Sushi,46.1582715,-1.1514503,node,10908156326
+La Rochelle,restaurant,Le palais de Chine,46.1608771,-1.1501763,node,11001072258
+La Rochelle,restaurant,Sushi bar,46.1600436,-1.1527656,node,11001113004
+La Rochelle,restaurant,Amaryne,46.1617847,-1.1481974,node,11001119451
+La Rochelle,restaurant,Crêperie de Verdun,46.1617837,-1.152618,node,11001121304
+La Rochelle,restaurant,Pasta Box,46.1620347,-1.1493222,node,11001122551
+La Rochelle,restaurant,Les Bichettes,46.1627261,-1.150728,node,11011589687
+La Rochelle,restaurant,Les Arcades,46.1633599,-1.1522562,node,11011590217
+La Rochelle,restaurant,Traiteur d'Asie,46.158627,-1.1532407,node,11011590576
+La Rochelle,restaurant,Bunsik,46.1626333,-1.1502435,node,11011591923
+La Rochelle,restaurant,Chez Stéphane,46.1610651,-1.1490599,node,11011594323
+La Rochelle,restaurant,Pastavino,46.1624543,-1.1493638,node,11011595878
+La Rochelle,restaurant,Le Benèze,46.1612197,-1.1490454,node,11011597435
+La Rochelle,restaurant,SO Dream,46.1630201,-1.1492633,node,11011597436
+La Rochelle,restaurant,Arco,46.1628139,-1.1511706,node,11011597533
+La Rochelle,restaurant,Nomad,46.1612632,-1.1491797,node,11011603710
+La Rochelle,restaurant,La porte royale,46.1618337,-1.1440741,node,11029036096
+La Rochelle,restaurant,Sushi royal,46.1588502,-1.151582,node,11029150709
+La Rochelle,restaurant,Sakura,46.1617499,-1.1479619,node,11029150710
+La Rochelle,restaurant,La bottega,46.1623635,-1.1487416,node,11029407682
+La Rochelle,restaurant,Chez Awa,46.1344835,-1.1195638,node,11036810687
+La Rochelle,restaurant,Octopus,46.1484874,-1.1616317,node,11036823816
+La Rochelle,restaurant,Thaï Famille,46.1491109,-1.144602,node,11040664154
+La Rochelle,restaurant,Amanti Pizzeria,46.1558505,-1.1484406,node,11051518130
+La Rochelle,restaurant,La Marmotte,46.1585051,-1.1547096,node,11056123914
+La Rochelle,restaurant,Bistrot moderne,46.160864,-1.2167933,node,11056145909
+La Rochelle,restaurant,La P'tite Bouffe,46.1614803,-1.2076337,node,11056146825
+La Rochelle,restaurant,Promenade,46.1610611,-1.1487468,node,11062565842
+La Rochelle,restaurant,Ô bouchon,46.1610963,-1.1486371,node,11062566534
+La Rochelle,restaurant,Miss Hanoï,46.1334894,-1.114056,node,11062585745
+La Rochelle,restaurant,Bistro Régent,46.1552706,-1.1511856,node,11062590393
+La Rochelle,restaurant,Pizza Hut,46.158523,-1.1491375,node,11063085319
+La Rochelle,restaurant,Pazza notté,46.1582406,-1.1528459,node,11063312031
+La Rochelle,restaurant,Sushi & food,46.1767373,-1.1151802,node,11064083627
+La Rochelle,restaurant,Bistro Régent,46.1747558,-1.1172144,node,11065798465
+La Rochelle,restaurant,I tratoria,46.1754032,-1.1163098,node,11065814263
+La Rochelle,restaurant,Nosou,46.1519567,-1.154445,node,11065941091
+La Rochelle,restaurant,Le K'barré,46.1388422,-1.1433497,node,11065960696
+La Rochelle,restaurant,La cuisine du 6,46.1774473,-1.1184345,node,11073178947
+La Rochelle,restaurant,Le sparrow,46.1775261,-1.1183939,node,11073188388
+La Rochelle,restaurant,Eat salad,46.1770933,-1.1183158,node,11073192022
+La Rochelle,restaurant,Le zèbre,46.1603183,-1.1689526,node,11076227378
+La Rochelle,restaurant,La cabosse enchantée chocologique,46.1629015,-1.1494035,node,11078854474
+La Rochelle,restaurant,La guinguette,46.1575395,-1.1203521,node,11078855238
+La Rochelle,restaurant,Gaee,46.15359,-1.1496138,node,11081763992
+La Rochelle,restaurant,Casa Pizzboro,46.1873651,-1.1183684,node,11082002021
+La Rochelle,restaurant,La gueule du loup,46.1479443,-1.2166981,node,11083200505
+La Rochelle,restaurant,Le restaurant des Robinsons,46.1413679,-1.1682243,node,11084436746
+La Rochelle,restaurant,K'pizz,46.1412486,-1.1680483,node,11084633817
+La Rochelle,restaurant,Épicerie du phare,46.1620643,-1.1520279,node,11086464992
+La Rochelle,restaurant,Bons vivants,46.1618253,-1.1470436,node,11086813856
+La Rochelle,restaurant,Délices'Yas,46.1617241,-1.1470495,node,11086817644
+La Rochelle,restaurant,Sushi +,46.1684806,-1.1317642,node,11099646273
+La Rochelle,restaurant,La vallée kabyle,46.1686109,-1.1313409,node,11099668463
+La Rochelle,restaurant,Pizza plus Sautel,46.1684349,-1.1320058,node,11099703624
+La Rochelle,restaurant,K'pizz,46.1875364,-1.1176687,node,11099703625
+La Rochelle,restaurant,La cabane de pampin,46.1838791,-1.2088056,node,11100237403
+La Rochelle,restaurant,Asian food,46.1588321,-1.1515339,node,11104700138
+La Rochelle,restaurant,Moly,46.1685882,-1.1434436,node,11110702508
+La Rochelle,restaurant,K-Pizz,46.1592331,-1.1636018,node,11111668402
+La Rochelle,restaurant,Comptoir O'tapas,46.1487287,-1.1507024,node,11111714578
+La Rochelle,restaurant,Pizza délis,46.1615998,-1.1395713,node,11111726207
+La Rochelle,restaurant,Stereo Pizza,46.1409289,-1.1603432,node,11112046591
+La Rochelle,restaurant,La méduse,46.1610374,-1.2143993,node,11112948760
+La Rochelle,restaurant,In fusion,46.1542306,-1.2009118,node,11112948761
+La Rochelle,restaurant,La Charette de Mon Père,46.1616827,-1.2070285,node,11233382926
+La Rochelle,restaurant,Pizza e Basta,46.1590892,-1.141555,node,11366202223
+La Rochelle,restaurant,Pizza Mila,46.1677749,-1.143271,node,11373618214
+La Rochelle,restaurant,C'est la base,46.1559717,-1.1452488,node,11381658124
+La Rochelle,restaurant,Monvoisin,46.1671737,-1.1437308,node,11396256384
+La Rochelle,restaurant,K'pizz,46.1780771,-1.1533082,node,11491737918
+La Rochelle,restaurant,Le Thaï Gourmand,46.1690956,-1.1709935,node,11530680554
+La Rochelle,restaurant,Le Bretagne,46.1571638,-1.1541062,node,11579461089
+La Rochelle,restaurant,Minato,46.1575764,-1.1537644,node,11579479477
+La Rochelle,restaurant,RestoKoop,46.1654803,-1.1813423,node,11762253448
+La Rochelle,restaurant,Les pincettes,46.1605885,-1.1587414,node,11822489811
+La Rochelle,restaurant,La Kase,46.155898,-1.1550685,node,11891218160
+La Rochelle,restaurant,Nomade Grill,46.1736984,-1.168371,node,12152275251
+La Rochelle,restaurant,L'Houstal de la Pizza,46.1903887,-1.1531453,node,12184741606
+La Rochelle,restaurant,Les Gourmets,46.1905298,-1.1533226,node,12184741607
+La Rochelle,restaurant,Délice de L'Europe,46.1663479,-1.1793397,node,12239514100
+La Rochelle,restaurant,Le Bateau d'Émile,46.1646912,-1.1986072,node,12239515705
+La Rochelle,restaurant,Chez Basilic'O,46.188909,-1.1469773,node,12264636669
+La Rochelle,restaurant,L'Asiane,46.1896209,-1.1456083,node,12264636682
+La Rochelle,restaurant,L'Olivier,46.189672,-1.1452476,node,12264636683
+La Rochelle,restaurant,La Cuisine des Bichettes,46.1721759,-1.1797823,node,12324705123
+La Rochelle,restaurant,Le Gratiné,46.1721828,-1.1798723,node,12324705124
+La Rochelle,restaurant,L'Adress,46.1722072,-1.1801419,node,12324705128
+La Rochelle,restaurant,Pizza Giovanni,46.1700959,-1.1839051,node,12324705135
+La Rochelle,restaurant,Le Mireuil - Chez Sally,46.169939,-1.1839372,node,12324705137
+La Rochelle,restaurant,Le 411,46.1591862,-1.2008385,node,12324705145
+La Rochelle,restaurant,Le So What?,46.1413645,-1.1526174,node,12409753114
+La Rochelle,restaurant,Antinéa,46.1412393,-1.1526616,node,12409755905
+La Rochelle,restaurant,O'Diablotin,46.1577131,-1.1498531,node,12409772901
+La Rochelle,restaurant,Planète Sésame,46.1540118,-1.116964,node,12547399579
+La Rochelle,restaurant,Hangar 27,46.1607264,-1.2061549,node,12566196211
+La Rochelle,restaurant,Le Canot,46.1572948,-1.1539839,node,12750451660
+La Rochelle,restaurant,Planète Sésame,46.1856726,-1.1502652,node,12766803878
+La Rochelle,restaurant,Ginger,46.156144,-1.1557545,node,12772971876
+La Rochelle,restaurant,La Boussole,46.1561475,-1.156072,node,12772971877
+La Rochelle,restaurant,Le Uini's,46.1748551,-1.2191914,node,12959355396
+La Rochelle,restaurant,Trib's,46.1759009,-1.1944893,node,13083956178
+La Rochelle,restaurant,La Gaîté,46.1352907,-1.1476384,way,71926177
+La Rochelle,restaurant,Holly's diner,46.1750375,-1.1118024,way,84989716
+La Rochelle,restaurant,Cuba Tropicana,46.1540636,-1.118639,way,119805350
+La Rochelle,restaurant,Le Récif,46.141419,-1.1706935,way,119809556
+La Rochelle,restaurant,Restaurant du personnel,46.1755315,-1.1366975,way,119811816
+La Rochelle,restaurant,Restaurant Universitaire Amerigo Vespucci & Maison de la réussite,46.152001,-1.1540863,way,119814192
+La Rochelle,restaurant,Restaurant Universitaire République,46.138906,-1.1517045,way,119814647
+La Rochelle,restaurant,Le Belvédère,46.174794,-1.2191855,way,119815012
+La Rochelle,restaurant,La Trinquette,46.156012,-1.158922,way,119828822
+La Rochelle,restaurant,Rotisserie du pré,46.162089,-1.1495795,way,119832050
+La Rochelle,restaurant,Aya pizza,46.1662832,-1.1514537,way,119840365
+La Rochelle,restaurant,Cyclo-pousse Saïgon,46.162668,-1.1457265,way,119845128
+La Rochelle,restaurant,La Goul'beun Aise,46.161433,-1.129946,way,119864735
+La Rochelle,restaurant,Galanga,46.161009,-1.1482725,way,119868383
+La Rochelle,restaurant,L'Asiane,46.1400869,-1.1349818,way,986167454
+La Rochelle,restaurant,Restaurant scolaire,46.183553,-1.1576346,way,1050003016
+La Rochelle,station,La Rochelle - Porte Dauphine,46.167556,-1.1518694,node,467359367
+La Rochelle,station,La Rochelle,46.1525774,-1.1453062,node,4975049664
+La Rochelle,historic,Résistance,46.1556111,-1.1652498,node,1423445134
+La Rochelle,historic,Paul Guérit,46.147441,-1.2074529,node,1485671330
+La Rochelle,historic,Résistants Patriotes,46.1474886,-1.2076397,node,1485671418
+La Rochelle,historic,Amiral Duperré (Victor Guy),46.1580089,-1.1530605,node,1829842936
+La Rochelle,historic,Sans nom,46.1735844,-1.1828864,node,2638407319
+La Rochelle,historic,Sans nom,46.1813427,-1.1708478,node,2638480691
+La Rochelle,historic,Sans nom,46.1808709,-1.170931,node,2638480725
+La Rochelle,historic,Sans nom,46.181142,-1.1704643,node,2638480738
+La Rochelle,historic,Sans nom,46.1814485,-1.170019,node,2638480747
+La Rochelle,historic,Sans nom,46.1714475,-1.2188726,node,2638485480
+La Rochelle,historic,Sans nom,46.1805405,-1.2143209,node,2638494101
+La Rochelle,historic,Sans nom,46.1820969,-1.2149513,node,2638494106
+La Rochelle,historic,Sans nom,46.1816196,-1.2131783,node,2638494119
+La Rochelle,historic,Sans nom,46.1791738,-1.2170862,node,2638494123
+La Rochelle,historic,Sans nom,46.1796305,-1.217215,node,2638494134
+La Rochelle,historic,R625/59,46.1795747,-1.2128699,node,2638494139
+La Rochelle,historic,Sans nom,46.1808024,-1.2141224,node,2638494141
+La Rochelle,historic,Sans nom,46.1809175,-1.2143826,node,2638494145
+La Rochelle,historic,Sans nom,46.1786815,-1.2146749,node,2638494221
+La Rochelle,historic,Sans nom,46.1615682,-1.2252914,node,2639007181
+La Rochelle,historic,Sans nom,46.159548,-1.2028368,node,2640227099
+La Rochelle,historic,Sans nom,46.1632328,-1.2130327,node,2640823730
+La Rochelle,historic,Sans nom,46.1630006,-1.2107018,node,2640823737
+La Rochelle,historic,Sans nom,46.1511595,-1.2033168,node,2641773862
+La Rochelle,historic,Sans nom,46.1655709,-1.2221425,node,2642233674
+La Rochelle,historic,Sans nom,46.1557731,-1.2187468,node,2642233677
+La Rochelle,historic,Sans nom,46.1509976,-1.2039778,node,2642401455
+La Rochelle,historic,Sans nom,46.161741,-1.1953991,node,2642541631
+La Rochelle,historic,Sans nom,46.160851,-1.1963385,node,2642591584
+La Rochelle,historic,Clocher Saint-Jean,46.1565695,-1.1558641,node,3059312946
+La Rochelle,historic,Porte de Cougnes,46.1630924,-1.1456535,node,3094371931
+La Rochelle,historic,Porte des deux moulins,46.1552658,-1.158837,node,3094371933
+La Rochelle,historic,Maison Henri II,46.1605993,-1.1528993,node,3094794606
+La Rochelle,historic,Eugène Fromentin,46.1585369,-1.1537602,node,3094883513
+La Rochelle,historic,Monument aux Morts de la Grande Guerre,46.1556209,-1.1705226,node,3107265861
+La Rochelle,historic,Sans nom,46.1537798,-1.1512666,node,3380783140
+La Rochelle,historic,Première Pierre de l'Université,46.1476264,-1.1560269,node,3770297600
+La Rochelle,historic,Plaque à René-Josué Valin,46.1603676,-1.1541709,node,4498621695
+La Rochelle,historic,Sans nom,46.1583352,-1.1554594,node,4888111857
+La Rochelle,historic,Sans nom,46.1583018,-1.1553347,node,4888111858
+La Rochelle,historic,Sans nom,46.158286,-1.1552234,node,4888111859
+La Rochelle,historic,Sans nom,46.1610565,-1.1500856,node,4888464840
+La Rochelle,historic,Sans nom,46.1605586,-1.1503052,node,4888464841
+La Rochelle,historic,Sans nom,46.163015,-1.1520745,node,4890069630
+La Rochelle,historic,Sans nom,46.1629862,-1.1514817,node,4890069631
+La Rochelle,historic,Sans nom,46.1625111,-1.1495981,node,4890069632
+La Rochelle,historic,Sans nom,46.1626992,-1.1504699,node,4890069633
+La Rochelle,historic,Sans nom,46.1626876,-1.150382,node,4890069634
+La Rochelle,historic,Sans nom,46.1626147,-1.1500353,node,4890069635
+La Rochelle,historic,Sans nom,46.1626035,-1.1499824,node,4890069636
+La Rochelle,historic,Sans nom,46.162584,-1.1499032,node,4890069637
+La Rochelle,historic,Sans nom,46.1624953,-1.1495163,node,4890069638
+La Rochelle,historic,Sans nom,46.1606969,-1.1538757,node,5511805366
+La Rochelle,historic,Sans nom,46.1562943,-1.1552891,node,5511805367
+La Rochelle,historic,Sans nom,46.1563166,-1.1552207,node,5511805368
+La Rochelle,historic,Porte Royale (intérieure),46.1619317,-1.1417872,node,5573918950
+La Rochelle,historic,Sans nom,46.1567848,-1.1151539,node,6154458625
+La Rochelle,historic,Monument à la mémoire des Soldats et Marins,46.1571332,-1.150268,node,7163763975
+La Rochelle,historic,Toussaint Louverture,46.1615539,-1.1510928,node,8435203626
+La Rochelle,historic,Monument aux Morts,46.1902754,-1.151897,node,9652784174
+La Rochelle,historic,Sans nom,46.1798731,-1.2156147,node,10912002618
+La Rochelle,historic,Sans nom,46.1771978,-1.2191217,node,10912002619
+La Rochelle,historic,Sans nom,46.1335372,-1.1160241,node,11040978139
+La Rochelle,historic,Thomas Jefferson,46.1619917,-1.1559786,node,11366390161
+La Rochelle,historic,Xynthia 2010,46.1619715,-1.1559186,node,11366446427
+La Rochelle,historic,Sans nom,46.1898442,-1.1443386,node,11408615238
+La Rochelle,historic,Sans nom,46.1862446,-1.1155799,node,11408635254
+La Rochelle,historic,Sans nom,46.1550268,-1.1672752,node,11432191468
+La Rochelle,historic,519e Régiment du Train,46.1673873,-1.1403194,node,11455841091
+La Rochelle,historic,Sans nom,46.1596845,-1.1649962,node,11579226054
+La Rochelle,historic,Ossuaire,46.1651211,-1.1305269,node,11681695477
+La Rochelle,historic,Hommage aux Tirailleurs Sénégalais du Séquana,46.1654402,-1.1319201,node,11681748767
+La Rochelle,historic,Sans nom,46.1653599,-1.1322888,node,11681753522
+La Rochelle,historic,François-Dominique Toussaint Bréda,46.1555164,-1.1647318,node,11745844885
+La Rochelle,historic,Monument aux pionniers de la Côte-d'Ivoire,46.1620194,-1.1554926,node,12895653409
+La Rochelle,historic,R625/59,46.179585,-1.2128765,way,119805782
+La Rochelle,historic,Sans nom,46.1605053,-1.1535448,way,119806077
+La Rochelle,historic,Sans nom,46.1618045,-1.153729,way,119807233
+La Rochelle,historic,Hôtel de l'Intendance,46.1604765,-1.154485,way,119807738
+La Rochelle,historic,Maison Hugues Pontard,46.160386,-1.1529935,way,119807754
+La Rochelle,historic,Sans nom,46.1584929,-1.1550185,way,119809776
+La Rochelle,historic,Salle de l’Oratoire,46.163473,-1.1517805,way,119809782
+La Rochelle,historic,Hôtel Leclerc,46.158833,-1.1566585,way,119810919
+La Rochelle,historic,Sans nom,46.159995,-1.154696,way,119810978
+La Rochelle,historic,Sans nom,46.1587785,-1.1516615,way,119811933
+La Rochelle,historic,Sans nom,46.1604121,-1.1535832,way,119812071
+La Rochelle,historic,Sans nom,46.1616895,-1.195983,way,119812375
+La Rochelle,historic,Maison de Nicolas Venette,46.1603595,-1.154954,way,119812558
+La Rochelle,historic,Sans nom,46.1624935,-1.150367,way,119813072
+La Rochelle,historic,Porte de la Grosse Horloge,46.1581278,-1.1536695,way,119813092
+La Rochelle,historic,Fortin des Deux Moulins,46.154977,-1.159161,way,119813188
+La Rochelle,historic,Sans nom,46.1605818,-1.153599,way,119813330
+La Rochelle,historic,Sans nom,46.1603652,-1.1536165,way,119813485
+La Rochelle,historic,Ls 8 - Abri hopital,46.1600966,-1.2202045,way,119813511
+La Rochelle,historic,Maison Communautaire Israélite,46.1572111,-1.1543317,way,119813534
+La Rochelle,historic,Porte Maubec,46.159123,-1.146108,way,119813657
+La Rochelle,historic,Hôtel de la Bibliothèque et du Musée,46.1621095,-1.151673,way,119813966
+La Rochelle,historic,Porte Royale,46.162247,-1.143124,way,119814011
+La Rochelle,historic,Sans nom,46.1571603,-1.154356,way,119814103
+La Rochelle,historic,Sans nom,46.1570378,-1.1544266,way,119814407
+La Rochelle,historic,Sans nom,46.157596,-1.154652,way,119814645
+La Rochelle,historic,Sans nom,46.1573565,-1.1624245,way,119814724
+La Rochelle,historic,Chapelle Fromentin,46.1634678,-1.1502455,way,119814852
+La Rochelle,historic,Hôtel de Marsan,46.1611305,-1.151799,way,119814966
+La Rochelle,historic,Sans nom,46.160674,-1.147261,way,119815177
+La Rochelle,historic,Sans nom,46.1570207,-1.1545211,way,119815181
+La Rochelle,historic,Sans nom,46.157061,-1.1543328,way,119815188
+La Rochelle,historic,Ecluse protégée,46.157885,-1.219529,way,119815468
+La Rochelle,historic,Sans nom,46.1605307,-1.1534794,way,119816632
+La Rochelle,historic,LS 6,46.1616095,-1.225245,way,119816663
+La Rochelle,historic,Vf.2a,46.147996,-1.1983825,way,119817221
+La Rochelle,historic,Vf.2a,46.1475881,-1.1994338,way,119818065
+La Rochelle,historic,bunker locotrateur,46.1595595,-1.2181965,way,119818380
+La Rochelle,historic,Sans nom,46.138589,-1.1719765,way,119820154
+La Rochelle,historic,Sans nom,46.155379,-1.1675125,way,119820612
+La Rochelle,historic,Sans nom,46.1601255,-1.1533305,way,119823119
+La Rochelle,historic,Bunker du Commandant de port,46.160431,-1.2132225,way,119823869
+La Rochelle,historic,Sans nom,46.1604957,-1.1539614,way,119824018
+La Rochelle,historic,R501,46.1472675,-1.2079195,way,119824201
+La Rochelle,historic,Sans nom,46.1556625,-1.164705,way,119825349
+La Rochelle,historic,Sans nom,46.146542,-1.207195,way,119828126
+La Rochelle,historic,Sans nom,46.1385675,-1.1719835,way,119830573
+La Rochelle,historic,Tour Saint-Nicolas,46.1557725,-1.1531695,way,119832532
+La Rochelle,historic,Couvent des Augustins,46.1603365,-1.1519145,way,119832573
+La Rochelle,historic,Base de Sous-Marins de la Pallice,46.1587159,-1.2092177,way,119832581
+La Rochelle,historic,Sans nom,46.162854,-1.1516355,way,119832781
+La Rochelle,historic,Sans nom,46.1605485,-1.153593,way,119838556
+La Rochelle,historic,Sans nom,46.1519206,-1.1965543,way,119838626
+La Rochelle,historic,Corps de Garde Mle 1846,46.147092,-1.207754,way,119841037
+La Rochelle,historic,Sans nom,46.1606996,-1.1534313,way,119841266
+La Rochelle,historic,Tour Carrée,46.150334,-1.1934295,way,119841573
+La Rochelle,historic,La vierge du Richelieu,46.1529283,-1.1744697,way,119845623
+La Rochelle,historic,Hôtel Lambertz,46.160665,-1.1479585,way,119846759
+La Rochelle,historic,Sans nom,46.1604457,-1.1539651,way,119849032
+La Rochelle,historic,Sans nom,46.1586925,-1.151629,way,119850422
+La Rochelle,historic,Sans nom,46.138876,-1.172367,way,119850550
+La Rochelle,historic,SK,46.16173,-1.1954255,way,119850763
+La Rochelle,historic,Sans nom,46.1568188,-1.1544923,way,119851043
+La Rochelle,historic,Vf.2b,46.1468825,-1.207501,way,119853800
+La Rochelle,historic,Sans nom,46.1583554,-1.1555711,way,119853857
+La Rochelle,historic,Sans nom,46.160264,-1.1527915,way,119863350
+La Rochelle,historic,R 621,46.1595451,-1.202828,way,119863369
+La Rochelle,historic,Torpedobunker I,46.165442,-1.2222335,way,119863937
+La Rochelle,historic,Sans nom,46.1605665,-1.1538973,way,119864585
+La Rochelle,historic,Ls 03,46.155808,-1.2188065,way,119866032
+La Rochelle,historic,R630,46.148246,-1.199077,way,119866616
+La Rochelle,historic,R 621,46.163209,-1.2130225,way,119868437
+La Rochelle,historic,Trafo bunker Nord,46.160583,-1.209083,way,119868613
+La Rochelle,historic,Tour de la Lanterne,46.1557853,-1.1571226,way,119868751
+La Rochelle,historic,Tour de la Chaîne,46.1558089,-1.1541854,way,119868758
+La Rochelle,historic,Monument à la mémoire de Jean Guiton,46.1597994,-1.1517176,way,157016532
+La Rochelle,historic,Église Saint-Pierre-de-Laleu,46.1703445,-1.2025149,way,219207318
+La Rochelle,historic,Fl407a,46.1735861,-1.1828891,way,258496623
+La Rochelle,historic,Sans nom,46.1811402,-1.1704543,way,258503280
+La Rochelle,historic,Sans nom,46.180882,-1.1709215,way,258503282
+La Rochelle,historic,Sans nom,46.1806964,-1.1702999,way,258503283
+La Rochelle,historic,Sans nom,46.1803165,-1.1707887,way,258503285
+La Rochelle,historic,Sans nom,46.181466,-1.1699952,way,258503287
+La Rochelle,historic,Sans nom,46.1799625,-1.170685,way,258503289
+La Rochelle,historic,Sans nom,46.1820968,-1.2149618,way,258505113
+La Rochelle,historic,Sans nom,46.1809274,-1.214381,way,258505114
+La Rochelle,historic,Batterie Anse du Plomb Nord,46.1828099,-1.2135499,way,258505115
+La Rochelle,historic,Sans nom,46.1808095,-1.2141129,way,258505118
+La Rochelle,historic,Batterie Anse du Plomb sud,46.1795414,-1.2171171,way,258505119
+La Rochelle,historic,Sans nom,46.1816242,-1.2131659,way,258505121
+La Rochelle,historic,Sans nom,46.1791849,-1.2170727,way,258505122
+La Rochelle,historic,Sans nom,46.1786844,-1.2146801,way,258505124
+La Rochelle,historic,Sans nom,46.1796324,-1.2172202,way,258505125
+La Rochelle,historic,Sans nom,46.1805434,-1.2143034,way,258505127
+La Rochelle,historic,Sans nom,46.1805945,-1.2168366,way,258505147
+La Rochelle,historic,Batterie de Chef de Baie,46.1468167,-1.2071512,way,258539172
+La Rochelle,historic,Vf.7b,46.1464604,-1.2066803,way,258539173
+La Rochelle,historic,R 621,46.160667,-1.2067605,way,258732088
+La Rochelle,historic,SK,46.1630327,-1.2106969,way,258752327
+La Rochelle,historic,Ls 25,46.1590013,-1.2193415,way,258753641
+La Rochelle,historic,L401,46.1511315,-1.2033455,way,258863637
+La Rochelle,historic,L403,46.1510155,-1.2040247,way,258934200
+La Rochelle,historic,Vf.8,46.1473043,-1.2080801,way,258934201
+La Rochelle,historic,SK,46.1462696,-1.2067594,way,258934349
+La Rochelle,historic,Sans nom,46.1608547,-1.1963369,way,258955525
+La Rochelle,historic,Sans nom,46.1604554,-1.1535719,way,664789095
+La Rochelle,historic,Sans nom,46.1596707,-1.1505178,way,1310897518
+La Rochelle,historic,Sans nom,46.1597067,-1.1504524,way,1310897519
+La Rochelle,historic,Sans nom,46.1597093,-1.1503331,way,1310897520
+La Rochelle,historic,Sans nom,46.1598097,-1.1503876,way,1310897521
+La Rochelle,historic,Sans nom,46.1598685,-1.1503661,way,1310897522
+La Rochelle,historic,Sans nom,46.1599169,-1.1502167,way,1310897523
+La Rochelle,historic,Sans nom,46.1600062,-1.1503079,way,1310897524
+La Rochelle,historic,Sans nom,46.1600272,-1.150253,way,1310897525
+La Rochelle,historic,Sans nom,46.1600752,-1.1502755,way,1310897526
+La Rochelle,historic,Sans nom,46.1600823,-1.1502486,way,1310897527
+La Rochelle,historic,Sans nom,46.161107,-1.150207,way,1310897528
+La Rochelle,historic,Sans nom,46.1610182,-1.1501586,way,1310897529
+La Rochelle,historic,Sans nom,46.1609658,-1.1501967,way,1310897530
+La Rochelle,historic,Sans nom,46.1609176,-1.1501748,way,1310897531
+La Rochelle,historic,Sans nom,46.1608989,-1.1502512,way,1310897532
+La Rochelle,historic,Sans nom,46.160866,-1.1502722,way,1310897533
+La Rochelle,historic,Sans nom,46.1608207,-1.1502525,way,1310897534
+La Rochelle,historic,Sans nom,46.16081,-1.1503336,way,1310897535
+La Rochelle,historic,Sans nom,46.1607617,-1.1503106,way,1310897536
+La Rochelle,historic,Sans nom,46.1607305,-1.1503279,way,1310897537
+La Rochelle,historic,Sans nom,46.1605547,-1.150336,way,1310897539
+La Rochelle,historic,Sans nom,46.1605254,-1.1504134,way,1310897540
+La Rochelle,historic,Sans nom,46.1604942,-1.150483,way,1310897541
+La Rochelle,historic,Sans nom,46.1604545,-1.1505017,way,1310897542
+La Rochelle,historic,Sans nom,46.1604071,-1.1505165,way,1310897543
+La Rochelle,historic,Sans nom,46.1603162,-1.1505542,way,1310897544
+La Rochelle,historic,Sans nom,46.1602803,-1.1505544,way,1310897545
+La Rochelle,historic,Sans nom,46.1601917,-1.1506387,way,1310897547
+La Rochelle,historic,Sans nom,46.1600955,-1.1505993,way,1310897548
+La Rochelle,historic,Sans nom,46.1600536,-1.1506676,way,1310897549
+La Rochelle,historic,Sans nom,46.1600096,-1.1506748,way,1310897550
+La Rochelle,historic,Sans nom,46.1599739,-1.1507063,way,1310897551
+La Rochelle,historic,Sans nom,46.1599363,-1.1507324,way,1310897552
+La Rochelle,historic,Sans nom,46.159925,-1.15087,way,1310897553
+La Rochelle,historic,Sans nom,46.1598829,-1.1508673,way,1310897554
+La Rochelle,historic,Sans nom,46.1562744,-1.1551269,way,1310897557
+La Rochelle,historic,Sans nom,46.1562936,-1.1550533,way,1310897558
+La Rochelle,historic,Sans nom,46.1563515,-1.1550072,way,1310897559
+La Rochelle,historic,Sans nom,46.1563396,-1.1549098,way,1310897560
+La Rochelle,historic,Sans nom,46.1563988,-1.1548733,way,1310897561
+La Rochelle,historic,Sans nom,46.156429,-1.1548141,way,1310897562
+La Rochelle,historic,Sans nom,46.1564507,-1.1547311,way,1310897563
+La Rochelle,historic,Sans nom,46.1565001,-1.1546703,way,1310897564
+La Rochelle,historic,Sans nom,46.1581915,-1.154637,way,1310897566
+La Rochelle,historic,Sans nom,46.1581612,-1.1545424,way,1310897567
+La Rochelle,historic,Sans nom,46.1582069,-1.1544619,way,1310897568
+La Rochelle,historic,Sans nom,46.1581687,-1.1543656,way,1310897569
+La Rochelle,historic,Sans nom,46.1582666,-1.1540055,way,1310897571
+La Rochelle,historic,Sans nom,46.1583155,-1.1539556,way,1310897572
+La Rochelle,historic,Sans nom,46.1583481,-1.153898,way,1310897573
+La Rochelle,historic,Sans nom,46.1600907,-1.1532259,way,1310897611
+La Rochelle,historic,Sans nom,46.1600532,-1.1531619,way,1310897612
+La Rochelle,historic,Sans nom,46.1600418,-1.1530755,way,1310897613
+La Rochelle,historic,Sans nom,46.1599497,-1.1529612,way,1310897615
+La Rochelle,historic,Sans nom,46.1599401,-1.1528843,way,1310897616
+La Rochelle,historic,Sans nom,46.1600311,-1.152779,way,1310897617
+La Rochelle,historic,Sans nom,46.1599238,-1.1527592,way,1310897618
+La Rochelle,historic,Sans nom,46.1631635,-1.1523484,way,1310897633
+La Rochelle,historic,Sans nom,46.1632252,-1.1523279,way,1310897634
+La Rochelle,historic,Sans nom,46.1632812,-1.15235,way,1310897635
+La Rochelle,historic,Sans nom,46.1633303,-1.1523437,way,1310897636
+La Rochelle,historic,Sans nom,46.1633652,-1.1523343,way,1310897637
+La Rochelle,historic,Sans nom,46.1634276,-1.152312,way,1310897638
+La Rochelle,historic,Sans nom,46.1634996,-1.1522883,way,1310897639
+La Rochelle,historic,Sans nom,46.1635412,-1.1522281,way,1310897640
+La Rochelle,historic,Sans nom,46.1635786,-1.1522135,way,1310897641
+La Rochelle,historic,La pétrie,46.164046,-1.1516722,way,1310897643
+La Rochelle,historic,Sans nom,46.1639938,-1.1516915,way,1310897644
+La Rochelle,historic,Sans nom,46.1638894,-1.1517799,way,1310897646
+La Rochelle,historic,Sans nom,46.1638309,-1.1518013,way,1310897647
+La Rochelle,historic,Sans nom,46.1636971,-1.151854,way,1310897649
+La Rochelle,historic,Sans nom,46.163206,-1.1519715,way,1310897651
+La Rochelle,historic,Sans nom,46.1631297,-1.1520707,way,1310897652
+La Rochelle,historic,Sans nom,46.1631034,-1.1519363,way,1310897653
+La Rochelle,historic,Sans nom,46.1630888,-1.1518588,way,1310897654
+La Rochelle,historic,Sans nom,46.1631147,-1.1517731,way,1310897655
+La Rochelle,historic,Sans nom,46.1630433,-1.1517248,way,1310897656
+La Rochelle,historic,Sans nom,46.1630322,-1.1516602,way,1310897657
+La Rochelle,historic,Sans nom,46.1630194,-1.1515918,way,1310897658
+La Rochelle,historic,Sans nom,46.1630092,-1.1515321,way,1310897659
+La Rochelle,historic,Sans nom,46.163049,-1.151409,way,1310897660
+La Rochelle,historic,Sans nom,46.1630294,-1.1512549,way,1310897661
+La Rochelle,historic,Sans nom,46.162993,-1.1512368,way,1310897662
+La Rochelle,historic,Sans nom,46.1629518,-1.1511267,way,1310897663
+La Rochelle,historic,Sans nom,46.1630641,-1.1509626,way,1310897664
+La Rochelle,historic,Sans nom,46.1629788,-1.1509091,way,1310897665
+La Rochelle,historic,Sans nom,46.1629054,-1.1508602,way,1310897666
+La Rochelle,historic,Sans nom,46.162902,-1.1507705,way,1310897667
+La Rochelle,historic,Sans nom,46.1628869,-1.1506315,way,1310897668
+La Rochelle,historic,Sans nom,46.1628763,-1.1505697,way,1310897669
+La Rochelle,historic,Sans nom,46.1628951,-1.1504736,way,1310897670
+La Rochelle,historic,Sans nom,46.1628546,-1.1503488,way,1310897673
+La Rochelle,historic,Sans nom,46.1628388,-1.1503241,way,1310897674
+La Rochelle,historic,Sans nom,46.1628554,-1.1502507,way,1310897675
+La Rochelle,historic,Sans nom,46.1629785,-1.1500943,way,1310897676
+La Rochelle,historic,Sans nom,46.1628481,-1.1499838,way,1310897678
+La Rochelle,historic,Sans nom,46.1627789,-1.1498907,way,1310897679
+La Rochelle,historic,Sans nom,46.1628233,-1.1497168,way,1310897680
+La Rochelle,historic,Sans nom,46.1627252,-1.1496492,way,1310897681
+La Rochelle,historic,Sans nom,46.1624547,-1.1496862,way,1310897683
+La Rochelle,historic,Sans nom,46.162479,-1.1497469,way,1310897684
+La Rochelle,historic,Sans nom,46.1624657,-1.1498203,way,1310897685
+La Rochelle,historic,Sans nom,46.1626078,-1.1501843,way,1310897687
+La Rochelle,historic,Sans nom,46.1625608,-1.1502641,way,1310897688
+La Rochelle,historic,Sans nom,46.1625067,-1.1503625,way,1310897689
+La Rochelle,historic,Sans nom,46.1626241,-1.1505892,way,1310897691
+La Rochelle,historic,Sans nom,46.1626808,-1.1506352,way,1310897692
+La Rochelle,historic,Sans nom,46.1626676,-1.1507015,way,1310897693
+La Rochelle,historic,Sans nom,46.1626454,-1.1507669,way,1310897694
+La Rochelle,historic,Sans nom,46.1626423,-1.1508751,way,1310897695
+La Rochelle,historic,Sans nom,46.1626732,-1.1509023,way,1310897696
+La Rochelle,historic,Sans nom,46.1626126,-1.1510242,way,1310897697
+La Rochelle,historic,Sans nom,46.1627575,-1.151057,way,1310897698
+La Rochelle,historic,Sans nom,46.1627486,-1.1513191,way,1310897701
+La Rochelle,historic,Sans nom,46.1628205,-1.1513596,way,1310897702
+La Rochelle,historic,Sans nom,46.1627819,-1.1514632,way,1310897703
+La Rochelle,historic,Sans nom,46.1627862,-1.1515755,way,1310897704
+La Rochelle,historic,Sans nom,46.1628649,-1.1516309,way,1310897705
+La Rochelle,historic,Sans nom,46.1628772,-1.1516766,way,1310897706
+La Rochelle,historic,Sans nom,46.162919,-1.1516972,way,1310897707
+La Rochelle,historic,Sans nom,46.1628973,-1.1517696,way,1310897708
+La Rochelle,historic,Sans nom,46.1629069,-1.1518537,way,1310897710
+La Rochelle,historic,Sans nom,46.162935,-1.152012,way,1310897711
+La Rochelle,historic,Sans nom,46.1629758,-1.1521243,way,1310897712
+La Rochelle,historic,Sans nom,46.1629138,-1.1521595,way,1310897713
+La Rochelle,historic,Sans nom,46.1628598,-1.1521184,way,1310897714
+La Rochelle,historic,Sans nom,46.1628157,-1.1521294,way,1310897715
+La Rochelle,historic,Sans nom,46.1623831,-1.1520982,way,1310897720
+La Rochelle,historic,Sans nom,46.1623161,-1.1522704,way,1310897721
+La Rochelle,historic,Sans nom,46.1622551,-1.152298,way,1310897722
+La Rochelle,historic,Sans nom,46.1622097,-1.152317,way,1310897723
+La Rochelle,historic,Sans nom,46.1621638,-1.1523431,way,1310897724
+La Rochelle,historic,Sans nom,46.1621126,-1.1523891,way,1310897725
+La Rochelle,historic,Sans nom,46.1619218,-1.1525492,way,1310897731
+La Rochelle,historic,Sans nom,46.1618635,-1.1525129,way,1310897732
+La Rochelle,historic,Sans nom,46.1618173,-1.1525361,way,1310897733
+La Rochelle,historic,Sans nom,46.1617724,-1.1525601,way,1310897734
+La Rochelle,historic,Sans nom,46.1615125,-1.1527139,way,1310897736
+La Rochelle,historic,Sans nom,46.1614755,-1.1527828,way,1310897737
+La Rochelle,historic,Sans nom,46.1614146,-1.1528094,way,1310897738
+La Rochelle,historic,Sans nom,46.161411,-1.1527546,way,1310897739
+La Rochelle,historic,Sans nom,46.161315,-1.1527733,way,1310897740
+La Rochelle,historic,Sans nom,46.1612487,-1.1528655,way,1310897741
+La Rochelle,historic,Sans nom,46.1612113,-1.1528856,way,1310897743
+La Rochelle,historic,Sans nom,46.1605182,-1.1538789,way,1310897800
+La Rochelle,historic,Sans nom,46.1606259,-1.1538769,way,1310897802
+La Rochelle,historic,Pharmacie des Arcades,46.1606162,-1.153141,way,1310897824
+La Rochelle,historic,Sans nom,46.1610352,-1.1529309,way,1311770815
+La Rochelle,historic,Sans nom,46.1609444,-1.1529133,way,1311770816
+La Rochelle,historic,Sans nom,46.1608772,-1.1529483,way,1311770817
+La Rochelle,historic,Sans nom,46.1608277,-1.1529619,way,1311770818
+La Rochelle,historic,Sans nom,46.1603109,-1.1532508,way,1311770820
+La Rochelle,historic,Sans nom,46.160426,-1.1532062,way,1311770821
+La Rochelle,historic,Sans nom,46.160517,-1.1531733,way,1311770822
+La Rochelle,historic,Sans nom,46.1581568,-1.1549853,way,1311770830
+La Rochelle,historic,Sans nom,46.1582318,-1.1550369,way,1311770831
+La Rochelle,historic,Sans nom,46.1583638,-1.1557945,way,1311770833
+La Rochelle,historic,Hôtel de la Villemarais,46.1601374,-1.1550597,way,1311770834
+La Rochelle,historic,Sans nom,46.1583634,-1.1556569,way,1311770849
+La Rochelle,historic,Sans nom,46.1581964,-1.1549943,way,1311770854
+La Rochelle,historic,Sans nom,46.1584306,-1.154896,way,1311770858
+La Rochelle,historic,Sans nom,46.1599171,-1.1533682,relation,1645730
+La Rochelle,historic,Sans nom,46.1603932,-1.1505795,relation,1645747
+La Rochelle,historic,Hôpital Saint-Louis,46.1600315,-1.1455085,relation,1645748
+La Rochelle,historic,Sans nom,46.1625141,-1.1501534,relation,1645770
+La Rochelle,historic,Préfecture de la Charente-Maritime,46.157251,-1.1572315,relation,1645806
+La Rochelle,historic,Hôtel de ville de La Rochelle,46.159495,-1.151251,relation,1645812
+La Rochelle,historic,Sans nom,46.162505,-1.1521726,relation,17970092
+La Rochelle,historic,Fontaine du Pilori,46.1626395,-1.1495304,relation,19579763

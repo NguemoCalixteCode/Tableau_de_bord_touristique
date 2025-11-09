@@ -1,0 +1,1006 @@
+restaurant_id,city,name,latitude,longitude,rating,total_ratings,price_range,cuisine_type,address,phone,website,opening_hours,data_source
+paris_resto_001,Paris,La Comptoir Paris,48.813323,2.382547,4.6,239,€,Brasserie,10 Rue Victor Hugo,0335233341,https://www.paris-restaurant-1.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_002,Paris,Au Bouchon Paris,48.848055,2.363181,3.4,338,€€€,Fusion,186 Rue Principale,0492955648,https://www.paris-restaurant-2.fr,"12:00-14:30, 19:00-22:30",generated_data
+paris_resto_003,Paris,La Café Paris,48.849514,2.334155,4.2,190,€€,Italienne,50 Rue Victor Hugo,0483872623,https://www.paris-restaurant-3.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_004,Paris,Au Grand Restaurant,48.901911,2.399582,4.7,301,€€,Française,71 Rue Victor Hugo,0324409264,https://www.paris-restaurant-4.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_005,Paris,Le Bouchon Paris,48.871508,2.3486,4.0,466,€€€,Fusion,79 Rue Victor Hugo,0154589785,https://www.paris-restaurant-5.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_006,Paris,Comptoir Au Paris,48.884126,2.389719,3.5,381,€,Italienne,179 Rue de Paris,0217304045,https://www.paris-restaurant-6.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_007,Paris,Le Cuisine du Paris,48.818071,2.373502,4.6,246,€€,Asiatique,7 Rue de Paris,0615384130,https://www.paris-restaurant-7.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_008,Paris,Le Nouveau Comptoir,48.872954,2.333052,4.7,302,€€€,Bistro,166 Rue Principale,0434903560,https://www.paris-restaurant-8.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_009,Paris,Brasserie Au du Port,48.87961,2.354744,3.4,327,€€,Italienne,138 Rue de Paris,0118679459,https://www.paris-restaurant-9.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_010,Paris,Comptoir Chez du Port,48.838665,2.308564,3.4,359,€€€,Asiatique,138 Rue Principale,0217729263,https://www.paris-restaurant-10.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_011,Paris,Au Café Paris,48.824189,2.352283,4.3,395,€,Italienne,39 Rue du Centre,0196375834,https://www.paris-restaurant-11.fr,"12:00-14:30, 19:00-22:30",generated_data
+paris_resto_012,Paris,Comptoir La des Arts,48.822292,2.356022,4.5,351,€€,Française,158 Rue de Paris,0215979313,https://www.paris-restaurant-12.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_013,Paris,Le Café Paris,48.878656,2.388468,3.2,113,€€,Italienne,6 Rue Victor Hugo,0622314999,https://www.paris-restaurant-13.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_014,Paris,Au Traditionnel Restaurant,48.818034,2.321804,3.3,345,€€€,Asiatique,10 Rue Principale,0680716861,https://www.paris-restaurant-14.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_015,Paris,Chez Café Paris,48.879082,2.368684,3.4,269,€€€,Bistro,173 Rue Victor Hugo,0291247882,https://www.paris-restaurant-15.fr,"12:00-14:30, 19:00-22:30",generated_data
+paris_resto_016,Paris,Les Café Paris,48.882788,2.350866,3.6,199,€€,Française,104 Rue Principale,0291382856,https://www.paris-restaurant-16.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_017,Paris,La Cuisine du Paris,48.858878,2.334322,3.6,474,€,Française,147 Rue de Paris,0640869138,https://www.paris-restaurant-17.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_018,Paris,Le Cuisine de Paris,48.874892,2.339343,3.7,204,€,Brasserie,23 Rue du Centre,0520507276,https://www.paris-restaurant-18.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_019,Paris,Les Nouveau Brasserie,48.853657,2.348896,4.7,72,€,Bistro,103 Rue Victor Hugo,0114411241,https://www.paris-restaurant-19.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_020,Paris,Les Bon Brasserie,48.858175,2.329827,4.3,187,€€,Bistro,162 Rue de Paris,0665591874,https://www.paris-restaurant-20.fr,"12:00-14:30, 19:00-22:30",generated_data
+paris_resto_021,Paris,Le Cuisine du Paris,48.857709,2.400407,3.4,466,€,Fusion,103 Rue Victor Hugo,0535108069,https://www.paris-restaurant-21.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_022,Paris,Les Comptoir Paris,48.813895,2.33879,4.2,280,€,Fusion,151 Rue du Centre,0394437863,https://www.paris-restaurant-22.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_023,Paris,La Table du Paris,48.853192,2.344858,4.2,289,€€,Fusion,153 Rue de Paris,0164811516,https://www.paris-restaurant-23.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_024,Paris,Chez Comptoir Paris,48.85538,2.350656,3.8,199,€,Française,94 Rue Victor Hugo,0532256755,https://www.paris-restaurant-24.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_025,Paris,Le Vieux Table,48.898364,2.344614,4.4,156,€€,Asiatique,89 Rue Victor Hugo,0511135980,https://www.paris-restaurant-25.fr,"12:00-14:30, 19:00-22:30",generated_data
+paris_resto_026,Paris,Le Cuisine du Paris,48.877096,2.30575,4.0,24,€,Asiatique,158 Rue du Centre,0593642556,https://www.paris-restaurant-26.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_027,Paris,Le Table de Paris,48.865586,2.364198,3.5,388,€€,Asiatique,136 Rue de Paris,0627383417,https://www.paris-restaurant-27.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_028,Paris,La Cuisine du Paris,48.880039,2.381488,3.7,448,€,Fusion,107 Rue de Paris,0324336177,https://www.paris-restaurant-28.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_029,Paris,Table Les Central,48.832186,2.316265,4.1,432,€€,Fusion,59 Rue du Centre,0585563266,https://www.paris-restaurant-29.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_030,Paris,Chez Café Paris,48.820067,2.325628,4.0,112,€€€,Italienne,193 Rue du Centre,0184408034,https://www.paris-restaurant-30.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_031,Paris,Le Table de Paris,48.819968,2.313357,3.7,348,€€€,Italienne,55 Rue du Centre,0286515587,https://www.paris-restaurant-31.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_032,Paris,Au Bon Café,48.858671,2.388663,4.3,322,€€,Italienne,139 Rue Principale,0681104878,https://www.paris-restaurant-32.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_033,Paris,Le Bon Comptoir,48.828998,2.345981,4.2,194,€€€,Asiatique,100 Rue de Paris,0633873863,https://www.paris-restaurant-33.fr,"12:00-14:30, 19:00-22:30",generated_data
+paris_resto_034,Paris,Les Comptoir Paris,48.901406,2.319989,4.8,394,€€€,Asiatique,85 Rue du Centre,0132564716,https://www.paris-restaurant-34.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_001,Lyon,Comptoir Chez Lyon,45.733243,4.846869,3.4,221,€,Brasserie,126 Rue Principale,0322138927,https://www.lyon-restaurant-1.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_002,Lyon,Au Café Lyon,45.786242,4.856276,4.7,135,€€,Française,102 Rue Principale,0435894071,https://www.lyon-restaurant-2.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_003,Lyon,Les Nouveau Bistro,45.804961,4.841798,3.5,186,€€€,Bouchon Lyonnais,111 Rue de Paris,0370333391,https://www.lyon-restaurant-3.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_004,Lyon,Chez Comptoir Lyon,45.774622,4.788695,4.0,375,€€€,Brasserie,71 Rue Victor Hugo,0432226493,https://www.lyon-restaurant-4.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_005,Lyon,Brasserie Le du Marché,45.767225,4.832277,3.3,228,€€,Bouchon Lyonnais,94 Rue Victor Hugo,0675243516,https://www.lyon-restaurant-5.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_006,Lyon,Chez Typique Brasserie,45.768144,4.88118,4.1,148,€€€,Vins,187 Rue Principale,0156908784,https://www.lyon-restaurant-6.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_007,Lyon,Au Typique Comptoir,45.744204,4.854708,4.0,308,€,Vins,46 Rue du Centre,0679868258,https://www.lyon-restaurant-7.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_008,Lyon,Brasserie Au des Arts,45.724639,4.875852,4.3,317,€€,Bouchon Lyonnais,125 Rue Principale,0158437865,https://www.lyon-restaurant-8.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_009,Lyon,Au Nouveau Brasserie,45.802111,4.845822,4.1,434,€,Traditionnelle,188 Rue du Centre,0150339745,https://www.lyon-restaurant-9.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_010,Lyon,Comptoir Le du Port,45.809819,4.858462,3.6,227,€€,Vins,171 Rue du Centre,0222297315,https://www.lyon-restaurant-10.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_011,Lyon,Les Nouveau Comptoir,45.736082,4.841292,3.9,418,€,Française,13 Rue Victor Hugo,0576384352,https://www.lyon-restaurant-11.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_012,Lyon,Table Au de la Gare,45.742829,4.824785,3.7,432,€€,Bouchon Lyonnais,40 Rue Victor Hugo,0319205980,https://www.lyon-restaurant-12.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_013,Lyon,Chez Café Lyon,45.752467,4.820128,3.6,264,€,Traditionnelle,133 Rue Victor Hugo,0310495638,https://www.lyon-restaurant-13.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_014,Lyon,La Nouveau Bistro,45.731479,4.876524,3.7,79,€€,Bouchon Lyonnais,54 Rue Principale,0614322015,https://www.lyon-restaurant-14.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_015,Lyon,Les Vieux Restaurant,45.777066,4.786082,4.7,86,€€,Vins,163 Rue Victor Hugo,0524887194,https://www.lyon-restaurant-15.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_016,Lyon,Table Chez Lyon,45.797244,4.804523,4.7,14,€,Traditionnelle,133 Rue du Centre,0193495459,https://www.lyon-restaurant-16.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_017,Lyon,Au Bouchon Lyon,45.719494,4.84547,4.0,132,€,Bouchon Lyonnais,196 Rue de Paris,0111416953,https://www.lyon-restaurant-17.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_018,Lyon,Au Bouchon Lyon,45.800101,4.825101,4.4,387,€€,Vins,54 Rue du Centre,0244483272,https://www.lyon-restaurant-18.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_019,Lyon,Au Petit Bistro,45.743522,4.799695,4.0,240,€€€,Brasserie,113 Rue du Centre,0287178020,https://www.lyon-restaurant-19.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_020,Lyon,Le Café Lyon,45.79895,4.872481,3.6,236,€€,Traditionnelle,170 Rue du Centre,0680896718,https://www.lyon-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_021,Lyon,Chez Traditionnel Restaurant,45.728901,4.798091,3.5,189,€€,Traditionnelle,1 Rue de Paris,0597798179,https://www.lyon-restaurant-21.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_022,Lyon,Restaurant La Central,45.773888,4.821076,4.3,254,€€€,Traditionnelle,103 Rue Victor Hugo,0239213364,https://www.lyon-restaurant-22.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_023,Lyon,Le Table du Lyon,45.778918,4.816344,4.3,196,€,Vins,121 Rue Victor Hugo,0440185247,https://www.lyon-restaurant-23.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_024,Lyon,Restaurant La Central,45.757945,4.871742,3.9,236,€,Française,161 Rue Victor Hugo,0589261374,https://www.lyon-restaurant-24.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_025,Lyon,Chez Traditionnel Table,45.721527,4.834313,3.9,442,€€,Française,155 Rue Victor Hugo,0187153999,https://www.lyon-restaurant-25.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_026,Lyon,Le Cuisine de Lyon,45.792347,4.821037,3.9,280,€€€,Vins,196 Rue de Paris,0421771225,https://www.lyon-restaurant-26.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_027,Lyon,Le Cuisine de Lyon,45.715708,4.885024,3.7,422,€€€,Traditionnelle,79 Rue du Centre,0375275573,https://www.lyon-restaurant-27.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_028,Lyon,Le Grand Restaurant,45.73251,4.798479,4.5,173,€,Brasserie,71 Rue Victor Hugo,0259957778,https://www.lyon-restaurant-28.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_029,Lyon,La Cuisine du Lyon,45.757928,4.870073,4.6,232,€,Traditionnelle,120 Rue Victor Hugo,0116987199,https://www.lyon-restaurant-29.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_030,Lyon,La Comptoir Lyon,45.764235,4.854876,4.2,181,€€€,Traditionnelle,104 Rue Victor Hugo,0151955169,https://www.lyon-restaurant-30.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_031,Lyon,Chez Café Lyon,45.740325,4.852871,3.9,352,€€,Bouchon Lyonnais,76 Rue du Centre,0293397935,https://www.lyon-restaurant-31.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_032,Lyon,Café La du Marché,45.748536,4.836917,3.3,377,€€€,Brasserie,46 Rue Principale,0526496342,https://www.lyon-restaurant-32.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_033,Lyon,La Vieux Café,45.765706,4.80996,4.2,168,€€€,Brasserie,135 Rue Victor Hugo,0329921563,https://www.lyon-restaurant-33.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_034,Lyon,Café La de la Gare,45.786801,4.794604,3.7,265,€€,Traditionnelle,77 Rue du Centre,0162604321,https://www.lyon-restaurant-34.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_035,Lyon,Le Nouveau Comptoir,45.801663,4.851755,3.6,157,€€,Française,182 Rue de Paris,0637384650,https://www.lyon-restaurant-35.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_036,Lyon,Le Grand Table,45.748319,4.822431,3.6,124,€,Traditionnelle,181 Rue du Centre,0218393874,https://www.lyon-restaurant-36.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_037,Lyon,La Petit Comptoir,45.745435,4.821536,3.6,403,€€,Brasserie,182 Rue du Centre,0295472450,https://www.lyon-restaurant-37.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_038,Lyon,Les Typique Bistro,45.809611,4.787134,3.4,307,€€€,Vins,179 Rue Principale,0458641719,https://www.lyon-restaurant-38.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_039,Lyon,Restaurant Le du Marché,45.752697,4.800557,4.4,283,€€€,Traditionnelle,141 Rue du Centre,0151291134,https://www.lyon-restaurant-39.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_040,Lyon,Brasserie Au Central,45.755247,4.805196,4.4,428,€€,Vins,156 Rue Victor Hugo,0276375479,https://www.lyon-restaurant-40.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_041,Lyon,Les Bon Bistro,45.757404,4.828358,4.7,253,€,Brasserie,169 Rue de Paris,0362929568,https://www.lyon-restaurant-41.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_042,Lyon,Le Cuisine de Lyon,45.714055,4.855317,4.0,269,€€,Française,11 Rue Victor Hugo,0588154034,https://www.lyon-restaurant-42.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_043,Lyon,Bistro Au Central,45.769208,4.8269,3.9,458,€,Brasserie,17 Rue Principale,0358435068,https://www.lyon-restaurant-43.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_044,Lyon,Au Café Lyon,45.768902,4.846709,4.6,438,€€,Bouchon Lyonnais,24 Rue du Centre,0133717256,https://www.lyon-restaurant-44.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_045,Lyon,Le Bon Brasserie,45.733505,4.875241,3.3,234,€€€,Brasserie,126 Rue Victor Hugo,0276347519,https://www.lyon-restaurant-45.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_046,Lyon,Bistro La des Arts,45.747393,4.852048,3.8,67,€€,Française,191 Rue Principale,0171968370,https://www.lyon-restaurant-46.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_047,Lyon,Les Comptoir Lyon,45.785653,4.824164,4.4,233,€€,Brasserie,137 Rue de Paris,0660444353,https://www.lyon-restaurant-47.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_048,Lyon,Le Petit Comptoir,45.795129,4.855623,3.5,417,€€€,Vins,109 Rue Victor Hugo,0367925494,https://www.lyon-restaurant-48.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_049,Lyon,La Cuisine du Lyon,45.780205,4.815026,3.8,452,€€,Vins,143 Rue du Centre,0575987173,https://www.lyon-restaurant-49.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_050,Lyon,La Typique Brasserie,45.777826,4.877214,4.7,199,€€€,Vins,76 Rue Victor Hugo,0311831711,https://www.lyon-restaurant-50.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_051,Lyon,Le Table de Lyon,45.767144,4.883202,4.2,52,€,Traditionnelle,118 Rue Victor Hugo,0556401733,https://www.lyon-restaurant-51.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_052,Lyon,La Cuisine du Lyon,45.765238,4.884861,3.3,386,€€€,Traditionnelle,169 Rue Principale,0171354620,https://www.lyon-restaurant-52.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_053,Lyon,La Typique Comptoir,45.743989,4.820946,3.5,426,€,Traditionnelle,156 Rue Victor Hugo,0287925534,https://www.lyon-restaurant-53.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_054,Lyon,La Table du Lyon,45.740458,4.807507,3.4,112,€,Vins,190 Rue Principale,0345967379,https://www.lyon-restaurant-54.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_055,Lyon,Le Cuisine de Lyon,45.752793,4.82646,3.7,498,€€€,Traditionnelle,49 Rue de Paris,0539657228,https://www.lyon-restaurant-55.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_056,Lyon,Au Comptoir Lyon,45.779785,4.786235,4.1,498,€,Française,68 Rue Victor Hugo,0352271387,https://www.lyon-restaurant-56.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_057,Lyon,Au Petit Bistro,45.761579,4.86451,3.5,494,€,Française,37 Rue Victor Hugo,0541548326,https://www.lyon-restaurant-57.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_058,Lyon,Le Cuisine de Lyon,45.789536,4.817024,4.1,135,€€€,Traditionnelle,186 Rue Principale,0611495691,https://www.lyon-restaurant-58.fr,"12:00-14:00, 19:00-22:00",generated_data
+lyon_resto_059,Lyon,La Cuisine du Lyon,45.756797,4.874444,4.7,144,€€€,Bouchon Lyonnais,114 Rue du Centre,0677906727,https://www.lyon-restaurant-59.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_060,Lyon,La Bouchon Lyon,45.721914,4.853597,4.7,224,€,Bouchon Lyonnais,78 Rue Principale,0626611538,https://www.lyon-restaurant-60.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_061,Lyon,Le Cuisine du Lyon,45.773784,4.856198,3.8,231,€,Brasserie,160 Rue Victor Hugo,0570633953,https://www.lyon-restaurant-61.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_062,Lyon,Table Les des Arts,45.72697,4.789473,3.6,497,€,Vins,60 Rue Victor Hugo,0256149720,https://www.lyon-restaurant-62.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_063,Lyon,Chez Bouchon Lyon,45.765612,4.880827,3.9,66,€,Française,131 Rue de Paris,0436143992,https://www.lyon-restaurant-63.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_064,Lyon,Le Vieux Restaurant,45.774011,4.801597,4.5,110,€€€,Brasserie,143 Rue Victor Hugo,0447863546,https://www.lyon-restaurant-64.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_065,Lyon,Chez Petit Bistro,45.789808,4.829879,3.8,33,€€€,Vins,122 Rue Principale,0137916628,https://www.lyon-restaurant-65.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_066,Lyon,Au Grand Brasserie,45.767118,4.817488,3.9,254,€€,Française,144 Rue Principale,0612248762,https://www.lyon-restaurant-66.fr,"11:30-15:00, 18:30-23:00",generated_data
+lyon_resto_067,Lyon,Chez Grand Café,45.73881,4.8848,4.5,108,€,Brasserie,17 Rue Victor Hugo,0415178040,https://www.lyon-restaurant-67.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_068,Lyon,La Café Lyon,45.714057,4.811972,3.9,480,€€,Brasserie,195 Rue de Paris,0335402594,https://www.lyon-restaurant-68.fr,"12:00-14:30, 19:00-22:30",generated_data
+lyon_resto_069,Lyon,Brasserie La Central,45.801969,4.866953,4.1,456,€€,Française,188 Rue de Paris,0555446585,https://www.lyon-restaurant-69.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_001,Marseille,Le Petit Restaurant,43.293385,5.364942,3.9,485,€€,Couscous,54 Rue Victor Hugo,0335246988,https://www.marseille-restaurant-1.fr,"12:00-14:30, 19:00-22:30",generated_data
+marseille_resto_002,Marseille,Les Traditionnel Comptoir,43.292899,5.37184,4.0,259,€€€,Provençale,184 Rue de Paris,0325276893,https://www.marseille-restaurant-2.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_003,Marseille,Le Café Marseille,43.332044,5.364746,3.5,113,€,Méditerranéenne,141 Rue Victor Hugo,0693165732,https://www.marseille-restaurant-3.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_004,Marseille,La Cuisine de Marseille,43.292989,5.411497,3.9,117,€€€,Méditerranéenne,35 Rue Victor Hugo,0479776678,https://www.marseille-restaurant-4.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_005,Marseille,La Cuisine du Marseille,43.297283,5.323204,3.4,110,€€€,Poisson,87 Rue Principale,0648402049,https://www.marseille-restaurant-5.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_006,Marseille,La Cuisine de Marseille,43.307849,5.38882,4.0,96,€,Poisson,78 Rue Victor Hugo,0565696221,https://www.marseille-restaurant-6.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_007,Marseille,Au Comptoir Marseille,43.275368,5.358711,3.2,6,€,Couscous,56 Rue du Centre,0347825545,https://www.marseille-restaurant-7.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_008,Marseille,Café Les des Arts,43.280528,5.332692,3.9,5,€€,Provençale,141 Rue de Paris,0273911074,https://www.marseille-restaurant-8.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_009,Marseille,La Table du Marseille,43.308027,5.357037,4.7,191,€,Couscous,91 Rue Victor Hugo,0282397540,https://www.marseille-restaurant-9.fr,"12:00-14:30, 19:00-22:30",generated_data
+marseille_resto_010,Marseille,La Cuisine de Marseille,43.310989,5.388708,4.1,314,€€€,Méditerranéenne,142 Rue de Paris,0476773010,https://www.marseille-restaurant-10.fr,"12:00-14:30, 19:00-22:30",generated_data
+marseille_resto_011,Marseille,Le Nouveau Comptoir,43.27412,5.418752,4.5,318,€€,Couscous,127 Rue Principale,0394848451,https://www.marseille-restaurant-11.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_012,Marseille,La Café Marseille,43.323636,5.348194,4.0,49,€€€,Couscous,46 Rue de Paris,0316512350,https://www.marseille-restaurant-12.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_013,Marseille,Le Cuisine du Marseille,43.257393,5.329857,4.5,277,€€€,Méditerranéenne,73 Rue de Paris,0561443974,https://www.marseille-restaurant-13.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_014,Marseille,La Table de Marseille,43.316506,5.400201,4.4,277,€,Tapas,26 Rue Principale,0454761165,https://www.marseille-restaurant-14.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_015,Marseille,Bistro Au de la Gare,43.344552,5.349824,4.5,465,€€€,Poisson,184 Rue du Centre,0418819184,https://www.marseille-restaurant-15.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_016,Marseille,Les Bouchon Marseille,43.24722,5.381857,3.8,39,€,Couscous,189 Rue Principale,0180667931,https://www.marseille-restaurant-16.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_017,Marseille,Café Le Marseille,43.269008,5.355187,4.5,492,€,Poisson,65 Rue de Paris,0129532748,https://www.marseille-restaurant-17.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_018,Marseille,Bistro Chez de la Gare,43.320624,5.321525,4.0,318,€€€,Tapas,96 Rue Victor Hugo,0493455879,https://www.marseille-restaurant-18.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_019,Marseille,Chez Grand Brasserie,43.289669,5.346459,3.6,186,€,Méditerranéenne,86 Rue du Centre,0399517896,https://www.marseille-restaurant-19.fr,"12:00-14:30, 19:00-22:30",generated_data
+marseille_resto_020,Marseille,Les Comptoir Marseille,43.30026,5.384478,4.1,48,€,Poisson,105 Rue du Centre,0595874571,https://www.marseille-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_021,Marseille,La Cuisine du Marseille,43.344414,5.343258,4.6,349,€€€,Couscous,26 Rue du Centre,0696492135,https://www.marseille-restaurant-21.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_022,Marseille,Le Bouchon Marseille,43.29449,5.382334,3.4,417,€€,Tapas,156 Rue de Paris,0240502832,https://www.marseille-restaurant-22.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_023,Marseille,Au Café Marseille,43.34057,5.348999,4.5,145,€€,Poisson,17 Rue de Paris,0525891996,https://www.marseille-restaurant-23.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_024,Marseille,La Café Marseille,43.247973,5.349657,4.3,166,€€,Méditerranéenne,143 Rue de Paris,0361875957,https://www.marseille-restaurant-24.fr,"12:00-14:30, 19:00-22:30",generated_data
+marseille_resto_025,Marseille,Comptoir Le du Port,43.256334,5.367759,3.8,33,€€€,Provençale,166 Rue Victor Hugo,0358807788,https://www.marseille-restaurant-25.fr,"12:00-14:30, 19:00-22:30",generated_data
+marseille_resto_026,Marseille,La Cuisine du Marseille,43.287342,5.398815,3.4,136,€,Poisson,167 Rue Principale,0515225147,https://www.marseille-restaurant-26.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_027,Marseille,La Typique Brasserie,43.300602,5.344743,4.4,203,€,Méditerranéenne,84 Rue du Centre,0457544471,https://www.marseille-restaurant-27.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_028,Marseille,Chez Bouchon Marseille,43.275987,5.341662,4.1,329,€,Méditerranéenne,61 Rue Principale,0474578911,https://www.marseille-restaurant-28.fr,"12:00-14:30, 19:00-22:30",generated_data
+marseille_resto_029,Marseille,Le Table du Marseille,43.264951,5.373164,4.5,50,€€€,Méditerranéenne,78 Rue Principale,0467816878,https://www.marseille-restaurant-29.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_030,Marseille,La Comptoir Marseille,43.312629,5.347715,4.4,178,€,Méditerranéenne,91 Rue Principale,0642883721,https://www.marseille-restaurant-30.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_031,Marseille,La Cuisine du Marseille,43.343242,5.344078,4.6,167,€,Poisson,113 Rue du Centre,0126147180,https://www.marseille-restaurant-31.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_032,Marseille,Chez Comptoir Marseille,43.338081,5.388109,4.0,268,€,Poisson,51 Rue de Paris,0298938469,https://www.marseille-restaurant-32.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_033,Marseille,La Table du Marseille,43.322376,5.332489,4.4,73,€,Poisson,147 Rue du Centre,0686777814,https://www.marseille-restaurant-33.fr,"12:00-14:30, 19:00-22:30",generated_data
+marseille_resto_034,Marseille,Brasserie Au Marseille,43.297205,5.401884,3.9,316,€€€,Provençale,11 Rue Victor Hugo,0452719662,https://www.marseille-restaurant-34.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_035,Marseille,Le Cuisine de Marseille,43.299923,5.325312,3.9,356,€,Couscous,94 Rue du Centre,0661649264,https://www.marseille-restaurant-35.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_036,Marseille,Le Bouchon Marseille,43.287522,5.336458,4.3,363,€€€,Méditerranéenne,131 Rue de Paris,0516537273,https://www.marseille-restaurant-36.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_037,Marseille,Bistro Chez des Arts,43.266962,5.419137,3.9,105,€,Tapas,200 Rue du Centre,0576203215,https://www.marseille-restaurant-37.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_038,Marseille,Comptoir Chez du Marché,43.318108,5.399375,4.1,368,€€,Tapas,78 Rue de Paris,0270441397,https://www.marseille-restaurant-38.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_039,Marseille,Le Cuisine de Marseille,43.252994,5.416797,4.0,259,€,Couscous,114 Rue du Centre,0536956052,https://www.marseille-restaurant-39.fr,"12:00-14:30, 19:00-22:30",generated_data
+marseille_resto_040,Marseille,Café Les du Port,43.33812,5.32559,4.5,221,€€,Tapas,76 Rue de Paris,0555482623,https://www.marseille-restaurant-40.fr,"11:30-15:00, 18:30-23:00",generated_data
+marseille_resto_041,Marseille,La Bouchon Marseille,43.290511,5.331199,3.3,394,€€€,Provençale,32 Rue du Centre,0329235819,https://www.marseille-restaurant-41.fr,"12:00-14:00, 19:00-22:00",generated_data
+marseille_resto_042,Marseille,Les Traditionnel Café,43.311598,5.342887,4.0,13,€€,Provençale,100 Rue Victor Hugo,0137332684,https://www.marseille-restaurant-42.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_001,Bordeaux,Le Nouveau Bistro,44.86183,-0.627311,3.5,451,€€,Sud-Ouest,49 Rue de Paris,0593419063,https://www.bordeaux-restaurant-1.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_002,Bordeaux,Les Café Bordeaux,44.871159,-0.614739,3.3,378,€€€,Vins,162 Rue Victor Hugo,0264406639,https://www.bordeaux-restaurant-2.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_003,Bordeaux,Le Comptoir Bordeaux,44.807405,-0.596419,4.2,172,€€€,Canard,117 Rue du Centre,0488281189,https://www.bordeaux-restaurant-3.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_004,Bordeaux,Au Bouchon Bordeaux,44.845385,-0.562588,4.1,223,€€€,Vins,124 Rue Victor Hugo,0396423297,https://www.bordeaux-restaurant-4.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_005,Bordeaux,Le Table du Bordeaux,44.873551,-0.54202,4.2,198,€,Gastronomique,83 Rue de Paris,0485328317,https://www.bordeaux-restaurant-5.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_006,Bordeaux,Le Table du Bordeaux,44.872711,-0.572153,3.9,425,€€,Gastronomique,95 Rue de Paris,0115297839,https://www.bordeaux-restaurant-6.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_007,Bordeaux,Table Chez du Marché,44.839411,-0.538387,3.5,120,€€,Française,30 Rue Principale,0192556855,https://www.bordeaux-restaurant-7.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_008,Bordeaux,Le Cuisine du Bordeaux,44.830113,-0.547453,3.8,494,€,Sud-Ouest,171 Rue de Paris,0212891019,https://www.bordeaux-restaurant-8.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_009,Bordeaux,Les Café Bordeaux,44.882736,-0.606609,4.6,324,€€€,Gastronomique,110 Rue Principale,0174116676,https://www.bordeaux-restaurant-9.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_010,Bordeaux,La Bouchon Bordeaux,44.848029,-0.589846,4.2,19,€,Canard,58 Rue Principale,0393215765,https://www.bordeaux-restaurant-10.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_011,Bordeaux,Les Bouchon Bordeaux,44.834535,-0.587606,3.6,62,€€€,Française,57 Rue Victor Hugo,0224462659,https://www.bordeaux-restaurant-11.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_012,Bordeaux,Les Vieux Restaurant,44.867919,-0.610922,3.2,267,€€,Canard,5 Rue Principale,0235328820,https://www.bordeaux-restaurant-12.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_013,Bordeaux,La Bouchon Bordeaux,44.822211,-0.560253,4.0,312,€€,Gastronomique,80 Rue de Paris,0630233511,https://www.bordeaux-restaurant-13.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_014,Bordeaux,Le Cuisine de Bordeaux,44.833748,-0.594349,3.4,172,€,Sud-Ouest,166 Rue Principale,0532815346,https://www.bordeaux-restaurant-14.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_015,Bordeaux,La Table de Bordeaux,44.829458,-0.603405,4.5,437,€,Canard,33 Rue du Centre,0620243345,https://www.bordeaux-restaurant-15.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_016,Bordeaux,Comptoir Au Bordeaux,44.860729,-0.597488,3.6,289,€€€,Canard,35 Rue Principale,0391301390,https://www.bordeaux-restaurant-16.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_017,Bordeaux,Au Café Bordeaux,44.805673,-0.595702,4.7,6,€,Vins,86 Rue de Paris,0558547149,https://www.bordeaux-restaurant-17.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_018,Bordeaux,Les Nouveau Comptoir,44.816187,-0.563317,3.8,113,€,Canard,49 Rue Principale,0633942967,https://www.bordeaux-restaurant-18.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_019,Bordeaux,Brasserie Les du Marché,44.822897,-0.573909,4.2,345,€€,Gastronomique,128 Rue Victor Hugo,0359239292,https://www.bordeaux-restaurant-19.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_020,Bordeaux,Le Cuisine de Bordeaux,44.804306,-0.621382,4.1,14,€,Sud-Ouest,50 Rue de Paris,0241942852,https://www.bordeaux-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_021,Bordeaux,La Café Bordeaux,44.808843,-0.60854,3.3,32,€,Française,40 Rue de Paris,0550634691,https://www.bordeaux-restaurant-21.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_022,Bordeaux,Le Cuisine du Bordeaux,44.837275,-0.573963,3.3,427,€,Canard,119 Rue du Centre,0373203870,https://www.bordeaux-restaurant-22.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_023,Bordeaux,La Table du Bordeaux,44.814083,-0.537298,4.1,191,€,Canard,181 Rue du Centre,0617284773,https://www.bordeaux-restaurant-23.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_024,Bordeaux,Table Au du Marché,44.849853,-0.566389,3.9,273,€€,Gastronomique,8 Rue Victor Hugo,0278237953,https://www.bordeaux-restaurant-24.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_025,Bordeaux,Café La du Marché,44.884274,-0.580297,3.5,160,€,Française,52 Rue de Paris,0188436178,https://www.bordeaux-restaurant-25.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_026,Bordeaux,Restaurant Chez des Arts,44.815227,-0.592196,3.3,307,€€€,Vins,45 Rue Victor Hugo,0580439616,https://www.bordeaux-restaurant-26.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_027,Bordeaux,Au Bon Café,44.851263,-0.572663,4.6,126,€€,Française,94 Rue Principale,0443574399,https://www.bordeaux-restaurant-27.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_028,Bordeaux,Bistro Au du Marché,44.868803,-0.560253,3.8,392,€,Vins,187 Rue Victor Hugo,0399362276,https://www.bordeaux-restaurant-28.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_029,Bordeaux,Café Chez du Port,44.832278,-0.578232,4.4,488,€€€,Canard,196 Rue Principale,0616847454,https://www.bordeaux-restaurant-29.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_030,Bordeaux,Au Comptoir Bordeaux,44.817192,-0.617349,3.5,361,€€€,Sud-Ouest,115 Rue Victor Hugo,0169203955,https://www.bordeaux-restaurant-30.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_031,Bordeaux,Bistro Les du Port,44.867832,-0.592036,3.6,488,€€€,Gastronomique,163 Rue Principale,0210806782,https://www.bordeaux-restaurant-31.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_032,Bordeaux,Café Le Central,44.873102,-0.536523,4.5,461,€€€,Sud-Ouest,132 Rue du Centre,0260261772,https://www.bordeaux-restaurant-32.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_033,Bordeaux,Le Table de Bordeaux,44.827205,-0.580236,3.6,336,€€,Gastronomique,89 Rue du Centre,0665465223,https://www.bordeaux-restaurant-33.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_034,Bordeaux,La Cuisine du Bordeaux,44.795961,-0.564433,4.3,250,€,Vins,116 Rue Victor Hugo,0180323424,https://www.bordeaux-restaurant-34.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_035,Bordeaux,Les Grand Café,44.814286,-0.580143,4.3,39,€€,Canard,76 Rue du Centre,0653718815,https://www.bordeaux-restaurant-35.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_036,Bordeaux,Au Petit Comptoir,44.806232,-0.544659,3.7,44,€,Vins,168 Rue Victor Hugo,0385293427,https://www.bordeaux-restaurant-36.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_037,Bordeaux,Comptoir La Bordeaux,44.810127,-0.534738,3.7,389,€,Canard,12 Rue du Centre,0120246115,https://www.bordeaux-restaurant-37.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_038,Bordeaux,Le Cuisine de Bordeaux,44.817991,-0.589238,4.5,192,€€,Gastronomique,137 Rue du Centre,0287142281,https://www.bordeaux-restaurant-38.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_039,Bordeaux,Restaurant Chez de la Gare,44.850598,-0.617939,3.5,345,€€,Canard,32 Rue du Centre,0470357473,https://www.bordeaux-restaurant-39.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_040,Bordeaux,Le Traditionnel Comptoir,44.86111,-0.615337,3.5,440,€€€,Vins,37 Rue de Paris,0389886133,https://www.bordeaux-restaurant-40.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_041,Bordeaux,La Cuisine du Bordeaux,44.796696,-0.530849,3.5,159,€€€,Gastronomique,124 Rue de Paris,0597506786,https://www.bordeaux-restaurant-41.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_042,Bordeaux,Au Comptoir Bordeaux,44.816423,-0.542316,4.0,308,€€€,Gastronomique,80 Rue du Centre,0367675541,https://www.bordeaux-restaurant-42.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_043,Bordeaux,Le Table du Bordeaux,44.808112,-0.57166,4.8,339,€€€,Gastronomique,95 Rue Principale,0695827285,https://www.bordeaux-restaurant-43.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_044,Bordeaux,Les Bouchon Bordeaux,44.845615,-0.595531,3.8,428,€,Sud-Ouest,65 Rue de Paris,0397901546,https://www.bordeaux-restaurant-44.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_045,Bordeaux,Chez Comptoir Bordeaux,44.796199,-0.545968,4.0,67,€€,Française,125 Rue Victor Hugo,0682857127,https://www.bordeaux-restaurant-45.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_046,Bordeaux,Le Nouveau Café,44.832283,-0.564618,4.6,170,€,Gastronomique,99 Rue de Paris,0120771629,https://www.bordeaux-restaurant-46.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_047,Bordeaux,Chez Petit Café,44.846333,-0.552028,4.0,378,€,Française,9 Rue Victor Hugo,0125903874,https://www.bordeaux-restaurant-47.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_048,Bordeaux,Bistro Les Bordeaux,44.846433,-0.586382,3.5,211,€€€,Sud-Ouest,79 Rue de Paris,0124459550,https://www.bordeaux-restaurant-48.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_049,Bordeaux,Les Nouveau Brasserie,44.872471,-0.603457,4.7,429,€€,Vins,72 Rue du Centre,0391992071,https://www.bordeaux-restaurant-49.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_050,Bordeaux,Table Au Central,44.805732,-0.623337,4.0,192,€,Sud-Ouest,43 Rue Victor Hugo,0391338433,https://www.bordeaux-restaurant-50.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_051,Bordeaux,Chez Typique Table,44.796912,-0.544428,4.0,390,€€,Française,166 Rue de Paris,0482577847,https://www.bordeaux-restaurant-51.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_052,Bordeaux,Brasserie Les de la Gare,44.85748,-0.59963,4.2,49,€€,Canard,141 Rue du Centre,0588894364,https://www.bordeaux-restaurant-52.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_053,Bordeaux,Au Café Bordeaux,44.805238,-0.623425,3.8,159,€€,Française,40 Rue de Paris,0657473779,https://www.bordeaux-restaurant-53.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_054,Bordeaux,Les Nouveau Restaurant,44.824294,-0.564724,4.0,355,€,Française,46 Rue du Centre,0412733484,https://www.bordeaux-restaurant-54.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_055,Bordeaux,La Cuisine de Bordeaux,44.850179,-0.593679,3.5,433,€€€,Canard,192 Rue de Paris,0693908274,https://www.bordeaux-restaurant-55.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_056,Bordeaux,Les Typique Restaurant,44.834145,-0.549404,3.2,109,€€,Française,195 Rue du Centre,0636864544,https://www.bordeaux-restaurant-56.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_057,Bordeaux,Les Petit Brasserie,44.841869,-0.56299,3.7,120,€,Française,65 Rue Principale,0420554342,https://www.bordeaux-restaurant-57.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_058,Bordeaux,Chez Bon Restaurant,44.823823,-0.562463,3.7,144,€€,Vins,77 Rue de Paris,0480612350,https://www.bordeaux-restaurant-58.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_059,Bordeaux,La Comptoir Bordeaux,44.799638,-0.596493,3.9,68,€€€,Gastronomique,136 Rue du Centre,0435198057,https://www.bordeaux-restaurant-59.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_060,Bordeaux,Chez Grand Café,44.791319,-0.619401,3.3,82,€€,Vins,27 Rue du Centre,0396184469,https://www.bordeaux-restaurant-60.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_061,Bordeaux,Au Café Bordeaux,44.883526,-0.618109,3.8,354,€€€,Canard,148 Rue du Centre,0471325530,https://www.bordeaux-restaurant-61.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_062,Bordeaux,Au Petit Restaurant,44.824249,-0.531469,4.6,477,€€,Canard,138 Rue du Centre,0384603122,https://www.bordeaux-restaurant-62.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_063,Bordeaux,Le Café Bordeaux,44.846224,-0.577163,3.4,376,€,Gastronomique,150 Rue du Centre,0492548127,https://www.bordeaux-restaurant-63.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_064,Bordeaux,Le Cuisine du Bordeaux,44.858171,-0.588327,3.5,395,€,Canard,26 Rue de Paris,0686361712,https://www.bordeaux-restaurant-64.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_065,Bordeaux,La Café Bordeaux,44.827658,-0.580505,4.1,205,€,Vins,87 Rue du Centre,0386838859,https://www.bordeaux-restaurant-65.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_066,Bordeaux,Le Grand Table,44.826363,-0.543745,4.4,387,€,Vins,60 Rue du Centre,0124477278,https://www.bordeaux-restaurant-66.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_067,Bordeaux,Le Comptoir Bordeaux,44.842442,-0.592834,3.5,359,€,Canard,65 Rue Principale,0223843437,https://www.bordeaux-restaurant-67.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_068,Bordeaux,Table Les des Arts,44.885484,-0.562299,3.8,292,€€€,Française,37 Rue Principale,0454524272,https://www.bordeaux-restaurant-68.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_069,Bordeaux,Café Les Bordeaux,44.808404,-0.599935,4.0,413,€€€,Canard,33 Rue du Centre,0241309449,https://www.bordeaux-restaurant-69.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_070,Bordeaux,Chez Comptoir Bordeaux,44.843625,-0.611496,3.8,331,€€€,Canard,66 Rue de Paris,0426198063,https://www.bordeaux-restaurant-70.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_071,Bordeaux,Les Bon Comptoir,44.85543,-0.574797,3.3,242,€€€,Canard,83 Rue de Paris,0398366922,https://www.bordeaux-restaurant-71.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_072,Bordeaux,Les Grand Bistro,44.796834,-0.599441,4.1,392,€€€,Sud-Ouest,167 Rue du Centre,0277519935,https://www.bordeaux-restaurant-72.fr,"11:30-15:00, 18:30-23:00",generated_data
+bordeaux_resto_073,Bordeaux,Le Table de Bordeaux,44.817208,-0.577753,4.4,106,€€,Gastronomique,122 Rue Victor Hugo,0234733142,https://www.bordeaux-restaurant-73.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_074,Bordeaux,La Grand Café,44.856659,-0.603049,3.5,219,€,Française,197 Rue du Centre,0450682584,https://www.bordeaux-restaurant-74.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_075,Bordeaux,Les Bon Comptoir,44.885657,-0.571792,3.5,86,€,Française,146 Rue de Paris,0387834975,https://www.bordeaux-restaurant-75.fr,"12:00-14:00, 19:00-22:00",generated_data
+bordeaux_resto_076,Bordeaux,Au Vieux Table,44.85256,-0.618239,4.0,323,€€,Gastronomique,196 Rue de Paris,0319681056,https://www.bordeaux-restaurant-76.fr,"12:00-14:30, 19:00-22:30",generated_data
+bordeaux_resto_077,Bordeaux,Au Bouchon Bordeaux,44.864317,-0.571271,3.6,83,€,Gastronomique,25 Rue de Paris,0128846772,https://www.bordeaux-restaurant-77.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_001,Nice,La Table du Nice,43.66182,7.278749,3.4,196,€€€,Italienne,121 Rue Principale,0285579781,https://www.nice-restaurant-1.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_002,Nice,Le Table de Nice,43.753306,7.236913,4.0,49,€,Niçoise,60 Rue Principale,0311541640,https://www.nice-restaurant-2.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_003,Nice,Les Traditionnel Comptoir,43.68033,7.223869,4.1,459,€€,Provençale,90 Rue du Centre,0137604897,https://www.nice-restaurant-3.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_004,Nice,Brasserie Chez Central,43.708439,7.24287,3.2,144,€€,Méditerranéenne,86 Rue Principale,0339518524,https://www.nice-restaurant-4.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_005,Nice,Le Nouveau Restaurant,43.741841,7.267914,4.3,291,€,Provençale,135 Rue Principale,0260726956,https://www.nice-restaurant-5.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_006,Nice,Restaurant Chez du Marché,43.754835,7.245897,3.5,12,€,Méditerranéenne,90 Rue Principale,0395507941,https://www.nice-restaurant-6.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_007,Nice,Le Table de Nice,43.752001,7.269896,3.9,162,€,Provençale,99 Rue Principale,0514374276,https://www.nice-restaurant-7.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_008,Nice,Le Cuisine du Nice,43.719387,7.298983,4.2,208,€€€,Méditerranéenne,137 Rue du Centre,0638403192,https://www.nice-restaurant-8.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_009,Nice,Au Café Nice,43.697626,7.295151,4.2,489,€,Niçoise,82 Rue de Paris,0536732736,https://www.nice-restaurant-9.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_010,Nice,Chez Vieux Café,43.686109,7.271039,4.0,338,€€,Méditerranéenne,131 Rue Principale,0242377152,https://www.nice-restaurant-10.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_011,Nice,Table Au du Port,43.702106,7.270616,3.5,456,€€,Niçoise,107 Rue Victor Hugo,0587969099,https://www.nice-restaurant-11.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_012,Nice,Le Table de Nice,43.663602,7.295195,4.6,301,€,Italienne,51 Rue du Centre,0664941436,https://www.nice-restaurant-12.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_013,Nice,Au Café Nice,43.706308,7.223783,4.3,430,€€€,Italienne,36 Rue du Centre,0461639910,https://www.nice-restaurant-13.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_014,Nice,Le Cuisine de Nice,43.728899,7.233171,3.2,78,€€,Niçoise,152 Rue du Centre,0299141773,https://www.nice-restaurant-14.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_015,Nice,Au Grand Café,43.660621,7.246211,4.6,138,€€€,Poisson,93 Rue de Paris,0218378985,https://www.nice-restaurant-15.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_016,Nice,Restaurant Chez du Marché,43.753902,7.303197,4.0,415,€€€,Italienne,4 Rue Principale,0143255657,https://www.nice-restaurant-16.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_017,Nice,Le Bouchon Nice,43.702689,7.216845,4.8,58,€€,Niçoise,164 Rue Principale,0328538555,https://www.nice-restaurant-17.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_018,Nice,Le Cuisine du Nice,43.717949,7.300973,4.4,91,€,Poisson,186 Rue Victor Hugo,0486183153,https://www.nice-restaurant-18.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_019,Nice,Chez Bouchon Nice,43.721152,7.25626,3.9,305,€€€,Méditerranéenne,126 Rue Principale,0236932237,https://www.nice-restaurant-19.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_020,Nice,La Café Nice,43.759008,7.219987,3.8,201,€€€,Provençale,89 Rue Principale,0554739263,https://www.nice-restaurant-20.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_021,Nice,Le Table de Nice,43.680896,7.220158,3.7,97,€€€,Méditerranéenne,197 Rue Principale,0657637163,https://www.nice-restaurant-21.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_022,Nice,Les Vieux Brasserie,43.66268,7.302535,3.8,281,€,Niçoise,174 Rue Principale,0643351311,https://www.nice-restaurant-22.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_023,Nice,Les Vieux Café,43.726616,7.213692,3.6,495,€,Méditerranéenne,51 Rue Victor Hugo,0339235754,https://www.nice-restaurant-23.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_024,Nice,Chez Bouchon Nice,43.736051,7.22709,3.3,279,€€€,Méditerranéenne,104 Rue du Centre,0557541867,https://www.nice-restaurant-24.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_025,Nice,Le Comptoir Nice,43.727639,7.221782,4.7,120,€€€,Poisson,148 Rue de Paris,0134183011,https://www.nice-restaurant-25.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_026,Nice,Le Comptoir Nice,43.7115,7.295308,4.2,258,€€,Provençale,158 Rue du Centre,0469416036,https://www.nice-restaurant-26.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_027,Nice,Café La Nice,43.736219,7.267065,3.3,185,€€,Provençale,102 Rue Principale,0691887359,https://www.nice-restaurant-27.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_028,Nice,Chez Typique Restaurant,43.700228,7.282008,3.5,316,€€,Méditerranéenne,103 Rue du Centre,0399135673,https://www.nice-restaurant-28.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_029,Nice,Brasserie Au du Marché,43.737225,7.232164,3.9,478,€,Niçoise,105 Rue Victor Hugo,0546551144,https://www.nice-restaurant-29.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_030,Nice,Le Café Nice,43.738283,7.294113,3.3,258,€,Niçoise,74 Rue Principale,0216757462,https://www.nice-restaurant-30.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_031,Nice,La Cuisine de Nice,43.677588,7.277965,4.4,488,€€,Méditerranéenne,197 Rue du Centre,0497169577,https://www.nice-restaurant-31.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_032,Nice,Restaurant Chez Central,43.673615,7.2196,4.4,203,€€€,Méditerranéenne,27 Rue du Centre,0686212692,https://www.nice-restaurant-32.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_033,Nice,Restaurant Les du Marché,43.728938,7.229041,3.7,305,€,Provençale,127 Rue du Centre,0198897440,https://www.nice-restaurant-33.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_034,Nice,Café Le Central,43.745034,7.28753,3.8,318,€€€,Provençale,110 Rue Principale,0171928457,https://www.nice-restaurant-34.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_035,Nice,Le Comptoir Nice,43.674673,7.292424,3.7,325,€,Italienne,29 Rue Principale,0117524713,https://www.nice-restaurant-35.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_036,Nice,Le Vieux Café,43.725269,7.216804,4.4,181,€€,Méditerranéenne,24 Rue Principale,0411156611,https://www.nice-restaurant-36.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_037,Nice,Brasserie Les du Marché,43.759849,7.281239,4.2,75,€,Italienne,34 Rue Victor Hugo,0335129810,https://www.nice-restaurant-37.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_038,Nice,Au Café Nice,43.73077,7.274333,3.9,398,€,Italienne,15 Rue Victor Hugo,0327614792,https://www.nice-restaurant-38.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_039,Nice,Brasserie Le Nice,43.683182,7.29435,4.6,491,€€,Niçoise,156 Rue Principale,0425644233,https://www.nice-restaurant-39.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_040,Nice,Le Typique Restaurant,43.721132,7.224949,4.7,431,€€€,Poisson,165 Rue Victor Hugo,0393505959,https://www.nice-restaurant-40.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_041,Nice,Le Table du Nice,43.726105,7.240243,3.7,128,€€€,Méditerranéenne,151 Rue Victor Hugo,0665599438,https://www.nice-restaurant-41.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_042,Nice,Table Le Central,43.719829,7.216724,4.2,268,€,Italienne,189 Rue Principale,0614673159,https://www.nice-restaurant-42.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_043,Nice,Comptoir Au de la Gare,43.75645,7.216252,4.7,186,€€,Provençale,108 Rue de Paris,0383371046,https://www.nice-restaurant-43.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_044,Nice,Comptoir Chez du Port,43.667912,7.268042,4.4,139,€,Poisson,49 Rue du Centre,0683443127,https://www.nice-restaurant-44.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_045,Nice,La Cuisine du Nice,43.733478,7.241165,3.9,358,€€€,Provençale,98 Rue de Paris,0568259378,https://www.nice-restaurant-45.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_046,Nice,Chez Comptoir Nice,43.722862,7.224226,3.5,376,€€€,Méditerranéenne,107 Rue Victor Hugo,0230113589,https://www.nice-restaurant-46.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_047,Nice,Les Traditionnel Bistro,43.693694,7.295065,3.4,122,€€,Méditerranéenne,36 Rue de Paris,0325144311,https://www.nice-restaurant-47.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_048,Nice,Table Chez Nice,43.71956,7.295376,3.4,348,€€€,Provençale,186 Rue de Paris,0518592282,https://www.nice-restaurant-48.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_049,Nice,Au Traditionnel Bistro,43.666318,7.279387,3.8,274,€€,Méditerranéenne,95 Rue Victor Hugo,0112327585,https://www.nice-restaurant-49.fr,"11:30-15:00, 18:30-23:00",generated_data
+nice_resto_050,Nice,Le Bouchon Nice,43.738863,7.284386,4.5,7,€€,Méditerranéenne,102 Rue Principale,0585859774,https://www.nice-restaurant-50.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_051,Nice,Les Café Nice,43.743781,7.284522,4.2,29,€€,Poisson,111 Rue de Paris,0314413557,https://www.nice-restaurant-51.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_052,Nice,Café Les Central,43.666365,7.285377,4.1,151,€€€,Niçoise,137 Rue du Centre,0519711533,https://www.nice-restaurant-52.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_053,Nice,Comptoir Le de la Gare,43.705737,7.218985,3.3,45,€€€,Niçoise,74 Rue Principale,0663353510,https://www.nice-restaurant-53.fr,"12:00-14:00, 19:00-22:00",generated_data
+nice_resto_054,Nice,Comptoir Chez Nice,43.73343,7.227779,4.0,366,€,Provençale,185 Rue de Paris,0646148380,https://www.nice-restaurant-54.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_055,Nice,La Table de Nice,43.660545,7.25008,3.5,46,€,Méditerranéenne,72 Rue du Centre,0534929819,https://www.nice-restaurant-55.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_056,Nice,La Cuisine de Nice,43.668223,7.219613,3.7,398,€€€,Niçoise,92 Rue Victor Hugo,0466277145,https://www.nice-restaurant-56.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_057,Nice,Table Chez du Port,43.743202,7.269564,4.8,244,€€€,Provençale,190 Rue Principale,0663613694,https://www.nice-restaurant-57.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_058,Nice,Café Au Central,43.743374,7.310089,3.9,315,€€€,Poisson,43 Rue du Centre,0664359145,https://www.nice-restaurant-58.fr,"12:00-14:30, 19:00-22:30",generated_data
+nice_resto_059,Nice,La Café Nice,43.736705,7.23441,4.5,237,€€€,Provençale,67 Rue du Centre,0217144815,https://www.nice-restaurant-59.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_001,Toulouse,La Cuisine de Toulouse,43.643878,1.398788,4.2,221,€,Gastronomique,176 Rue du Centre,0287163238,https://www.toulouse-restaurant-1.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_002,Toulouse,Le Cuisine de Toulouse,43.629683,1.486044,3.8,57,€,Cassoulet,95 Rue Principale,0569632279,https://www.toulouse-restaurant-2.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_003,Toulouse,La Table de Toulouse,43.560428,1.48111,4.2,296,€€,Sud-Ouest,11 Rue Victor Hugo,0661437837,https://www.toulouse-restaurant-3.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_004,Toulouse,Le Cuisine de Toulouse,43.58088,1.436229,3.2,469,€€,Gastronomique,141 Rue Principale,0674864447,https://www.toulouse-restaurant-4.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_005,Toulouse,Brasserie Au du Port,43.602464,1.469295,4.2,405,€€€,Française,158 Rue Victor Hugo,0163549646,https://www.toulouse-restaurant-5.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_006,Toulouse,Table La du Port,43.578981,1.48605,3.4,271,€€€,Sud-Ouest,150 Rue de Paris,0334773735,https://www.toulouse-restaurant-6.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_007,Toulouse,Au Bon Brasserie,43.588953,1.488045,3.5,261,€€€,Sud-Ouest,57 Rue du Centre,0371854691,https://www.toulouse-restaurant-7.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_008,Toulouse,Comptoir Chez Toulouse,43.559025,1.402255,3.4,437,€€,Française,185 Rue de Paris,0480508062,https://www.toulouse-restaurant-8.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_009,Toulouse,La Café Toulouse,43.643836,1.479455,4.7,127,€€,Sud-Ouest,30 Rue Principale,0542314575,https://www.toulouse-restaurant-9.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_010,Toulouse,Au Nouveau Comptoir,43.573096,1.422544,3.8,403,€,Française,47 Rue du Centre,0121468146,https://www.toulouse-restaurant-10.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_011,Toulouse,La Petit Brasserie,43.586778,1.430938,4.4,199,€€€,Gastronomique,45 Rue Principale,0319665845,https://www.toulouse-restaurant-11.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_012,Toulouse,Le Petit Café,43.629082,1.399873,4.0,274,€€,Française,108 Rue du Centre,0653469165,https://www.toulouse-restaurant-12.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_013,Toulouse,Au Grand Comptoir,43.607665,1.465868,4.1,28,€€,Cassoulet,113 Rue Principale,0438703754,https://www.toulouse-restaurant-13.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_014,Toulouse,Chez Traditionnel Café,43.599034,1.442891,4.6,155,€€€,Sud-Ouest,112 Rue Principale,0120617787,https://www.toulouse-restaurant-14.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_015,Toulouse,La Table de Toulouse,43.591355,1.430098,3.4,256,€€,Sud-Ouest,37 Rue Victor Hugo,0541544094,https://www.toulouse-restaurant-15.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_016,Toulouse,Comptoir Chez Toulouse,43.564503,1.448198,4.5,453,€€€,Cassoulet,198 Rue Victor Hugo,0311807852,https://www.toulouse-restaurant-16.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_017,Toulouse,La Cuisine de Toulouse,43.609944,1.421358,4.0,475,€,Sud-Ouest,127 Rue Principale,0481197026,https://www.toulouse-restaurant-17.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_018,Toulouse,Le Cuisine de Toulouse,43.64032,1.48443,4.3,408,€€,Française,61 Rue Victor Hugo,0541438373,https://www.toulouse-restaurant-18.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_019,Toulouse,Comptoir Le Toulouse,43.595279,1.409078,3.4,9,€€,Gastronomique,114 Rue Principale,0538223051,https://www.toulouse-restaurant-19.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_020,Toulouse,La Table du Toulouse,43.595481,1.444729,4.2,126,€,Française,6 Rue Victor Hugo,0223705293,https://www.toulouse-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_021,Toulouse,Restaurant Le Toulouse,43.627994,1.477928,4.3,186,€€,Sud-Ouest,68 Rue du Centre,0114409249,https://www.toulouse-restaurant-21.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_022,Toulouse,La Bouchon Toulouse,43.653455,1.406291,3.4,79,€€,Française,96 Rue du Centre,0414411019,https://www.toulouse-restaurant-22.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_023,Toulouse,Café Les du Marché,43.582146,1.472955,3.8,386,€€€,Française,6 Rue Principale,0534566844,https://www.toulouse-restaurant-23.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_024,Toulouse,Le Table de Toulouse,43.592462,1.468519,3.2,437,€€,Cassoulet,142 Rue Victor Hugo,0446742229,https://www.toulouse-restaurant-24.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_025,Toulouse,La Table du Toulouse,43.559185,1.424882,4.5,477,€€,Cassoulet,6 Rue Victor Hugo,0630828940,https://www.toulouse-restaurant-25.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_026,Toulouse,Les Traditionnel Bistro,43.604505,1.448117,4.8,157,€,Cassoulet,153 Rue Victor Hugo,0594777529,https://www.toulouse-restaurant-26.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_027,Toulouse,La Comptoir Toulouse,43.643156,1.45458,4.1,431,€,Sud-Ouest,141 Rue du Centre,0648791885,https://www.toulouse-restaurant-27.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_028,Toulouse,Le Table du Toulouse,43.556597,1.491047,4.2,278,€,Sud-Ouest,64 Rue de Paris,0466762820,https://www.toulouse-restaurant-28.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_029,Toulouse,Café Chez Toulouse,43.55578,1.404225,4.0,324,€€,Française,154 Rue Victor Hugo,0135665319,https://www.toulouse-restaurant-29.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_030,Toulouse,Table Au du Marché,43.617417,1.465416,4.3,122,€,Française,81 Rue Victor Hugo,0490885326,https://www.toulouse-restaurant-30.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_031,Toulouse,La Table de Toulouse,43.639854,1.488751,4.7,52,€€€,Française,163 Rue Victor Hugo,0358589567,https://www.toulouse-restaurant-31.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_032,Toulouse,Bistro Les de la Gare,43.557236,1.469891,4.5,228,€,Française,16 Rue Victor Hugo,0676332253,https://www.toulouse-restaurant-32.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_033,Toulouse,Les Bouchon Toulouse,43.57096,1.473282,4.8,402,€,Sud-Ouest,69 Rue Principale,0455476325,https://www.toulouse-restaurant-33.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_034,Toulouse,Le Table du Toulouse,43.611042,1.491977,4.5,375,€€€,Française,36 Rue du Centre,0662975496,https://www.toulouse-restaurant-34.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_035,Toulouse,Le Cuisine de Toulouse,43.614683,1.405566,4.2,277,€€,Cassoulet,67 Rue de Paris,0352727296,https://www.toulouse-restaurant-35.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_036,Toulouse,Restaurant Les Central,43.562872,1.490927,3.3,103,€€,Cassoulet,62 Rue Principale,0429603191,https://www.toulouse-restaurant-36.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_037,Toulouse,Le Typique Café,43.651793,1.426029,4.3,272,€€,Cassoulet,153 Rue Victor Hugo,0531146395,https://www.toulouse-restaurant-37.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_038,Toulouse,La Cuisine du Toulouse,43.650577,1.469981,4.4,130,€€,Sud-Ouest,76 Rue de Paris,0364343748,https://www.toulouse-restaurant-38.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_039,Toulouse,Les Bouchon Toulouse,43.57828,1.412901,4.3,382,€€€,Sud-Ouest,189 Rue Principale,0684785968,https://www.toulouse-restaurant-39.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_040,Toulouse,Chez Traditionnel Table,43.644423,1.404708,4.0,178,€€€,Cassoulet,192 Rue du Centre,0436845325,https://www.toulouse-restaurant-40.fr,"12:00-14:30, 19:00-22:30",generated_data
+toulouse_resto_041,Toulouse,La Café Toulouse,43.636766,1.429732,3.3,78,€€,Gastronomique,63 Rue Principale,0138867282,https://www.toulouse-restaurant-41.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_042,Toulouse,La Bouchon Toulouse,43.654523,1.475931,3.6,61,€,Française,126 Rue Victor Hugo,0371266710,https://www.toulouse-restaurant-42.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_043,Toulouse,Le Cuisine de Toulouse,43.637251,1.463384,3.2,311,€,Française,173 Rue du Centre,0163105959,https://www.toulouse-restaurant-43.fr,"12:00-14:00, 19:00-22:00",generated_data
+toulouse_resto_044,Toulouse,La Table de Toulouse,43.652059,1.414884,3.7,214,€€€,Gastronomique,179 Rue Victor Hugo,0324807190,https://www.toulouse-restaurant-44.fr,"11:30-15:00, 18:30-23:00",generated_data
+toulouse_resto_045,Toulouse,La Cuisine du Toulouse,43.563611,1.442024,3.8,372,€,Française,120 Rue Principale,0615189959,https://www.toulouse-restaurant-45.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_001,Strasbourg,Au Grand Café,48.55307,7.801847,4.2,444,€€€,Allemande,148 Rue Principale,0447392767,https://www.strasbourg-restaurant-1.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_002,Strasbourg,La Comptoir Strasbourg,48.567366,7.724066,4.5,491,€,Française,195 Rue du Centre,0437649745,https://www.strasbourg-restaurant-2.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_003,Strasbourg,Table Au de la Gare,48.589591,7.712066,3.8,464,€€€,Choucroute,131 Rue Victor Hugo,0381659783,https://www.strasbourg-restaurant-3.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_004,Strasbourg,Le Table du Strasbourg,48.553624,7.739354,3.3,19,€€€,Allemande,152 Rue Victor Hugo,0172102562,https://www.strasbourg-restaurant-4.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_005,Strasbourg,La Cuisine du Strasbourg,48.577463,7.715271,4.0,158,€€,Allemande,178 Rue Victor Hugo,0546698937,https://www.strasbourg-restaurant-5.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_006,Strasbourg,La Typique Brasserie,48.60049,7.776684,4.2,171,€,Alsacienne,152 Rue Principale,0191191823,https://www.strasbourg-restaurant-6.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_007,Strasbourg,Le Typique Comptoir,48.606327,7.724758,4.6,218,€€,Française,198 Rue Principale,0452696469,https://www.strasbourg-restaurant-7.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_008,Strasbourg,Chez Comptoir Strasbourg,48.541174,7.723752,4.7,307,€€€,Allemande,71 Rue Principale,0297449726,https://www.strasbourg-restaurant-8.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_009,Strasbourg,La Table de Strasbourg,48.570566,7.72253,4.2,46,€€€,Alsacienne,122 Rue de Paris,0561984960,https://www.strasbourg-restaurant-9.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_010,Strasbourg,Chez Bon Comptoir,48.587101,7.775165,4.7,173,€,Choucroute,152 Rue Principale,0567252883,https://www.strasbourg-restaurant-10.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_011,Strasbourg,Chez Bouchon Strasbourg,48.605311,7.727893,4.5,410,€,Alsacienne,178 Rue du Centre,0420867814,https://www.strasbourg-restaurant-11.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_012,Strasbourg,Les Bouchon Strasbourg,48.580025,7.79375,3.6,456,€€,Française,99 Rue Victor Hugo,0235217587,https://www.strasbourg-restaurant-12.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_013,Strasbourg,La Cuisine du Strasbourg,48.570238,7.709303,3.8,245,€,Choucroute,4 Rue Victor Hugo,0166681045,https://www.strasbourg-restaurant-13.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_014,Strasbourg,La Comptoir Strasbourg,48.549906,7.756928,3.8,121,€,Choucroute,181 Rue Principale,0583557214,https://www.strasbourg-restaurant-14.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_015,Strasbourg,Brasserie Chez Strasbourg,48.56092,7.712442,4.0,169,€€€,Française,29 Rue de Paris,0498718969,https://www.strasbourg-restaurant-15.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_016,Strasbourg,Le Grand Café,48.617914,7.720729,3.6,314,€€€,Alsacienne,156 Rue Principale,0467451328,https://www.strasbourg-restaurant-16.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_017,Strasbourg,La Traditionnel Café,48.56804,7.793844,3.3,251,€€€,Allemande,124 Rue du Centre,0130427976,https://www.strasbourg-restaurant-17.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_018,Strasbourg,Les Typique Bistro,48.534676,7.758478,4.5,82,€€,Française,160 Rue du Centre,0290967952,https://www.strasbourg-restaurant-18.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_019,Strasbourg,Le Table du Strasbourg,48.552818,7.753708,4.4,319,€,Choucroute,133 Rue du Centre,0373939136,https://www.strasbourg-restaurant-19.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_020,Strasbourg,Bistro La des Arts,48.559869,7.77321,4.1,411,€,Allemande,83 Rue Principale,0127773284,https://www.strasbourg-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_021,Strasbourg,La Cuisine du Strasbourg,48.546597,7.721287,3.5,333,€,Choucroute,108 Rue Principale,0694364215,https://www.strasbourg-restaurant-21.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_022,Strasbourg,Les Petit Table,48.575027,7.747005,4.6,463,€€,Française,121 Rue de Paris,0383557410,https://www.strasbourg-restaurant-22.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_023,Strasbourg,Le Table de Strasbourg,48.582668,7.769387,3.9,180,€€,Française,121 Rue Principale,0623819245,https://www.strasbourg-restaurant-23.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_024,Strasbourg,Le Table du Strasbourg,48.566649,7.759277,4.3,491,€€,Française,22 Rue Principale,0265596555,https://www.strasbourg-restaurant-24.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_025,Strasbourg,Les Bouchon Strasbourg,48.574731,7.78221,4.0,430,€€€,Choucroute,102 Rue du Centre,0275327435,https://www.strasbourg-restaurant-25.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_026,Strasbourg,Le Grand Café,48.59351,7.781929,4.7,323,€€€,Française,136 Rue Principale,0429236994,https://www.strasbourg-restaurant-26.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_027,Strasbourg,Les Café Strasbourg,48.590557,7.785405,4.5,216,€,Choucroute,157 Rue du Centre,0433813924,https://www.strasbourg-restaurant-27.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_028,Strasbourg,Au Nouveau Comptoir,48.544885,7.76814,3.4,101,€,Alsacienne,98 Rue Principale,0696239583,https://www.strasbourg-restaurant-28.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_029,Strasbourg,Au Café Strasbourg,48.533471,7.732646,3.7,324,€€€,Choucroute,5 Rue Victor Hugo,0382584473,https://www.strasbourg-restaurant-29.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_030,Strasbourg,La Comptoir Strasbourg,48.617492,7.751076,3.9,248,€,Française,116 Rue Principale,0168623886,https://www.strasbourg-restaurant-30.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_031,Strasbourg,Table La de la Gare,48.620121,7.7226,4.6,467,€€€,Choucroute,116 Rue du Centre,0619657617,https://www.strasbourg-restaurant-31.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_032,Strasbourg,Chez Typique Restaurant,48.592806,7.704587,4.4,242,€,Choucroute,98 Rue Principale,0257189049,https://www.strasbourg-restaurant-32.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_033,Strasbourg,La Petit Table,48.613041,7.723132,3.5,371,€,Allemande,74 Rue de Paris,0243996982,https://www.strasbourg-restaurant-33.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_034,Strasbourg,Chez Petit Bistro,48.535584,7.768147,4.7,57,€€€,Choucroute,150 Rue du Centre,0337765184,https://www.strasbourg-restaurant-34.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_035,Strasbourg,Bistro Au du Marché,48.527007,7.763957,3.7,265,€€€,Française,40 Rue Victor Hugo,0514781234,https://www.strasbourg-restaurant-35.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_036,Strasbourg,Les Nouveau Bistro,48.570129,7.705706,4.3,173,€€,Alsacienne,50 Rue du Centre,0213276436,https://www.strasbourg-restaurant-36.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_037,Strasbourg,Le Table de Strasbourg,48.618018,7.775478,4.2,387,€€,Française,24 Rue du Centre,0598509484,https://www.strasbourg-restaurant-37.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_038,Strasbourg,Café Le du Port,48.539031,7.766097,4.7,50,€€€,Allemande,107 Rue de Paris,0687263921,https://www.strasbourg-restaurant-38.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_039,Strasbourg,La Table du Strasbourg,48.606944,7.798227,4.3,449,€,Allemande,34 Rue de Paris,0588993585,https://www.strasbourg-restaurant-39.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_040,Strasbourg,La Petit Bistro,48.57127,7.711505,4.0,350,€€,Française,193 Rue du Centre,0459217596,https://www.strasbourg-restaurant-40.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_041,Strasbourg,Les Bouchon Strasbourg,48.538099,7.801527,4.5,217,€,Alsacienne,8 Rue Principale,0376156472,https://www.strasbourg-restaurant-41.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_042,Strasbourg,Chez Traditionnel Bistro,48.560552,7.796269,3.4,110,€€€,Choucroute,171 Rue Victor Hugo,0455535923,https://www.strasbourg-restaurant-42.fr,"11:30-15:00, 18:30-23:00",generated_data
+strasbourg_resto_043,Strasbourg,Le Cuisine de Strasbourg,48.608792,7.713052,4.1,259,€€€,Choucroute,39 Rue Principale,0157179776,https://www.strasbourg-restaurant-43.fr,"12:00-14:00, 19:00-22:00",generated_data
+strasbourg_resto_044,Strasbourg,Le Table du Strasbourg,48.537729,7.77504,4.4,292,€,Française,145 Rue de Paris,0365273360,https://www.strasbourg-restaurant-44.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_045,Strasbourg,Le Table du Strasbourg,48.564145,7.786882,3.9,401,€,Alsacienne,187 Rue du Centre,0429118287,https://www.strasbourg-restaurant-45.fr,"12:00-14:30, 19:00-22:30",generated_data
+strasbourg_resto_046,Strasbourg,Table Les des Arts,48.58273,7.709116,4.1,186,€€,Alsacienne,131 Rue Principale,0525964831,https://www.strasbourg-restaurant-46.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_001,Nantes,La Cuisine du Nantes,47.260973,-1.596955,4.3,84,€€,Française,26 Rue de Paris,0648585269,https://www.nantes-restaurant-1.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_002,Nantes,Les Nouveau Café,47.246267,-1.546564,4.5,398,€€€,Traditionnelle,173 Rue Principale,0447254354,https://www.nantes-restaurant-2.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_003,Nantes,Au Comptoir Nantes,47.256142,-1.556705,4.3,111,€€€,Traditionnelle,135 Rue Victor Hugo,0282422870,https://www.nantes-restaurant-3.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_004,Nantes,Le Comptoir Nantes,47.202885,-1.547318,3.8,158,€€,Produits de la mer,76 Rue de Paris,0212132987,https://www.nantes-restaurant-4.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_005,Nantes,La Typique Table,47.211027,-1.504123,4.6,402,€,Française,157 Rue Victor Hugo,0313718035,https://www.nantes-restaurant-5.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_006,Nantes,Brasserie Les Nantes,47.169948,-1.60291,3.8,329,€€€,Française,198 Rue de Paris,0599627027,https://www.nantes-restaurant-6.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_007,Nantes,Comptoir La du Port,47.212568,-1.528597,4.7,384,€,Traditionnelle,116 Rue de Paris,0220834813,https://www.nantes-restaurant-7.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_008,Nantes,La Bouchon Nantes,47.265462,-1.526395,4.4,117,€€,Traditionnelle,132 Rue Victor Hugo,0410803892,https://www.nantes-restaurant-8.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_009,Nantes,Brasserie Les de la Gare,47.189737,-1.52627,4.4,273,€€,Traditionnelle,162 Rue Victor Hugo,0149243542,https://www.nantes-restaurant-9.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_010,Nantes,Les Comptoir Nantes,47.208313,-1.567379,4.8,218,€€,Française,151 Rue de Paris,0296799690,https://www.nantes-restaurant-10.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_011,Nantes,Brasserie La des Arts,47.174052,-1.581044,3.7,331,€€€,Produits de la mer,199 Rue de Paris,0328503524,https://www.nantes-restaurant-11.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_012,Nantes,Café Les Nantes,47.215364,-1.555426,4.5,354,€€€,Produits de la mer,35 Rue du Centre,0352902689,https://www.nantes-restaurant-12.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_013,Nantes,Chez Nouveau Bistro,47.212367,-1.537606,4.0,159,€€,Française,82 Rue Victor Hugo,0233607867,https://www.nantes-restaurant-13.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_014,Nantes,Comptoir Les du Port,47.239793,-1.556155,3.3,334,€,Française,46 Rue du Centre,0669464538,https://www.nantes-restaurant-14.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_015,Nantes,Restaurant Chez Nantes,47.179727,-1.586423,3.6,358,€€,Française,64 Rue du Centre,0146785119,https://www.nantes-restaurant-15.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_016,Nantes,La Table du Nantes,47.223444,-1.537778,4.1,43,€,Traditionnelle,71 Rue de Paris,0561886138,https://www.nantes-restaurant-16.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_017,Nantes,Chez Nouveau Table,47.246285,-1.55916,3.6,128,€,Produits de la mer,31 Rue de Paris,0569239285,https://www.nantes-restaurant-17.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_018,Nantes,Le Table de Nantes,47.191869,-1.595039,4.6,459,€,Traditionnelle,129 Rue de Paris,0413543890,https://www.nantes-restaurant-18.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_019,Nantes,Chez Nouveau Restaurant,47.208464,-1.597271,3.8,398,€,Française,49 Rue du Centre,0679457825,https://www.nantes-restaurant-19.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_020,Nantes,La Cuisine de Nantes,47.170432,-1.564136,4.0,338,€,Française,76 Rue de Paris,0385798164,https://www.nantes-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_021,Nantes,La Cuisine de Nantes,47.257247,-1.512998,4.6,133,€€,Produits de la mer,3 Rue du Centre,0117225266,https://www.nantes-restaurant-21.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_022,Nantes,La Bouchon Nantes,47.173435,-1.597914,3.9,142,€,Traditionnelle,95 Rue de Paris,0440489593,https://www.nantes-restaurant-22.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_023,Nantes,Au Comptoir Nantes,47.225468,-1.558622,3.9,158,€€€,Traditionnelle,149 Rue Victor Hugo,0693773718,https://www.nantes-restaurant-23.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_024,Nantes,Brasserie La des Arts,47.175997,-1.544603,3.2,338,€,Française,111 Rue du Centre,0487471199,https://www.nantes-restaurant-24.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_025,Nantes,Le Table de Nantes,47.206902,-1.559129,3.7,85,€€€,Française,166 Rue de Paris,0376868727,https://www.nantes-restaurant-25.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_026,Nantes,Bistro Chez du Port,47.22998,-1.561782,4.3,92,€€€,Française,177 Rue de Paris,0265963429,https://www.nantes-restaurant-26.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_027,Nantes,Brasserie Les Nantes,47.216033,-1.563433,4.6,56,€€€,Française,121 Rue Victor Hugo,0482251972,https://www.nantes-restaurant-27.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_028,Nantes,La Bon Café,47.264128,-1.591444,4.4,205,€€,Française,136 Rue de Paris,0474182343,https://www.nantes-restaurant-28.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_029,Nantes,Le Petit Bistro,47.234246,-1.54565,3.6,312,€€€,Produits de la mer,59 Rue Victor Hugo,0281393563,https://www.nantes-restaurant-29.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_030,Nantes,Les Comptoir Nantes,47.205415,-1.562558,3.4,343,€,Traditionnelle,138 Rue de Paris,0518265926,https://www.nantes-restaurant-30.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_031,Nantes,La Café Nantes,47.250103,-1.599687,4.2,94,€€€,Traditionnelle,155 Rue Principale,0346191731,https://www.nantes-restaurant-31.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_032,Nantes,La Cuisine du Nantes,47.254105,-1.598372,4.6,466,€€,Française,162 Rue Victor Hugo,0160961869,https://www.nantes-restaurant-32.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_033,Nantes,Chez Bouchon Nantes,47.198755,-1.519247,4.5,35,€,Traditionnelle,107 Rue Victor Hugo,0644873739,https://www.nantes-restaurant-33.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_034,Nantes,Brasserie La Central,47.248834,-1.570107,3.9,48,€€,Française,62 Rue Victor Hugo,0140256529,https://www.nantes-restaurant-34.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_035,Nantes,La Cuisine de Nantes,47.213811,-1.53175,4.3,117,€€,Française,98 Rue Principale,0345948790,https://www.nantes-restaurant-35.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_036,Nantes,Le Comptoir Nantes,47.215583,-1.582331,4.0,237,€€€,Traditionnelle,43 Rue du Centre,0241982394,https://www.nantes-restaurant-36.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_037,Nantes,Les Nouveau Restaurant,47.192967,-1.538709,4.7,399,€,Produits de la mer,89 Rue Principale,0347341725,https://www.nantes-restaurant-37.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_038,Nantes,Le Bouchon Nantes,47.252364,-1.540327,3.7,91,€€€,Traditionnelle,193 Rue du Centre,0244437093,https://www.nantes-restaurant-38.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_039,Nantes,La Table de Nantes,47.24097,-1.53861,3.3,213,€€€,Produits de la mer,30 Rue Principale,0391878154,https://www.nantes-restaurant-39.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_040,Nantes,Café La Nantes,47.267165,-1.588613,3.6,256,€€,Traditionnelle,199 Rue du Centre,0237139766,https://www.nantes-restaurant-40.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_041,Nantes,Le Bon Comptoir,47.266614,-1.528798,4.7,372,€€€,Traditionnelle,144 Rue Principale,0333582328,https://www.nantes-restaurant-41.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_042,Nantes,Au Bouchon Nantes,47.221071,-1.592679,3.7,313,€€€,Produits de la mer,70 Rue du Centre,0682264579,https://www.nantes-restaurant-42.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_043,Nantes,Brasserie La du Port,47.265301,-1.57861,4.7,39,€,Française,40 Rue Principale,0174259142,https://www.nantes-restaurant-43.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_044,Nantes,Le Vieux Bistro,47.175232,-1.575994,3.3,367,€,Traditionnelle,87 Rue de Paris,0195969434,https://www.nantes-restaurant-44.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_045,Nantes,Chez Comptoir Nantes,47.231882,-1.511737,3.5,423,€€,Produits de la mer,120 Rue Principale,0367459857,https://www.nantes-restaurant-45.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_046,Nantes,La Table de Nantes,47.216058,-1.599816,3.5,379,€€€,Française,40 Rue de Paris,0565363499,https://www.nantes-restaurant-46.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_047,Nantes,Le Grand Comptoir,47.213538,-1.54644,4.1,219,€€,Française,195 Rue Principale,0348326649,https://www.nantes-restaurant-47.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_048,Nantes,Le Cuisine du Nantes,47.211558,-1.538568,4.4,483,€€,Produits de la mer,99 Rue du Centre,0577519520,https://www.nantes-restaurant-48.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_049,Nantes,La Cuisine du Nantes,47.243485,-1.545155,3.7,81,€,Produits de la mer,163 Rue du Centre,0227889657,https://www.nantes-restaurant-49.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_050,Nantes,Bistro Le des Arts,47.207631,-1.563075,4.4,102,€€,Traditionnelle,64 Rue Principale,0254758876,https://www.nantes-restaurant-50.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_051,Nantes,La Cuisine du Nantes,47.227733,-1.52648,3.8,225,€€,Traditionnelle,44 Rue de Paris,0634457544,https://www.nantes-restaurant-51.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_052,Nantes,Le Nouveau Café,47.218079,-1.552478,4.7,102,€,Produits de la mer,147 Rue du Centre,0330723817,https://www.nantes-restaurant-52.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_053,Nantes,Le Table de Nantes,47.217874,-1.508032,4.8,107,€€,Française,114 Rue du Centre,0484156616,https://www.nantes-restaurant-53.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_054,Nantes,Le Traditionnel Restaurant,47.251957,-1.585692,3.3,189,€€€,Traditionnelle,126 Rue de Paris,0592284794,https://www.nantes-restaurant-54.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_055,Nantes,Chez Vieux Restaurant,47.264178,-1.59977,3.3,177,€€,Française,133 Rue Principale,0197846740,https://www.nantes-restaurant-55.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_056,Nantes,Le Bouchon Nantes,47.207803,-1.538451,4.1,102,€€€,Produits de la mer,132 Rue Victor Hugo,0221812388,https://www.nantes-restaurant-56.fr,"11:30-15:00, 18:30-23:00",generated_data
+nantes_resto_057,Nantes,Les Comptoir Nantes,47.185187,-1.53714,3.9,179,€,Traditionnelle,55 Rue Victor Hugo,0689201391,https://www.nantes-restaurant-57.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_058,Nantes,Bistro La de la Gare,47.230511,-1.569525,4.7,87,€,Traditionnelle,12 Rue de Paris,0581665831,https://www.nantes-restaurant-58.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_059,Nantes,Café Chez Central,47.247072,-1.530344,3.2,350,€,Produits de la mer,26 Rue de Paris,0621353550,https://www.nantes-restaurant-59.fr,"12:00-14:00, 19:00-22:00",generated_data
+nantes_resto_060,Nantes,Le Bouchon Nantes,47.209114,-1.563385,3.9,178,€€,Produits de la mer,193 Rue de Paris,0282489533,https://www.nantes-restaurant-60.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_061,Nantes,La Vieux Bistro,47.173473,-1.533892,4.1,13,€€,Traditionnelle,180 Rue de Paris,0579457066,https://www.nantes-restaurant-61.fr,"12:00-14:30, 19:00-22:30",generated_data
+nantes_resto_062,Nantes,Au Café Nantes,47.246876,-1.598848,4.7,480,€€€,Traditionnelle,70 Rue du Centre,0281359052,https://www.nantes-restaurant-62.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_001,Lille,Au Bon Comptoir,50.636954,3.044269,4.2,151,€€,Bistro,76 Rue de Paris,0312716983,https://www.lille-restaurant-1.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_002,Lille,Restaurant Le des Arts,50.602083,3.064187,4.5,402,€,Française,127 Rue Victor Hugo,0680288059,https://www.lille-restaurant-2.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_003,Lille,Le Traditionnel Brasserie,50.619869,3.070887,3.7,105,€€,Nordiste,127 Rue de Paris,0481319790,https://www.lille-restaurant-3.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_004,Lille,Bistro Le de la Gare,50.652035,3.045111,4.1,467,€,Française,155 Rue Victor Hugo,0667666158,https://www.lille-restaurant-4.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_005,Lille,Le Bouchon Lille,50.628454,3.059199,4.0,269,€€€,Nordiste,48 Rue Principale,0233487899,https://www.lille-restaurant-5.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_006,Lille,Table Chez du Port,50.671578,3.020778,4.4,464,€€€,Nordiste,85 Rue du Centre,0544773726,https://www.lille-restaurant-6.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_007,Lille,Chez Vieux Table,50.665199,3.068952,3.6,182,€,Flamande,109 Rue de Paris,0268762949,https://www.lille-restaurant-7.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_008,Lille,La Bon Table,50.670568,3.04348,4.0,466,€€€,Bistro,155 Rue Victor Hugo,0628269342,https://www.lille-restaurant-8.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_009,Lille,Comptoir Les de la Gare,50.605784,3.042751,3.7,288,€€€,Bistro,70 Rue Victor Hugo,0379878741,https://www.lille-restaurant-9.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_010,Lille,Le Cuisine du Lille,50.584242,3.008282,3.3,392,€,Flamande,181 Rue Principale,0622285030,https://www.lille-restaurant-10.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_011,Lille,Les Traditionnel Comptoir,50.656054,3.087292,4.8,132,€€,Flamande,147 Rue du Centre,0458653419,https://www.lille-restaurant-11.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_012,Lille,Le Traditionnel Comptoir,50.629136,3.042487,4.7,171,€,Française,42 Rue de Paris,0445993616,https://www.lille-restaurant-12.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_013,Lille,Les Typique Restaurant,50.594696,3.096796,3.7,349,€,Française,55 Rue Victor Hugo,0661865520,https://www.lille-restaurant-13.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_014,Lille,Au Café Lille,50.618859,3.064606,3.8,137,€€€,Française,38 Rue Principale,0435168150,https://www.lille-restaurant-14.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_015,Lille,La Table de Lille,50.658822,3.088489,4.6,242,€€€,Nordiste,48 Rue Victor Hugo,0629872635,https://www.lille-restaurant-15.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_016,Lille,Restaurant Le des Arts,50.580305,3.044575,3.6,214,€€€,Française,114 Rue du Centre,0494566782,https://www.lille-restaurant-16.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_017,Lille,Le Table de Lille,50.649738,3.023136,4.6,214,€€€,Flamande,161 Rue de Paris,0118469954,https://www.lille-restaurant-17.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_018,Lille,La Bouchon Lille,50.598805,3.030996,4.7,106,€,Nordiste,185 Rue Principale,0643867586,https://www.lille-restaurant-18.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_019,Lille,Café Les du Port,50.592651,3.053129,4.4,173,€€€,Flamande,174 Rue de Paris,0127495858,https://www.lille-restaurant-19.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_020,Lille,Au Bouchon Lille,50.661987,3.090699,4.8,96,€€,Française,175 Rue de Paris,0484343239,https://www.lille-restaurant-20.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_021,Lille,La Bouchon Lille,50.673865,3.080048,4.5,348,€,Flamande,165 Rue de Paris,0617561488,https://www.lille-restaurant-21.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_022,Lille,Le Table de Lille,50.610605,3.104661,3.9,227,€€,Bistro,190 Rue Principale,0313845898,https://www.lille-restaurant-22.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_023,Lille,La Table de Lille,50.609355,3.061119,3.6,348,€€,Nordiste,26 Rue du Centre,0139734146,https://www.lille-restaurant-23.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_024,Lille,Table La du Marché,50.653595,3.011252,4.2,452,€,Nordiste,135 Rue Principale,0211429073,https://www.lille-restaurant-24.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_025,Lille,Brasserie Les des Arts,50.594405,3.034705,3.2,67,€,Française,68 Rue Victor Hugo,0376928758,https://www.lille-restaurant-25.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_026,Lille,Brasserie La du Marché,50.648254,3.062979,4.5,339,€€,Bistro,177 Rue du Centre,0111252885,https://www.lille-restaurant-26.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_027,Lille,Le Table de Lille,50.589568,3.090054,4.5,34,€€€,Flamande,115 Rue Principale,0616179668,https://www.lille-restaurant-27.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_028,Lille,Comptoir Au de la Gare,50.634862,3.073965,4.4,99,€,Française,77 Rue Victor Hugo,0573992724,https://www.lille-restaurant-28.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_029,Lille,La Cuisine de Lille,50.677004,3.069118,4.6,81,€€,Flamande,85 Rue Victor Hugo,0418718133,https://www.lille-restaurant-29.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_030,Lille,Le Cuisine de Lille,50.608843,3.056437,3.8,72,€€,Nordiste,33 Rue du Centre,0341527359,https://www.lille-restaurant-30.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_031,Lille,Au Bouchon Lille,50.614773,3.098188,3.5,93,€€€,Française,40 Rue du Centre,0690622437,https://www.lille-restaurant-31.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_032,Lille,Chez Bouchon Lille,50.591829,3.045825,3.2,388,€,Bistro,38 Rue du Centre,0617563236,https://www.lille-restaurant-32.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_033,Lille,Le Typique Brasserie,50.605868,3.083572,3.9,408,€€,Française,81 Rue Victor Hugo,0690535472,https://www.lille-restaurant-33.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_034,Lille,Au Grand Bistro,50.663064,3.102382,4.1,203,€€€,Flamande,152 Rue Victor Hugo,0247465488,https://www.lille-restaurant-34.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_035,Lille,La Cuisine de Lille,50.591583,3.019924,3.3,352,€€,Bistro,138 Rue du Centre,0399327938,https://www.lille-restaurant-35.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_036,Lille,La Table du Lille,50.592036,3.041047,3.7,228,€,Nordiste,72 Rue de Paris,0618354060,https://www.lille-restaurant-36.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_037,Lille,La Cuisine de Lille,50.579647,3.076773,4.7,349,€€€,Flamande,86 Rue Principale,0261424193,https://www.lille-restaurant-37.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_038,Lille,Table Le du Marché,50.628944,3.054221,4.1,80,€€€,Flamande,91 Rue du Centre,0445886556,https://www.lille-restaurant-38.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_039,Lille,Le Cuisine de Lille,50.650673,3.067665,3.3,61,€€€,Flamande,175 Rue Principale,0280529522,https://www.lille-restaurant-39.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_040,Lille,La Comptoir Lille,50.621203,3.086679,3.4,15,€,Française,146 Rue de Paris,0243435324,https://www.lille-restaurant-40.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_041,Lille,Le Cuisine de Lille,50.634554,3.100627,3.4,221,€€,Nordiste,107 Rue du Centre,0326174623,https://www.lille-restaurant-41.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_042,Lille,Les Bon Comptoir,50.579728,3.027081,3.8,114,€€€,Flamande,7 Rue Victor Hugo,0653781789,https://www.lille-restaurant-42.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_043,Lille,Le Table du Lille,50.670999,3.103695,4.4,385,€€,Nordiste,69 Rue Principale,0668201883,https://www.lille-restaurant-43.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_044,Lille,Café Chez Central,50.664333,3.098919,3.9,72,€,Française,185 Rue du Centre,0267885641,https://www.lille-restaurant-44.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_045,Lille,Le Petit Restaurant,50.608647,3.061453,4.3,233,€,Nordiste,17 Rue Victor Hugo,0221439686,https://www.lille-restaurant-45.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_046,Lille,Chez Bouchon Lille,50.603346,3.039376,4.8,127,€,Bistro,89 Rue Victor Hugo,0521248234,https://www.lille-restaurant-46.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_047,Lille,Les Grand Café,50.581709,3.062196,3.8,30,€€€,Bistro,114 Rue du Centre,0316137358,https://www.lille-restaurant-47.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_048,Lille,Bistro Les des Arts,50.585048,3.048788,4.4,249,€,Française,118 Rue Principale,0537381169,https://www.lille-restaurant-48.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_049,Lille,La Table de Lille,50.675951,3.017891,4.6,114,€,Nordiste,159 Rue Principale,0124307231,https://www.lille-restaurant-49.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_050,Lille,La Cuisine de Lille,50.673236,3.062594,4.3,57,€€€,Française,170 Rue de Paris,0222934858,https://www.lille-restaurant-50.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_051,Lille,Le Cuisine du Lille,50.657978,3.070871,4.5,297,€€,Française,33 Rue de Paris,0642434516,https://www.lille-restaurant-51.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_052,Lille,Au Traditionnel Table,50.633351,3.0422,4.4,310,€,Flamande,187 Rue de Paris,0444442784,https://www.lille-restaurant-52.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_053,Lille,Les Nouveau Bistro,50.670917,3.095586,3.9,474,€€€,Nordiste,192 Rue de Paris,0275768368,https://www.lille-restaurant-53.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_054,Lille,Café Au de la Gare,50.662196,3.067577,3.4,19,€,Bistro,184 Rue Victor Hugo,0449743330,https://www.lille-restaurant-54.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_055,Lille,Café Les de la Gare,50.640997,3.044809,3.3,451,€€,Nordiste,77 Rue du Centre,0688524044,https://www.lille-restaurant-55.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_056,Lille,Chez Comptoir Lille,50.613245,3.102307,3.4,359,€,Française,42 Rue Principale,0110406133,https://www.lille-restaurant-56.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_057,Lille,La Table de Lille,50.674675,3.100785,4.5,315,€€€,Nordiste,190 Rue Principale,0664871638,https://www.lille-restaurant-57.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_058,Lille,Restaurant Le du Marché,50.587671,3.048126,3.3,53,€€,Bistro,171 Rue de Paris,0484852977,https://www.lille-restaurant-58.fr,"11:30-15:00, 18:30-23:00",generated_data
+lille_resto_059,Lille,Table Chez Lille,50.597385,3.057857,4.6,245,€€€,Française,168 Rue Victor Hugo,0690181552,https://www.lille-restaurant-59.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_060,Lille,Au Bouchon Lille,50.612545,3.030759,4.5,276,€,Nordiste,179 Rue de Paris,0596954785,https://www.lille-restaurant-60.fr,"12:00-14:00, 19:00-22:00",generated_data
+lille_resto_061,Lille,Le Comptoir Lille,50.631643,3.095879,4.0,161,€,Française,140 Rue Victor Hugo,0625982640,https://www.lille-restaurant-61.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_062,Lille,Au Nouveau Café,50.59628,3.090393,3.2,306,€€€,Flamande,131 Rue du Centre,0624374434,https://www.lille-restaurant-62.fr,"12:00-14:30, 19:00-22:30",generated_data
+lille_resto_063,Lille,Restaurant Le des Arts,50.628565,3.063173,4.3,157,€,Flamande,82 Rue Principale,0695594778,https://www.lille-restaurant-63.fr,"11:30-15:00, 18:30-23:00",generated_data
+montpellier_resto_001,Montpellier,Comptoir Le du Port,43.651745,3.845413,4.6,51,€€€,Française,190 Rue Victor Hugo,0119853114,https://www.montpellier-restaurant-1.fr,"11:30-15:00, 18:30-23:00",generated_data
+montpellier_resto_002,Montpellier,Le Grand Brasserie,43.619767,3.827794,3.8,316,€€€,Provençale,116 Rue de Paris,0583604916,https://www.montpellier-restaurant-2.fr,"11:30-15:00, 18:30-23:00",generated_data
+montpellier_resto_003,Montpellier,Comptoir Chez Montpellier,43.623819,3.82961,4.8,67,€,Méditerranéenne,95 Rue du Centre,0610193154,https://www.montpellier-restaurant-3.fr,"11:30-15:00, 18:30-23:00",generated_data
+montpellier_resto_004,Montpellier,Le Bon Restaurant,43.594608,3.832514,3.4,59,€€,Méditerranéenne,7 Rue du Centre,0346641615,https://www.montpellier-restaurant-4.fr,"12:00-14:30, 19:00-22:30",generated_data
+montpellier_resto_005,Montpellier,Café Le Montpellier,43.593836,3.829653,4.3,332,€€,Provençale,84 Rue Victor Hugo,0698795118,https://www.montpellier-restaurant-5.fr,"11:30-15:00, 18:30-23:00",generated_data
+montpellier_resto_006,Montpellier,La Cuisine du Montpellier,43.586879,3.844199,3.5,210,€€€,Provençale,195 Rue Principale,0353417898,https://www.montpellier-restaurant-6.fr,"12:00-14:00, 19:00-22:00",generated_data
+montpellier_resto_007,Montpellier,Au Nouveau Bistro,43.577657,3.883634,3.7,296,€€,Française,113 Rue Victor Hugo,0498938553,https://www.montpellier-restaurant-7.fr,"12:00-14:00, 19:00-22:00",generated_data
+montpellier_resto_008,Montpellier,Au Vieux Table,43.580201,3.902478,4.2,385,€€,Méditerranéenne,82 Rue de Paris,0462166539,https://www.montpellier-restaurant-8.fr,"11:30-15:00, 18:30-23:00",generated_data
+montpellier_resto_009,Montpellier,Café Le du Marché,43.655057,3.903,3.5,448,€,Méditerranéenne,34 Rue du Centre,0218579942,https://www.montpellier-restaurant-9.fr,"12:00-14:00, 19:00-22:00",generated_data
+montpellier_resto_010,Montpellier,La Table de Montpellier,43.606584,3.85177,3.6,364,€,Française,108 Rue Principale,0258217482,https://www.montpellier-restaurant-10.fr,"11:30-15:00, 18:30-23:00",generated_data
+montpellier_resto_011,Montpellier,Les Vieux Bistro,43.595138,3.873638,3.6,449,€,Provençale,44 Rue Principale,0125291044,https://www.montpellier-restaurant-11.fr,"12:00-14:30, 19:00-22:30",generated_data
+montpellier_resto_012,Montpellier,La Bon Café,43.622406,3.892488,3.5,260,€,Tapas,3 Rue Principale,0654601573,https://www.montpellier-restaurant-12.fr,"12:00-14:30, 19:00-22:30",generated_data
+montpellier_resto_013,Montpellier,Le Café Montpellier,43.622701,3.886148,4.7,283,€,Provençale,11 Rue Principale,0434782554,https://www.montpellier-restaurant-13.fr,"11:30-15:00, 18:30-23:00",generated_data
+montpellier_resto_014,Montpellier,Table Le Montpellier,43.655214,3.831359,4.7,277,€,Française,114 Rue Victor Hugo,0446584153,https://www.montpellier-restaurant-14.fr,"12:00-14:00, 19:00-22:00",generated_data
+montpellier_resto_015,Montpellier,Le Bouchon Montpellier,43.577323,3.883908,4.3,87,€€,Provençale,133 Rue Principale,0571239687,https://www.montpellier-restaurant-15.fr,"12:00-14:30, 19:00-22:30",generated_data
+montpellier_resto_016,Montpellier,Le Cuisine de Montpellier,43.640843,3.889855,3.5,261,€€,Française,118 Rue Victor Hugo,0288346925,https://www.montpellier-restaurant-16.fr,"12:00-14:30, 19:00-22:30",generated_data
+montpellier_resto_017,Montpellier,Le Cuisine de Montpellier,43.613524,3.883233,3.3,214,€€€,Tapas,196 Rue Principale,0181137367,https://www.montpellier-restaurant-17.fr,"11:30-15:00, 18:30-23:00",generated_data
+montpellier_resto_018,Montpellier,La Petit Brasserie,43.612243,3.861381,4.0,210,€,Provençale,88 Rue Principale,0340707330,https://www.montpellier-restaurant-18.fr,"11:30-15:00, 18:30-23:00",generated_data
+montpellier_resto_019,Montpellier,Le Table du Montpellier,43.615998,3.862495,4.3,247,€€€,Française,38 Rue du Centre,0443699968,https://www.montpellier-restaurant-19.fr,"12:00-14:30, 19:00-22:30",generated_data
+montpellier_resto_020,Montpellier,La Typique Table,43.57835,3.864276,3.4,191,€€€,Française,142 Rue de Paris,0178731159,https://www.montpellier-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+montpellier_resto_021,Montpellier,La Comptoir Montpellier,43.646966,3.868796,3.7,243,€€,Tapas,58 Rue Principale,0253213848,https://www.montpellier-restaurant-21.fr,"11:30-15:00, 18:30-23:00",generated_data
+montpellier_resto_022,Montpellier,Restaurant Chez Montpellier,43.595617,3.899249,3.5,260,€€,Tapas,80 Rue Victor Hugo,0452513236,https://www.montpellier-restaurant-22.fr,"12:00-14:00, 19:00-22:00",generated_data
+montpellier_resto_023,Montpellier,Table Les Central,43.635364,3.878165,3.4,474,€€,Méditerranéenne,180 Rue Victor Hugo,0459439378,https://www.montpellier-restaurant-23.fr,"12:00-14:30, 19:00-22:30",generated_data
+montpellier_resto_024,Montpellier,Table Les Montpellier,43.648995,3.836135,4.7,344,€€€,Tapas,182 Rue Principale,0582134760,https://www.montpellier-restaurant-24.fr,"12:00-14:30, 19:00-22:30",generated_data
+montpellier_resto_025,Montpellier,Au Nouveau Table,43.597107,3.88549,4.3,452,€€,Française,8 Rue de Paris,0693363924,https://www.montpellier-restaurant-25.fr,"11:30-15:00, 18:30-23:00",generated_data
+montpellier_resto_026,Montpellier,Le Cuisine de Montpellier,43.609492,3.904759,3.4,209,€€€,Française,73 Rue Principale,0632592263,https://www.montpellier-restaurant-26.fr,"12:00-14:00, 19:00-22:00",generated_data
+montpellier_resto_027,Montpellier,Brasserie La de la Gare,43.589051,3.858721,3.9,79,€€€,Méditerranéenne,85 Rue Victor Hugo,0481809182,https://www.montpellier-restaurant-27.fr,"12:00-14:30, 19:00-22:30",generated_data
+montpellier_resto_028,Montpellier,Bistro Le Central,43.599075,3.8545,3.3,436,€,Tapas,17 Rue du Centre,0130819237,https://www.montpellier-restaurant-28.fr,"11:30-15:00, 18:30-23:00",generated_data
+montpellier_resto_029,Montpellier,La Table de Montpellier,43.585568,3.897639,3.5,246,€€€,Provençale,177 Rue de Paris,0412206442,https://www.montpellier-restaurant-29.fr,"11:30-15:00, 18:30-23:00",generated_data
+montpellier_resto_030,Montpellier,Chez Typique Bistro,43.576548,3.838326,3.7,122,€€€,Provençale,109 Rue Principale,0431517793,https://www.montpellier-restaurant-30.fr,"12:00-14:30, 19:00-22:30",generated_data
+montpellier_resto_031,Montpellier,La Table de Montpellier,43.616564,3.872582,4.0,87,€€€,Française,63 Rue de Paris,0490351449,https://www.montpellier-restaurant-31.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_001,Annecy,Comptoir Au du Marché,45.880768,6.098648,3.8,473,€,Française,66 Rue Victor Hugo,0338563725,https://www.annecy-restaurant-1.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_002,Annecy,La Petit Café,45.911458,6.092234,4.7,490,€,Française,12 Rue du Centre,0659256588,https://www.annecy-restaurant-2.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_003,Annecy,Au Bon Bistro,45.881933,6.134107,4.1,374,€,Montagnarde,54 Rue Victor Hugo,0378513696,https://www.annecy-restaurant-3.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_004,Annecy,La Cuisine du Annecy,45.905361,6.165252,3.5,372,€,Française,38 Rue Victor Hugo,0177696140,https://www.annecy-restaurant-4.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_005,Annecy,Les Nouveau Bistro,45.936217,6.135917,3.3,218,€€,Fromage,57 Rue Victor Hugo,0279856030,https://www.annecy-restaurant-5.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_006,Annecy,Les Vieux Comptoir,45.869028,6.120865,4.6,265,€,Savoyarde,153 Rue de Paris,0454332539,https://www.annecy-restaurant-6.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_007,Annecy,Le Comptoir Annecy,45.900055,6.153835,4.6,211,€€,Savoyarde,21 Rue du Centre,0662684868,https://www.annecy-restaurant-7.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_008,Annecy,Le Cuisine de Annecy,45.909735,6.143098,4.1,170,€€,Savoyarde,93 Rue du Centre,0570667130,https://www.annecy-restaurant-8.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_009,Annecy,Brasserie Le Central,45.899608,6.102763,4.1,37,€,Fromage,102 Rue du Centre,0471703845,https://www.annecy-restaurant-9.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_010,Annecy,La Cuisine de Annecy,45.870614,6.112241,4.2,430,€,Savoyarde,108 Rue Principale,0311666547,https://www.annecy-restaurant-10.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_011,Annecy,Les Café Annecy,45.881965,6.083868,3.9,176,€,Française,89 Rue de Paris,0294434653,https://www.annecy-restaurant-11.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_012,Annecy,Brasserie Chez du Port,45.8631,6.170047,4.5,68,€,Fromage,104 Rue de Paris,0324969475,https://www.annecy-restaurant-12.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_013,Annecy,Le Nouveau Restaurant,45.936426,6.162799,3.6,162,€,Fromage,25 Rue du Centre,0264943562,https://www.annecy-restaurant-13.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_014,Annecy,Restaurant Le du Marché,45.914059,6.177087,3.4,50,€€€,Fromage,109 Rue de Paris,0163345437,https://www.annecy-restaurant-14.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_015,Annecy,Le Cuisine de Annecy,45.866658,6.157622,4.7,281,€€€,Montagnarde,32 Rue du Centre,0228255272,https://www.annecy-restaurant-15.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_016,Annecy,Les Traditionnel Restaurant,45.907058,6.101989,3.5,200,€€,Fromage,70 Rue Principale,0594912453,https://www.annecy-restaurant-16.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_017,Annecy,Les Traditionnel Restaurant,45.89501,6.105454,3.8,314,€,Française,139 Rue de Paris,0423443893,https://www.annecy-restaurant-17.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_018,Annecy,Le Comptoir Annecy,45.946524,6.160921,3.6,467,€€€,Fromage,21 Rue du Centre,0447255764,https://www.annecy-restaurant-18.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_019,Annecy,Café Les du Marché,45.868642,6.110853,3.5,137,€€€,Française,179 Rue du Centre,0241718894,https://www.annecy-restaurant-19.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_020,Annecy,Les Café Annecy,45.936829,6.136841,4.5,30,€€,Française,197 Rue du Centre,0148383378,https://www.annecy-restaurant-20.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_021,Annecy,Table Le Central,45.853739,6.090068,3.8,281,€€€,Savoyarde,11 Rue Victor Hugo,0493352966,https://www.annecy-restaurant-21.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_022,Annecy,Au Nouveau Bistro,45.901598,6.104238,4.8,267,€€€,Montagnarde,50 Rue Victor Hugo,0424284617,https://www.annecy-restaurant-22.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_023,Annecy,Chez Nouveau Restaurant,45.8763,6.152044,3.5,352,€,Fromage,63 Rue du Centre,0386458619,https://www.annecy-restaurant-23.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_024,Annecy,Le Vieux Table,45.943691,6.091363,4.2,318,€€,Française,50 Rue Principale,0541197634,https://www.annecy-restaurant-24.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_025,Annecy,La Comptoir Annecy,45.907697,6.108955,4.6,440,€,Fromage,34 Rue de Paris,0625589817,https://www.annecy-restaurant-25.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_026,Annecy,Au Grand Brasserie,45.869241,6.091736,4.3,189,€€€,Montagnarde,186 Rue de Paris,0568115220,https://www.annecy-restaurant-26.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_027,Annecy,Comptoir Les des Arts,45.911215,6.151956,4.4,411,€€,Française,22 Rue du Centre,0190391479,https://www.annecy-restaurant-27.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_028,Annecy,Comptoir La du Port,45.929716,6.131978,3.6,243,€€,Française,190 Rue Victor Hugo,0455444699,https://www.annecy-restaurant-28.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_029,Annecy,Le Petit Table,45.896348,6.114447,4.8,140,€,Française,87 Rue Principale,0451187672,https://www.annecy-restaurant-29.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_030,Annecy,La Bouchon Annecy,45.863621,6.156742,3.3,169,€€€,Savoyarde,133 Rue Victor Hugo,0625909575,https://www.annecy-restaurant-30.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_031,Annecy,Chez Typique Restaurant,45.945171,6.16642,4.2,323,€€,Fromage,113 Rue du Centre,0378293251,https://www.annecy-restaurant-31.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_032,Annecy,Le Comptoir Annecy,45.917028,6.172862,4.1,22,€,Montagnarde,5 Rue du Centre,0683809421,https://www.annecy-restaurant-32.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_033,Annecy,Bistro Chez du Marché,45.872116,6.110347,3.7,465,€€€,Fromage,174 Rue du Centre,0388125858,https://www.annecy-restaurant-33.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_034,Annecy,La Table du Annecy,45.927014,6.128613,3.6,328,€€€,Savoyarde,154 Rue du Centre,0588491170,https://www.annecy-restaurant-34.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_035,Annecy,Brasserie Le Central,45.940324,6.092278,3.4,29,€,Fromage,152 Rue Principale,0686419841,https://www.annecy-restaurant-35.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_036,Annecy,La Cuisine de Annecy,45.908468,6.161635,3.9,316,€€€,Française,82 Rue du Centre,0474754484,https://www.annecy-restaurant-36.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_037,Annecy,Les Bouchon Annecy,45.881819,6.110498,4.8,350,€€€,Française,75 Rue Principale,0651262034,https://www.annecy-restaurant-37.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_038,Annecy,Les Bouchon Annecy,45.929982,6.138944,3.3,87,€,Française,53 Rue de Paris,0642743340,https://www.annecy-restaurant-38.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_039,Annecy,Le Traditionnel Café,45.933176,6.088526,3.5,313,€€,Montagnarde,50 Rue Victor Hugo,0418187494,https://www.annecy-restaurant-39.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_040,Annecy,Brasserie Chez Central,45.893516,6.082387,4.0,236,€€,Fromage,144 Rue de Paris,0514418135,https://www.annecy-restaurant-40.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_041,Annecy,Les Typique Bistro,45.918771,6.16482,3.6,343,€€€,Savoyarde,126 Rue de Paris,0562975664,https://www.annecy-restaurant-41.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_042,Annecy,Au Café Annecy,45.912219,6.150706,4.3,343,€€€,Savoyarde,61 Rue Principale,0414126346,https://www.annecy-restaurant-42.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_043,Annecy,Brasserie Le des Arts,45.90915,6.0957,3.9,100,€€,Montagnarde,198 Rue du Centre,0664811245,https://www.annecy-restaurant-43.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_044,Annecy,Chez Comptoir Annecy,45.8761,6.087812,3.5,298,€€€,Montagnarde,68 Rue du Centre,0497543548,https://www.annecy-restaurant-44.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_045,Annecy,Les Comptoir Annecy,45.948783,6.084991,3.4,375,€€€,Savoyarde,117 Rue Principale,0358423182,https://www.annecy-restaurant-45.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_046,Annecy,Le Cuisine de Annecy,45.926622,6.157181,4.2,334,€€,Française,37 Rue du Centre,0569921916,https://www.annecy-restaurant-46.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_047,Annecy,Restaurant Chez de la Gare,45.94443,6.102032,3.8,16,€€,Française,47 Rue Victor Hugo,0133998620,https://www.annecy-restaurant-47.fr,"12:00-14:00, 19:00-22:00",generated_data
+annecy_resto_048,Annecy,Au Bouchon Annecy,45.879979,6.097621,4.4,253,€€€,Fromage,75 Rue de Paris,0477328985,https://www.annecy-restaurant-48.fr,"11:30-15:00, 18:30-23:00",generated_data
+annecy_resto_049,Annecy,La Table de Annecy,45.932548,6.163982,4.6,216,€€,Française,47 Rue de Paris,0268528567,https://www.annecy-restaurant-49.fr,"12:00-14:30, 19:00-22:30",generated_data
+annecy_resto_050,Annecy,Chez Bouchon Annecy,45.913304,6.0837,4.1,410,€€€,Française,152 Rue de Paris,0180368327,https://www.annecy-restaurant-50.fr,"12:00-14:30, 19:00-22:30",generated_data
+biarritz_resto_001,Biarritz,La Bouchon Biarritz,43.470223,-1.578072,4.5,341,€€€,Basque,142 Rue Victor Hugo,0520222548,https://www.biarritz-restaurant-1.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_002,Biarritz,Le Bon Bistro,43.453114,-1.527247,4.5,90,€€€,Produits de la mer,13 Rue du Centre,0356605078,https://www.biarritz-restaurant-2.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_003,Biarritz,Table Le du Port,43.482542,-1.58167,3.6,224,€,Basque,156 Rue de Paris,0346348530,https://www.biarritz-restaurant-3.fr,"12:00-14:30, 19:00-22:30",generated_data
+biarritz_resto_004,Biarritz,La Cuisine de Biarritz,43.52701,-1.511512,4.5,134,€€€,Basque,133 Rue Principale,0224402611,https://www.biarritz-restaurant-4.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_005,Biarritz,Le Table du Biarritz,43.479196,-1.550014,3.7,391,€€,Basque,131 Rue de Paris,0425553564,https://www.biarritz-restaurant-5.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_006,Biarritz,Au Traditionnel Comptoir,43.439143,-1.52944,3.8,58,€€€,Produits de la mer,24 Rue Victor Hugo,0240116535,https://www.biarritz-restaurant-6.fr,"12:00-14:30, 19:00-22:30",generated_data
+biarritz_resto_007,Biarritz,Au Bouchon Biarritz,43.438404,-1.543402,4.1,489,€€,Française,168 Rue Victor Hugo,0468655655,https://www.biarritz-restaurant-7.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_008,Biarritz,Café Les Biarritz,43.530599,-1.537105,4.1,341,€,Française,164 Rue de Paris,0130784428,https://www.biarritz-restaurant-8.fr,"12:00-14:30, 19:00-22:30",generated_data
+biarritz_resto_009,Biarritz,La Table du Biarritz,43.438775,-1.52309,3.3,147,€€,Française,64 Rue Principale,0514242837,https://www.biarritz-restaurant-9.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_010,Biarritz,La Bouchon Biarritz,43.520471,-1.553878,4.1,178,€,Française,140 Rue du Centre,0372579445,https://www.biarritz-restaurant-10.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_011,Biarritz,La Table du Biarritz,43.504957,-1.595652,3.5,250,€€,Basque,87 Rue Victor Hugo,0464987874,https://www.biarritz-restaurant-11.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_012,Biarritz,Le Traditionnel Comptoir,43.490751,-1.600197,3.3,450,€€,Produits de la mer,147 Rue du Centre,0654881791,https://www.biarritz-restaurant-12.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_013,Biarritz,Le Traditionnel Bistro,43.517215,-1.546857,4.8,116,€€,Basque,50 Rue Principale,0115232339,https://www.biarritz-restaurant-13.fr,"12:00-14:30, 19:00-22:30",generated_data
+biarritz_resto_014,Biarritz,Brasserie La Central,43.464079,-1.550972,4.4,487,€€,Basque,190 Rue Principale,0217564452,https://www.biarritz-restaurant-14.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_015,Biarritz,La Cuisine de Biarritz,43.448499,-1.569033,3.9,427,€€,Produits de la mer,101 Rue Victor Hugo,0596305014,https://www.biarritz-restaurant-15.fr,"12:00-14:30, 19:00-22:30",generated_data
+biarritz_resto_016,Biarritz,La Comptoir Biarritz,43.484223,-1.529616,3.5,74,€€,Française,49 Rue Victor Hugo,0468669415,https://www.biarritz-restaurant-16.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_017,Biarritz,Chez Bouchon Biarritz,43.531946,-1.51143,3.8,66,€€,Française,198 Rue du Centre,0626565225,https://www.biarritz-restaurant-17.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_018,Biarritz,Chez Bouchon Biarritz,43.508327,-1.571627,3.5,55,€,Basque,124 Rue Principale,0331468493,https://www.biarritz-restaurant-18.fr,"12:00-14:30, 19:00-22:30",generated_data
+biarritz_resto_019,Biarritz,La Table du Biarritz,43.466836,-1.515318,4.6,479,€€,Produits de la mer,192 Rue de Paris,0489716718,https://www.biarritz-restaurant-19.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_020,Biarritz,Le Bouchon Biarritz,43.471054,-1.526279,4.2,239,€€,Produits de la mer,159 Rue de Paris,0583902355,https://www.biarritz-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_021,Biarritz,Le Typique Comptoir,43.497761,-1.529773,3.3,485,€€,Française,184 Rue Principale,0467738775,https://www.biarritz-restaurant-21.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_022,Biarritz,Chez Bouchon Biarritz,43.47175,-1.547296,4.1,333,€€,Produits de la mer,169 Rue du Centre,0684769889,https://www.biarritz-restaurant-22.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_023,Biarritz,Le Cuisine de Biarritz,43.526353,-1.57896,3.6,62,€€,Produits de la mer,154 Rue de Paris,0341803584,https://www.biarritz-restaurant-23.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_024,Biarritz,Restaurant Les des Arts,43.524066,-1.539196,4.4,395,€,Basque,51 Rue de Paris,0251254073,https://www.biarritz-restaurant-24.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_025,Biarritz,Les Typique Table,43.521139,-1.554094,4.3,215,€€€,Basque,124 Rue du Centre,0690854154,https://www.biarritz-restaurant-25.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_026,Biarritz,Restaurant Le Central,43.491729,-1.526137,4.4,191,€€€,Basque,112 Rue de Paris,0467152840,https://www.biarritz-restaurant-26.fr,"12:00-14:30, 19:00-22:30",generated_data
+biarritz_resto_027,Biarritz,La Cuisine de Biarritz,43.461105,-1.581083,3.9,209,€€,Produits de la mer,70 Rue Principale,0171321026,https://www.biarritz-restaurant-27.fr,"12:00-14:30, 19:00-22:30",generated_data
+biarritz_resto_028,Biarritz,Au Petit Brasserie,43.522508,-1.567591,3.2,18,€€,Française,87 Rue du Centre,0243102939,https://www.biarritz-restaurant-28.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_029,Biarritz,Le Café Biarritz,43.517932,-1.521257,4.7,394,€€€,Basque,29 Rue du Centre,0659742610,https://www.biarritz-restaurant-29.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_030,Biarritz,Les Café Biarritz,43.52969,-1.570535,3.8,345,€€,Basque,145 Rue Victor Hugo,0342406261,https://www.biarritz-restaurant-30.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_031,Biarritz,Comptoir Le Central,43.447743,-1.557041,3.4,80,€€,Française,192 Rue du Centre,0293317470,https://www.biarritz-restaurant-31.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_032,Biarritz,Les Bouchon Biarritz,43.52721,-1.517033,4.6,234,€€€,Française,118 Rue de Paris,0190588690,https://www.biarritz-restaurant-32.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_033,Biarritz,La Cuisine de Biarritz,43.464554,-1.588326,3.3,259,€€€,Basque,148 Rue de Paris,0627214685,https://www.biarritz-restaurant-33.fr,"12:00-14:00, 19:00-22:00",generated_data
+biarritz_resto_034,Biarritz,Au Vieux Restaurant,43.510659,-1.560874,4.6,262,€€€,Produits de la mer,4 Rue Victor Hugo,0389499922,https://www.biarritz-restaurant-34.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_035,Biarritz,Le Cuisine de Biarritz,43.460788,-1.534026,4.6,141,€€,Basque,149 Rue Victor Hugo,0414477310,https://www.biarritz-restaurant-35.fr,"11:30-15:00, 18:30-23:00",generated_data
+biarritz_resto_036,Biarritz,Le Cuisine de Biarritz,43.530183,-1.602017,4.7,99,€€,Française,188 Rue Victor Hugo,0236978668,https://www.biarritz-restaurant-36.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_001,Cannes,Le Café Cannes,43.52038,7.036135,3.9,181,€,Gastronomique,198 Rue Victor Hugo,0222811112,https://www.cannes-restaurant-1.fr,"12:00-14:30, 19:00-22:30",generated_data
+cannes_resto_002,Cannes,Le Table du Cannes,43.574947,6.993745,4.6,286,€€,Méditerranéenne,61 Rue Victor Hugo,0324372041,https://www.cannes-restaurant-2.fr,"12:00-14:30, 19:00-22:30",generated_data
+cannes_resto_003,Cannes,Les Petit Café,43.549964,7.017061,3.6,352,€€€,Méditerranéenne,52 Rue de Paris,0277269833,https://www.cannes-restaurant-3.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_004,Cannes,La Cuisine du Cannes,43.569382,6.987422,4.1,468,€€€,Gastronomique,29 Rue du Centre,0438214593,https://www.cannes-restaurant-4.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_005,Cannes,Le Grand Café,43.589745,7.013375,3.5,66,€€,Gastronomique,94 Rue Principale,0219863674,https://www.cannes-restaurant-5.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_006,Cannes,La Nouveau Café,43.593174,7.056836,3.5,304,€,Provençale,109 Rue du Centre,0430926663,https://www.cannes-restaurant-6.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_007,Cannes,Les Typique Bistro,43.554323,6.996401,3.6,441,€,Méditerranéenne,127 Rue de Paris,0459907267,https://www.cannes-restaurant-7.fr,"12:00-14:30, 19:00-22:30",generated_data
+cannes_resto_008,Cannes,Chez Bouchon Cannes,43.521116,7.060717,3.8,206,€€€,Gastronomique,38 Rue de Paris,0493263413,https://www.cannes-restaurant-8.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_009,Cannes,La Table de Cannes,43.573269,7.020358,3.5,39,€€€,Provençale,194 Rue du Centre,0376389740,https://www.cannes-restaurant-9.fr,"12:00-14:30, 19:00-22:30",generated_data
+cannes_resto_010,Cannes,Chez Bouchon Cannes,43.523626,6.977635,4.4,312,€€€,Méditerranéenne,120 Rue Principale,0377135238,https://www.cannes-restaurant-10.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_011,Cannes,Le Comptoir Cannes,43.57312,7.054095,3.4,290,€,Provençale,34 Rue Principale,0584805152,https://www.cannes-restaurant-11.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_012,Cannes,Le Bouchon Cannes,43.589336,7.029577,4.5,332,€€,Méditerranéenne,114 Rue Victor Hugo,0435526187,https://www.cannes-restaurant-12.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_013,Cannes,Restaurant Au de la Gare,43.568104,6.997195,3.5,351,€€€,Provençale,107 Rue Victor Hugo,0243679446,https://www.cannes-restaurant-13.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_014,Cannes,La Table du Cannes,43.521313,7.01719,3.7,81,€€,Gastronomique,71 Rue du Centre,0336788847,https://www.cannes-restaurant-14.fr,"12:00-14:30, 19:00-22:30",generated_data
+cannes_resto_015,Cannes,Chez Café Cannes,43.547323,6.971335,3.6,162,€€,Provençale,58 Rue de Paris,0194282677,https://www.cannes-restaurant-15.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_016,Cannes,Le Bouchon Cannes,43.54344,7.019278,4.8,191,€€€,Gastronomique,137 Rue Victor Hugo,0253778156,https://www.cannes-restaurant-16.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_017,Cannes,Au Bon Brasserie,43.556091,7.003535,4.7,170,€€€,Provençale,16 Rue Principale,0596197796,https://www.cannes-restaurant-17.fr,"12:00-14:30, 19:00-22:30",generated_data
+cannes_resto_018,Cannes,Les Nouveau Brasserie,43.574592,7.048988,3.7,219,€€€,Gastronomique,84 Rue du Centre,0397423843,https://www.cannes-restaurant-18.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_019,Cannes,La Nouveau Bistro,43.593026,6.990242,4.1,10,€€€,Provençale,100 Rue de Paris,0120811942,https://www.cannes-restaurant-19.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_020,Cannes,Le Typique Bistro,43.5701,6.992033,4.7,42,€,Gastronomique,41 Rue Principale,0310564638,https://www.cannes-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_021,Cannes,Au Comptoir Cannes,43.549193,6.991505,4.6,141,€,Gastronomique,118 Rue Principale,0152232682,https://www.cannes-restaurant-21.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_022,Cannes,Au Comptoir Cannes,43.554944,6.983316,3.4,327,€€,Provençale,77 Rue Principale,0238276692,https://www.cannes-restaurant-22.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_023,Cannes,La Cuisine du Cannes,43.564998,6.971854,4.1,52,€€,Méditerranéenne,6 Rue du Centre,0134186693,https://www.cannes-restaurant-23.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_024,Cannes,Restaurant Au Cannes,43.582046,6.972753,4.1,410,€€,Gastronomique,52 Rue de Paris,0350833443,https://www.cannes-restaurant-24.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_025,Cannes,La Bon Café,43.553765,7.024309,4.6,466,€,Méditerranéenne,177 Rue Principale,0577494136,https://www.cannes-restaurant-25.fr,"12:00-14:30, 19:00-22:30",generated_data
+cannes_resto_026,Cannes,Au Grand Comptoir,43.600069,7.064841,3.5,35,€€€,Méditerranéenne,131 Rue de Paris,0369797970,https://www.cannes-restaurant-26.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_027,Cannes,La Comptoir Cannes,43.508333,7.040961,4.2,63,€€€,Méditerranéenne,184 Rue Victor Hugo,0187753541,https://www.cannes-restaurant-27.fr,"12:00-14:30, 19:00-22:30",generated_data
+cannes_resto_028,Cannes,Les Comptoir Cannes,43.571876,6.975449,3.3,249,€,Provençale,88 Rue de Paris,0444624579,https://www.cannes-restaurant-28.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_029,Cannes,Le Comptoir Cannes,43.561122,6.999676,4.2,424,€€,Provençale,23 Rue du Centre,0435599089,https://www.cannes-restaurant-29.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_030,Cannes,La Café Cannes,43.555667,7.000689,4.1,88,€,Gastronomique,155 Rue Victor Hugo,0286856838,https://www.cannes-restaurant-30.fr,"12:00-14:30, 19:00-22:30",generated_data
+cannes_resto_031,Cannes,Le Table de Cannes,43.563815,6.971857,3.6,160,€,Provençale,139 Rue Victor Hugo,0663902213,https://www.cannes-restaurant-31.fr,"12:00-14:00, 19:00-22:00",generated_data
+cannes_resto_032,Cannes,Le Table de Cannes,43.562793,7.041018,3.8,258,€€,Gastronomique,54 Rue Victor Hugo,0495205716,https://www.cannes-restaurant-32.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_033,Cannes,La Cuisine de Cannes,43.554926,6.985615,4.1,318,€€€,Provençale,177 Rue de Paris,0250848161,https://www.cannes-restaurant-33.fr,"11:30-15:00, 18:30-23:00",generated_data
+cannes_resto_034,Cannes,Comptoir La Cannes,43.543434,6.982665,4.4,261,€€€,Méditerranéenne,46 Rue du Centre,0298796236,https://www.cannes-restaurant-34.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_001,Avignon,Table Les du Marché,43.959528,4.793257,4.5,37,€,Provençale,138 Rue du Centre,0661207466,https://www.avignon-restaurant-1.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_002,Avignon,La Table du Avignon,43.988698,4.772424,4.1,234,€,Française,151 Rue de Paris,0641214658,https://www.avignon-restaurant-2.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_003,Avignon,La Typique Comptoir,43.998731,4.770999,4.6,311,€€€,Méditerranéenne,87 Rue Principale,0218654026,https://www.avignon-restaurant-3.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_004,Avignon,Restaurant Chez de la Gare,43.918015,4.810714,4.6,229,€,Méditerranéenne,45 Rue Principale,0160512773,https://www.avignon-restaurant-4.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_005,Avignon,Les Nouveau Brasserie,43.934301,4.80387,4.8,370,€€€,Provençale,93 Rue Principale,0365149267,https://www.avignon-restaurant-5.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_006,Avignon,Les Comptoir Avignon,43.982041,4.776599,4.5,297,€,Française,179 Rue du Centre,0348345214,https://www.avignon-restaurant-6.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_007,Avignon,La Typique Café,43.950017,4.854291,4.4,24,€€€,Méditerranéenne,159 Rue du Centre,0162315977,https://www.avignon-restaurant-7.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_008,Avignon,Le Table du Avignon,43.902763,4.834725,4.2,400,€€€,Française,10 Rue Victor Hugo,0654469438,https://www.avignon-restaurant-8.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_009,Avignon,Le Table de Avignon,43.991409,4.827656,3.7,169,€€€,Française,172 Rue Principale,0172557639,https://www.avignon-restaurant-9.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_010,Avignon,Le Cuisine du Avignon,43.90133,4.819692,3.7,436,€€€,Française,37 Rue Victor Hugo,0316797983,https://www.avignon-restaurant-10.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_011,Avignon,La Nouveau Table,43.976413,4.769114,3.5,263,€€€,Provençale,170 Rue de Paris,0368974193,https://www.avignon-restaurant-11.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_012,Avignon,Chez Bouchon Avignon,43.943218,4.789377,3.5,222,€€,Méditerranéenne,44 Rue du Centre,0438255537,https://www.avignon-restaurant-12.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_013,Avignon,Comptoir Le du Port,43.90649,4.759564,4.6,51,€,Française,66 Rue Principale,0187468713,https://www.avignon-restaurant-13.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_014,Avignon,La Comptoir Avignon,43.906731,4.799186,3.9,280,€€€,Méditerranéenne,186 Rue Principale,0249977388,https://www.avignon-restaurant-14.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_015,Avignon,Table Au Avignon,43.914221,4.844342,3.4,286,€,Provençale,107 Rue Victor Hugo,0162501257,https://www.avignon-restaurant-15.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_016,Avignon,Café Le des Arts,43.919028,4.785224,4.3,32,€,Provençale,177 Rue du Centre,0296754243,https://www.avignon-restaurant-16.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_017,Avignon,Le Nouveau Café,43.949922,4.77284,4.0,215,€,Provençale,151 Rue de Paris,0184359821,https://www.avignon-restaurant-17.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_018,Avignon,Café Chez de la Gare,43.955827,4.79785,4.3,306,€,Française,98 Rue Principale,0177851194,https://www.avignon-restaurant-18.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_019,Avignon,La Comptoir Avignon,43.927326,4.832029,3.8,185,€€€,Française,162 Rue Victor Hugo,0363611519,https://www.avignon-restaurant-19.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_020,Avignon,Comptoir Le du Port,43.985708,4.843104,4.6,412,€€,Provençale,63 Rue du Centre,0440209430,https://www.avignon-restaurant-20.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_021,Avignon,Le Table du Avignon,43.94711,4.797686,3.5,196,€,Méditerranéenne,1 Rue Principale,0212664364,https://www.avignon-restaurant-21.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_022,Avignon,Restaurant Au de la Gare,43.957994,4.848918,4.2,121,€€,Provençale,47 Rue Principale,0215134982,https://www.avignon-restaurant-22.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_023,Avignon,Comptoir Le Central,43.997037,4.84693,3.9,203,€€€,Méditerranéenne,137 Rue du Centre,0277752093,https://www.avignon-restaurant-23.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_024,Avignon,La Cuisine de Avignon,43.922159,4.8438,4.0,354,€€€,Provençale,193 Rue Principale,0613491415,https://www.avignon-restaurant-24.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_025,Avignon,Le Table de Avignon,43.939506,4.853401,3.9,414,€€€,Provençale,50 Rue Principale,0523553142,https://www.avignon-restaurant-25.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_026,Avignon,Le Table de Avignon,43.982288,4.75958,4.2,221,€,Provençale,147 Rue de Paris,0624646230,https://www.avignon-restaurant-26.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_027,Avignon,Chez Bon Bistro,43.961252,4.844496,3.4,251,€,Provençale,106 Rue de Paris,0687609857,https://www.avignon-restaurant-27.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_028,Avignon,Table Au des Arts,43.971629,4.760353,4.8,131,€€,Française,23 Rue de Paris,0680968345,https://www.avignon-restaurant-28.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_029,Avignon,Chez Café Avignon,43.936953,4.78672,4.2,480,€€,Méditerranéenne,52 Rue de Paris,0495494717,https://www.avignon-restaurant-29.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_030,Avignon,Le Typique Table,43.906891,4.838072,4.8,217,€€€,Méditerranéenne,74 Rue de Paris,0675419775,https://www.avignon-restaurant-30.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_031,Avignon,Bistro La des Arts,43.978012,4.758107,4.0,438,€€€,Provençale,42 Rue du Centre,0355366756,https://www.avignon-restaurant-31.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_032,Avignon,La Cuisine de Avignon,43.947576,4.841576,4.0,122,€€€,Méditerranéenne,168 Rue du Centre,0543825251,https://www.avignon-restaurant-32.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_033,Avignon,Table Le des Arts,43.920321,4.800973,3.8,496,€,Française,33 Rue Principale,0119917677,https://www.avignon-restaurant-33.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_034,Avignon,Restaurant Les Central,43.903056,4.789346,4.6,451,€€,Provençale,76 Rue Principale,0157399493,https://www.avignon-restaurant-34.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_035,Avignon,Brasserie Au Avignon,43.912985,4.854919,4.2,31,€,Provençale,127 Rue Principale,0390561617,https://www.avignon-restaurant-35.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_036,Avignon,La Table du Avignon,43.981422,4.764241,3.6,191,€,Française,11 Rue du Centre,0545389944,https://www.avignon-restaurant-36.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_037,Avignon,Bistro Le des Arts,43.930385,4.761445,3.8,117,€€€,Méditerranéenne,22 Rue de Paris,0176633288,https://www.avignon-restaurant-37.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_038,Avignon,La Table du Avignon,43.970125,4.795697,3.4,469,€,Française,22 Rue Victor Hugo,0199332024,https://www.avignon-restaurant-38.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_039,Avignon,Le Café Avignon,43.899316,4.817565,3.7,316,€€,Française,165 Rue Victor Hugo,0171218177,https://www.avignon-restaurant-39.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_040,Avignon,La Café Avignon,43.95057,4.824538,3.9,383,€€€,Provençale,110 Rue Principale,0121916983,https://www.avignon-restaurant-40.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_041,Avignon,La Cuisine du Avignon,43.994865,4.833738,4.2,127,€€,Méditerranéenne,111 Rue Victor Hugo,0359974018,https://www.avignon-restaurant-41.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_042,Avignon,Le Traditionnel Table,43.914747,4.786169,4.4,334,€,Française,141 Rue Principale,0379288964,https://www.avignon-restaurant-42.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_043,Avignon,Chez Café Avignon,43.982984,4.816051,3.3,184,€,Française,134 Rue Principale,0641137260,https://www.avignon-restaurant-43.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_044,Avignon,Le Table du Avignon,43.951897,4.816099,3.5,248,€€€,Française,112 Rue du Centre,0276704341,https://www.avignon-restaurant-44.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_045,Avignon,Le Table de Avignon,43.967403,4.804573,3.9,176,€€,Française,192 Rue Principale,0351467524,https://www.avignon-restaurant-45.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_046,Avignon,La Vieux Comptoir,43.946197,4.779622,4.7,100,€,Française,153 Rue du Centre,0283146034,https://www.avignon-restaurant-46.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_047,Avignon,Au Traditionnel Brasserie,43.925764,4.776089,3.7,318,€€,Française,120 Rue Principale,0374582221,https://www.avignon-restaurant-47.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_048,Avignon,La Cuisine de Avignon,43.95885,4.825482,4.4,379,€,Provençale,90 Rue Principale,0268489138,https://www.avignon-restaurant-48.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_049,Avignon,La Bouchon Avignon,43.964562,4.768856,4.2,43,€€€,Provençale,122 Rue Victor Hugo,0310887750,https://www.avignon-restaurant-49.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_050,Avignon,Le Grand Restaurant,43.996469,4.78885,4.2,42,€€,Française,155 Rue de Paris,0543269781,https://www.avignon-restaurant-50.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_051,Avignon,Au Bouchon Avignon,43.996348,4.820712,3.4,223,€,Provençale,66 Rue de Paris,0487609872,https://www.avignon-restaurant-51.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_052,Avignon,Café Au Avignon,43.929438,4.852965,3.5,465,€€,Provençale,102 Rue du Centre,0343747052,https://www.avignon-restaurant-52.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_053,Avignon,Les Café Avignon,43.998163,4.845118,3.7,268,€,Française,149 Rue du Centre,0321605467,https://www.avignon-restaurant-53.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_054,Avignon,Les Café Avignon,43.912732,4.757927,3.3,33,€€,Française,102 Rue Victor Hugo,0551755546,https://www.avignon-restaurant-54.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_055,Avignon,Table Les de la Gare,43.979331,4.786219,4.3,478,€€€,Provençale,153 Rue du Centre,0197463757,https://www.avignon-restaurant-55.fr,"12:00-14:30, 19:00-22:30",generated_data
+avignon_resto_056,Avignon,Les Bouchon Avignon,43.928585,4.774211,4.8,166,€€,Méditerranéenne,141 Rue de Paris,0455797686,https://www.avignon-restaurant-56.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_057,Avignon,La Petit Restaurant,43.993786,4.832308,3.6,485,€,Provençale,193 Rue de Paris,0674896635,https://www.avignon-restaurant-57.fr,"11:30-15:00, 18:30-23:00",generated_data
+avignon_resto_058,Avignon,Au Typique Comptoir,43.906673,4.768462,4.3,23,€€,Provençale,126 Rue Principale,0310448955,https://www.avignon-restaurant-58.fr,"12:00-14:00, 19:00-22:00",generated_data
+avignon_resto_059,Avignon,Brasserie La du Marché,43.927499,4.779691,3.7,330,€€,Française,145 Rue de Paris,0382973278,https://www.avignon-restaurant-59.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_001,Reims,Chez Bon Comptoir,49.223659,3.993397,3.5,308,€€,Champenoise,140 Rue de Paris,0254453563,https://www.reims-restaurant-1.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_002,Reims,Le Traditionnel Brasserie,49.281755,4.076494,3.3,438,€,Gastronomique,92 Rue Victor Hugo,0675568158,https://www.reims-restaurant-2.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_003,Reims,Comptoir Les du Marché,49.231674,4.049628,4.3,476,€€,Française,60 Rue du Centre,0138819320,https://www.reims-restaurant-3.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_004,Reims,La Grand Brasserie,49.294719,4.047387,4.5,266,€€€,Française,41 Rue de Paris,0512815571,https://www.reims-restaurant-4.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_005,Reims,Le Bouchon Reims,49.292316,4.02065,3.6,86,€€,Française,43 Rue Victor Hugo,0684859036,https://www.reims-restaurant-5.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_006,Reims,Brasserie Les Central,49.257176,4.009232,3.5,361,€,Gastronomique,34 Rue Principale,0557468080,https://www.reims-restaurant-6.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_007,Reims,Le Traditionnel Bistro,49.288055,3.996097,4.1,272,€€,Gastronomique,130 Rue de Paris,0620923757,https://www.reims-restaurant-7.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_008,Reims,Le Bon Bistro,49.25635,3.996383,3.7,260,€€€,Française,50 Rue du Centre,0626737716,https://www.reims-restaurant-8.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_009,Reims,Au Comptoir Reims,49.281516,3.99911,3.2,179,€,Française,98 Rue de Paris,0664817979,https://www.reims-restaurant-9.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_010,Reims,Restaurant Le du Port,49.247444,4.073465,4.0,137,€€,Française,184 Rue du Centre,0633346984,https://www.reims-restaurant-10.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_011,Reims,Le Café Reims,49.284567,4.001019,4.1,437,€€,Gastronomique,13 Rue Victor Hugo,0370701119,https://www.reims-restaurant-11.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_012,Reims,Les Café Reims,49.227279,4.037307,3.9,183,€,Champenoise,164 Rue du Centre,0211439999,https://www.reims-restaurant-12.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_013,Reims,Café La des Arts,49.230171,4.045557,4.3,259,€€€,Gastronomique,19 Rue Principale,0163925028,https://www.reims-restaurant-13.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_014,Reims,Les Comptoir Reims,49.23344,4.051285,4.1,115,€€,Française,116 Rue Victor Hugo,0451617860,https://www.reims-restaurant-14.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_015,Reims,Les Traditionnel Restaurant,49.251144,4.045471,4.5,8,€€,Française,99 Rue du Centre,0478651377,https://www.reims-restaurant-15.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_016,Reims,Au Café Reims,49.273262,4.029653,3.2,159,€,Française,32 Rue Principale,0179134430,https://www.reims-restaurant-16.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_017,Reims,Table Au du Marché,49.2108,4.043608,4.1,162,€,Gastronomique,56 Rue du Centre,0233586211,https://www.reims-restaurant-17.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_018,Reims,Le Cuisine de Reims,49.291302,4.007474,3.7,282,€€,Gastronomique,164 Rue du Centre,0543445670,https://www.reims-restaurant-18.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_019,Reims,La Table du Reims,49.20888,4.052166,3.7,401,€€,Champenoise,74 Rue du Centre,0329738460,https://www.reims-restaurant-19.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_020,Reims,Chez Comptoir Reims,49.275468,4.01975,4.7,186,€,Champenoise,143 Rue Principale,0475943889,https://www.reims-restaurant-20.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_021,Reims,La Café Reims,49.227583,3.984006,4.3,441,€,Champenoise,184 Rue de Paris,0534895169,https://www.reims-restaurant-21.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_022,Reims,La Café Reims,49.222574,4.052205,3.5,224,€€,Française,187 Rue Victor Hugo,0453911077,https://www.reims-restaurant-22.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_023,Reims,Au Traditionnel Bistro,49.29277,4.081091,3.6,437,€,Champenoise,32 Rue Principale,0522509221,https://www.reims-restaurant-23.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_024,Reims,Chez Comptoir Reims,49.262803,4.07425,3.7,209,€€€,Champenoise,4 Rue Victor Hugo,0651518621,https://www.reims-restaurant-24.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_025,Reims,La Table du Reims,49.231495,4.063752,4.6,84,€€,Française,98 Rue du Centre,0457595123,https://www.reims-restaurant-25.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_026,Reims,Les Typique Restaurant,49.224606,4.060631,4.7,149,€,Champenoise,149 Rue de Paris,0226565533,https://www.reims-restaurant-26.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_027,Reims,Les Bouchon Reims,49.304513,3.992768,4.4,267,€,Française,97 Rue Victor Hugo,0310547710,https://www.reims-restaurant-27.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_028,Reims,Le Comptoir Reims,49.272432,4.023183,4.3,313,€,Gastronomique,99 Rue Principale,0110588393,https://www.reims-restaurant-28.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_029,Reims,Chez Bouchon Reims,49.276382,4.053949,3.7,18,€€€,Française,102 Rue Principale,0426176294,https://www.reims-restaurant-29.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_030,Reims,Au Traditionnel Brasserie,49.307797,4.06824,4.1,419,€€,Gastronomique,74 Rue de Paris,0355819788,https://www.reims-restaurant-30.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_031,Reims,Brasserie Les de la Gare,49.255023,4.019161,4.4,163,€,Française,135 Rue de Paris,0496529935,https://www.reims-restaurant-31.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_032,Reims,La Traditionnel Table,49.244198,4.04573,4.4,176,€,Gastronomique,150 Rue de Paris,0445579376,https://www.reims-restaurant-32.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_033,Reims,Les Grand Restaurant,49.261093,4.033738,3.8,18,€€,Gastronomique,10 Rue Principale,0117287464,https://www.reims-restaurant-33.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_034,Reims,Le Cuisine de Reims,49.263622,4.05193,3.7,447,€,Champenoise,166 Rue Victor Hugo,0337665989,https://www.reims-restaurant-34.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_035,Reims,Les Vieux Bistro,49.216714,3.989917,4.7,259,€€€,Française,102 Rue Principale,0119477029,https://www.reims-restaurant-35.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_036,Reims,Le Table de Reims,49.256807,4.026431,4.4,355,€,Française,110 Rue Victor Hugo,0686752324,https://www.reims-restaurant-36.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_037,Reims,Bistro Les de la Gare,49.280166,4.041808,3.4,494,€,Française,106 Rue Victor Hugo,0527995714,https://www.reims-restaurant-37.fr,"12:00-14:30, 19:00-22:30",generated_data
+reims_resto_038,Reims,Les Comptoir Reims,49.25097,4.043924,4.2,285,€€,Française,93 Rue de Paris,0398768394,https://www.reims-restaurant-38.fr,"12:00-14:00, 19:00-22:00",generated_data
+reims_resto_039,Reims,Chez Bon Café,49.293732,4.034189,4.2,416,€€€,Gastronomique,89 Rue du Centre,0518307891,https://www.reims-restaurant-39.fr,"11:30-15:00, 18:30-23:00",generated_data
+reims_resto_040,Reims,Les Café Reims,49.223157,4.030813,4.4,181,€€,Champenoise,48 Rue du Centre,0189446746,https://www.reims-restaurant-40.fr,"11:30-15:00, 18:30-23:00",generated_data
+saint-malo_resto_001,Saint-Malo,La Cuisine de Saint-Malo,48.629218,-2.009974,4.3,354,€€,Française,36 Rue de Paris,0442547957,https://www.saint-malo-restaurant-1.fr,"11:30-15:00, 18:30-23:00",generated_data
+saint-malo_resto_002,Saint-Malo,Brasserie Le du Marché,48.635178,-1.982567,4.4,86,€,Française,165 Rue de Paris,0221403889,https://www.saint-malo-restaurant-2.fr,"11:30-15:00, 18:30-23:00",generated_data
+saint-malo_resto_003,Saint-Malo,Comptoir Chez Saint-Malo,48.653466,-1.985462,3.5,352,€€,Bretonne,22 Rue Victor Hugo,0580905228,https://www.saint-malo-restaurant-3.fr,"11:30-15:00, 18:30-23:00",generated_data
+saint-malo_resto_004,Saint-Malo,Bistro Le du Port,48.618288,-2.042589,3.7,132,€,Produits de la mer,71 Rue du Centre,0185153120,https://www.saint-malo-restaurant-4.fr,"12:00-14:00, 19:00-22:00",generated_data
+saint-malo_resto_005,Saint-Malo,Table Les du Marché,48.69624,-2.066568,4.0,296,€,Bretonne,131 Rue Victor Hugo,0536351345,https://www.saint-malo-restaurant-5.fr,"11:30-15:00, 18:30-23:00",generated_data
+saint-malo_resto_006,Saint-Malo,Chez Traditionnel Brasserie,48.609325,-2.050286,4.6,76,€€€,Produits de la mer,92 Rue Principale,0581399285,https://www.saint-malo-restaurant-6.fr,"11:30-15:00, 18:30-23:00",generated_data
+saint-malo_resto_007,Saint-Malo,Chez Bon Restaurant,48.675524,-2.001354,4.1,265,€€,Bretonne,110 Rue Victor Hugo,0351598463,https://www.saint-malo-restaurant-7.fr,"12:00-14:00, 19:00-22:00",generated_data
+saint-malo_resto_008,Saint-Malo,La Table de Saint-Malo,48.608647,-2.007717,4.1,377,€€€,Bretonne,71 Rue de Paris,0468535579,https://www.saint-malo-restaurant-8.fr,"12:00-14:00, 19:00-22:00",generated_data
+saint-malo_resto_009,Saint-Malo,Les Bouchon Saint-Malo,48.688382,-2.034424,4.2,45,€€€,Produits de la mer,124 Rue du Centre,0577279279,https://www.saint-malo-restaurant-9.fr,"11:30-15:00, 18:30-23:00",generated_data
+saint-malo_resto_010,Saint-Malo,Au Café Saint-Malo,48.607672,-2.026836,3.3,36,€,Française,62 Rue Victor Hugo,0519638331,https://www.saint-malo-restaurant-10.fr,"12:00-14:00, 19:00-22:00",generated_data
+saint-malo_resto_011,Saint-Malo,Brasserie Les de la Gare,48.684119,-2.005489,3.5,205,€€€,Française,124 Rue de Paris,0454879938,https://www.saint-malo-restaurant-11.fr,"12:00-14:00, 19:00-22:00",generated_data
+saint-malo_resto_012,Saint-Malo,Chez Bouchon Saint-Malo,48.698657,-1.991518,3.4,152,€,Produits de la mer,21 Rue Victor Hugo,0447296396,https://www.saint-malo-restaurant-12.fr,"12:00-14:30, 19:00-22:30",generated_data
+saint-malo_resto_013,Saint-Malo,Au Bon Café,48.604599,-2.053332,3.6,5,€€,Produits de la mer,86 Rue de Paris,0399633669,https://www.saint-malo-restaurant-13.fr,"12:00-14:00, 19:00-22:00",generated_data
+saint-malo_resto_014,Saint-Malo,Chez Bon Café,48.671615,-2.056371,4.7,484,€€€,Bretonne,5 Rue de Paris,0624601244,https://www.saint-malo-restaurant-14.fr,"11:30-15:00, 18:30-23:00",generated_data
+saint-malo_resto_015,Saint-Malo,La Cuisine du Saint-Malo,48.689041,-2.061121,4.2,99,€,Française,195 Rue Victor Hugo,0140198435,https://www.saint-malo-restaurant-15.fr,"12:00-14:30, 19:00-22:30",generated_data
+saint-malo_resto_016,Saint-Malo,Comptoir La Saint-Malo,48.662617,-1.985072,3.4,310,€,Française,65 Rue du Centre,0364313365,https://www.saint-malo-restaurant-16.fr,"12:00-14:00, 19:00-22:00",generated_data
+saint-malo_resto_017,Saint-Malo,Chez Comptoir Saint-Malo,48.685044,-2.014781,3.9,455,€€€,Française,133 Rue Principale,0618594934,https://www.saint-malo-restaurant-17.fr,"11:30-15:00, 18:30-23:00",generated_data
+saint-malo_resto_018,Saint-Malo,Chez Grand Comptoir,48.611735,-2.071589,3.7,275,€,Bretonne,55 Rue du Centre,0367842464,https://www.saint-malo-restaurant-18.fr,"12:00-14:30, 19:00-22:30",generated_data
+saint-malo_resto_019,Saint-Malo,Le Cuisine de Saint-Malo,48.693195,-2.052273,4.7,137,€€€,Française,31 Rue Principale,0389706455,https://www.saint-malo-restaurant-19.fr,"11:30-15:00, 18:30-23:00",generated_data
+saint-malo_resto_020,Saint-Malo,Les Petit Restaurant,48.655165,-2.015399,4.0,63,€,Bretonne,61 Rue du Centre,0627227096,https://www.saint-malo-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+saint-malo_resto_021,Saint-Malo,Le Table du Saint-Malo,48.669979,-1.978441,3.4,398,€€,Bretonne,183 Rue Victor Hugo,0424834449,https://www.saint-malo-restaurant-21.fr,"11:30-15:00, 18:30-23:00",generated_data
+saint-malo_resto_022,Saint-Malo,La Table de Saint-Malo,48.641362,-2.060473,3.3,267,€€,Bretonne,88 Rue Principale,0266456166,https://www.saint-malo-restaurant-22.fr,"12:00-14:30, 19:00-22:30",generated_data
+saint-malo_resto_023,Saint-Malo,Chez Comptoir Saint-Malo,48.627926,-2.001162,3.9,137,€€,Bretonne,1 Rue de Paris,0455942052,https://www.saint-malo-restaurant-23.fr,"11:30-15:00, 18:30-23:00",generated_data
+saint-malo_resto_024,Saint-Malo,Au Petit Restaurant,48.689952,-1.988301,3.3,475,€€€,Produits de la mer,140 Rue du Centre,0482648940,https://www.saint-malo-restaurant-24.fr,"12:00-14:30, 19:00-22:30",generated_data
+saint-malo_resto_025,Saint-Malo,Au Grand Bistro,48.6647,-2.07247,3.2,444,€,Produits de la mer,190 Rue Principale,0357212054,https://www.saint-malo-restaurant-25.fr,"12:00-14:00, 19:00-22:00",generated_data
+saint-malo_resto_026,Saint-Malo,Le Cuisine de Saint-Malo,48.659101,-2.010462,4.7,91,€€,Bretonne,162 Rue du Centre,0497993846,https://www.saint-malo-restaurant-26.fr,"11:30-15:00, 18:30-23:00",generated_data
+saint-malo_resto_027,Saint-Malo,Brasserie Chez Saint-Malo,48.682269,-2.072058,4.3,198,€,Produits de la mer,191 Rue Principale,0145415919,https://www.saint-malo-restaurant-27.fr,"11:30-15:00, 18:30-23:00",generated_data
+saint-malo_resto_028,Saint-Malo,Les Bon Restaurant,48.686496,-2.013234,3.9,150,€€€,Française,32 Rue Principale,0576559141,https://www.saint-malo-restaurant-28.fr,"11:30-15:00, 18:30-23:00",generated_data
+saint-malo_resto_029,Saint-Malo,Le Bouchon Saint-Malo,48.672764,-2.032007,4.5,311,€,Produits de la mer,68 Rue du Centre,0666373577,https://www.saint-malo-restaurant-29.fr,"12:00-14:30, 19:00-22:30",generated_data
+saint-malo_resto_030,Saint-Malo,Comptoir Les Central,48.687045,-2.010055,3.9,198,€€€,Bretonne,25 Rue du Centre,0540606094,https://www.saint-malo-restaurant-30.fr,"11:30-15:00, 18:30-23:00",generated_data
+saint-malo_resto_031,Saint-Malo,La Cuisine de Saint-Malo,48.647201,-2.042947,3.4,86,€€€,Bretonne,67 Rue de Paris,0545772899,https://www.saint-malo-restaurant-31.fr,"11:30-15:00, 18:30-23:00",generated_data
+saint-malo_resto_032,Saint-Malo,Bistro Au du Marché,48.64212,-2.020751,4.7,313,€€€,Française,101 Rue Principale,0322969647,https://www.saint-malo-restaurant-32.fr,"12:00-14:00, 19:00-22:00",generated_data
+saint-malo_resto_033,Saint-Malo,Le Cuisine du Saint-Malo,48.632299,-2.045463,4.2,330,€€€,Française,168 Rue Victor Hugo,0179464565,https://www.saint-malo-restaurant-33.fr,"12:00-14:00, 19:00-22:00",generated_data
+la rochelle_resto_001,La Rochelle,Les Comptoir La Rochelle,46.197565,-1.135659,4.1,301,€€,Produits de la mer,25 Rue du Centre,0338633447,https://www.la rochelle-restaurant-1.fr,"12:00-14:00, 19:00-22:00",generated_data
+la rochelle_resto_002,La Rochelle,La Cuisine de La Rochelle,46.1181,-1.173674,4.0,338,€€€,Charentaise,22 Rue Principale,0572347615,https://www.la rochelle-restaurant-2.fr,"11:30-15:00, 18:30-23:00",generated_data
+la rochelle_resto_003,La Rochelle,Les Bouchon La Rochelle,46.17816,-1.134391,4.2,353,€,Produits de la mer,162 Rue de Paris,0180112536,https://www.la rochelle-restaurant-3.fr,"11:30-15:00, 18:30-23:00",generated_data
+la rochelle_resto_004,La Rochelle,La Comptoir La Rochelle,46.13039,-1.154591,3.4,43,€€,Française,185 Rue du Centre,0110421017,https://www.la rochelle-restaurant-4.fr,"12:00-14:00, 19:00-22:00",generated_data
+la rochelle_resto_005,La Rochelle,Le Petit Bistro,46.18347,-1.172404,4.5,364,€€,Charentaise,189 Rue du Centre,0241704588,https://www.la rochelle-restaurant-5.fr,"12:00-14:30, 19:00-22:30",generated_data
+la rochelle_resto_006,La Rochelle,Comptoir Le du Marché,46.144608,-1.152736,4.2,438,€€€,Française,156 Rue Victor Hugo,0329556132,https://www.la rochelle-restaurant-6.fr,"12:00-14:00, 19:00-22:00",generated_data
+la rochelle_resto_007,La Rochelle,Chez Nouveau Café,46.171396,-1.156828,4.0,213,€,Charentaise,170 Rue Victor Hugo,0314383683,https://www.la rochelle-restaurant-7.fr,"12:00-14:00, 19:00-22:00",generated_data
+la rochelle_resto_008,La Rochelle,Au Bouchon La Rochelle,46.191282,-1.199066,3.9,322,€€€,Française,183 Rue de Paris,0477513485,https://www.la rochelle-restaurant-8.fr,"11:30-15:00, 18:30-23:00",generated_data
+la rochelle_resto_009,La Rochelle,La Table du La Rochelle,46.205357,-1.141137,3.7,151,€,Française,135 Rue du Centre,0331406938,https://www.la rochelle-restaurant-9.fr,"12:00-14:30, 19:00-22:30",generated_data
+la rochelle_resto_010,La Rochelle,Café La du Port,46.125351,-1.191084,3.5,222,€€€,Charentaise,31 Rue Victor Hugo,0240988071,https://www.la rochelle-restaurant-10.fr,"12:00-14:30, 19:00-22:30",generated_data
+la rochelle_resto_011,La Rochelle,Les Café La Rochelle,46.201706,-1.186932,4.5,28,€€,Charentaise,154 Rue Principale,0287991547,https://www.la rochelle-restaurant-11.fr,"11:30-15:00, 18:30-23:00",generated_data
+la rochelle_resto_012,La Rochelle,Brasserie Les du Marché,46.145176,-1.121701,3.7,395,€€€,Française,27 Rue du Centre,0437911824,https://www.la rochelle-restaurant-12.fr,"12:00-14:30, 19:00-22:30",generated_data
+la rochelle_resto_013,La Rochelle,Au Typique Brasserie,46.116795,-1.113895,4.5,364,€,Charentaise,160 Rue de Paris,0686406324,https://www.la rochelle-restaurant-13.fr,"11:30-15:00, 18:30-23:00",generated_data
+la rochelle_resto_014,La Rochelle,Restaurant Au du Marché,46.15914,-1.173387,4.2,404,€€,Française,13 Rue du Centre,0621521556,https://www.la rochelle-restaurant-14.fr,"11:30-15:00, 18:30-23:00",generated_data
+la rochelle_resto_015,La Rochelle,Les Bon Restaurant,46.138482,-1.162477,4.7,374,€€,Produits de la mer,52 Rue du Centre,0283128649,https://www.la rochelle-restaurant-15.fr,"11:30-15:00, 18:30-23:00",generated_data
+la rochelle_resto_016,La Rochelle,Au Grand Café,46.169513,-1.154713,3.5,110,€€,Charentaise,145 Rue du Centre,0236791360,https://www.la rochelle-restaurant-16.fr,"12:00-14:30, 19:00-22:30",generated_data
+la rochelle_resto_017,La Rochelle,La Table de La Rochelle,46.206223,-1.122349,3.7,30,€€€,Produits de la mer,178 Rue Principale,0642781136,https://www.la rochelle-restaurant-17.fr,"12:00-14:00, 19:00-22:00",generated_data
+la rochelle_resto_018,La Rochelle,La Cuisine du La Rochelle,46.174298,-1.115957,4.3,68,€€,Charentaise,87 Rue Victor Hugo,0467422226,https://www.la rochelle-restaurant-18.fr,"11:30-15:00, 18:30-23:00",generated_data
+la rochelle_resto_019,La Rochelle,La Cuisine de La Rochelle,46.203383,-1.16317,3.7,46,€,Produits de la mer,85 Rue de Paris,0466671532,https://www.la rochelle-restaurant-19.fr,"12:00-14:30, 19:00-22:30",generated_data
+la rochelle_resto_020,La Rochelle,Café Chez Central,46.132667,-1.127802,3.4,339,€€,Produits de la mer,198 Rue Principale,0452759429,https://www.la rochelle-restaurant-20.fr,"11:30-15:00, 18:30-23:00",generated_data
+la rochelle_resto_021,La Rochelle,La Cuisine de La Rochelle,46.195833,-1.176838,3.3,391,€,Produits de la mer,11 Rue du Centre,0270202488,https://www.la rochelle-restaurant-21.fr,"12:00-14:30, 19:00-22:30",generated_data
+la rochelle_resto_022,La Rochelle,Les Traditionnel Comptoir,46.147325,-1.17787,3.8,97,€,Produits de la mer,195 Rue Victor Hugo,0485698432,https://www.la rochelle-restaurant-22.fr,"11:30-15:00, 18:30-23:00",generated_data
+la rochelle_resto_023,La Rochelle,La Table de La Rochelle,46.181889,-1.108695,4.5,413,€€€,Charentaise,82 Rue Principale,0619676556,https://www.la rochelle-restaurant-23.fr,"12:00-14:30, 19:00-22:30",generated_data
+la rochelle_resto_024,La Rochelle,Au Bouchon La Rochelle,46.173037,-1.135413,3.4,424,€,Produits de la mer,95 Rue du Centre,0446502987,https://www.la rochelle-restaurant-24.fr,"11:30-15:00, 18:30-23:00",generated_data
+la rochelle_resto_025,La Rochelle,La Vieux Bistro,46.206113,-1.185123,4.8,48,€€,Charentaise,75 Rue Principale,0641638861,https://www.la rochelle-restaurant-25.fr,"12:00-14:30, 19:00-22:30",generated_data
+la rochelle_resto_026,La Rochelle,Le Bon Bistro,46.122026,-1.110523,3.3,24,€€,Produits de la mer,145 Rue Principale,0668557132,https://www.la rochelle-restaurant-26.fr,"12:00-14:30, 19:00-22:30",generated_data
+la rochelle_resto_027,La Rochelle,Le Café La Rochelle,46.162352,-1.158879,4.0,350,€€€,Française,47 Rue Victor Hugo,0453829590,https://www.la rochelle-restaurant-27.fr,"12:00-14:00, 19:00-22:00",generated_data
+la rochelle_resto_028,La Rochelle,Chez Comptoir La Rochelle,46.146521,-1.119043,3.5,427,€€,Charentaise,55 Rue Principale,0626647578,https://www.la rochelle-restaurant-28.fr,"12:00-14:00, 19:00-22:00",generated_data
+la rochelle_resto_029,La Rochelle,Le Cuisine du La Rochelle,46.203017,-1.192743,3.5,6,€€€,Française,60 Rue du Centre,0478336680,https://www.la rochelle-restaurant-29.fr,"11:30-15:00, 18:30-23:00",generated_data
+la rochelle_resto_030,La Rochelle,Brasserie Les du Port,46.117429,-1.144559,4.1,268,€€€,Charentaise,197 Rue du Centre,0532411759,https://www.la rochelle-restaurant-30.fr,"12:00-14:30, 19:00-22:30",generated_data
+la rochelle_resto_031,La Rochelle,La Cuisine du La Rochelle,46.183691,-1.105422,4.7,479,€€,Produits de la mer,78 Rue Victor Hugo,0644544775,https://www.la rochelle-restaurant-31.fr,"12:00-14:00, 19:00-22:00",generated_data
+la rochelle_resto_032,La Rochelle,Le Comptoir La Rochelle,46.110744,-1.166606,4.2,185,€€€,Charentaise,178 Rue de Paris,0590871889,https://www.la rochelle-restaurant-32.fr,"12:00-14:30, 19:00-22:30",generated_data
+la rochelle_resto_033,La Rochelle,Au Typique Restaurant,46.164972,-1.158193,3.9,320,€€,Charentaise,51 Rue du Centre,0182495822,https://www.la rochelle-restaurant-33.fr,"11:30-15:00, 18:30-23:00",generated_data
+la rochelle_resto_034,La Rochelle,Table Au du Port,46.153338,-1.121235,3.6,291,€€€,Charentaise,167 Rue Principale,0467987313,https://www.la rochelle-restaurant-34.fr,"11:30-15:00, 18:30-23:00",generated_data
+la rochelle_resto_035,La Rochelle,La Bouchon La Rochelle,46.204433,-1.140856,4.2,285,€€,Française,110 Rue du Centre,0450709673,https://www.la rochelle-restaurant-35.fr,"12:00-14:00, 19:00-22:00",generated_data
+la rochelle_resto_036,La Rochelle,Table Les du Marché,46.175376,-1.113189,3.8,303,€,Produits de la mer,146 Rue du Centre,0439329337,https://www.la rochelle-restaurant-36.fr,"11:30-15:00, 18:30-23:00",generated_data
+la rochelle_resto_037,La Rochelle,Chez Bouchon La Rochelle,46.152804,-1.14655,4.5,476,€€€,Française,136 Rue de Paris,0293555521,https://www.la rochelle-restaurant-37.fr,"12:00-14:30, 19:00-22:30",generated_data
+la rochelle_resto_038,La Rochelle,Bistro Au Central,46.177064,-1.125448,4.5,94,€€€,Charentaise,44 Rue Principale,0344895927,https://www.la rochelle-restaurant-38.fr,"11:30-15:00, 18:30-23:00",generated_data
+la rochelle_resto_039,La Rochelle,La Bon Bistro,46.113764,-1.18427,3.6,460,€€€,Française,118 Rue de Paris,0630338578,https://www.la rochelle-restaurant-39.fr,"12:00-14:00, 19:00-22:00",generated_data
+la rochelle_resto_040,La Rochelle,La Typique Restaurant,46.165714,-1.200636,3.9,484,€€,Produits de la mer,183 Rue du Centre,0245161453,https://www.la rochelle-restaurant-40.fr,"12:00-14:30, 19:00-22:30",generated_data
+la rochelle_resto_041,La Rochelle,Table Les de la Gare,46.192723,-1.199728,4.2,180,€,Française,152 Rue Victor Hugo,0269468625,https://www.la rochelle-restaurant-41.fr,"11:30-15:00, 18:30-23:00",generated_data
+la rochelle_resto_042,La Rochelle,La Cuisine de La Rochelle,46.165699,-1.115741,3.4,347,€,Charentaise,10 Rue de Paris,0687343754,https://www.la rochelle-restaurant-42.fr,"12:00-14:30, 19:00-22:30",generated_data
+la rochelle_resto_043,La Rochelle,Café La des Arts,46.178621,-1.186281,3.3,173,€,Produits de la mer,95 Rue Victor Hugo,0533453017,https://www.la rochelle-restaurant-43.fr,"11:30-15:00, 18:30-23:00",generated_data
+la rochelle_resto_044,La Rochelle,Chez Vieux Brasserie,46.20434,-1.126332,4.1,50,€,Charentaise,128 Rue du Centre,0612964084,https://www.la rochelle-restaurant-44.fr,"12:00-14:30, 19:00-22:30",generated_data
+la rochelle_resto_045,La Rochelle,Brasserie La du Marché,46.11292,-1.13142,3.7,468,€€€,Produits de la mer,44 Rue de Paris,0164684834,https://www.la rochelle-restaurant-45.fr,"11:30-15:00, 18:30-23:00",generated_data
+la rochelle_resto_046,La Rochelle,Café Les de la Gare,46.161682,-1.154622,4.4,134,€€,Produits de la mer,117 Rue Victor Hugo,0616335950,https://www.la rochelle-restaurant-46.fr,"12:00-14:30, 19:00-22:30",generated_data
+la rochelle_resto_047,La Rochelle,Restaurant Les des Arts,46.159029,-1.130138,3.7,495,€€,Produits de la mer,140 Rue de Paris,0185851521,https://www.la rochelle-restaurant-47.fr,"11:30-15:00, 18:30-23:00",generated_data
+la rochelle_resto_048,La Rochelle,Le Table de La Rochelle,46.196092,-1.124718,4.6,310,€€€,Française,174 Rue Principale,0481845733,https://www.la rochelle-restaurant-48.fr,"12:00-14:30, 19:00-22:30",generated_data
+la rochelle_resto_049,La Rochelle,Table Les La Rochelle,46.120269,-1.156976,4.2,21,€€,Produits de la mer,197 Rue Principale,0450646239,https://www.la rochelle-restaurant-49.fr,"12:00-14:30, 19:00-22:30",generated_data
+la rochelle_resto_050,La Rochelle,Chez Grand Table,46.113521,-1.121225,3.7,219,€€€,Produits de la mer,77 Rue de Paris,0142799527,https://www.la rochelle-restaurant-50.fr,"12:00-14:00, 19:00-22:00",generated_data
+la rochelle_resto_051,La Rochelle,Le Cuisine de La Rochelle,46.207838,-1.120685,4.3,142,€€€,Charentaise,93 Rue Principale,0480847835,https://www.la rochelle-restaurant-51.fr,"12:00-14:00, 19:00-22:00",generated_data
+la rochelle_resto_052,La Rochelle,La Cuisine de La Rochelle,46.144512,-1.135132,4.2,142,€,Française,72 Rue Victor Hugo,0373526052,https://www.la rochelle-restaurant-52.fr,"12:00-14:30, 19:00-22:30",generated_data
+la rochelle_resto_053,La Rochelle,La Table de La Rochelle,46.142727,-1.108338,4.1,117,€,Française,198 Rue Principale,0595161465,https://www.la rochelle-restaurant-53.fr,"12:00-14:00, 19:00-22:00",generated_data
+la rochelle_resto_054,La Rochelle,Brasserie La de la Gare,46.12318,-1.116078,3.8,374,€€€,Produits de la mer,41 Rue de Paris,0424961380,https://www.la rochelle-restaurant-54.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_001,Dijon,Le Petit Table,47.300874,5.052502,4.5,156,€,Française,100 Rue du Centre,0222312215,https://www.dijon-restaurant-1.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_002,Dijon,La Cuisine de Dijon,47.28014,5.065619,4.2,118,€€€,Française,195 Rue du Centre,0425325222,https://www.dijon-restaurant-2.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_003,Dijon,Au Bouchon Dijon,47.330052,5.070031,4.2,250,€€,Vins,22 Rue Victor Hugo,0563774918,https://www.dijon-restaurant-3.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_004,Dijon,Le Nouveau Café,47.303365,5.028897,4.4,413,€,Française,194 Rue du Centre,0220471924,https://www.dijon-restaurant-4.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_005,Dijon,La Table du Dijon,47.312552,5.058983,3.5,454,€€€,Française,14 Rue Victor Hugo,0564253233,https://www.dijon-restaurant-5.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_006,Dijon,Café Au Dijon,47.371599,5.050904,3.6,296,€€€,Française,34 Rue du Centre,0298798963,https://www.dijon-restaurant-6.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_007,Dijon,Le Table du Dijon,47.273999,5.046806,4.2,286,€,Vins,103 Rue Principale,0321353671,https://www.dijon-restaurant-7.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_008,Dijon,Au Bon Table,47.279161,5.050701,4.7,52,€€€,Bourguignonne,181 Rue de Paris,0295858620,https://www.dijon-restaurant-8.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_009,Dijon,Chez Typique Bistro,47.289149,4.999647,4.4,408,€€€,Bourguignonne,22 Rue Principale,0622229414,https://www.dijon-restaurant-9.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_010,Dijon,La Table du Dijon,47.357406,5.045969,3.6,147,€€€,Française,164 Rue du Centre,0448943898,https://www.dijon-restaurant-10.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_011,Dijon,Le Comptoir Dijon,47.301627,5.079385,4.3,38,€€,Bourguignonne,169 Rue du Centre,0528303376,https://www.dijon-restaurant-11.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_012,Dijon,Les Café Dijon,47.357533,5.061587,3.3,237,€,Vins,18 Rue du Centre,0429468889,https://www.dijon-restaurant-12.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_013,Dijon,La Petit Table,47.301523,5.086923,4.2,332,€,Française,176 Rue Principale,0340849429,https://www.dijon-restaurant-13.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_014,Dijon,Les Bon Comptoir,47.370863,5.042556,3.3,45,€,Française,62 Rue Victor Hugo,0615398711,https://www.dijon-restaurant-14.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_015,Dijon,Le Café Dijon,47.284968,5.071125,3.8,246,€€,Bourguignonne,75 Rue Victor Hugo,0286907630,https://www.dijon-restaurant-15.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_016,Dijon,Le Table de Dijon,47.290562,4.999794,3.5,480,€€,Bourguignonne,43 Rue du Centre,0227476140,https://www.dijon-restaurant-16.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_017,Dijon,Table Le Central,47.3152,4.9996,3.7,306,€€€,Vins,87 Rue Principale,0453675839,https://www.dijon-restaurant-17.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_018,Dijon,Comptoir Le des Arts,47.349349,5.027333,3.8,351,€,Bourguignonne,132 Rue du Centre,0556598768,https://www.dijon-restaurant-18.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_019,Dijon,Au Petit Table,47.274162,5.009035,4.0,260,€€,Bourguignonne,182 Rue Principale,0490729173,https://www.dijon-restaurant-19.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_020,Dijon,Les Vieux Table,47.31937,5.076257,3.7,223,€,Vins,160 Rue Victor Hugo,0591444694,https://www.dijon-restaurant-20.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_021,Dijon,Bistro Les Dijon,47.306238,5.021123,4.3,107,€€,Française,39 Rue de Paris,0376489270,https://www.dijon-restaurant-21.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_022,Dijon,Comptoir Chez Dijon,47.278249,5.002693,4.0,410,€€€,Française,49 Rue Principale,0165309722,https://www.dijon-restaurant-22.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_023,Dijon,Chez Bouchon Dijon,47.330778,5.065173,4.5,218,€,Vins,37 Rue du Centre,0490947032,https://www.dijon-restaurant-23.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_024,Dijon,La Cuisine de Dijon,47.332449,5.070468,4.1,249,€,Vins,154 Rue du Centre,0235869973,https://www.dijon-restaurant-24.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_025,Dijon,La Cuisine de Dijon,47.285973,5.072809,4.6,376,€,Vins,23 Rue Victor Hugo,0475191875,https://www.dijon-restaurant-25.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_026,Dijon,Table La du Marché,47.306481,5.034612,4.3,36,€,Vins,138 Rue Victor Hugo,0190785590,https://www.dijon-restaurant-26.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_027,Dijon,Le Nouveau Restaurant,47.367098,5.012892,4.0,466,€€,Vins,52 Rue de Paris,0131263889,https://www.dijon-restaurant-27.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_028,Dijon,Au Bouchon Dijon,47.370716,5.047081,3.9,361,€€,Bourguignonne,97 Rue Victor Hugo,0669127715,https://www.dijon-restaurant-28.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_029,Dijon,Brasserie Les du Port,47.316197,5.021827,3.7,337,€€€,Française,146 Rue Principale,0540381364,https://www.dijon-restaurant-29.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_030,Dijon,Au Typique Comptoir,47.27293,5.003358,3.5,320,€€€,Vins,108 Rue de Paris,0633393791,https://www.dijon-restaurant-30.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_031,Dijon,Le Bon Brasserie,47.293534,5.079576,4.7,366,€,Bourguignonne,117 Rue Victor Hugo,0133655675,https://www.dijon-restaurant-31.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_032,Dijon,Les Bouchon Dijon,47.300927,5.030736,3.8,452,€€€,Vins,116 Rue du Centre,0428433684,https://www.dijon-restaurant-32.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_033,Dijon,Le Café Dijon,47.293203,5.049259,4.6,301,€€,Vins,85 Rue Victor Hugo,0451749782,https://www.dijon-restaurant-33.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_034,Dijon,Le Grand Bistro,47.369363,5.055868,3.4,132,€,Bourguignonne,83 Rue du Centre,0268585552,https://www.dijon-restaurant-34.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_035,Dijon,Chez Bouchon Dijon,47.311192,5.038123,3.8,136,€€€,Bourguignonne,70 Rue de Paris,0562997685,https://www.dijon-restaurant-35.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_036,Dijon,La Café Dijon,47.287757,4.996107,3.8,232,€€€,Française,174 Rue du Centre,0235907280,https://www.dijon-restaurant-36.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_037,Dijon,La Comptoir Dijon,47.328065,5.091426,3.8,384,€€,Bourguignonne,98 Rue du Centre,0230592823,https://www.dijon-restaurant-37.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_038,Dijon,Le Nouveau Brasserie,47.288659,5.056257,4.3,412,€€,Française,155 Rue de Paris,0349324075,https://www.dijon-restaurant-38.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_039,Dijon,Les Café Dijon,47.350515,5.061721,4.6,63,€€,Bourguignonne,100 Rue Principale,0234302681,https://www.dijon-restaurant-39.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_001,Colmar,Le Table de Colmar,48.043728,7.365151,4.2,328,€€,Choucroute,82 Rue de Paris,0142442097,https://www.colmar-restaurant-1.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_002,Colmar,Café Au de la Gare,48.122192,7.323322,4.8,458,€€,Choucroute,62 Rue Principale,0592155952,https://www.colmar-restaurant-2.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_003,Colmar,Les Nouveau Restaurant,48.099504,7.402965,3.9,118,€€€,Française,100 Rue Victor Hugo,0544264724,https://www.colmar-restaurant-3.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_004,Colmar,Brasserie Au du Marché,48.081014,7.315347,4.5,291,€€€,Choucroute,51 Rue du Centre,0587754282,https://www.colmar-restaurant-4.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_005,Colmar,La Petit Brasserie,48.106794,7.32937,4.5,385,€,Française,69 Rue Principale,0382973827,https://www.colmar-restaurant-5.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_006,Colmar,Les Bouchon Colmar,48.076147,7.405807,4.7,370,€,Alsacienne,54 Rue du Centre,0645213180,https://www.colmar-restaurant-6.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_007,Colmar,La Cuisine du Colmar,48.109071,7.360448,4.4,216,€€,Choucroute,25 Rue du Centre,0450707245,https://www.colmar-restaurant-7.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_008,Colmar,Le Cuisine de Colmar,48.057334,7.327298,3.8,20,€,Alsacienne,157 Rue du Centre,0664471096,https://www.colmar-restaurant-8.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_009,Colmar,Le Table du Colmar,48.065634,7.34446,4.1,111,€€,Alsacienne,92 Rue Principale,0334785394,https://www.colmar-restaurant-9.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_010,Colmar,Le Cuisine de Colmar,48.033794,7.314691,4.7,463,€,Française,75 Rue du Centre,0595492155,https://www.colmar-restaurant-10.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_011,Colmar,La Cuisine du Colmar,48.097307,7.346096,3.8,41,€€,Choucroute,168 Rue de Paris,0399247981,https://www.colmar-restaurant-11.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_012,Colmar,Table Les du Port,48.08365,7.397536,4.6,494,€,Alsacienne,68 Rue Principale,0225793332,https://www.colmar-restaurant-12.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_013,Colmar,Restaurant La du Port,48.096824,7.316502,3.5,426,€,Française,60 Rue du Centre,0675174363,https://www.colmar-restaurant-13.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_014,Colmar,Restaurant La des Arts,48.073391,7.357598,4.6,112,€,Choucroute,113 Rue Principale,0416216389,https://www.colmar-restaurant-14.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_015,Colmar,Au Traditionnel Comptoir,48.106937,7.353668,3.6,357,€,Française,25 Rue du Centre,0683876630,https://www.colmar-restaurant-15.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_016,Colmar,La Table du Colmar,48.078317,7.351957,4.8,59,€,Alsacienne,194 Rue Victor Hugo,0477197048,https://www.colmar-restaurant-16.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_017,Colmar,Restaurant Chez Central,48.035877,7.3634,4.5,362,€€,Choucroute,63 Rue Victor Hugo,0569342070,https://www.colmar-restaurant-17.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_018,Colmar,Chez Comptoir Colmar,48.075436,7.348336,3.9,452,€€,Française,182 Rue du Centre,0679741854,https://www.colmar-restaurant-18.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_019,Colmar,Au Comptoir Colmar,48.11391,7.398888,4.5,206,€€€,Choucroute,189 Rue de Paris,0319645310,https://www.colmar-restaurant-19.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_020,Colmar,Bistro Chez du Port,48.043687,7.371878,3.9,288,€€,Alsacienne,144 Rue de Paris,0174109842,https://www.colmar-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_021,Colmar,Les Nouveau Brasserie,48.073448,7.383792,3.7,146,€,Française,4 Rue de Paris,0325866016,https://www.colmar-restaurant-21.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_022,Colmar,La Petit Brasserie,48.111855,7.316503,3.5,498,€€€,Alsacienne,177 Rue Principale,0669807572,https://www.colmar-restaurant-22.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_023,Colmar,Le Bouchon Colmar,48.073454,7.383688,3.8,151,€€,Française,178 Rue Principale,0466661955,https://www.colmar-restaurant-23.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_024,Colmar,Chez Café Colmar,48.12383,7.390695,4.1,149,€,Choucroute,57 Rue Principale,0270514743,https://www.colmar-restaurant-24.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_025,Colmar,Restaurant Au de la Gare,48.066959,7.34578,3.8,302,€€,Choucroute,139 Rue de Paris,0652725634,https://www.colmar-restaurant-25.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_026,Colmar,Restaurant Chez Colmar,48.09984,7.365813,3.3,444,€€€,Française,144 Rue de Paris,0120798227,https://www.colmar-restaurant-26.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_027,Colmar,Chez Petit Table,48.115643,7.312185,3.9,256,€,Française,27 Rue Victor Hugo,0345591443,https://www.colmar-restaurant-27.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_028,Colmar,Restaurant Les Colmar,48.074645,7.330624,3.9,233,€€,Choucroute,23 Rue Principale,0536258725,https://www.colmar-restaurant-28.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_029,Colmar,La Comptoir Colmar,48.041407,7.364451,4.0,195,€,Choucroute,50 Rue Victor Hugo,0481851817,https://www.colmar-restaurant-29.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_030,Colmar,Le Typique Comptoir,48.124675,7.33358,3.6,23,€€€,Française,74 Rue Victor Hugo,0493678794,https://www.colmar-restaurant-30.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_031,Colmar,Table Au de la Gare,48.080409,7.366568,4.2,196,€€€,Alsacienne,43 Rue de Paris,0642752940,https://www.colmar-restaurant-31.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_032,Colmar,Bistro Au du Port,48.121595,7.368052,3.6,408,€€,Choucroute,173 Rue Principale,0163617594,https://www.colmar-restaurant-32.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_033,Colmar,Table Les de la Gare,48.087035,7.384234,4.5,113,€€€,Française,60 Rue Victor Hugo,0640682484,https://www.colmar-restaurant-33.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_034,Colmar,Le Bouchon Colmar,48.048211,7.366751,4.2,184,€€€,Choucroute,132 Rue du Centre,0150182499,https://www.colmar-restaurant-34.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_035,Colmar,La Table de Colmar,48.123248,7.391283,3.5,327,€€€,Choucroute,120 Rue Principale,0150634822,https://www.colmar-restaurant-35.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_036,Colmar,Le Cuisine de Colmar,48.032669,7.355912,4.3,448,€€,Alsacienne,67 Rue de Paris,0214532241,https://www.colmar-restaurant-36.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_037,Colmar,Au Bouchon Colmar,48.032678,7.382522,4.5,265,€€€,Choucroute,146 Rue du Centre,0443481953,https://www.colmar-restaurant-37.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_038,Colmar,Café La Central,48.08633,7.323777,4.8,329,€€€,Française,165 Rue de Paris,0155693237,https://www.colmar-restaurant-38.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_039,Colmar,Le Vieux Café,48.04488,7.355345,4.8,287,€€€,Choucroute,13 Rue de Paris,0325562727,https://www.colmar-restaurant-39.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_040,Colmar,Le Table de Colmar,48.063411,7.375193,3.5,353,€,Alsacienne,70 Rue Victor Hugo,0233912425,https://www.colmar-restaurant-40.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_041,Colmar,Le Petit Café,48.113529,7.324822,3.6,418,€,Française,117 Rue Victor Hugo,0483727664,https://www.colmar-restaurant-41.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_042,Colmar,Bistro Au du Port,48.121279,7.39884,4.5,158,€€,Française,148 Rue du Centre,0370748628,https://www.colmar-restaurant-42.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_043,Colmar,Bistro La de la Gare,48.113005,7.367661,4.3,160,€,Choucroute,82 Rue Principale,0590674416,https://www.colmar-restaurant-43.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_044,Colmar,Restaurant Chez du Port,48.055501,7.37088,4.3,246,€€,Alsacienne,95 Rue Principale,0376225942,https://www.colmar-restaurant-44.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_045,Colmar,Le Table du Colmar,48.109688,7.375375,4.5,185,€,Alsacienne,161 Rue du Centre,0333803231,https://www.colmar-restaurant-45.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_046,Colmar,Le Comptoir Colmar,48.071797,7.369074,4.3,52,€€€,Choucroute,92 Rue Victor Hugo,0220941988,https://www.colmar-restaurant-46.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_047,Colmar,Le Typique Café,48.079675,7.309089,3.3,139,€,Choucroute,60 Rue de Paris,0416637451,https://www.colmar-restaurant-47.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_048,Colmar,Table La du Port,48.039616,7.323066,4.5,100,€€€,Française,97 Rue Victor Hugo,0119354440,https://www.colmar-restaurant-48.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_049,Colmar,Les Café Colmar,48.123251,7.362215,4.3,435,€€,Française,108 Rue Victor Hugo,0690115713,https://www.colmar-restaurant-49.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_050,Colmar,Le Cuisine de Colmar,48.037236,7.38724,4.1,7,€€€,Choucroute,101 Rue du Centre,0369907620,https://www.colmar-restaurant-50.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_051,Colmar,Les Comptoir Colmar,48.038008,7.390234,4.8,81,€,Alsacienne,8 Rue du Centre,0537973556,https://www.colmar-restaurant-51.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_052,Colmar,La Table de Colmar,48.128878,7.323327,3.3,294,€€,Choucroute,10 Rue de Paris,0294422810,https://www.colmar-restaurant-52.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_053,Colmar,Bistro Au Colmar,48.107558,7.383513,4.7,115,€,Française,136 Rue du Centre,0250225488,https://www.colmar-restaurant-53.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_054,Colmar,Chez Bon Table,48.08668,7.353002,3.7,266,€,Française,114 Rue du Centre,0183548079,https://www.colmar-restaurant-54.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_055,Colmar,Chez Petit Restaurant,48.03583,7.322903,4.5,366,€€€,Française,194 Rue de Paris,0271256450,https://www.colmar-restaurant-55.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_056,Colmar,Au Typique Restaurant,48.042542,7.369153,3.6,83,€,Choucroute,57 Rue Victor Hugo,0624294044,https://www.colmar-restaurant-56.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_057,Colmar,La Bouchon Colmar,48.087195,7.342855,3.7,419,€€,Française,134 Rue du Centre,0578805987,https://www.colmar-restaurant-57.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_058,Colmar,Le Petit Bistro,48.051153,7.396413,4.1,172,€€€,Alsacienne,108 Rue du Centre,0361608052,https://www.colmar-restaurant-58.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_059,Colmar,La Table de Colmar,48.124458,7.338671,3.3,84,€,Alsacienne,45 Rue Principale,0521582353,https://www.colmar-restaurant-59.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_060,Colmar,Chez Grand Comptoir,48.035534,7.365337,3.9,42,€,Choucroute,15 Rue du Centre,0471515661,https://www.colmar-restaurant-60.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_061,Colmar,Brasserie La Central,48.085535,7.382691,3.3,291,€€,Française,180 Rue du Centre,0257364647,https://www.colmar-restaurant-61.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_062,Colmar,Bistro Chez des Arts,48.040561,7.399307,3.4,271,€€€,Choucroute,119 Rue Victor Hugo,0686236484,https://www.colmar-restaurant-62.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_063,Colmar,La Café Colmar,48.070829,7.356162,3.4,305,€€,Alsacienne,67 Rue de Paris,0536669272,https://www.colmar-restaurant-63.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_064,Colmar,Le Cuisine de Colmar,48.096142,7.335932,4.4,203,€€,Choucroute,97 Rue de Paris,0491802260,https://www.colmar-restaurant-64.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_065,Colmar,Café Le des Arts,48.10354,7.359279,3.3,115,€,Alsacienne,140 Rue de Paris,0495612713,https://www.colmar-restaurant-65.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_066,Colmar,Le Table de Colmar,48.093383,7.405092,4.4,239,€,Alsacienne,2 Rue de Paris,0429708633,https://www.colmar-restaurant-66.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_067,Colmar,Les Grand Comptoir,48.108002,7.381972,4.2,86,€€€,Alsacienne,167 Rue du Centre,0536523070,https://www.colmar-restaurant-67.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_068,Colmar,Le Table de Colmar,48.121305,7.338456,4.1,9,€,Alsacienne,138 Rue Principale,0659651710,https://www.colmar-restaurant-68.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_069,Colmar,Bistro Au Colmar,48.125339,7.359444,4.0,269,€€€,Choucroute,120 Rue du Centre,0390726954,https://www.colmar-restaurant-69.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_070,Colmar,Le Cuisine de Colmar,48.12775,7.408324,4.7,306,€€€,Choucroute,186 Rue Victor Hugo,0285226648,https://www.colmar-restaurant-70.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_071,Colmar,Au Bon Bistro,48.036629,7.401931,3.4,293,€,Française,100 Rue Principale,0149105949,https://www.colmar-restaurant-71.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_001,Arles,La Bon Bistro,43.664671,4.651206,4.4,231,€€,Camarguaise,188 Rue du Centre,0331804053,https://www.arles-restaurant-1.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_002,Arles,Le Table du Arles,43.663393,4.647698,3.9,247,€€€,Française,67 Rue Victor Hugo,0647453456,https://www.arles-restaurant-2.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_003,Arles,Café Au Central,43.685393,4.636381,3.6,216,€€€,Française,48 Rue du Centre,0454918294,https://www.arles-restaurant-3.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_004,Arles,La Bon Comptoir,43.707535,4.58631,4.8,358,€€,Française,98 Rue de Paris,0182945348,https://www.arles-restaurant-4.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_005,Arles,La Table de Arles,43.647937,4.642659,3.5,60,€€,Camarguaise,115 Rue Victor Hugo,0287551944,https://www.arles-restaurant-5.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_006,Arles,La Table du Arles,43.642025,4.667172,4.5,378,€€€,Provençale,162 Rue de Paris,0323498289,https://www.arles-restaurant-6.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_007,Arles,Le Table de Arles,43.664763,4.582765,3.9,316,€€€,Française,25 Rue de Paris,0681637775,https://www.arles-restaurant-7.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_008,Arles,La Bouchon Arles,43.690261,4.621128,4.3,121,€€€,Provençale,165 Rue du Centre,0592752610,https://www.arles-restaurant-8.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_009,Arles,La Comptoir Arles,43.655439,4.654308,4.2,193,€€,Française,115 Rue du Centre,0283414391,https://www.arles-restaurant-9.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_010,Arles,Restaurant La des Arts,43.694881,4.586564,3.4,251,€€€,Provençale,144 Rue Victor Hugo,0561911076,https://www.arles-restaurant-10.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_011,Arles,Comptoir Le des Arts,43.634025,4.65479,4.4,314,€,Française,110 Rue Principale,0447467071,https://www.arles-restaurant-11.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_012,Arles,Le Table de Arles,43.696899,4.646369,4.0,42,€€,Provençale,10 Rue de Paris,0186489319,https://www.arles-restaurant-12.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_013,Arles,Comptoir La du Marché,43.636003,4.625659,3.8,227,€€,Provençale,117 Rue Principale,0224711034,https://www.arles-restaurant-13.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_014,Arles,La Bouchon Arles,43.721091,4.604701,4.7,281,€€€,Camarguaise,134 Rue du Centre,0289108837,https://www.arles-restaurant-14.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_015,Arles,Table Le des Arts,43.709576,4.645385,4.3,405,€€,Provençale,24 Rue de Paris,0597632717,https://www.arles-restaurant-15.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_016,Arles,Les Comptoir Arles,43.637836,4.621157,3.4,421,€€,Française,56 Rue Principale,0388275286,https://www.arles-restaurant-16.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_017,Arles,Le Cuisine du Arles,43.653902,4.656955,4.6,389,€,Camarguaise,74 Rue du Centre,0536647936,https://www.arles-restaurant-17.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_018,Arles,Le Comptoir Arles,43.628353,4.653994,4.2,87,€€,Provençale,110 Rue du Centre,0454819967,https://www.arles-restaurant-18.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_019,Arles,Chez Café Arles,43.690138,4.644325,3.3,68,€€€,Camarguaise,6 Rue du Centre,0213403685,https://www.arles-restaurant-19.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_020,Arles,La Comptoir Arles,43.698012,4.644581,4.1,344,€€,Provençale,40 Rue Principale,0378999436,https://www.arles-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_021,Arles,Bistro La du Marché,43.670846,4.638442,4.4,486,€€€,Française,151 Rue Victor Hugo,0343354488,https://www.arles-restaurant-21.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_022,Arles,La Table de Arles,43.650006,4.634942,4.5,473,€,Camarguaise,49 Rue Victor Hugo,0369143868,https://www.arles-restaurant-22.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_023,Arles,La Typique Bistro,43.714443,4.653334,3.5,245,€,Provençale,194 Rue de Paris,0387648026,https://www.arles-restaurant-23.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_024,Arles,Brasserie Le des Arts,43.689143,4.650065,4.2,158,€€,Française,128 Rue de Paris,0160742951,https://www.arles-restaurant-24.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_025,Arles,La Table du Arles,43.69065,4.639249,3.9,420,€,Française,138 Rue Principale,0551372469,https://www.arles-restaurant-25.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_026,Arles,Le Table du Arles,43.660965,4.587644,3.6,283,€€€,Française,153 Rue Victor Hugo,0699603464,https://www.arles-restaurant-26.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_027,Arles,Le Vieux Restaurant,43.691344,4.660149,4.0,241,€€,Provençale,72 Rue de Paris,0473419338,https://www.arles-restaurant-27.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_028,Arles,La Bouchon Arles,43.694035,4.624692,4.2,233,€€€,Française,30 Rue de Paris,0347266348,https://www.arles-restaurant-28.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_029,Arles,Table La du Marché,43.666802,4.640557,4.1,367,€€,Camarguaise,51 Rue de Paris,0174216675,https://www.arles-restaurant-29.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_030,Arles,Café Au Central,43.634319,4.609427,4.2,336,€€,Provençale,161 Rue Principale,0439103752,https://www.arles-restaurant-30.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_031,Arles,Brasserie Au du Marché,43.688674,4.595685,4.0,459,€€€,Française,197 Rue Victor Hugo,0379868998,https://www.arles-restaurant-31.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_032,Arles,Le Table du Arles,43.645607,4.617667,4.6,94,€€,Camarguaise,66 Rue Victor Hugo,0175171289,https://www.arles-restaurant-32.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_033,Arles,La Cuisine du Arles,43.638483,4.616375,3.8,86,€,Provençale,156 Rue Victor Hugo,0351172643,https://www.arles-restaurant-33.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_034,Arles,Le Table du Arles,43.648492,4.612713,3.8,442,€,Camarguaise,55 Rue du Centre,0621835528,https://www.arles-restaurant-34.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_035,Arles,Le Traditionnel Brasserie,43.701232,4.620866,4.1,491,€€,Provençale,175 Rue Victor Hugo,0482954082,https://www.arles-restaurant-35.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_036,Arles,Chez Café Arles,43.725017,4.648951,4.5,325,€,Provençale,116 Rue Principale,0270912082,https://www.arles-restaurant-36.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_037,Arles,La Table du Arles,43.708669,4.638848,4.4,477,€,Provençale,106 Rue de Paris,0434565453,https://www.arles-restaurant-37.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_038,Arles,Comptoir Les du Port,43.685727,4.628855,3.3,251,€€€,Française,140 Rue du Centre,0563929729,https://www.arles-restaurant-38.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_039,Arles,Chez Vieux Comptoir,43.647722,4.613624,4.7,455,€€,Camarguaise,191 Rue de Paris,0656717811,https://www.arles-restaurant-39.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_040,Arles,Le Petit Restaurant,43.680235,4.649416,4.0,19,€€€,Française,80 Rue Victor Hugo,0632321735,https://www.arles-restaurant-40.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_041,Arles,La Table du Arles,43.644826,4.610466,4.2,471,€,Provençale,189 Rue de Paris,0280608377,https://www.arles-restaurant-41.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_042,Arles,Bistro Les des Arts,43.627727,4.58187,3.2,14,€€,Française,17 Rue Principale,0243542655,https://www.arles-restaurant-42.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_043,Arles,Café Le Central,43.722852,4.676284,4.7,329,€,Provençale,62 Rue de Paris,0366432456,https://www.arles-restaurant-43.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_044,Arles,Chez Grand Brasserie,43.632048,4.597608,4.7,177,€€,Française,166 Rue Principale,0646795311,https://www.arles-restaurant-44.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_045,Arles,Au Traditionnel Comptoir,43.655569,4.624569,3.3,70,€€€,Provençale,170 Rue Principale,0576415944,https://www.arles-restaurant-45.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_046,Arles,Restaurant La Arles,43.676164,4.654008,3.9,341,€,Camarguaise,179 Rue du Centre,0376994853,https://www.arles-restaurant-46.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_047,Arles,Le Bouchon Arles,43.652533,4.615339,4.1,130,€,Provençale,112 Rue Victor Hugo,0558905064,https://www.arles-restaurant-47.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_048,Arles,Au Nouveau Café,43.687097,4.586804,3.3,404,€€€,Camarguaise,147 Rue du Centre,0591802479,https://www.arles-restaurant-48.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_049,Arles,Au Traditionnel Comptoir,43.660265,4.599047,3.6,26,€€,Provençale,56 Rue Principale,0341952315,https://www.arles-restaurant-49.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_050,Arles,Le Traditionnel Bistro,43.642786,4.595751,3.5,466,€€€,Française,69 Rue Principale,0682296055,https://www.arles-restaurant-50.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_051,Arles,La Table du Arles,43.694419,4.641896,4.0,46,€€€,Provençale,23 Rue du Centre,0454669174,https://www.arles-restaurant-51.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_052,Arles,Les Café Arles,43.657508,4.663555,3.3,11,€,Française,35 Rue du Centre,0179135813,https://www.arles-restaurant-52.fr,"12:00-14:00, 19:00-22:00",generated_data
+arles_resto_053,Arles,Le Bouchon Arles,43.677773,4.603564,4.3,23,€€€,Provençale,181 Rue Principale,0633145644,https://www.arles-restaurant-53.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_054,Arles,Le Vieux Café,43.72378,4.596046,4.5,469,€,Camarguaise,141 Rue du Centre,0454308665,https://www.arles-restaurant-54.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_055,Arles,Restaurant Le du Marché,43.704794,4.641587,3.6,41,€€,Provençale,70 Rue de Paris,0652301329,https://www.arles-restaurant-55.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_056,Arles,La Petit Comptoir,43.692333,4.590617,4.3,448,€€,Française,124 Rue Victor Hugo,0357964912,https://www.arles-restaurant-56.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_057,Arles,La Grand Table,43.655324,4.623508,4.0,203,€€€,Française,105 Rue du Centre,0591561380,https://www.arles-restaurant-57.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_058,Arles,Brasserie Le Central,43.689599,4.587485,4.0,467,€€,Provençale,172 Rue Principale,0549982028,https://www.arles-restaurant-58.fr,"12:00-14:30, 19:00-22:30",generated_data
+arles_resto_059,Arles,Au Bon Bistro,43.646727,4.651528,3.4,37,€€,Camarguaise,158 Rue Victor Hugo,0282205291,https://www.arles-restaurant-59.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_060,Arles,La Cuisine du Arles,43.650719,4.583197,3.6,116,€€€,Provençale,69 Rue de Paris,0189846837,https://www.arles-restaurant-60.fr,"11:30-15:00, 18:30-23:00",generated_data
+arles_resto_061,Arles,La Cuisine du Arles,43.638344,4.587056,4.2,70,€,Française,39 Rue du Centre,0665122962,https://www.arles-restaurant-61.fr,"11:30-15:00, 18:30-23:00",generated_data

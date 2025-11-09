@@ -1,0 +1,1802 @@
+city,category,name,lat,lon,osm_type,osm_id
+Nantes,museum,Musée de l'Imprimerie,47.2109738,-1.5620834,node,1620229100
+Nantes,museum,Musée d'histoire de Nantes,47.2158291,-1.5497506,node,2069132743
+Nantes,museum,Musée des Compagnons du Devoir,47.2029077,-1.5827179,node,3842660066
+Nantes,museum,Le Grenier de l'Aviation,47.2450414,-1.6079026,node,4621127944
+Nantes,museum,Boutique du Musée Dobrée,47.2120054,-1.5664649,node,11958590605
+Nantes,museum,Maison des Hommes et des techniques,47.2056874,-1.5659688,node,13065426032
+Nantes,museum,Musée Jules Verne,47.2016227,-1.5773626,way,32488519
+Nantes,museum,Maillé-Brézé,47.2067047,-1.5716645,way,97962232
+Nantes,museum,Musée d'arts de Nantes,47.2194988,-1.5476802,way,142523574
+Nantes,museum,Musée Dobrée,47.2123785,-1.5664028,way,340679503
+Nantes,museum,Le Chronographe,47.1918189,-1.5647864,way,454524397
+Nantes,museum,Maison de l'Erdre,47.2261668,-1.5543272,relation,1162754
+Nantes,museum,Muséum d'Histoire Naturelle,47.2125867,-1.5647898,relation,6742735
+Nantes,park,Tracté,47.1959182,-1.5421743,node,880867518
+Nantes,park,Parc en 8,47.2605055,-1.4904021,node,1575722780
+Nantes,park,Sans nom,47.2164541,-1.5504769,node,1860911579
+Nantes,park,Le Parc des Chantiers,47.2054878,-1.5669524,node,2924619262
+Nantes,park,tyrolienne,47.2228342,-1.5874366,node,11568611590
+Nantes,park,banc,47.2168012,-1.5943242,node,11587098616
+Nantes,park,Square Félix Faure,47.2308731,-1.5686207,node,12147544530
+Nantes,park,Square Élisa-Mercœur,47.2147936,-1.5497477,node,12285231216
+Nantes,park,Jardin de la Pergola,47.2403502,-1.5198406,node,12484760657
+Nantes,park,Espace de plein air de Port-Barbe,47.2644236,-1.5403703,node,12817474326
+Nantes,park,Square de la Délivrance,47.2109078,-1.5241269,way,25025464
+Nantes,park,Square de la Bourse,47.2124191,-1.5589374,way,26686312
+Nantes,park,Sans nom,47.2534697,-1.4931525,way,26763847
+Nantes,park,Parc du Grand Blottereau,47.2275561,-1.5082965,way,27532467
+Nantes,park,Square des Maraîches,47.2461859,-1.5161177,way,27590530
+Nantes,park,Parc de la Gaudinière,47.244413,-1.5794575,way,27872598
+Nantes,park,Parc de Procé,47.2242322,-1.5814981,way,27872767
+Nantes,park,Parc de la Noé-Mitrie,47.2276062,-1.5267641,way,28675114
+Nantes,park,Parc floral de la Beaujoire - La Roseraie,47.262572,-1.5324518,way,28675117
+Nantes,park,Square Faustin Hélie,47.218058,-1.5634457,way,28687799
+Nantes,park,Place du Zénith,47.2687866,-1.5168129,way,28690588
+Nantes,park,Jardin du Nadir,47.2669737,-1.518997,way,28690598
+Nantes,park,Parc Paul Allain,47.1834014,-1.5618579,way,29261545
+Nantes,park,Parc Potager de la Crapaudine,47.1909882,-1.5305225,way,30019443
+Nantes,park,Sans nom,47.2057873,-1.5018148,way,30333472
+Nantes,park,Prairie Humide des Rives de Sèvre,47.1882593,-1.5378125,way,30688018
+Nantes,park,Parc de la Carterie,47.1861544,-1.5494059,way,31694324
+Nantes,park,Sans nom,47.1844435,-1.5573851,way,31790055
+Nantes,park,Parc des Capucins,47.2247352,-1.5624089,way,32137215
+Nantes,park,Parc de la Balinière,47.1830523,-1.5527503,way,32204449
+Nantes,park,Square Amiral Halgan,47.2174322,-1.5544778,way,32432122
+Nantes,park,Square Marcel Moisan,47.202086,-1.5773483,way,32488527
+Nantes,park,Square Commandant Lacroix,47.2035805,-1.5759207,way,32488529
+Nantes,park,Square Charles Richard,47.1825708,-1.5541222,way,32514028
+Nantes,park,Square Marcel Launay,47.2036764,-1.5359278,way,32565786
+Nantes,park,Sans nom,47.1979047,-1.4907044,way,33715638
+Nantes,park,Square Jean Moulin,47.2072416,-1.4868115,way,34182182
+Nantes,park,Square Toussaint Louverture,47.1948922,-1.6156791,way,34788406
+Nantes,park,Cours Hermeland,47.2158993,-1.631289,way,41709674
+Nantes,park,Parc du Chassay,47.2473972,-1.4845187,way,43086701
+Nantes,park,Parc de la Roche,47.2182441,-1.5181258,way,44459730
+Nantes,park,Square Jean Le Gigant,47.2041456,-1.5931412,way,44782327
+Nantes,park,Sans nom,47.2178222,-1.5752207,way,44865666
+Nantes,park,Sans nom,47.2210709,-1.5789568,way,44866149
+Nantes,park,Square de la Marseillaise,47.2077282,-1.5920561,way,44866258
+Nantes,park,Parc de la Boucardière,47.2011749,-1.5980288,way,44936824
+Nantes,park,Jardin de la Psalette,47.217844,-1.5498074,way,45069646
+Nantes,park,Sans nom,47.2232765,-1.5451925,way,45335117
+Nantes,park,Square du Bois de la Musse,47.204701,-1.6104601,way,45461647
+Nantes,park,Square Maurice Schwob,47.2010236,-1.5807453,way,45753477
+Nantes,park,Sans nom,47.2101708,-1.5912806,way,46694787
+Nantes,park,Sans nom,47.2187174,-1.6077014,way,47573935
+Nantes,park,Square Louis Feuillade,47.2305281,-1.5855238,way,48514988
+Nantes,park,Jardin des Nectars,47.2380451,-1.582598,way,48541111
+Nantes,park,Sans nom,47.2287447,-1.5660665,way,48544794
+Nantes,park,Square Gaston Michel,47.2349976,-1.5714506,way,49157631
+Nantes,park,Sans nom,47.2331283,-1.5744931,way,49158883
+Nantes,park,Sans nom,47.2097637,-1.6136386,way,49455905
+Nantes,park,Square Vertais,47.2023399,-1.5466188,way,51144728
+Nantes,park,Sans nom,47.2210298,-1.6173241,way,51856621
+Nantes,park,Sans nom,47.2229677,-1.6183873,way,51858190
+Nantes,park,Parc du Clos Fleuri,47.208617,-1.6153913,way,51863315
+Nantes,park,Sans nom,47.2065803,-1.6143007,way,51863316
+Nantes,park,Square des Combattants d'Afrique du Nord,47.2092047,-1.5707858,way,52128123
+Nantes,park,Sans nom,47.1835882,-1.5433599,way,53215996
+Nantes,park,Square Pilleux,47.2076208,-1.5804149,way,60315659
+Nantes,park,Sans nom,47.2071081,-1.5809348,way,75391098
+Nantes,park,Place Général Mellinet,47.2113499,-1.5763704,way,76937576
+Nantes,park,Square de l'Édit de Nantes,47.2143526,-1.5676865,way,76938568
+Nantes,park,Square Célestin Freinet,47.1815159,-1.5899753,way,93361436
+Nantes,park,Sans nom,47.2096648,-1.5161122,way,97402367
+Nantes,park,Sans nom,47.2110495,-1.5122827,way,97402386
+Nantes,park,Sans nom,47.2071878,-1.5613744,way,104559386
+Nantes,park,Square Gustave Roch,47.2051507,-1.5500163,way,105303475
+Nantes,park,Sans nom,47.2134217,-1.5547159,way,105572149
+Nantes,park,Sans nom,47.213075,-1.5544169,way,105572158
+Nantes,park,Jardin des Fonderies,47.2056455,-1.5447566,way,123326455
+Nantes,park,Place Wattignies,47.203766,-1.5479995,way,123337944
+Nantes,park,Sans nom,47.2104363,-1.4998395,way,124327104
+Nantes,park,Sans nom,47.2220873,-1.5815772,way,124924509
+Nantes,park,Cours Hermeland,47.2340734,-1.618126,way,129372502
+Nantes,park,Vallée du Cens,47.24512,-1.5669652,way,132747191
+Nantes,park,Sans nom,47.2477466,-1.5794314,way,132751969
+Nantes,park,Vallée du Cens,47.2559143,-1.5898513,way,132752783
+Nantes,park,Square du Maquis-de-Saffré,47.2220495,-1.5519139,way,134926989
+Nantes,park,Parc de Bottière-Chenaie,47.2422307,-1.5147844,way,138624001
+Nantes,park,Sans nom,47.2369709,-1.6395314,way,138800943
+Nantes,park,Jardin des Plantes,47.2197389,-1.5429424,way,142340626
+Nantes,park,Square Jean-Baptiste Daviais,47.2119529,-1.5577861,way,142942404
+Nantes,park,Square Docteur Louis Bureau,47.2129702,-1.5650764,way,142974671
+Nantes,park,Sans nom,47.2133091,-1.5722352,way,142978124
+Nantes,park,Île de Versailles,47.2259546,-1.5543957,way,143298187
+Nantes,park,Square du 1er Mai,47.2227187,-1.6031487,way,143828934
+Nantes,park,Parc de la Chantrerie,47.2895164,-1.5257808,way,143998037
+Nantes,park,Parc du Plessis Tison,47.2349255,-1.5361383,way,147426758
+Nantes,park,Sans nom,47.2143782,-1.5744765,way,153474159
+Nantes,park,Square de la Hunaudais,47.2101684,-1.5855477,way,154266124
+Nantes,park,Square des Courtils,47.2007081,-1.5930883,way,154511024
+Nantes,park,Parc de la META,47.2027401,-1.6065957,way,155425371
+Nantes,park,Parc du Clos Saint-Julien,47.183801,-1.5819311,way,155517632
+Nantes,park,Jardin Confluent,47.1966689,-1.544989,way,155868494
+Nantes,park,Sans nom,47.2176273,-1.5961975,way,159920314
+Nantes,park,Sans nom,47.2202393,-1.6192444,way,165484938
+Nantes,park,Square du Lait de Mai,47.2120595,-1.5482942,way,170507364
+Nantes,park,Sans nom,47.2094704,-1.5301232,way,178757066
+Nantes,park,Square Jacques de Bollardière,47.2092744,-1.5294904,way,178757102
+Nantes,park,Sans nom,47.2110964,-1.5322422,way,178757712
+Nantes,park,Parc naturel de Beaulieu,47.2113163,-1.52138,way,178757713
+Nantes,park,Square du Cosmos,47.2615423,-1.6316271,way,187919525
+Nantes,park,Sans nom,47.2621946,-1.6308864,way,187919582
+Nantes,park,Parc de Dundalk,47.1897735,-1.5783268,way,222047272
+Nantes,park,Promenade Villa El Salvador,47.1918733,-1.5618549,way,222047277
+Nantes,park,Parc des Mahaudières - Jacques Floch,47.1878335,-1.5613959,way,223851732
+Nantes,park,Parc de Broussais,47.2266083,-1.5217664,way,224753517
+Nantes,park,Sans nom,47.1811751,-1.572179,way,235118902
+Nantes,park,"Le Caillou, Friche évoltuve",47.1992472,-1.5826997,way,239926174
+Nantes,park,Parc de la Gournerie,47.2500152,-1.6366173,way,241011956
+Nantes,park,Parc de la Moutonnerie,47.2210939,-1.5330552,way,244168581
+Nantes,park,Sans nom,47.1815875,-1.5648763,way,245050399
+Nantes,park,Terrain de la Grève,47.1926009,-1.5861611,way,248904151
+Nantes,park,Sans nom,47.2491157,-1.492706,way,266435156
+Nantes,park,Sans nom,47.2453701,-1.4826166,way,266617002
+Nantes,park,Sans nom,47.1809278,-1.5824369,way,278218390
+Nantes,park,Parc de Botière-Chenaie,47.2394552,-1.5097449,way,280168233
+Nantes,park,Jardin du Réservoir,47.2414103,-1.509685,way,280168375
+Nantes,park,Sans nom,47.2152332,-1.5245493,way,283482292
+Nantes,park,La Carrière,47.2107067,-1.6346004,way,307005974
+Nantes,park,Square Benoni Goullin,47.2022219,-1.5514153,way,308850469
+Nantes,park,Square de l'Embellie,47.2668793,-1.5162146,way,316553938
+Nantes,park,Sans nom,47.2044561,-1.5129321,way,323468985
+Nantes,park,Square Jules Bréchoir,47.225244,-1.5225584,way,329302214
+Nantes,park,Square Jean-Baptiste Barré,47.2226029,-1.5275799,way,329302217
+Nantes,park,Square Saint-François,47.2182246,-1.5454758,way,329302222
+Nantes,park,Sans nom,47.2478429,-1.5175476,way,331996088
+Nantes,park,Sans nom,47.2241447,-1.5400433,way,332003238
+Nantes,park,Sans nom,47.2391257,-1.5147161,way,339166632
+Nantes,park,Parc des Oblates,47.1998907,-1.5853874,way,360115625
+Nantes,park,Square Marcel Renaud,47.2036962,-1.5120388,way,375833869
+Nantes,park,Sans nom,47.2402307,-1.5197905,way,380256915
+Nantes,park,Sans nom,47.1940735,-1.5773266,way,382742205
+Nantes,park,Sans nom,47.2717569,-1.5990804,way,385032378
+Nantes,park,Sans nom,47.2677603,-1.5972983,way,385034080
+Nantes,park,Sans nom,47.2705489,-1.5987208,way,385036344
+Nantes,park,Square Abbé Derideau,47.2360549,-1.5034958,way,391968111
+Nantes,park,Jardin Sainte-Croix,47.2151881,-1.5539727,way,396687978
+Nantes,park,Parc de l'Amande,47.2629805,-1.5725308,way,399064135
+Nantes,park,Sans nom,47.2165414,-1.5226032,way,415869910
+Nantes,park,Square de la Cadranière,47.2739816,-1.4905935,way,434757083
+Nantes,park,Sans nom,47.2824688,-1.4860478,way,436944617
+Nantes,park,Parc de la Savèze,47.2433318,-1.6119104,way,445174987
+Nantes,park,Square Commandant Aubin,47.2018484,-1.5768257,way,453109527
+Nantes,park,Sans nom,47.2310076,-1.553294,way,461608384
+Nantes,park,Sans nom,47.2161805,-1.5462499,way,473425858
+Nantes,park,Sans nom,47.2122215,-1.5451892,way,484684546
+Nantes,park,Cours Cathuis,47.2225983,-1.5635012,way,492684176
+Nantes,park,Square Étienne Destranges,47.2191864,-1.5636947,way,498595558
+Nantes,park,Sans nom,47.194641,-1.5240137,way,500256783
+Nantes,park,Sans nom,47.255466,-1.5643052,way,502081750
+Nantes,park,Sans nom,47.2583614,-1.5678892,way,502297568
+Nantes,park,Sans nom,47.2303363,-1.5609974,way,512601506
+Nantes,park,Sans nom,47.2033239,-1.5468148,way,532784004
+Nantes,park,Sans nom,47.2272484,-1.6126215,way,538961622
+Nantes,park,Sans nom,47.2262639,-1.612577,way,538961806
+Nantes,park,Square Pascal Lebée,47.2161112,-1.5634235,way,543165893
+Nantes,park,Parc de l'édifice en ruine,47.2684969,-1.5227013,way,552177375
+Nantes,park,Parc du Manoir,47.2737061,-1.5215329,way,552177789
+Nantes,park,Square René Guy Cadou,47.2561963,-1.5687498,way,554487153
+Nantes,park,Square Augustin Fresnel,47.2428005,-1.5229247,way,560753607
+Nantes,park,Square de la Pilotière,47.2450248,-1.5242995,way,560754248
+Nantes,park,Parc du petit Port,47.2469299,-1.5584353,way,562022651
+Nantes,park,Maison Richy,47.1841819,-1.5938625,way,590278610
+Nantes,park,Parc du Jamet,47.2075428,-1.6061493,way,603511611
+Nantes,park,Square Barbara,47.2660623,-1.5230968,way,616961431
+Nantes,park,Sans nom,47.2010981,-1.5451839,way,675280683
+Nantes,park,Sans nom,47.2044252,-1.5679055,way,675815024
+Nantes,park,Jardin Say,47.212516,-1.5685411,way,679104171
+Nantes,park,Sans nom,47.1969184,-1.5425851,way,701844803
+Nantes,park,Sans nom,47.2005968,-1.5447945,way,701844805
+Nantes,park,Sans nom,47.200626,-1.5435971,way,701844806
+Nantes,park,Sans nom,47.2012905,-1.5442709,way,701844807
+Nantes,park,Sans nom,47.2002483,-1.5447423,way,701891153
+Nantes,park,Bois de l'avenir,47.2685609,-1.6217849,way,702220300
+Nantes,park,"Square Jacques Lambert, Théâtre de verdure",47.2700427,-1.622929,way,702224746
+Nantes,park,Sans nom,47.1816725,-1.5588069,way,706336349
+Nantes,park,Sans nom,47.2088669,-1.5433543,way,742805952
+Nantes,park,Sans nom,47.2101075,-1.5935347,way,745052455
+Nantes,park,Sans nom,47.2359527,-1.6015242,way,790829511
+Nantes,park,Square Louis Pergaud,47.268618,-1.518739,way,797001075
+Nantes,park,Square du Grand Pâtis,47.2713785,-1.5227978,way,797001078
+Nantes,park,Promenade des Renards,47.2576892,-1.5609649,way,797045649
+Nantes,park,Parc urbain de La Petite Sensive,47.2609429,-1.5645392,way,797045650
+Nantes,park,Square Proust Bergson,47.2544016,-1.5707712,way,797045651
+Nantes,park,Square du Vieux Parc de Sèvre,47.1829111,-1.5197798,way,797142797
+Nantes,park,Parc Méliès,47.2318552,-1.5820079,way,831780873
+Nantes,park,Sans nom,47.2160456,-1.5458881,way,842700464
+Nantes,park,Parc Michel-Baudry,47.2483169,-1.5852665,way,863409934
+Nantes,park,Sans nom,47.2090262,-1.5862953,way,874707981
+Nantes,park,La coulée verte,47.251351,-1.5997641,way,893714888
+Nantes,park,Sans nom,47.2603575,-1.4898144,way,917535180
+Nantes,park,Sans nom,47.2082228,-1.5356333,way,920460086
+Nantes,park,Sans nom,47.2676336,-1.5138696,way,934535012
+Nantes,park,Parc Gesvrine,47.2705626,-1.5537368,way,941972333
+Nantes,park,Prairie,47.2230764,-1.5878948,way,948057262
+Nantes,park,Parc de Chavagnes,47.2173382,-1.5710502,way,949836371
+Nantes,park,Sans nom,47.2866493,-1.5511782,way,953550608
+Nantes,park,Sans nom,47.2834835,-1.516759,way,1015422475
+Nantes,park,Sans nom,47.2520814,-1.5450622,way,1046563284
+Nantes,park,Jardin de la cale Aubin,47.1964993,-1.5695088,way,1077112774
+Nantes,park,Sans nom,47.2715027,-1.618006,way,1080008096
+Nantes,park,Sans nom,47.2351688,-1.6316336,way,1116638843
+Nantes,park,Sans nom,47.2047953,-1.5458389,way,1168575351
+Nantes,park,Sans nom,47.2601688,-1.6355403,way,1194062392
+Nantes,park,Parc de la cale de Beautour,47.1799819,-1.5127983,way,1233529601
+Nantes,park,Sans nom,47.2136989,-1.570015,way,1244521149
+Nantes,park,Sans nom,47.2419141,-1.5707826,way,1245781170
+Nantes,park,Sans nom,47.2170206,-1.5344768,way,1259367997
+Nantes,park,Sans nom,47.2231404,-1.5420488,way,1286615395
+Nantes,park,Jardin nord,47.2128199,-1.5665303,way,1289672452
+Nantes,park,Square Germaine Tillion,47.2675317,-1.510627,way,1300428877
+Nantes,park,Square du Couchant,47.269072,-1.5135907,way,1300439956
+Nantes,park,Square des Grands Pâtis,47.2699325,-1.519777,way,1300439969
+Nantes,park,Square du Champ de Tir,47.2609951,-1.5120328,way,1300439975
+Nantes,park,Square du Clos Toreau,47.1953879,-1.5285942,way,1300451675
+Nantes,park,Square Église de La Madeleine,47.2051213,-1.5486895,way,1300458172
+Nantes,park,Parc du Chêne des Anglais,47.2598878,-1.5731081,way,1300474460
+Nantes,park,Parc du Bout des Pavés,47.2604152,-1.5781622,way,1300475360
+Nantes,park,Sans nom,47.2024002,-1.5525712,way,1302848661
+Nantes,park,Square Jean-Baptiste Terrien,47.1848573,-1.5504672,way,1304268980
+Nantes,park,Square de l'ancienne école des Beaux-Arts,47.2170288,-1.5538935,way,1312231279
+Nantes,park,Sans nom,47.2299287,-1.613509,way,1314627822
+Nantes,park,Sans nom,47.2292894,-1.6120572,way,1314627834
+Nantes,park,Jardin de la Persagotière,47.1918933,-1.5379617,way,1315995117
+Nantes,park,Sans nom,47.2624189,-1.5462583,way,1317369821
+Nantes,park,Square Marie-Madeleine Fourcade,47.263246,-1.5188629,way,1323129533
+Nantes,park,Sans nom,47.2443307,-1.4976692,way,1323661227
+Nantes,park,Parc de la Verdure,47.2431987,-1.4868118,way,1323692534
+Nantes,park,Sans nom,47.1809098,-1.5264503,way,1327956739
+Nantes,park,Sans nom,47.1841946,-1.5071064,way,1328198772
+Nantes,park,Sans nom,47.1936616,-1.5858181,way,1330917279
+Nantes,park,Sans nom,47.1933888,-1.5331359,way,1332888657
+Nantes,park,parc,47.2775934,-1.5083467,way,1340072888
+Nantes,park,Square de la Grande Garenne,47.2412373,-1.522878,way,1349586529
+Nantes,park,Parc du Chateau de la Tour,47.2890097,-1.6245652,way,1356656328
+Nantes,park,Sans nom,47.2417909,-1.5715647,way,1410365144
+Nantes,park,Sans nom,47.2419465,-1.5713102,way,1410365145
+Nantes,park,Sans nom,47.2752092,-1.4854364,way,1418425815
+Nantes,park,Sans nom,47.2230345,-1.5447148,relation,341506
+Nantes,park,Parc de la Chézine,47.2305379,-1.6000493,relation,1422336
+Nantes,park,Jardin des Douves du château,47.216175,-1.5492557,relation,1934437
+Nantes,park,Parc du Clos Saint-Julien,47.183801,-1.5819311,relation,2088222
+Nantes,park,Cours Cambronne,47.2119526,-1.5631755,relation,7910688
+Nantes,park,Parc de la Morinière,47.1836608,-1.5334407,relation,9764133
+Nantes,park,Parc de La Maison Radieuse,47.1879712,-1.568806,relation,12695921
+Nantes,park,Sans nom,47.2162145,-1.5481179,relation,16562052
+Nantes,park,Le Jardin extraordinaire,47.2006651,-1.5801797,relation,19707125
+Nantes,restaurant,Le Comptoir De Jules,47.240885,-1.5298595,node,313903419
+Nantes,restaurant,Crêperie Sainte-Croix,47.2155159,-1.553731,node,330856098
+Nantes,restaurant,La Cantine du Curé,47.2155274,-1.5540486,node,330856099
+Nantes,restaurant,Au Soleil Levant,47.2156525,-1.5531449,node,330856101
+Nantes,restaurant,Le Tokyo,47.2156313,-1.5532312,node,330856103
+Nantes,restaurant,Oléa,47.2156137,-1.5533042,node,330856106
+Nantes,restaurant,"Le loup, le renard et la galette",47.2154723,-1.5534274,node,330856110
+Nantes,restaurant,Pomme Bûche,47.2156598,-1.5527325,node,364666007
+Nantes,restaurant,The red & luna,47.2156176,-1.5528782,node,364666016
+Nantes,restaurant,La Reine Margot,47.21569,-1.5530088,node,364666028
+Nantes,restaurant,Au Vieux Quimper,47.2152744,-1.5533013,node,364666045
+Nantes,restaurant,Fleur de Sel,47.2151312,-1.5533027,node,364666049
+Nantes,restaurant,Glasgow Burgers,47.2150876,-1.5525801,node,364666051
+Nantes,restaurant,La Taverne Royale,47.2145886,-1.5579516,node,364987052
+Nantes,restaurant,La Loco,47.2167002,-1.5467755,node,372558152
+Nantes,restaurant,Squadra,47.2008305,-1.573476,node,373218470
+Nantes,restaurant,Le Soleil,47.2138744,-1.5536711,node,373236991
+Nantes,restaurant,La Vache Nantaise,47.213618,-1.5534618,node,373236994
+Nantes,restaurant,Chacha,47.2147524,-1.5548521,node,475385271
+Nantes,restaurant,Mia Nonna - Le Clan des Mamma,47.2148919,-1.5554715,node,476294588
+Nantes,restaurant,Les Fils à Maman,47.2149265,-1.5553566,node,476294589
+Nantes,restaurant,Shaan Tandoori,47.2149559,-1.5552494,node,476294590
+Nantes,restaurant,Le Concorde,47.1905865,-1.4923284,node,493423124
+Nantes,restaurant,Boitbrütt & Krêptar,47.2134959,-1.5533734,node,546638406
+Nantes,restaurant,Lucciola Trattoria,47.215003,-1.5531827,node,564344808
+Nantes,restaurant,Le Peloton,47.2142289,-1.5486683,node,610234171
+Nantes,restaurant,à boire & à manger,47.2071714,-1.589123,node,652826823
+Nantes,restaurant,L'Océanide,47.2207018,-1.5550616,node,669163067
+Nantes,restaurant,Moulerie Brûle-Doigts,47.2155348,-1.5538359,node,713533411
+Nantes,restaurant,Oyster Oyster,47.2143716,-1.5720276,node,983877196
+Nantes,restaurant,Alfred,47.2121335,-1.5727894,node,983877607
+Nantes,restaurant,Amour de Pomme de terre,47.2158219,-1.5551613,node,1086977649
+Nantes,restaurant,Le Paradis du Fruit,47.2136277,-1.554595,node,1086977676
+Nantes,restaurant,Malis,47.220863,-1.548473,node,1087252890
+Nantes,restaurant,Casa Cruz,47.2208248,-1.5485148,node,1087252943
+Nantes,restaurant,La Cigale,47.2127612,-1.56211,node,1087294278
+Nantes,restaurant,Le Four a Pizza,47.2465335,-1.5899717,node,1106929194
+Nantes,restaurant,Boncoeur pizza,47.2020303,-1.5791231,node,1123194807
+Nantes,restaurant,Royal Punjab,47.2437579,-1.6060553,node,1149024700
+Nantes,restaurant,Macoha,47.2076616,-1.5585272,node,1168418831
+Nantes,restaurant,Pîcòta,47.2055961,-1.5567015,node,1168418886
+Nantes,restaurant,Baladna,47.2079352,-1.5709595,node,1219194920
+Nantes,restaurant,Le Saigon,47.2084873,-1.5694421,node,1219194921
+Nantes,restaurant,Le Joséphine B.,47.2079676,-1.5708791,node,1219194923
+Nantes,restaurant,Le Red Butcher,47.2082673,-1.5700475,node,1219194926
+Nantes,restaurant,Au Comptoir D'Asie,47.2082096,-1.5702078,node,1219194933
+Nantes,restaurant,La Fossette,47.2083962,-1.5697009,node,1219194934
+Nantes,restaurant,Chez Ta Mère,47.2083795,-1.5740301,node,1219194936
+Nantes,restaurant,Kikko Sushi,47.2084199,-1.5696298,node,1219194941
+Nantes,restaurant,L'Industrie,47.2098709,-1.5707593,node,1219589856
+Nantes,restaurant,Bouillon Gloriette,47.2116171,-1.5602136,node,1226122306
+Nantes,restaurant,Pizza Hut,47.2097402,-1.5653394,node,1226122333
+Nantes,restaurant,Les Pâtes Express,47.2099689,-1.5645691,node,1226122338
+Nantes,restaurant,Aspendos,47.2105915,-1.5628204,node,1226122357
+Nantes,restaurant,New Vietnam Express,47.2118605,-1.5597286,node,1226127578
+Nantes,restaurant,Lumberjack Pizza,47.2119465,-1.559646,node,1226127579
+Nantes,restaurant,Le Grapillon,47.2135789,-1.5653901,node,1336589648
+Nantes,restaurant,La Civelle,47.1948709,-1.5830026,node,1373475919
+Nantes,restaurant,Poussin Rouge,47.1951811,-1.5811775,node,1373475921
+Nantes,restaurant,Le Vaporetto,47.195116,-1.5804976,node,1373475922
+Nantes,restaurant,Les Fonderies,47.205901,-1.5453502,node,1375766610
+Nantes,restaurant,Bar Brasserie du Marché,47.2076767,-1.5060733,node,1381642765
+Nantes,restaurant,Casanova,47.1918147,-1.5463737,node,1398758881
+Nantes,restaurant,Traiteur Spécialité Asiatique,47.191729,-1.5464212,node,1398758943
+Nantes,restaurant,Taj Mahal,47.214622,-1.5591877,node,1400085371
+Nantes,restaurant,Casa Nostra,47.2140411,-1.5626735,node,1400085372
+Nantes,restaurant,Le Reflet,47.2168474,-1.5548065,node,1456964942
+Nantes,restaurant,L'Entrecôte,47.2139308,-1.556907,node,1503727811
+Nantes,restaurant,bar restaurant du moulin,47.1822678,-1.585852,node,1550975094
+Nantes,restaurant,Ici,47.2187791,-1.5554362,node,1573881109
+Nantes,restaurant,Restaurant Ferveur,47.2088703,-1.5032042,node,1576855891
+Nantes,restaurant,CARA,47.2099885,-1.5018804,node,1576855896
+Nantes,restaurant,La Pasta,47.2172072,-1.5554742,node,1578180375
+Nantes,restaurant,Minari,47.2199887,-1.5322322,node,1619037671
+Nantes,restaurant,Frais et Dispo,47.2213084,-1.5477864,node,1619953947
+Nantes,restaurant,Les Glycines,47.2365091,-1.5635933,node,1648449729
+Nantes,restaurant,TerraVega,47.2109857,-1.5492557,node,1651714593
+Nantes,restaurant,Les Filles du Marronnier,47.2347228,-1.563535,node,1651870723
+Nantes,restaurant,Bistro du Vélo,47.1899517,-1.5472413,node,1657189643
+Nantes,restaurant,Zac Burger,47.2092073,-1.5714779,node,1665110744
+Nantes,restaurant,La Marmite,47.1946346,-1.617449,node,1667462365
+Nantes,restaurant,La cuisine Barnabé,47.1965447,-1.6182644,node,1667463235
+Nantes,restaurant,Moïa,47.2299947,-1.6280003,node,1826097691
+Nantes,restaurant,L'amour des mets,47.2715817,-1.6224448,node,1832096087
+Nantes,restaurant,Sen's,47.2155377,-1.5538961,node,1834101917
+Nantes,restaurant,La Mangouste,47.2121798,-1.5468426,node,1904435451
+Nantes,restaurant,Basilic & Co,47.23393,-1.5355345,node,1926775691
+Nantes,restaurant,Le Melting Potes,47.205092,-1.5577688,node,1927695225
+Nantes,restaurant,La Cave du Lion d'Or,47.1901847,-1.5198938,node,1941959031
+Nantes,restaurant,Le Canclaux,47.2145341,-1.5751845,node,1950321351
+Nantes,restaurant,Aux Plaisirs d'Antan,47.2543076,-1.617266,node,1982850564
+Nantes,restaurant,Le Pavillon,47.2523285,-1.6256256,node,1984274125
+Nantes,restaurant,Le Chalet de mon Père,47.2534301,-1.6269617,node,1984274174
+Nantes,restaurant,BRAISE,47.2500908,-1.6193703,node,2015256792
+Nantes,restaurant,Le transition,47.2184711,-1.5656076,node,2030052171
+Nantes,restaurant,La Mise en Bouche,47.1812219,-1.5938996,node,2041967639
+Nantes,restaurant,Tire-Fesses Bouguenais,47.1858267,-1.5967964,node,2041972598
+Nantes,restaurant,Le Malala,47.2244829,-1.6261593,node,2144376836
+Nantes,restaurant,Vanola,47.2173858,-1.5462666,node,2150501630
+Nantes,restaurant,Graziella,47.2169386,-1.5553852,node,2207039479
+Nantes,restaurant,Chop Chop,47.2169273,-1.5555622,node,2207039483
+Nantes,restaurant,L'Instinct Gourmand,47.2172782,-1.5554946,node,2207053076
+Nantes,restaurant,Le Bouchon,47.2171042,-1.5551286,node,2207057197
+Nantes,restaurant,Inde et Vous Bindi,47.2168519,-1.556245,node,2207089599
+Nantes,restaurant,Le Coin des Crêpes,47.216629,-1.5562492,node,2207089601
+Nantes,restaurant,Kusadasi,47.2167026,-1.5562471,node,2207089602
+Nantes,restaurant,Kenji & Louise,47.2179441,-1.5562372,node,2242868396
+Nantes,restaurant,Inde et vous,47.2193349,-1.5557498,node,2242868398
+Nantes,restaurant,Suraj,47.2194684,-1.5555438,node,2242868400
+Nantes,restaurant,Le Coq en Pâte,47.2184133,-1.5568038,node,2242868404
+Nantes,restaurant,Panier d'Or,47.2180474,-1.5563952,node,2242868408
+Nantes,restaurant,Pizzéria Pinocchio,47.2180816,-1.5555548,node,2242868412
+Nantes,restaurant,Youna,47.2178672,-1.5567832,node,2242868414
+Nantes,restaurant,L'Agave,47.2190719,-1.5552606,node,2242868415
+Nantes,restaurant,Chaiyo,47.2175328,-1.5564098,node,2247287530
+Nantes,restaurant,Tabl'o Gourmand,47.2174444,-1.5567052,node,2247287568
+Nantes,restaurant,Les Facultés,47.2484496,-1.5519268,node,2250385077
+Nantes,restaurant,La Souris d'Agneau,47.2172215,-1.5539096,node,2255914981
+Nantes,restaurant,Mugen ramen,47.2171405,-1.5543102,node,2255914984
+Nantes,restaurant,Thé & Riz,47.216489,-1.5552546,node,2258874086
+Nantes,restaurant,La Vespa des Carmes,47.2160351,-1.5552151,node,2260735421
+Nantes,restaurant,La Vespa des Carmes,47.2159508,-1.5551972,node,2260735453
+Nantes,restaurant,Art'N Blum,47.2192504,-1.5548915,node,2267169801
+Nantes,restaurant,Oneul,47.2193854,-1.5547636,node,2267169807
+Nantes,restaurant,Le 17.45,47.21725,-1.5532084,node,2272012196
+Nantes,restaurant,Sources,47.2168813,-1.5525904,node,2272012201
+Nantes,restaurant,Pizzeria Dell'Etna,47.2170919,-1.553172,node,2272012231
+Nantes,restaurant,Bouillon de la Paix,47.2148653,-1.5543898,node,2283200169
+Nantes,restaurant,Nantes Asie,47.2149585,-1.553919,node,2295606810
+Nantes,restaurant,La Jonque,47.2203969,-1.5350112,node,2316311804
+Nantes,restaurant,Mai Lan,47.220738,-1.5353109,node,2316311812
+Nantes,restaurant,La belle équipe 1877,47.2535687,-1.5405156,node,2318616739
+Nantes,restaurant,La Crêperie du Bouffay,47.2154095,-1.5525085,node,2320466557
+Nantes,restaurant,Barapom,47.2154948,-1.553339,node,2320466563
+Nantes,restaurant,Quê me,47.2155323,-1.5531923,node,2320466564
+Nantes,restaurant,Au Village d'Asie,47.2151431,-1.55243,node,2320501678
+Nantes,restaurant,Solita Traiteur,47.2150532,-1.5526764,node,2320501679
+Nantes,restaurant,Asie Neptune,47.2138381,-1.5536445,node,2348410044
+Nantes,restaurant,Le Bombay,47.2134837,-1.5541658,node,2348410048
+Nantes,restaurant,Tierra Maya,47.2135502,-1.5540041,node,2348410051
+Nantes,restaurant,Pho Minh,47.213643,-1.5530574,node,2348410053
+Nantes,restaurant,Comptoir à Poutine,47.2139319,-1.5532915,node,2348410054
+Nantes,restaurant,The Frenchie,47.213649,-1.5537502,node,2348410060
+Nantes,restaurant,Lê Bö Vins,47.2151613,-1.5522691,node,2377187875
+Nantes,restaurant,La Blanche Hermine,47.215604,-1.5523827,node,2377254035
+Nantes,restaurant,La Cabane,47.2155407,-1.5523748,node,2377254036
+Nantes,restaurant,Lazzarone,47.2157382,-1.5519464,node,2377254039
+Nantes,restaurant,Le Temple du Ciel,47.2157355,-1.5522142,node,2377254040
+Nantes,restaurant,Asahi,47.2158647,-1.5525137,node,2377418388
+Nantes,restaurant,Le Gandhi,47.2158346,-1.5518747,node,2377418395
+Nantes,restaurant,Le Patio,47.2159024,-1.5521125,node,2377418401
+Nantes,restaurant,Le Cochon qui fume,47.2163525,-1.5517123,node,2393205120
+Nantes,restaurant,Gochu,47.2163176,-1.552012,node,2393205121
+Nantes,restaurant,My Little Warung,47.2163287,-1.5519145,node,2393205123
+Nantes,restaurant,Dînette,47.2162797,-1.5521914,node,2393205127
+Nantes,restaurant,Le Select,47.2162284,-1.552573,node,2393205133
+Nantes,restaurant,San Marco,47.2162611,-1.552291,node,2393205134
+Nantes,restaurant,Thénardier,47.2150343,-1.5549896,node,2403552010
+Nantes,restaurant,La Tomate,47.2143002,-1.5547727,node,2403889676
+Nantes,restaurant,Poutinebros,47.2142469,-1.5550105,node,2403889704
+Nantes,restaurant,Evet,47.2125209,-1.5521353,node,2406178541
+Nantes,restaurant,Sarrasin & Co,47.2184939,-1.5640476,node,2422376687
+Nantes,restaurant,Délices du monde,47.2221772,-1.6272195,node,2423056722
+Nantes,restaurant,Les Chants d'Avril,47.2124631,-1.5481446,node,2429079911
+Nantes,restaurant,Paola,47.207579,-1.5641153,node,2434544469
+Nantes,restaurant,L'Écureuil,47.2073935,-1.5645533,node,2434544470
+Nantes,restaurant,L'arrosoir,47.2048776,-1.559822,node,2434988579
+Nantes,restaurant,magnum,47.2048608,-1.5599976,node,2436950982
+Nantes,restaurant,Aux Saveurs des Indes,47.2204021,-1.5489768,node,2471212283
+Nantes,restaurant,Le Voyage à Damas,47.2210511,-1.5480512,node,2471212307
+Nantes,restaurant,La Broche,47.2206105,-1.5485334,node,2471212323
+Nantes,restaurant,L'Éphémère,47.2203407,-1.5488154,node,2471212338
+Nantes,restaurant,Lebnane,47.2203498,-1.5490307,node,2471212356
+Nantes,restaurant,Baguettes Viet,47.2199841,-1.5492138,node,2471212374
+Nantes,restaurant,Hôtel-restaurant de La Marine,47.2316557,-1.6114041,node,2482538541
+Nantes,restaurant,Popolo,47.2217224,-1.5362079,node,2484974278
+Nantes,restaurant,FB Pizza,47.2195702,-1.5344925,node,2484974281
+Nantes,restaurant,Chez Maman,47.2157748,-1.5526956,node,2485095727
+Nantes,restaurant,Byblos,47.2156719,-1.5530737,node,2485095738
+Nantes,restaurant,Chez Manie Nénette,47.2157438,-1.5528193,node,2485095747
+Nantes,restaurant,Kim Restaurant,47.2157581,-1.5527592,node,2485095766
+Nantes,restaurant,Tori Ya,47.2160389,-1.5530568,node,2485095784
+Nantes,restaurant,Le Couscoussier,47.2157093,-1.5529367,node,2485095785
+Nantes,restaurant,Suko,47.2150613,-1.5379268,node,2485414297
+Nantes,restaurant,Ma Poule,47.215712,-1.5524151,node,2487952933
+Nantes,restaurant,Canaille,47.2011538,-1.5732296,node,2494953410
+Nantes,restaurant,Tartines et Bouchons,47.2217321,-1.5643811,node,2515541658
+Nantes,restaurant,Le bar île,47.2047601,-1.5484136,node,2566321611
+Nantes,restaurant,Ti Lichous,47.2065301,-1.5491501,node,2583958961
+Nantes,restaurant,Reginella,47.2042023,-1.5113247,node,2583960150
+Nantes,restaurant,La Cachette,47.2186533,-1.5521675,node,2590481067
+Nantes,restaurant,Afghan Nantes,47.2175809,-1.5515007,node,2590541964
+Nantes,restaurant,Nota Bene,47.2177117,-1.5520484,node,2590576301
+Nantes,restaurant,Lamaccotte,47.2178635,-1.5520893,node,2590576306
+Nantes,restaurant,Les Petits Saints,47.2174412,-1.5532761,node,2607723022
+Nantes,restaurant,Restaurant du Lieu Unique,47.2153845,-1.5451711,node,2692960416
+Nantes,restaurant,Le Cèdre,47.2129659,-1.5554472,node,2721478834
+Nantes,restaurant,Kaboul,47.2129302,-1.5555421,node,2721478835
+Nantes,restaurant,Royal Indien,47.2127843,-1.5555238,node,2721542550
+Nantes,restaurant,Capadocia,47.2125103,-1.5565656,node,2759300398
+Nantes,restaurant,Le 1,47.2080652,-1.5604411,node,2774568356
+Nantes,restaurant,BibimboX,47.2203721,-1.5631261,node,2774613133
+Nantes,restaurant,Solheim,47.2112804,-1.5470561,node,2781016507
+Nantes,restaurant,Maison indian food,47.1871245,-1.4819161,node,2782402777
+Nantes,restaurant,Breizh'ilienne,47.2218147,-1.5624399,node,2807078342
+Nantes,restaurant,Mauricette,47.2206081,-1.5616738,node,2844603287
+Nantes,restaurant,La Pizza,47.2236903,-1.5639399,node,2846468061
+Nantes,restaurant,Les Cadets,47.2225827,-1.563228,node,2846468062
+Nantes,restaurant,Le Jasmin,47.2224293,-1.5629218,node,2846468064
+Nantes,restaurant,Battos,47.2227269,-1.5633521,node,2846468065
+Nantes,restaurant,Les Petits Pavés,47.2240927,-1.5643731,node,2846468070
+Nantes,restaurant,Les jardins du Maroc,47.1912449,-1.4868212,node,2855466902
+Nantes,restaurant,Bar Brasserie du Village,47.2537374,-1.6187225,node,2918518001
+Nantes,restaurant,Le Pacha,47.190396,-1.5205738,node,2920329787
+Nantes,restaurant,Au Bureau,47.2077833,-1.5590681,node,2958313565
+Nantes,restaurant,Chez Louisette,47.2072134,-1.554867,node,2958320205
+Nantes,restaurant,Chez Thérèse & Denise,47.2129163,-1.5602069,node,3063082633
+Nantes,restaurant,Simone,47.2130007,-1.5608887,node,3063082634
+Nantes,restaurant,Song,47.2133362,-1.5604153,node,3063082642
+Nantes,restaurant,Au Coup d'Canon,47.2127349,-1.5608755,node,3063159678
+Nantes,restaurant,Le B,47.2128184,-1.5615359,node,3063159685
+Nantes,restaurant,Le Bouche à Oreille,47.2129432,-1.5614257,node,3063159686
+Nantes,restaurant,Le Mathurin,47.2128536,-1.5616327,node,3063159692
+Nantes,restaurant,Shalimar,47.2128954,-1.5617476,node,3063159693
+Nantes,restaurant,Le Waldeck,47.2270934,-1.5528064,node,3082194984
+Nantes,restaurant,La Lune,47.211585,-1.5519225,node,3098672648
+Nantes,restaurant,Crêperie de Brocéliande,47.214016,-1.5590013,node,3124140134
+Nantes,restaurant,Crêperie Heb Ken,47.2140497,-1.5591199,node,3124140230
+Nantes,restaurant,Atlas Oriental,47.2130135,-1.559159,node,3125795729
+Nantes,restaurant,Le Rio,47.2127965,-1.5592466,node,3125795731
+Nantes,restaurant,Tom'Wich,47.252305,-1.6244499,node,3133015249
+Nantes,restaurant,Italian Trattoria,47.2136096,-1.5580981,node,3157773369
+Nantes,restaurant,Guindaille,47.2117783,-1.546932,node,3181068868
+Nantes,restaurant,Pickles,47.2180963,-1.5557371,node,3181854175
+Nantes,restaurant,Boucan,47.2120294,-1.5468753,node,3181860670
+Nantes,restaurant,Les Bouteilles,47.2210212,-1.5591333,node,3181865950
+Nantes,restaurant,Le Coup du Lapin,47.2113966,-1.5495653,node,3210650289
+Nantes,restaurant,Bercail,47.2121005,-1.5499521,node,3210650290
+Nantes,restaurant,SUKO,47.1849986,-1.546089,node,3262998305
+Nantes,restaurant,Chez les Ducs,47.2163289,-1.5507106,node,3408784327
+Nantes,restaurant,Basilic & Co,47.2162652,-1.5513093,node,3408784328
+Nantes,restaurant,Chez ta mère,47.2167552,-1.5588007,node,3423309086
+Nantes,restaurant,Les Épices de l'Inde,47.2096626,-1.5686052,node,3453977904
+Nantes,restaurant,Imagine,47.2118598,-1.5646574,node,3458891155
+Nantes,restaurant,Hayat Casa,47.2130026,-1.5824673,node,3458901353
+Nantes,restaurant,La Gavotte,47.2114911,-1.5669665,node,3458917214
+Nantes,restaurant,Ker Breizh,47.2118506,-1.5620042,node,3458925705
+Nantes,restaurant,Le Milan & le Rossignol,47.2133018,-1.5608611,node,3458925850
+Nantes,restaurant,Le Saint Do,47.2283471,-1.5416441,node,3474835768
+Nantes,restaurant,Omija,47.2103276,-1.547262,node,3514066251
+Nantes,restaurant,Pizzeria Zio Gino,47.2231104,-1.6314871,node,3523624967
+Nantes,restaurant,La perle de Shanghai,47.2233794,-1.6314059,node,3523631980
+Nantes,restaurant,Crêperie Tante Yvette,47.2232438,-1.6314624,node,3523642596
+Nantes,restaurant,Pilgrim Restaurant Nantes,47.2130957,-1.56174,node,3548286836
+Nantes,restaurant,Paws,47.2061094,-1.5579577,node,3580011038
+Nantes,restaurant,Restaurant Universitaire,47.2890027,-1.5248769,node,3590208539
+Nantes,restaurant,Le Brocéliande,47.2227492,-1.548284,node,3600524608
+Nantes,restaurant,Kel'Bon'Heure,47.2080857,-1.5388952,node,3607929408
+Nantes,restaurant,Mando,47.2042684,-1.5480686,node,3609666685
+Nantes,restaurant,Pizza de l'île,47.2023306,-1.5483555,node,3609716321
+Nantes,restaurant,Marietta,47.2065215,-1.5539008,node,3610786005
+Nantes,restaurant,La Pâte Folle Pizzas,47.206478,-1.5543361,node,3610787486
+Nantes,restaurant,L'Oasis,47.2008404,-1.5458731,node,3610953938
+Nantes,restaurant,La Pagode,47.2011718,-1.5455931,node,3611085430
+Nantes,restaurant,République Côté Jardin,47.2049416,-1.5549526,node,3612947527
+Nantes,restaurant,Chez B.B.,47.2052584,-1.5561675,node,3612974165
+Nantes,restaurant,L'Imaginarium,47.2058322,-1.5549139,node,3613033646
+Nantes,restaurant,Côté Jardin,47.2042745,-1.5355227,node,3613107092
+Nantes,restaurant,Côté Grange,47.2043626,-1.5355966,node,3613108548
+Nantes,restaurant,Restaurant intergénérationnel du Clos Toreau,47.1949805,-1.5268768,node,3745513070
+Nantes,restaurant,Le Progrès,47.2068325,-1.5636798,node,3787640851
+Nantes,restaurant,Maïmo,47.2195753,-1.5590224,node,3790305392
+Nantes,restaurant,La Mandale,47.2194778,-1.5590289,node,3790310338
+Nantes,restaurant,Sorya,47.2194163,-1.5590313,node,3790322038
+Nantes,restaurant,L'Ariana,47.2193046,-1.559043,node,3790336350
+Nantes,restaurant,La Pataterie,47.2221421,-1.6269897,node,3835541397
+Nantes,restaurant,Pizza Tempo,47.2337406,-1.5664634,node,3839494523
+Nantes,restaurant,180g Pizza,47.2060547,-1.5564916,node,3842731251
+Nantes,restaurant,Sépia,47.2133199,-1.5534869,node,3937785970
+Nantes,restaurant,Dakoo,47.2134275,-1.5533341,node,3937785971
+Nantes,restaurant,L'Atlantide 1874,47.201212,-1.5777212,node,3945057027
+Nantes,restaurant,Breiz' sushi,47.2152278,-1.5410473,node,3970983204
+Nantes,restaurant,Des bienvenus,47.1961935,-1.5555252,node,4000813204
+Nantes,restaurant,Les Isles,47.1960006,-1.5550141,node,4000813700
+Nantes,restaurant,Yafel,47.2156904,-1.534569,node,4005519347
+Nantes,restaurant,Poivre Rouge,47.2511476,-1.5202693,node,4005953159
+Nantes,restaurant,Chez Red Luna,47.215646,-1.5582603,node,4018157663
+Nantes,restaurant,Barguette,47.2198131,-1.5331243,node,4053355789
+Nantes,restaurant,Coin de Jasmine,47.209837,-1.5702089,node,4056962642
+Nantes,restaurant,Les Brassés,47.2159642,-1.5339312,node,4066680344
+Nantes,restaurant,Flavor,47.2010662,-1.5318685,node,4076411766
+Nantes,restaurant,Jiajiale,47.1880175,-1.5516662,node,4077732278
+Nantes,restaurant,La Piscine,47.2169501,-1.5562423,node,4086581219
+Nantes,restaurant,Jardin de chine,47.1895418,-1.4894585,node,4114123593
+Nantes,restaurant,La Prison du Bouffay,47.2149227,-1.553527,node,4117667730
+Nantes,restaurant,Brother's deli,47.214518,-1.5408608,node,4124703231
+Nantes,restaurant,Le Cours d'Ô,47.2426343,-1.5573577,node,4128359377
+Nantes,restaurant,Adriatica,47.193132,-1.5293418,node,4172654492
+Nantes,restaurant,Au Gourmet Normand,47.1893579,-1.5505435,node,4185639220
+Nantes,restaurant,Mimi Saïgon,47.2058445,-1.5050093,node,4187141392
+Nantes,restaurant,Saveurs d'Asie,47.224272,-1.6264637,node,4198550789
+Nantes,restaurant,Sakura,47.2241555,-1.6265033,node,4198550889
+Nantes,restaurant,Le Pizzaïolo de Talensac,47.2214498,-1.5586984,node,4201236607
+Nantes,restaurant,L'odyssée,47.2404192,-1.5300022,node,4210444236
+Nantes,restaurant,La P'tite Ardoise,47.2054358,-1.5522401,node,4212099190
+Nantes,restaurant,Midi et Demi,47.2269384,-1.6243257,node,4218163818
+Nantes,restaurant,Boxing Food,47.2029881,-1.5524212,node,4239058825
+Nantes,restaurant,Pizzatrad.,47.2016655,-1.5469124,node,4239161089
+Nantes,restaurant,The Garden,47.2014148,-1.5464408,node,4239161090
+Nantes,restaurant,Le Sémaphore,47.2059998,-1.5424561,node,4249164055
+Nantes,restaurant,L'Incubateur,47.2122466,-1.5947502,node,4252370489
+Nantes,restaurant,Tartage,47.2123101,-1.5720997,node,4252370495
+Nantes,restaurant,Le Zed,47.2047892,-1.5583126,node,4294381889
+Nantes,restaurant,Fish & Chips,47.2089486,-1.5286599,node,4297484692
+Nantes,restaurant,Saveurs Time,47.2087367,-1.5294898,node,4297606889
+Nantes,restaurant,Sapore,47.208578,-1.5292996,node,4297606890
+Nantes,restaurant,Brunch Brunch,47.2063052,-1.5561046,node,4321304396
+Nantes,restaurant,Onedia,47.2050275,-1.5667346,node,4321544495
+Nantes,restaurant,Là - Cantine Fermière,47.2121691,-1.5460708,node,4323004592
+Nantes,restaurant,Le Café du Marché,47.2124776,-1.5463161,node,4323004594
+Nantes,restaurant,ikimasho,47.21208,-1.5462379,node,4323276593
+Nantes,restaurant,Ichi Zen,47.213263,-1.5463233,node,4323347997
+Nantes,restaurant,Chez Cannelle,47.2140073,-1.5467358,node,4323408092
+Nantes,restaurant,Sushi 2 Go,47.2128338,-1.5463895,node,4323466589
+Nantes,restaurant,La Căn Tin Việt,47.2119903,-1.5466484,node,4323470192
+Nantes,restaurant,Pazzi,47.2119549,-1.5466562,node,4323480891
+Nantes,restaurant,Bairoz,47.2112146,-1.5470647,node,4323482392
+Nantes,restaurant,Papà Pasta,47.211755,-1.5467043,node,4323494490
+Nantes,restaurant,Plan B,47.2116553,-1.546723,node,4323499095
+Nantes,restaurant,Le lion et l’agneau,47.211614,-1.5469714,node,4323505190
+Nantes,restaurant,Papill',47.2115491,-1.5464647,node,4323528489
+Nantes,restaurant,Thelma,47.2130159,-1.5657693,node,4325259490
+Nantes,restaurant,Cheese & Friends,47.2139242,-1.5644408,node,4325261489
+Nantes,restaurant,Atelier Culinaire,47.2152086,-1.5597152,node,4329174994
+Nantes,restaurant,Le Petit Boucot,47.2144096,-1.5628651,node,4329263893
+Nantes,restaurant,Beau Rêve,47.219461,-1.5546699,node,4339684489
+Nantes,restaurant,Morfal,47.2150504,-1.5589701,node,4350884508
+Nantes,restaurant,Le Bon Pasteur,47.2155494,-1.5587188,node,4350884510
+Nantes,restaurant,Baodao,47.2153671,-1.5569731,node,4350892208
+Nantes,restaurant,Sāpiō,47.2157034,-1.5570872,node,4350892209
+Nantes,restaurant,Yum Yum,47.2149819,-1.5591946,node,4350892210
+Nantes,restaurant,Campanile,47.1958954,-1.5307775,node,4351591995
+Nantes,restaurant,La Chaumière,47.2011174,-1.5548301,node,4351620290
+Nantes,restaurant,Le petit Rungis,47.2012834,-1.5546329,node,4351630789
+Nantes,restaurant,"BCB, Le Bistrot",47.1941789,-1.5740874,node,4377264932
+Nantes,restaurant,L'Empreinte,47.2761236,-1.512139,node,4396045299
+Nantes,restaurant,Les pieds sous la table,47.2289311,-1.6057462,node,4414362492
+Nantes,restaurant,Marcello Pizzas,47.1872653,-1.479301,node,4437377696
+Nantes,restaurant,BigBang,47.2166957,-1.5338677,node,4472655440
+Nantes,restaurant,Lupo,47.21007,-1.5704596,node,4493377842
+Nantes,restaurant,Café Charbon,47.2235761,-1.6248664,node,4495676666
+Nantes,restaurant,Heyless,47.2309462,-1.6283397,node,4500238389
+Nantes,restaurant,Le Scénario,47.2239976,-1.5592752,node,4501042455
+Nantes,restaurant,Paris New York,47.2128246,-1.5628419,node,4508878364
+Nantes,restaurant,Paku Paku,47.2215955,-1.5575959,node,4519603451
+Nantes,restaurant,O Deck,47.2069066,-1.5686417,node,4523953368
+Nantes,restaurant,Maison Jocalia,47.2308237,-1.6283972,node,4529940991
+Nantes,restaurant,Colombine,47.1858974,-1.5803415,node,4546174916
+Nantes,restaurant,Les maraîchers,47.250587,-1.4846912,node,4549966893
+Nantes,restaurant,Maison Baron Lefèvre,47.2105252,-1.5462218,node,4582767229
+Nantes,restaurant,L'Atrium,47.2695441,-1.5175287,node,4607890393
+Nantes,restaurant,Amuse Papilles,47.2193312,-1.6204807,node,4714624024
+Nantes,restaurant,Gare de l'Inde,47.2148169,-1.5413913,node,4791453322
+Nantes,restaurant,epikur,47.2149466,-1.5415241,node,4791453323
+Nantes,restaurant,Les Usines,47.1975406,-1.5887509,node,4799340382
+Nantes,restaurant,Chez Marie,47.1976372,-1.5892122,node,4799340383
+Nantes,restaurant,Le Bol,47.2306366,-1.6284692,node,4803939412
+Nantes,restaurant,Aristide,47.2175959,-1.5625071,node,4809510844
+Nantes,restaurant,Miên Tây,47.2180885,-1.5431749,node,4837023990
+Nantes,restaurant,Un Pavé dans la Vigne,47.2248385,-1.565489,node,4900344761
+Nantes,restaurant,L'Assise,47.2177391,-1.5634328,node,4912737894
+Nantes,restaurant,Le Cambronne,47.2122045,-1.5617915,node,4917839621
+Nantes,restaurant,Spok,47.2310274,-1.6282954,node,4945358472
+Nantes,restaurant,La Reine Blanche,47.1951635,-1.5821314,node,4946844122
+Nantes,restaurant,Dimfong,47.2125262,-1.5601875,node,5001986223
+Nantes,restaurant,Crêp'Galettes,47.2296413,-1.5718824,node,5026311927
+Nantes,restaurant,Le Mirza,47.2215937,-1.554992,node,5064086224
+Nantes,restaurant,Le Bistro des Enfants Nantais,47.2273034,-1.5429294,node,5064132621
+Nantes,restaurant,Caddy's,47.2515024,-1.4999726,node,5103181722
+Nantes,restaurant,Boom Bisou,47.2380932,-1.5698741,node,5111200209
+Nantes,restaurant,Salad'île,47.2067028,-1.5491957,node,5164862621
+Nantes,restaurant,Flam's,47.2217955,-1.5577009,node,5164990115
+Nantes,restaurant,Oro di Napoli,47.2197084,-1.5596311,node,5165100105
+Nantes,restaurant,La Javanaise,47.2196405,-1.559725,node,5165101249
+Nantes,restaurant,Chromosome Restaurant,47.2087957,-1.5394615,node,5167317808
+Nantes,restaurant,Bécassine,47.1942688,-1.6266194,node,5190509499
+Nantes,restaurant,Chez les filles,47.2166815,-1.5585572,node,5219890384
+Nantes,restaurant,Laolao kitchen,47.237225,-1.586103,node,5226561895
+Nantes,restaurant,Rajasthan,47.2392387,-1.5899446,node,5227833623
+Nantes,restaurant,Curry house,47.2155894,-1.5529556,node,5243498422
+Nantes,restaurant,Naniwa,47.2134084,-1.5604203,node,5268338828
+Nantes,restaurant,Café Kléber,47.2144698,-1.5660614,node,5272170337
+Nantes,restaurant,Chez Lizette,47.268904,-1.4870801,node,5284034621
+Nantes,restaurant,100 Patates,47.2146881,-1.5380603,node,5321939104
+Nantes,restaurant,Eden Garden,47.2305563,-1.6282131,node,5332891408
+Nantes,restaurant,La Belgitude,47.2047053,-1.5751484,node,5332916704
+Nantes,restaurant,Ramen Ya,47.213061,-1.5591435,node,5374896673
+Nantes,restaurant,Domoro,47.219612,-1.5341746,node,5460145598
+Nantes,restaurant,Mon Bento,47.2198479,-1.5562711,node,5460439635
+Nantes,restaurant,La Cantine du Général,47.211264,-1.5756896,node,5469438421
+Nantes,restaurant,L'Abélia,47.2328361,-1.5331949,node,5493482525
+Nantes,restaurant,Éveille tes Papilles,47.2070593,-1.5551836,node,5528055528
+Nantes,restaurant,Black Angus,47.2298377,-1.638608,node,5559072094
+Nantes,restaurant,Graine de saveurs,47.2292916,-1.571926,node,5562508309
+Nantes,restaurant,Courtepaille,47.1909023,-1.48834,node,5610486519
+Nantes,restaurant,Edith et Marcel,47.2303237,-1.6274217,node,5639391275
+Nantes,restaurant,Rivazza,47.2304338,-1.6278052,node,5639391276
+Nantes,restaurant,Dubble,47.2303769,-1.6275992,node,5639391277
+Nantes,restaurant,À Table naturellement,47.2064341,-1.5547094,node,5655365444
+Nantes,restaurant,Myrtil,47.2128495,-1.5505992,node,5679784222
+Nantes,restaurant,Maison Paganelli,47.2168465,-1.5553497,node,5726309984
+Nantes,restaurant,Mon p'tit poulet portugais,47.2107499,-1.5494354,node,5753455107
+Nantes,restaurant,Le P'tit Viarme,47.219122,-1.5617306,node,5759292197
+Nantes,restaurant,Rosmarino,47.2124741,-1.5523207,node,5780881253
+Nantes,restaurant,Côté Jardin,47.2112569,-1.5709385,node,5818937856
+Nantes,restaurant,La 500,47.2125848,-1.5604227,node,5840562189
+Nantes,restaurant,Tik Tak,47.2156541,-1.5554504,node,5884649658
+Nantes,restaurant,Le Bis,47.2164413,-1.5576484,node,5884723453
+Nantes,restaurant,Furioza,47.2308968,-1.6283727,node,5887336051
+Nantes,restaurant,Le Point Bar,47.2068397,-1.5639081,node,5908111286
+Nantes,restaurant,Wild Burger,47.2126262,-1.5517139,node,5929420885
+Nantes,restaurant,Café Vatel,47.2078229,-1.542789,node,5930787316
+Nantes,restaurant,Le petit Paris,47.2183753,-1.5406703,node,5932718506
+Nantes,restaurant,Chez Mupela,47.2184859,-1.5400714,node,5932780502
+Nantes,restaurant,Pizza Bueno,47.2283536,-1.5780602,node,5961551877
+Nantes,restaurant,Pazzi via,47.2171535,-1.5554588,node,5969615688
+Nantes,restaurant,M. Strogoff,47.2175537,-1.5554365,node,5969621186
+Nantes,restaurant,Le Homard frites,47.2173575,-1.5554603,node,5969623385
+Nantes,restaurant,Le Noble Joué,47.2281873,-1.5618651,node,5970249261
+Nantes,restaurant,Vincenzo,47.2160732,-1.5528959,node,5983446049
+Nantes,restaurant,La cantine d'Albert,47.2633942,-1.5684862,node,5985054792
+Nantes,restaurant,Paoletto,47.2249423,-1.5592442,node,6001131195
+Nantes,restaurant,Carrément Italy,47.2225263,-1.6269162,node,6005588486
+Nantes,restaurant,L'Alsacien,47.2173012,-1.545257,node,6010447591
+Nantes,restaurant,Les Filles de la Côte,47.2287777,-1.5334014,node,6015544585
+Nantes,restaurant,Meraki,47.2204292,-1.5630648,node,6017734813
+Nantes,restaurant,Amour,47.2178861,-1.5621786,node,6017739085
+Nantes,restaurant,A Carioca,47.2195423,-1.5598442,node,6017750988
+Nantes,restaurant,Plume,47.2170792,-1.5597845,node,6017764375
+Nantes,restaurant,Nous,47.2172007,-1.5600026,node,6017837154
+Nantes,restaurant,Restaurant Bar Tan,47.2385012,-1.5882003,node,6017840286
+Nantes,restaurant,L'Odéon,47.2359371,-1.5841697,node,6017841288
+Nantes,restaurant,La Charmille,47.2357764,-1.5839536,node,6017841289
+Nantes,restaurant,La Fourchette du marché,47.2213126,-1.5592186,node,6017889305
+Nantes,restaurant,Bonbourg,47.2192518,-1.5620464,node,6017944263
+Nantes,restaurant,Le Manoir de la Régate,47.2936513,-1.5263765,node,6018273072
+Nantes,restaurant,Le Prologue,47.21913,-1.5624226,node,6018533359
+Nantes,restaurant,Gwaien,47.2241878,-1.5592648,node,6019979019
+Nantes,restaurant,Feuilles Vertes,47.2221253,-1.5593324,node,6019979026
+Nantes,restaurant,India Tandoor,47.2147779,-1.5642858,node,6020675997
+Nantes,restaurant,Izushi,47.2146156,-1.5638755,node,6020756069
+Nantes,restaurant,Le Sémaphore,47.2198538,-1.5636492,node,6022899685
+Nantes,restaurant,Vertical'Art,47.2492613,-1.502489,node,6025948896
+Nantes,restaurant,Chez Franklin,47.214299,-1.5631744,node,6036490461
+Nantes,restaurant,Pizzeria Agapè,47.2137142,-1.5635042,node,6040235989
+Nantes,restaurant,La bourriche,47.2140047,-1.5635641,node,6041353884
+Nantes,restaurant,Donatello,47.2121044,-1.56191,node,6042084934
+Nantes,restaurant,Basilic & Co,47.2333508,-1.5661441,node,6042340126
+Nantes,restaurant,La Salerosa,47.2111597,-1.5614027,node,6042501996
+Nantes,restaurant,Elma,47.2211267,-1.5638271,node,6048371187
+Nantes,restaurant,Myōkō,47.2126114,-1.5605615,node,6049819810
+Nantes,restaurant,Teranga,47.2213097,-1.5559649,node,6051458986
+Nantes,restaurant,Afri K Gourmand,47.222154,-1.5563177,node,6051458994
+Nantes,restaurant,Le Kashmir,47.2128668,-1.5602044,node,6062119948
+Nantes,restaurant,2 Potes au feu,47.2402017,-1.5136625,node,6067231875
+Nantes,restaurant,Tiktak,47.2179277,-1.5428941,node,6072491977
+Nantes,restaurant,Sushi Design,47.2195984,-1.5553419,node,6088358207
+Nantes,restaurant,Le P'tit Tonneau,47.2194111,-1.5556223,node,6088358209
+Nantes,restaurant,Les Délices de Beyrouth,47.2487155,-1.5526128,node,6090385627
+Nantes,restaurant,Le BDL,47.2069425,-1.5477727,node,6100773382
+Nantes,restaurant,et la fourmi ... aussi ...,47.2134486,-1.5609659,node,6104681277
+Nantes,restaurant,Monseigneur,47.2127797,-1.559254,node,6109812295
+Nantes,restaurant,Pizz',47.2141015,-1.5563185,node,6114330001
+Nantes,restaurant,Disco-Bol,47.2144851,-1.5291969,node,6121624086
+Nantes,restaurant,L'Echappée,47.198763,-1.6110848,node,6122327193
+Nantes,restaurant,Chez Titi,47.1961188,-1.6160221,node,6122343647
+Nantes,restaurant,Molana,47.203344,-1.5463698,node,6123042491
+Nantes,restaurant,Kessecet,47.2143045,-1.5406015,node,6127014201
+Nantes,restaurant,La Pause Royale,47.2148366,-1.5584392,node,6131701223
+Nantes,restaurant,Chez Bene,47.2063546,-1.5968146,node,6149998314
+Nantes,restaurant,Rio dos Camaroes,47.2057554,-1.5513068,node,6152068464
+Nantes,restaurant,Au petit Raphaël,47.2278746,-1.5703911,node,6157183198
+Nantes,restaurant,Restaurant du Convervatoire,47.2075557,-1.5322828,node,6159187778
+Nantes,restaurant,Comptoir libanais,47.2154104,-1.5569792,node,6165788473
+Nantes,restaurant,LuluRouget,47.2047964,-1.5619965,node,6176912889
+Nantes,restaurant,Anatolia,47.2067233,-1.5551063,node,6178637352
+Nantes,restaurant,Ravioli Rond,47.2153243,-1.5523402,node,6183256586
+Nantes,restaurant,Eden Garden,47.2125134,-1.5372661,node,6183597432
+Nantes,restaurant,Le Marceau,47.2157705,-1.5639508,node,6185143602
+Nantes,restaurant,Le Relais des Cens,47.2713901,-1.6233145,node,6188291318
+Nantes,restaurant,Le diamant d'Asie,47.2101788,-1.5507999,node,6196705107
+Nantes,restaurant,Les Terrasses de l'Erdre,47.2599806,-1.5325445,node,6202234923
+Nantes,restaurant,Shab' Shabou,47.2105839,-1.551113,node,6228390865
+Nantes,restaurant,Le Mezz,47.2103118,-1.5508945,node,6228390874
+Nantes,restaurant,+39,47.2129755,-1.5550526,node,6281662347
+Nantes,restaurant,Mimosa,47.2138058,-1.553619,node,6287480269
+Nantes,restaurant,La Souris d'Agneau,47.2125438,-1.5619529,node,6292305244
+Nantes,restaurant,Jacta,47.2186135,-1.5658944,node,6314426203
+Nantes,restaurant,EDO,47.2004373,-1.589435,node,6327686591
+Nantes,restaurant,Broussaille,47.2042852,-1.5684003,node,6327689148
+Nantes,restaurant,Sale & Pepe,47.1936056,-1.5465741,node,6331458425
+Nantes,restaurant,"Le loup, le renard et la galette",47.2153454,-1.5534253,node,6340520519
+Nantes,restaurant,Chez Fruta,47.2150119,-1.5642522,node,6360471478
+Nantes,restaurant,Vintage LTD,47.1981553,-1.5857423,node,6383741466
+Nantes,restaurant,L'uccello,47.198246,-1.5854423,node,6383760276
+Nantes,restaurant,Mijoté,47.2142903,-1.5477533,node,6415201298
+Nantes,restaurant,L’Éthiquête,47.2174654,-1.5562355,node,6432379017
+Nantes,restaurant,Restaurant Baladna,47.2124267,-1.5465367,node,6488818791
+Nantes,restaurant,La Genova,47.2383514,-1.5140637,node,6501130341
+Nantes,restaurant,Le Parallèle,47.2279364,-1.5486744,node,6513369557
+Nantes,restaurant,La Mamounia,47.2113445,-1.5517025,node,6534043886
+Nantes,restaurant,Gadjaks,47.2115247,-1.5518703,node,6534082586
+Nantes,restaurant,Domoro,47.2165468,-1.5557938,node,6540549771
+Nantes,restaurant,Le Bistrot Basque,47.2149651,-1.5549322,node,6540549773
+Nantes,restaurant,Noï,47.2160574,-1.5588194,node,6589825785
+Nantes,restaurant,Lumberjack,47.2394204,-1.5569058,node,6610518087
+Nantes,restaurant,Cercle,47.2330085,-1.5776284,node,6635265991
+Nantes,restaurant,Naoki,47.245193,-1.6052978,node,6635445085
+Nantes,restaurant,Le Bal Pop',47.2358886,-1.5840997,node,6635605085
+Nantes,restaurant,L'instant pizza,47.2551085,-1.5776408,node,6658332693
+Nantes,restaurant,Délices d'Asie,47.2334799,-1.5656008,node,6661542987
+Nantes,restaurant,Interlude,47.2353178,-1.544252,node,6666486486
+Nantes,restaurant,L'uchronie,47.2076536,-1.5000696,node,6666775002
+Nantes,restaurant,La Cantine Portugaise,47.2092368,-1.5482719,node,6670669504
+Nantes,restaurant,Brighella,47.2157723,-1.5343551,node,6670897692
+Nantes,restaurant,31 Street Food,47.22261,-1.5460612,node,6685077188
+Nantes,restaurant,Sushi Aji,47.2232944,-1.631437,node,6774825285
+Nantes,restaurant,Jo le boucher,47.22622,-1.6304345,node,6774859785
+Nantes,restaurant,Fuxia,47.2262501,-1.6306967,node,6774859786
+Nantes,restaurant,Le 19,47.287819,-1.4890981,node,6778147332
+Nantes,restaurant,Maria,47.2133896,-1.5618451,node,6837609855
+Nantes,restaurant,SUKO,47.2059415,-1.5461712,node,6870871402
+Nantes,restaurant,Rosemary Foodtruck,47.2157241,-1.6263011,node,6897642032
+Nantes,restaurant,L'Étal,47.2162621,-1.5551682,node,6910068151
+Nantes,restaurant,Kalouna,47.2165357,-1.5558284,node,6913878311
+Nantes,restaurant,Les délices de la beaujoire,47.2647833,-1.526406,node,6937031336
+Nantes,restaurant,Ficcii,47.2172506,-1.5524546,node,6946187224
+Nantes,restaurant,Duc Nghia,47.2195316,-1.6207687,node,6947538578
+Nantes,restaurant,Boulangerie Ange,47.223781,-1.6276299,node,6969041380
+Nantes,restaurant,Le Relais de la Close,47.2411367,-1.5732671,node,6988277058
+Nantes,restaurant,Krampouezh Naoned,47.2042296,-1.5753406,node,7009768367
+Nantes,restaurant,Le Havre,47.2041496,-1.5753844,node,7009768368
+Nantes,restaurant,Chez Hugo,47.1984675,-1.5844999,node,7009809495
+Nantes,restaurant,Marcel,47.198825,-1.5830421,node,7009809496
+Nantes,restaurant,La Cocotte Solidaire,47.2268177,-1.5541333,node,7039676028
+Nantes,restaurant,Le Bouillon Nantais,47.2442892,-1.5339506,node,7058424443
+Nantes,restaurant,Le Café du Musée,47.2192881,-1.5474794,node,7060167283
+Nantes,restaurant,La Guinguette,47.1949294,-1.5828705,node,7098007407
+Nantes,restaurant,Kyoto,47.2189495,-1.5376122,node,7107399027
+Nantes,restaurant,Taj Mahal,47.1956391,-1.536559,node,7158359155
+Nantes,restaurant,Les Épices,47.1842086,-1.5458579,node,7200395030
+Nantes,restaurant,Meiga,47.2130289,-1.5771833,node,7211945701
+Nantes,restaurant,La Gourmandise,47.2069402,-1.5042432,node,7237725354
+Nantes,restaurant,La Vacherie,47.2466736,-1.502884,node,7240929912
+Nantes,restaurant,La Tortore,47.2284735,-1.5773231,node,7284583085
+Nantes,restaurant,Glouton,47.1998956,-1.5202523,node,7340710362
+Nantes,restaurant,Vatel Restaurant,47.2080685,-1.5433699,node,7406169469
+Nantes,restaurant,La table d'Edouard,47.1927409,-1.5552252,node,7434916607
+Nantes,restaurant,Chamaille,47.196738,-1.5397753,node,7445022367
+Nantes,restaurant,Le Clin d'oeil,47.2152299,-1.5386955,node,7446826227
+Nantes,restaurant,Spok,47.2151275,-1.5384977,node,7446826228
+Nantes,restaurant,L’Atelier des Délices,47.2164712,-1.5577427,node,7449312915
+Nantes,restaurant,Roza,47.2132244,-1.5654791,node,7528314159
+Nantes,restaurant,OBBO,47.2192106,-1.5571401,node,7544600445
+Nantes,restaurant,Canopée,47.2162752,-1.5636729,node,7590066552
+Nantes,restaurant,Vucciria,47.2132998,-1.5452581,node,7649006727
+Nantes,restaurant,Les Funambules,47.203964,-1.5663071,node,7820986343
+Nantes,restaurant,Emporietto,47.2237805,-1.5545856,node,7847674179
+Nantes,restaurant,AK Shelter,47.2243312,-1.6394575,node,8045095260
+Nantes,restaurant,Restaurant Quintessia,47.2580868,-1.589315,node,8086404248
+Nantes,restaurant,La Canne à Sucre,47.2146342,-1.566617,node,8185672522
+Nantes,restaurant,Basilic & Co,47.2706676,-1.5192528,node,8278989059
+Nantes,restaurant,Chez Quentin,47.277392,-1.5059155,node,8310807648
+Nantes,restaurant,Calma,47.2027707,-1.5527095,node,8538184747
+Nantes,restaurant,Le BL,47.2577587,-1.5753525,node,8622582175
+Nantes,restaurant,Vieux Quimper,47.2152037,-1.5531926,node,8746588791
+Nantes,restaurant,dubble,47.2050478,-1.560709,node,8914143914
+Nantes,restaurant,We love soupes,47.2045212,-1.5686403,node,8936109947
+Nantes,restaurant,La Banque,47.2572789,-1.5130468,node,8946723005
+Nantes,restaurant,L'Hacienda,47.2247567,-1.6264099,node,9071150734
+Nantes,restaurant,Le comptoir libanais,47.2710952,-1.5206953,node,9212386194
+Nantes,restaurant,Le Kilimandjaro 44,47.2024684,-1.5531028,node,9228281282
+Nantes,restaurant,Sans nom,47.2751316,-1.5058627,node,9285469714
+Nantes,restaurant,Flunch,47.2507511,-1.5201215,node,9381429717
+Nantes,restaurant,Food labo,47.2275771,-1.5815333,node,9422785368
+Nantes,restaurant,Haïti Chérie Bar,47.2198623,-1.5591949,node,9460166208
+Nantes,restaurant,Café Pépone,47.271168,-1.6228412,node,9467241705
+Nantes,restaurant,Yummy,47.2525958,-1.4992602,node,9507353570
+Nantes,restaurant,Emilio Pizza,47.1818893,-1.5455209,node,9527239226
+Nantes,restaurant,Gasparelli,47.2353161,-1.5827132,node,9587246117
+Nantes,restaurant,L'Instant,47.213014,-1.5549707,node,9592482052
+Nantes,restaurant,La Fringale,47.2307116,-1.6284517,node,9596005210
+Nantes,restaurant,Ichi-go Ichi-e Ramen,47.2115828,-1.5467456,node,9671727571
+Nantes,restaurant,P'tite pomme,47.2113414,-1.5453936,node,9678465279
+Nantes,restaurant,Merci Émile,47.2100487,-1.5870309,node,9684870695
+Nantes,restaurant,B'Nina,47.2316794,-1.5382294,node,9810948177
+Nantes,restaurant,Tata Bòbún,47.2705224,-1.5204741,node,9874592922
+Nantes,restaurant,Bistrot Élémentaire,47.2207321,-1.5354811,node,10016123117
+Nantes,restaurant,Simple,47.2070249,-1.5597045,node,10106435145
+Nantes,restaurant,L'Extra,47.2070792,-1.559619,node,10106435146
+Nantes,restaurant,Annapurna,47.2070653,-1.5596763,node,10106435147
+Nantes,restaurant,L'Invité,47.2070864,-1.5595416,node,10106435148
+Nantes,restaurant,Ptéah,47.207091,-1.5594725,node,10106435149
+Nantes,restaurant,Eita!,47.2070955,-1.5594108,node,10106435150
+Nantes,restaurant,Loustic,47.2070486,-1.5593847,node,10106435151
+Nantes,restaurant,Mòaa,47.2070163,-1.5593793,node,10106435152
+Nantes,restaurant,Fornelli,47.2069815,-1.5593707,node,10106435153
+Nantes,restaurant,Restaurant IKEA,47.2225693,-1.6314483,node,10178650337
+Nantes,restaurant,La Pente Douce,47.2144827,-1.5841917,node,10200190544
+Nantes,restaurant,Campanile,47.2274307,-1.6353618,node,10208375751
+Nantes,restaurant,L'oliveraie,47.2077605,-1.5021411,node,10236251471
+Nantes,restaurant,Basilic & Co,47.2211257,-1.6404632,node,10237977738
+Nantes,restaurant,Kuchi,47.2173912,-1.5639409,node,10243688055
+Nantes,restaurant,Indien Grill,47.2076435,-1.5717453,node,10604595686
+Nantes,restaurant,L'Albizia,47.2509512,-1.611009,node,10704048935
+Nantes,restaurant,Le Valmy,47.2135078,-1.5438768,node,10860706597
+Nantes,restaurant,Félix,47.2142732,-1.5435811,node,10860852772
+Nantes,restaurant,La Table du Coin,47.2225719,-1.6271405,node,10880970647
+Nantes,restaurant,Restaurant Le Jardin - Nantes Orvault,47.258686,-1.590048,node,10923704809
+Nantes,restaurant,Da Peppe,47.1896578,-1.4832321,node,10936389808
+Nantes,restaurant,Memphis,47.1894956,-1.4831516,node,10936389809
+Nantes,restaurant,Giorgia,47.2151684,-1.5600425,node,10944475809
+Nantes,restaurant,Kantine orientale,47.2707392,-1.5203071,node,11065680809
+Nantes,restaurant,La cour du coin,47.2411064,-1.5356659,node,11096503610
+Nantes,restaurant,Bella Vita,47.1998645,-1.5895772,node,11148644067
+Nantes,restaurant,Fair-e,47.2037176,-1.5683689,node,11247815266
+Nantes,restaurant,Reboot,47.2116382,-1.5669587,node,11308425302
+Nantes,restaurant,Le Mas des Oliviers,47.2289096,-1.6358465,node,11368483326
+Nantes,restaurant,Olive Food,47.2263854,-1.5198363,node,11435456480
+Nantes,restaurant,Le laurier fleuri,47.1871959,-1.4827852,node,11494319293
+Nantes,restaurant,Le Bourgeois,47.1888468,-1.502287,node,11524451950
+Nantes,restaurant,Desiderata,47.2145048,-1.5688719,node,11546068375
+Nantes,restaurant,Le Spot,47.213549,-1.5334476,node,11642352290
+Nantes,restaurant,Chez Fred,47.1859938,-1.5977687,node,11658057569
+Nantes,restaurant,L'Espuma,47.2421778,-1.5326188,node,11678946079
+Nantes,restaurant,Le paradis du fruit,47.2260985,-1.6303011,node,11693820560
+Nantes,restaurant,SUKO The sushi kompany,47.2490314,-1.4877349,node,11755381012
+Nantes,restaurant,The jungle,47.24922,-1.4880706,node,11755383301
+Nantes,restaurant,OHM.Town,47.1975816,-1.5894663,node,11758453624
+Nantes,restaurant,Mashup,47.2041979,-1.5639477,node,11816602538
+Nantes,restaurant,Pizza Cosy,47.2229193,-1.6122219,node,11892044391
+Nantes,restaurant,Tiktak,47.2552224,-1.4996299,node,11964301298
+Nantes,restaurant,L'épicurien,47.2542986,-1.4997256,node,11964551168
+Nantes,restaurant,Le mesopotamia 2,47.2786576,-1.5980022,node,12010551498
+Nantes,restaurant,Sans nom,47.2236831,-1.6122688,node,12017467425
+Nantes,restaurant,Marché 212,47.2170592,-1.5458706,node,12051681268
+Nantes,restaurant,Farniente,47.1951923,-1.5682842,node,12116682671
+Nantes,restaurant,Basta Pizza Bar,47.2032518,-1.5543604,node,12120222401
+Nantes,restaurant,Le KréGrand,47.1998238,-1.5889446,node,12136375988
+Nantes,restaurant,Obrigado Rodizio,47.2228504,-1.6119451,node,12145870907
+Nantes,restaurant,Sushi design,47.2550463,-1.5777192,node,12248418370
+Nantes,restaurant,Shayla,47.2186974,-1.5607883,node,12270562658
+Nantes,restaurant,Giragi,47.212452,-1.5834951,node,12280025555
+Nantes,restaurant,Favela,47.2796671,-1.5946757,node,12560351773
+Nantes,restaurant,Le Petit jardin,47.1907523,-1.5215845,node,12630622863
+Nantes,restaurant,DockSide,47.2302055,-1.6396509,node,12684679010
+Nantes,restaurant,Restaurant Polaris,47.2252191,-1.6398035,node,12761837441
+Nantes,restaurant,Freia,47.2167806,-1.5366484,node,12791385999
+Nantes,restaurant,La Grillade Nantaise,47.1909009,-1.5476304,node,12862459464
+Nantes,restaurant,Basilic & Co,47.1897082,-1.5190348,node,13011976382
+Nantes,restaurant,El Foundou,47.2580179,-1.575292,node,13084840615
+Nantes,restaurant,Lulu le Bistrot,47.2064316,-1.5628274,node,13094752145
+Nantes,restaurant,Pizza Passione,47.2073853,-1.5038466,node,13115788322
+Nantes,restaurant,Bouillon Coudray,47.230995,-1.543454,node,13134705587
+Nantes,restaurant,Midi'n France,47.2626395,-1.4994873,node,13234708252
+Nantes,restaurant,Le Prestige,47.2615334,-1.4977401,node,13234838685
+Nantes,restaurant,La Tosca,47.2497185,-1.5191904,way,32669984
+Nantes,restaurant,Carré'mand Gourmand,47.2831791,-1.5195772,way,34789142
+Nantes,restaurant,KOKO,47.2829051,-1.5194573,way,34789143
+Nantes,restaurant,Restaurant Universitaire,47.2807391,-1.5196846,way,34868977
+Nantes,restaurant,Café de L'Orangerie,47.2209831,-1.5439567,way,45066683
+Nantes,restaurant,Campanile,47.2120308,-1.4856202,way,65272030
+Nantes,restaurant,Pizza Scaramouche,47.1881388,-1.4838381,way,65503984
+Nantes,restaurant,Ristorante Del Arte,47.1908833,-1.4873328,way,65504819
+Nantes,restaurant,3 Brasseurs,47.1912672,-1.4892242,way,65505066
+Nantes,restaurant,Le Butcher,47.1914498,-1.4874995,way,65505142
+Nantes,restaurant,L'industrie,47.1850378,-1.4902523,way,74082760
+Nantes,restaurant,L'Usine,47.2546256,-1.497943,way,82318824
+Nantes,restaurant,Restauria,47.2549395,-1.4972438,way,82319304
+Nantes,restaurant,Le bistrot du Pr. Auvigné,47.2549307,-1.5178367,way,82532671
+Nantes,restaurant,Grain de Poivre,47.2545904,-1.5176493,way,82532970
+Nantes,restaurant,Giorgio Ristorante,47.2470413,-1.5028883,way,82621929
+Nantes,restaurant,Instant Sushi,47.2474837,-1.5221368,way,82638735
+Nantes,restaurant,Le Zed Restaurant,47.2353664,-1.5455963,way,83190017
+Nantes,restaurant,R.U La Lombarderie,47.234721,-1.5557422,way,84098662
+Nantes,restaurant,Le Bistrot Gourmand,47.1890676,-1.5552029,way,84701254
+Nantes,restaurant,L'Adresse,47.2144266,-1.5403288,way,85437686
+Nantes,restaurant,Restaurant Universitaire - Le Ricordeau,47.2119145,-1.5526595,way,85437929
+Nantes,restaurant,Restaurant intergénérationnel Malville,47.2317498,-1.5826732,way,85678243
+Nantes,restaurant,The Bar d'Angleterre,47.2266053,-1.583353,way,85678603
+Nantes,restaurant,Wok Gourmand,47.1922098,-1.5794865,way,89780457
+Nantes,restaurant,Buffalo Grill,47.2426596,-1.5952731,way,93235594
+Nantes,restaurant,Les Caudalies,47.2420445,-1.595594,way,95519656
+Nantes,restaurant,Peau de Vache,47.2622665,-1.5922484,way,95730568
+Nantes,restaurant,La Bambroche,47.2557555,-1.6305485,way,95732650
+Nantes,restaurant,Buffalo Grill,47.2645875,-1.4893495,way,114889716
+Nantes,restaurant,Le Moulin des Landes,47.2634645,-1.4849845,way,114893212
+Nantes,restaurant,La Chope Gourmande,47.263165,-1.4862805,way,114893550
+Nantes,restaurant,Lulu Paulette,47.269857,-1.487226,way,129161896
+Nantes,restaurant,Sans nom,47.2615585,-1.497796,way,129162813
+Nantes,restaurant,Sans nom,47.262656,-1.4995505,way,129166493
+Nantes,restaurant,L'Atelier,47.285035,-1.548797,way,129563070
+Nantes,restaurant,La Terrasse du Buisson,47.287239,-1.5413827,way,129563498
+Nantes,restaurant,Hippopotamus,47.224175,-1.6250365,way,134669607
+Nantes,restaurant,Pizzeria Grill Creperie Le Manureva,47.2445965,-1.6057775,way,135074303
+Nantes,restaurant,Il Restorante,47.2504015,-1.618943,way,135076828
+Nantes,restaurant,Le Carré Blanc,47.230505,-1.640086,way,135098575
+Nantes,restaurant,Bellacittà,47.2279465,-1.632337,way,135099147
+Nantes,restaurant,Restaurant Universitaire Le Tertre,47.245357,-1.5547315,way,143385529
+Nantes,restaurant,Restaurant Universitaire,47.2829257,-1.5153469,way,143886847
+Nantes,restaurant,Pépé Guinguette,47.2237662,-1.5532568,way,287609137
+Nantes,restaurant,Sans nom,47.2187391,-1.5442429,way,288606862
+Nantes,restaurant,Le Saintonge Grill,47.2864018,-1.5452029,way,391660266
+Nantes,restaurant,Space'Crous,47.2450439,-1.5555014,way,481019264
+Nantes,restaurant,Le Bateau-Lavoir,47.2208688,-1.5533632,way,496381081
+Nantes,restaurant,Le Black Shelter Orvault,47.2613244,-1.6251798,way,937752979
+Nantes,restaurant,Amuses Papilles,47.2768752,-1.5494334,way,1031152720
+Nantes,restaurant,ZAW,47.2174071,-1.5427179,way,1154811150
+Nantes,restaurant,ZAW,47.2172197,-1.5427347,way,1154811152
+Nantes,restaurant,La Brasserie,47.2161538,-1.5427907,way,1154988904
+Nantes,restaurant,Yukito,47.1909282,-1.4922545,way,1159728960
+Nantes,restaurant,Flunch,47.1908187,-1.4915403,way,1159728963
+Nantes,restaurant,Le Parvis,47.2482951,-1.5129668,way,1175150239
+Nantes,restaurant,Zio Gino,47.2484967,-1.5134229,way,1175150251
+Nantes,restaurant,Tante Yvette,47.2485768,-1.5135823,way,1175150302
+Nantes,restaurant,Joosbayoo,47.2482583,-1.5134142,way,1175150315
+Nantes,restaurant,La Cantine du Voyage,47.2018057,-1.5725923,way,1286888614
+Nantes,restaurant,Dani Crêperie,47.2054949,-1.555759,way,1419328162
+Nantes,restaurant,La Tour de Pise,47.2054859,-1.5558506,way,1419328163
+Nantes,restaurant,Paellas y Tapas,47.2055657,-1.5559174,way,1419328166
+Nantes,restaurant,Marmailles,47.2055259,-1.5559075,way,1419328168
+Nantes,restaurant,La Petite Pause,47.2221137,-1.6060194,way,1436217699
+Nantes,restaurant,Crescendo Restaurant,47.2621111,-1.5903615,way,1437082529
+Nantes,restaurant,L'Ariane Bar Brasserie,47.2623399,-1.5899706,way,1437082582
+Nantes,station,Chantenay,47.1971055,-1.5943591,node,335883956
+Nantes,station,Nantes,47.2170954,-1.541423,node,3486337796
+Nantes,station,Rezé - Pont-Rousseau,47.1932254,-1.5493838,node,5090503718
+Nantes,historic,Grue Titan grise,47.199207,-1.5738989,node,305372901
+Nantes,historic,Sans nom,47.2125043,-1.557443,node,518543813
+Nantes,historic,Plaque à Émile Fritsch,47.2288305,-1.5659634,node,616684173
+Nantes,historic,Château du Plessis,47.2659044,-1.6070411,node,618299297
+Nantes,historic,Sans nom,47.2036739,-1.5120102,node,626050706
+Nantes,historic,Sans nom,47.215606,-1.5550433,node,722836900
+Nantes,historic,Sans nom,47.2076944,-1.503318,node,749909246
+Nantes,historic,Croix de la Gringaudière,47.2043583,-1.4901618,node,794558691
+Nantes,historic,Plaque au Cours Cambronne,47.2114548,-1.5640943,node,880941281
+Nantes,historic,Sans nom,47.2149375,-1.5589466,node,990430796
+Nantes,historic,Sans nom,47.2150434,-1.5590287,node,990436307
+Nantes,historic,Fontaine Wallace,47.2128111,-1.558988,node,1495669113
+Nantes,historic,Château de La Poterie,47.2839279,-1.5298301,node,1571221938
+Nantes,historic,Château de La Tour,47.2880753,-1.6259295,node,1571474013
+Nantes,historic,Lavoir,47.272092,-1.6220243,node,1571474031
+Nantes,historic,Le Grand Calvaire,47.2719784,-1.6203478,node,1571474041
+Nantes,historic,Site Gallo Romain Saint-Lupien,47.1917433,-1.5651826,node,1571542382
+Nantes,historic,Château du Chassay,47.2478627,-1.4836774,node,1571567797
+Nantes,historic,Château de La Gournerie,47.2459605,-1.6377066,node,1571730091
+Nantes,historic,Monument aux marins morts en mer,47.1939563,-1.5814291,node,1660563756
+Nantes,historic,Blason de la Ville de Nantes,47.2180145,-1.5652125,node,1668802937
+Nantes,historic,Statue équestre de Jeanne d'Arc,47.2288391,-1.5428101,node,1735136922
+Nantes,historic,Sans nom,47.2950775,-1.4964351,node,1792418389
+Nantes,historic,Monument à Jacques Cassard,47.20244,-1.5763154,node,1853717391
+Nantes,historic,Statue de Sainte-Anne,47.2015996,-1.5775751,node,1853717392
+Nantes,historic,Statue d'Aristide Briand,47.2172289,-1.5624041,node,1854451479
+Nantes,historic,Buste d'Ange Guépin,47.2151341,-1.5637745,node,1854498610
+Nantes,historic,Croix de Charette,47.2209191,-1.5632556,node,1855582532
+Nantes,historic,Statue d'Anne de Bretagne,47.2174476,-1.5480436,node,1855862626
+Nantes,historic,Statue d'Arthur III,47.2173785,-1.5482366,node,1855862633
+Nantes,historic,Buste du Docteur Écorchard,47.2196597,-1.5444421,node,1860374979
+Nantes,historic,Buste de Jules Verne,47.2206838,-1.5424141,node,1860374981
+Nantes,historic,Plaque à Élisa Mercoeur,47.2200043,-1.5448101,node,1860422705
+Nantes,historic,Statue d'Olivier V de Clisson,47.221315,-1.5510564,node,1860871690
+Nantes,historic,Statue de Bertrand Du Guesclin,47.2211682,-1.5514531,node,1860871691
+Nantes,historic,Statue de la Délivrance,47.2224977,-1.5522929,node,1860887361
+Nantes,historic,Statue du Général Leclerc de Hauteclocque,47.2175377,-1.5546308,node,1860935653
+Nantes,historic,Maison natale de Jules Verne,47.2132967,-1.5548981,node,1861460668
+Nantes,historic,Statue de Louis Charles du Chaffault de Besné,47.2067282,-1.5734305,node,1862258379
+Nantes,historic,Fontaine Wallace,47.2429915,-1.5779097,node,2136087766
+Nantes,historic,Monument aux Cinquante Otages et à la Résistance,47.2205336,-1.5545292,node,2610958611
+Nantes,historic,Statue du Général Charles De Gaulle,47.2202295,-1.5550887,node,2610958612
+Nantes,historic,Bicentenaire de la Déclaration des Droits de l'Homme et du Citoyen et du Bill of Rights,47.2098976,-1.563468,node,2689174890
+Nantes,historic,Plaque aux Acadiens,47.2021096,-1.5780205,node,2743935625
+Nantes,historic,Sans nom,47.2253139,-1.6242779,node,2793579409
+Nantes,historic,Sans nom,47.2144213,-1.5540093,node,2904134637
+Nantes,historic,Sans nom,47.1883536,-1.5306777,node,2920368237
+Nantes,historic,Sans nom,47.187041,-1.5180876,node,2920368286
+Nantes,historic,Sans nom,47.1847026,-1.5290104,node,3084797137
+Nantes,historic,Maison de René Laënnec,47.2149553,-1.5532653,node,3098703441
+Nantes,historic,Saint-Nicolas,47.2156455,-1.5552744,node,3098703442
+Nantes,historic,Sans nom,47.2181087,-1.5506472,node,3102778263
+Nantes,historic,René-Guy Cadou,47.2218739,-1.5385035,node,3158769620
+Nantes,historic,Serge Danot,47.2220237,-1.5394937,node,3158769621
+Nantes,historic,Armel de Wismes,47.2219146,-1.5403247,node,3158784363
+Nantes,historic,Pierre-René Réveillé de Beauregard,47.2213354,-1.5421339,node,3208143387
+Nantes,historic,Georges-Évariste Colombel,47.2215828,-1.5417191,node,3208236852
+Nantes,historic,Vincent Forest,47.2213274,-1.5418315,node,3208311036
+Nantes,historic,Ange Guépin,47.221997,-1.5415712,node,3210455310
+Nantes,historic,Charles Edouard La Jaille (Comte de),47.2221504,-1.5411761,node,3210489724
+Nantes,historic,Plaque à Alain Barbetorte,47.2157281,-1.5567595,node,3212909606
+Nantes,historic,Plaque aux victimes des persécutions racistes et antisémites,47.2205763,-1.5548211,node,3213002031
+Nantes,historic,Plaque à Jean Rigollet,47.2191401,-1.5560929,node,3213023004
+Nantes,historic,Emplacement de la Chambre des Comptes de Bretagne,47.2201866,-1.5531366,node,3215159778
+Nantes,historic,Maison du Général de Torquat de la Coulerie,47.2199824,-1.552286,node,3215175259
+Nantes,historic,Sans nom,47.2194732,-1.5520058,node,3215175260
+Nantes,historic,Sans nom,47.219543,-1.5518587,node,3215175961
+Nantes,historic,Sans nom,47.2198788,-1.552181,node,3215175962
+Nantes,historic,Sans nom,47.2199725,-1.5522758,node,3215175963
+Nantes,historic,Plaque au Général Leclerc,47.2178757,-1.5531067,node,3215201557
+Nantes,historic,Plaque à Molière,47.2170947,-1.5561399,node,3215233165
+Nantes,historic,Plaque aux défenseurs de l'école publique et laïque,47.2188769,-1.5562095,node,3215235157
+Nantes,historic,Blason de la Ville de Nantes,47.2188746,-1.5562081,node,3215235158
+Nantes,historic,Charles Brunelière,47.2215566,-1.5426443,node,3217559171
+Nantes,historic,François-Marie Bonaventure du fou,47.2215895,-1.542459,node,3217559172
+Nantes,historic,Legoff de Fontainegal,47.2219722,-1.5410021,node,3217559173
+Nantes,historic,René Cornulier-Lucinière,47.2216033,-1.5427092,node,3217559174
+Nantes,historic,Stéphane Praud de la Nicollière,47.2217459,-1.5418912,node,3217559175
+Nantes,historic,Victor Coudrain,47.2217011,-1.5416771,node,3217559176
+Nantes,historic,Chapelle des Minimes,47.2177818,-1.5478566,node,3218295326
+Nantes,historic,Maison de Paul Ladmirault,47.2180324,-1.5471654,node,3218295327
+Nantes,historic,Sans nom,47.2181616,-1.5468206,node,3218295328
+Nantes,historic,Sans nom,47.2177314,-1.5478013,node,3218295329
+Nantes,historic,Sans nom,47.2181373,-1.5460862,node,3218295330
+Nantes,historic,Émile Grimaud,47.2213468,-1.5418235,node,3225756243
+Nantes,historic,Aristide Van Iseghem,47.2215233,-1.5408881,node,3266193286
+Nantes,historic,Charles Cassegrain,47.2210834,-1.5417354,node,3266193287
+Nantes,historic,Eugène Peignon,47.2212918,-1.5417962,node,3266193288
+Nantes,historic,Évariste Colombel,47.2215889,-1.5417111,node,3266193289
+Nantes,historic,Camille Mellinet,47.2212553,-1.542649,node,3266223161
+Nantes,historic,Guillaume Grootaërs,47.2213517,-1.5422526,node,3266223162
+Nantes,historic,Jean-Baptiste Heraclée Olivier de Wismes,47.2212522,-1.5423696,node,3266223163
+Nantes,historic,Jules Grandjouan,47.2214065,-1.542699,node,3266223164
+Nantes,historic,Louis Grootaërs,47.2213425,-1.5422333,node,3266223165
+Nantes,historic,Mathurine Françoise Fourchon,47.221273,-1.5422299,node,3266223166
+Nantes,historic,Pascal Désiré Tirot,47.2218408,-1.5407692,node,3266223167
+Nantes,historic,Pierre Jean-François Donon,47.2214651,-1.5424196,node,3266223168
+Nantes,historic,Théodore Dubigeon,47.2212769,-1.5424321,node,3266223169
+Nantes,historic,Alain Le Bras,47.2211489,-1.540145,node,3266829346
+Nantes,historic,Hippolyte Dubois,47.2209374,-1.5407815,node,3266829347
+Nantes,historic,Marie Alphonse Bedeau,47.2210298,-1.5418262,node,3266829348
+Nantes,historic,Clémence Floresca Guépin,47.2219868,-1.5415465,node,3267241612
+Nantes,historic,Ernest Dalby,47.2211027,-1.5399938,node,3267241613
+Nantes,historic,Henri-Théodore Driollet,47.2218841,-1.5418942,node,3267241614
+Nantes,historic,Jean-Baptiste Augustin Darbefeuille,47.221727,-1.5418655,node,3267241615
+Nantes,historic,Jules César Decré,47.2223379,-1.5411201,node,3267241616
+Nantes,historic,Émile-Adolphe Ogée,47.2219457,-1.5412441,node,3267241617
+Nantes,historic,Félix Benoist,47.2222527,-1.5407467,node,3267496204
+Nantes,historic,Jean Alexis Morin,47.2221357,-1.5411625,node,3267496205
+Nantes,historic,Joseph-Michel Caillé,47.2210801,-1.5421618,node,3267496206
+Nantes,historic,Pierre Roy,47.2213327,-1.5411912,node,3267496207
+Nantes,historic,Émile Dezaunay,47.2213646,-1.5422918,node,3267496208
+Nantes,historic,Plaque aux victimes de Juillet 1830,47.2194888,-1.5498624,node,3374770142
+Nantes,historic,Hommage à la liaison radio résistance 1941,47.201378,-1.590412,node,3376474598
+Nantes,historic,Déplacement du musée des Salorges en 1943,47.2053693,-1.5747535,node,3376500646
+Nantes,historic,Sans nom,47.2029271,-1.5054543,node,3389182832
+Nantes,historic,Sans nom,47.2038092,-1.5023229,node,3389182864
+Nantes,historic,Sans nom,47.2016733,-1.5861599,node,3389456342
+Nantes,historic,hommage à l'école publique et laïque,47.2019735,-1.5785076,node,3389466358
+Nantes,historic,hommage aux naufragés du steamer Austria,47.2055546,-1.5745571,node,3389475043
+Nantes,historic,Aux victimes de la Terreur (1793-94),47.2104751,-1.5706709,node,3389489658
+Nantes,historic,hommage à André Lermite,47.2126272,-1.5706814,node,3423595842
+Nantes,historic,Jules Verne,47.2124097,-1.5601089,node,3423609307
+Nantes,historic,Hommage au Réseau Cohors - Asturies,47.2173071,-1.5636374,node,3423644229
+Nantes,historic,Hommage à Aristide Briand,47.2179909,-1.5592167,node,3423650667
+Nantes,historic,Hommage réseau d'évasion 1940,47.2161984,-1.5582842,node,3423654006
+Nantes,historic,anniversaire entrée en guerre E-U 1917,47.2228805,-1.5526935,node,3423670156
+Nantes,historic,Plaque aux torturés par la Gestapo,47.2195775,-1.549335,node,3423677327
+Nantes,historic,Suffrage universel,47.2190265,-1.5486375,node,3423692709
+Nantes,historic,Cession du château à la ville de Nantes,47.2162997,-1.5500015,node,3424638366
+Nantes,historic,Commémoration de l'union de la Bretagne et de la France,47.2157738,-1.5491742,node,3424638367
+Nantes,historic,Plaque à Andrieux,47.2162938,-1.5500038,node,3424638368
+Nantes,historic,Plaque à Marc Elder,47.2159984,-1.5487694,node,3424638369
+Nantes,historic,Signature de l'Édit de Nantes,47.2158051,-1.5490835,node,3424638370
+Nantes,historic,Chute d'un Potez 63-11,47.2006885,-1.5093861,node,3424656970
+Nantes,historic,Emplacement de l'église Sainte-Marie,47.2185298,-1.5526977,node,3424687011
+Nantes,historic,Emplacement de l'église Sainte-Radegonde,47.2166349,-1.5503897,node,3424687012
+Nantes,historic,Maison natale du Général de Cornulier Lucinière,47.2169621,-1.5501614,node,3424687013
+Nantes,historic,Hôtel de Monsieur de Graslin,47.213452,-1.5616759,node,3424769955
+Nantes,historic,Inauguration de l'antenne européenne du Mémorial de Gorée,47.2142526,-1.5625623,node,3424769956
+Nantes,historic,Maison de Cambronne,47.2122723,-1.5600039,node,3424769957
+Nantes,historic,Maison natale de Fernand Xau,47.2148194,-1.5634218,node,3424769958
+Nantes,historic,Niveau maximal de la crue de 1872,47.2131128,-1.5584729,node,3424769959
+Nantes,historic,Emplacement du Jardin des Apothicaires,47.2160238,-1.56062,node,3424820914
+Nantes,historic,Plaque aux victimes de la défense passive,47.2155903,-1.5607509,node,3424820915
+Nantes,historic,Plaque à Pierre Audigé,47.2150768,-1.5607981,node,3424820916
+Nantes,historic,Arbre des droits de l'Homme,47.2119725,-1.5593583,node,3424898492
+Nantes,historic,Buste de Jean-Baptiste Daviais,47.2118699,-1.557998,node,3424903393
+Nantes,historic,Plaque à Guillaume Harouys,47.2181302,-1.5647663,node,3424903394
+Nantes,historic,Plaque à René Dunan,47.2141419,-1.5591826,node,3424903395
+Nantes,historic,Exécutions de la place du Bouffay,47.2149968,-1.5530977,node,3425084304
+Nantes,historic,Maison Natale d'Hélène de Chappotin,47.2189671,-1.5474894,node,3425084305
+Nantes,historic,Plaque à Georges Clemenceau,47.2186746,-1.5482441,node,3425084306
+Nantes,historic,Buste de René Laënnec,47.2113862,-1.5561608,node,3425104278
+Nantes,historic,Inauguration du boulevard René Cassin,47.2634611,-1.5801741,node,3425115832
+Nantes,historic,Plaque au Général Audibert,47.2092636,-1.5501072,node,3426008641
+Nantes,historic,Plaque à Aimé Delrue,47.2092028,-1.550046,node,3426008642
+Nantes,historic,Stèle du Maréchal de Lattre de Tassigny,47.2116256,-1.5593511,node,3426008643
+Nantes,historic,Buste d'Eugène Livet,47.2114829,-1.5673895,node,3426125302
+Nantes,historic,Hôtel de la Villestreux,47.212109,-1.5570998,node,3426125303
+Nantes,historic,Saint-Nicolas,47.2153805,-1.5574272,node,3426125304
+Nantes,historic,Sans nom,47.2114317,-1.5675915,node,3426125305
+Nantes,historic,Sans nom,47.2153461,-1.5691267,node,3426125306
+Nantes,historic,Sans nom,47.214597,-1.568832,node,3426125308
+Nantes,historic,Statue de la Vierge,47.2149025,-1.5614242,node,3426125309
+Nantes,historic,Sans nom,47.2160316,-1.5652622,node,3426125310
+Nantes,historic,Sans nom,47.2165017,-1.5684145,node,3426125311
+Nantes,historic,Sainte-Catherine,47.2142908,-1.5561128,node,3426125312
+Nantes,historic,Sans nom,47.2138934,-1.5532186,node,3426125313
+Nantes,historic,Sans nom,47.2148945,-1.5689486,node,3426125314
+Nantes,historic,Sans nom,47.2154557,-1.56917,node,3426125315
+Nantes,historic,Sans nom,47.2167983,-1.5592692,node,3426125316
+Nantes,historic,Sans nom,47.2175918,-1.5608976,node,3426125317
+Nantes,historic,Stèle aux victimes des bombardements de 1943,47.2128343,-1.5541943,node,3426156608
+Nantes,historic,Inauguration du Mémorial de l'Abolition de l'Esclavage,47.2089449,-1.566292,node,3445730562
+Nantes,historic,Maison natale de Marcel Planiol,47.2128744,-1.5591558,node,3445730564
+Nantes,historic,Plaque à Stendhal,47.2132633,-1.5626917,node,3445730565
+Nantes,historic,Château de la Desnerie,47.2726227,-1.5355917,node,3448556695
+Nantes,historic,Maison de René-Guy Cadou,47.2067757,-1.5511277,node,3454983739
+Nantes,historic,Blason de la Ville de Nantes,47.2102029,-1.5728214,node,3456696812
+Nantes,historic,Centenaire de l'École,47.2101629,-1.5728613,node,3456696813
+Nantes,historic,Plaque aux anciens élèves morts pour la patrie,47.2101492,-1.5728286,node,3456696814
+Nantes,historic,Plaque aux anciens élèves morts pour la patrie,47.2101553,-1.5728599,node,3456696815
+Nantes,historic,Plaque aux anciens élèves victimes de la guerre,47.2101631,-1.5728028,node,3456696816
+Nantes,historic,Plaque aux anciens élèves victimes de la guerre,47.2101559,-1.5728077,node,3456696817
+Nantes,historic,Société Amicale des Anciens Elèves,47.2101519,-1.5728168,node,3456696818
+Nantes,historic,Sans nom,47.2186054,-1.5542284,node,3466554289
+Nantes,historic,Plaque aux décapités de 1720,47.2148538,-1.5532761,node,3471455724
+Nantes,historic,Emplacement du Collège des Irlandais,47.2122743,-1.5659744,node,3471478952
+Nantes,historic,Célébration de la plantation,47.2147149,-1.5552731,node,3471500338
+Nantes,historic,Relief à Jules Michelet,47.231158,-1.5564038,node,3471506862
+Nantes,historic,Plaque à la nationalisation de l'école,47.2251807,-1.5447458,node,3471520536
+Nantes,historic,Plaque à Jean V de Bretagne,47.2122879,-1.5662368,node,3473536004
+Nantes,historic,Plaque à Thomas Dobrée,47.212504,-1.5659468,node,3473536005
+Nantes,historic,Emplacement de la prison des Rochettes,47.2239257,-1.5367959,node,3476995265
+Nantes,historic,Plaque commémorative du 3e Régiment de Dragons,47.2243118,-1.537054,node,3476995266
+Nantes,historic,Plaque aux résistants de l'École d'Hydrographie,47.2070204,-1.5745843,node,3476995267
+Nantes,historic,Plaque aux soldats de 1914-1918,47.2226102,-1.5402496,node,3477013242
+Nantes,historic,Stèle aux morts de la guerre d'Indochine,47.2213935,-1.5513291,node,3477341719
+Nantes,historic,Stèle aux morts des théâtres d'opérations extérieurs,47.2213568,-1.551427,node,3477341720
+Nantes,historic,Stèle aux morts français d'Outre-Mer,47.2213364,-1.5514816,node,3477341721
+Nantes,historic,Plaque aux prisonniers allemands de 1914-1918,47.2214232,-1.539188,node,3477519092
+Nantes,historic,Croix Bonneau,47.2098164,-1.59616,node,3477638693
+Nantes,historic,Sans nom,47.2213588,-1.5419659,node,3477638694
+Nantes,historic,Maison d'Edmond Biré,47.2161715,-1.5655366,node,3479221319
+Nantes,historic,Maison d'enfance de Jules Verne,47.2144179,-1.5553183,node,3479221320
+Nantes,historic,Plaque aux défenseurs de l'école publique et laïque,47.2208068,-1.5612038,node,3479221321
+Nantes,historic,Plaque à Michel Dabat,47.2228538,-1.5557323,node,3493143793
+Nantes,historic,Plaque à Marion Cahour,47.2206363,-1.5590555,node,3523601949
+Nantes,historic,Sans nom,47.2203285,-1.5589956,node,3523601983
+Nantes,historic,Plaque à Jules Verne,47.2016221,-1.577268,node,3523697734
+Nantes,historic,Plaque aux morts des PTT,47.218058,-1.5589497,node,3523707602
+Nantes,historic,Blason de la ville de Nantes,47.2250635,-1.5638321,node,3524434451
+Nantes,historic,Centenaire de l'École Mutuelle,47.2186115,-1.5664197,node,3524434452
+Nantes,historic,Emplacement de la cour Catuit,47.2232328,-1.5637547,node,3524434453
+Nantes,historic,Maison de Marion Cahour,47.2201372,-1.5595041,node,3524434454
+Nantes,historic,Maison de Paul Birien,47.2232233,-1.5709981,node,3524434455
+Nantes,historic,Plaque aux défenseurs de l'école publique et laïque,47.2250394,-1.5638632,node,3524434456
+Nantes,historic,Bataille de Nantes,47.2217672,-1.5626801,node,3524559054
+Nantes,historic,Stèle de Louis Schloessinger,47.2437817,-1.5566662,node,3527239646
+Nantes,historic,Buste de Marin Poirier,47.2349003,-1.50304,node,3540222643
+Nantes,historic,Socle de la statue de Jules Durand,47.2199042,-1.5361562,node,3540222644
+Nantes,historic,Sans nom,47.2359332,-1.5057619,node,3540241758
+Nantes,historic,Sans nom,47.2360124,-1.5038671,node,3540241759
+Nantes,historic,Plaque aux Fusillés du Champ de Tir du Bêle,47.2605458,-1.5125787,node,3542089539
+Nantes,historic,Les Otages,47.26032,-1.5124828,node,3542089546
+Nantes,historic,Maison de Jean-Baptiste Ceineray,47.2136797,-1.558791,node,3567188390
+Nantes,historic,Buste du Général Buat,47.228793,-1.54005,node,3588729409
+Nantes,historic,Première pierre de l'I.R.E.S.T.E.,47.281877,-1.5165279,node,3597953770
+Nantes,historic,Emplacement de l'aumônerie de Toussaints,47.2053662,-1.5485542,node,3606167954
+Nantes,historic,Plaque à Louis Pommeraye,47.2137003,-1.56026,node,3607007571
+Nantes,historic,Plaque aux agents SNCF résistants,47.217698,-1.5415545,node,3608171379
+Nantes,historic,Plaque aux agents SNCF tués par faits de guerre,47.2176959,-1.5415652,node,3608171380
+Nantes,historic,Plaque aux cheminots de Nantes État morts pour la France,47.217699,-1.5415499,node,3608171381
+Nantes,historic,Plaque aux enfants victimes des bombardements de 1943,47.2176952,-1.5415687,node,3608171382
+Nantes,historic,Plaque à Pierre Semard,47.217697,-1.5415597,node,3608171383
+Nantes,historic,La Loire et ses Affluents,47.2144944,-1.5583417,node,3610328592
+Nantes,historic,Emplacement de l'exécution de Charette,47.2211884,-1.5630684,node,3622673167
+Nantes,historic,Plaque à Charles Monselet,47.2130052,-1.5616799,node,3622673168
+Nantes,historic,Plaque à Michel Langlois,47.2092712,-1.555561,node,3622673169
+Nantes,historic,Plaque à Étienne Destranges,47.21344,-1.5620722,node,3622673170
+Nantes,historic,Temple du Goût,47.2127029,-1.5569615,node,3622673171
+Nantes,historic,Plaque à Lucie Aubrac,47.2078346,-1.5993701,node,3644868805
+Nantes,historic,Plaque à Anne de Bretagne,47.2158446,-1.5497582,node,3644889907
+Nantes,historic,Plaque à Jean-Joseph-Louis Graslin,47.2134425,-1.5623855,node,3644923003
+Nantes,historic,Pont Georges Clemenceau,47.2004546,-1.5341274,node,3644937783
+Nantes,historic,Plaque aux Acadiens,47.1992327,-1.5929974,node,3646771511
+Nantes,historic,Clinique Notre-Dame de Lorette,47.2195123,-1.5466539,node,3651702491
+Nantes,historic,Lieu de départ du 65e Régiment d'Infanterie,47.2263399,-1.5493445,node,3651702492
+Nantes,historic,Maison d'Olivier Messiaen,47.2289164,-1.5432055,node,3651702493
+Nantes,historic,Monastère de la Visitation,47.2201846,-1.5473525,node,3651702494
+Nantes,historic,Pont Aristide Briand,47.2108702,-1.5429137,node,3651702495
+Nantes,historic,Sans nom,47.1848395,-1.5463955,node,3653443455
+Nantes,historic,Plaque aux fusillés et déportés,47.1914717,-1.5483574,node,3653504793
+Nantes,historic,Stèle à Jean Moulin et de ses camarades,47.1914518,-1.5483394,node,3653504794
+Nantes,historic,Sans nom,47.1914489,-1.5483123,node,3653504818
+Nantes,historic,Plaque aux veuves et orphelins de guerre,47.1914706,-1.5483515,node,3653505232
+Nantes,historic,Sans nom,47.1932639,-1.5175499,node,3654796374
+Nantes,historic,Achat du parc de Procé,47.2237532,-1.584442,node,3676962577
+Nantes,historic,Inauguration du Rucher École Jacques Baudrillart,47.1992011,-1.5836724,node,3676962578
+Nantes,historic,Parc de Procé,47.2230611,-1.5812246,node,3676962579
+Nantes,historic,Plaque à Julie Bouchaud,47.2166337,-1.578618,node,3676962580
+Nantes,historic,Folie de Barbin,47.2279902,-1.5536213,node,3679607284
+Nantes,historic,Inauguration de la Mairie,47.2065035,-1.5882956,node,3679607285
+Nantes,historic,Construction du musée des Beaux-Arts,47.2199108,-1.5476097,node,3679607286
+Nantes,historic,Édification de la Mairie,47.2064743,-1.5882998,node,3679607293
+Nantes,historic,Pose de la première pierre de la Faculté de Chirurgie Dentaire,47.21193,-1.5536703,node,3679618838
+Nantes,historic,Monument aux morts de 1870,47.2174384,-1.5481589,node,3683166966
+Nantes,historic,Plaque à l'équipage d'un Potez 63-11,47.2037238,-1.5086707,node,3750708318
+Nantes,historic,Léon Bureau,47.2236049,-1.5682603,node,3782356867
+Nantes,historic,Philippe Gengembre,47.2218907,-1.5657424,node,3782356868
+Nantes,historic,Yvonne Pouzin,47.2235448,-1.5665771,node,3782356869
+Nantes,historic,Édouard Dufour,47.2221509,-1.5681655,node,3782356870
+Nantes,historic,Charles Bertrand-Geslin,47.2220741,-1.566941,node,3782384659
+Nantes,historic,Frédéric Cailliaud,47.2221983,-1.5669437,node,3782384660
+Nantes,historic,Ambroise Laënnec,47.2221925,-1.5671974,node,3782710573
+Nantes,historic,Camille Berruyer,47.223521,-1.5675936,node,3782710574
+Nantes,historic,Louis Bureau,47.2232224,-1.5685464,node,3782710575
+Nantes,historic,Louis-Henri Bourgault-Ducoudray,47.2218649,-1.5672038,node,3782710576
+Nantes,historic,Théophile Laënnec,47.2222029,-1.5671895,node,3782710577
+Nantes,historic,Plaque aux victimes des bombardements,47.2156571,-1.5605259,node,3790808765
+Nantes,historic,Plaque à Charette,47.2307008,-1.5651879,node,3790808766
+Nantes,historic,Frédéric Huette,47.222334,-1.5666445,node,3792677579
+Nantes,historic,Jumelage des mémorials acadiens de Nantes et St Martinville,47.2022561,-1.5778168,node,3796946258
+Nantes,historic,Chapelle Saint-Étienne,47.2289612,-1.5424524,node,3797248529
+Nantes,historic,Plaque aux Enfants Nantais,47.2246695,-1.5448775,node,3797248530
+Nantes,historic,Sans nom,47.2246734,-1.5449108,node,3797248534
+Nantes,historic,Sans nom,47.2246828,-1.5449034,node,3797248535
+Nantes,historic,Pierre du phare de l'ile de Sein,47.2186046,-1.5542354,node,3798499969
+Nantes,historic,Stèles aux victimes des fusillades de Nantes,47.2169976,-1.5760238,node,3798499970
+Nantes,historic,Sans nom,47.2169915,-1.5759875,node,3798499971
+Nantes,historic,Sans nom,47.2169935,-1.5760285,node,3798499972
+Nantes,historic,Discours de Clemenceau,47.2195508,-1.5456501,node,3822067268
+Nantes,historic,Plaque au chef d'escadron Frot,47.2250528,-1.5375524,node,3837847937
+Nantes,historic,Plaque à Luc Denis,47.2236103,-1.5267878,node,3837847938
+Nantes,historic,Sans nom,47.2245117,-1.5363267,node,3837847939
+Nantes,historic,Bicentenaire du Lycée Clemenceau,47.2192665,-1.5454641,node,3838330094
+Nantes,historic,Centenaire du Lycée de Nantes,47.2192616,-1.5454769,node,3838330095
+Nantes,historic,Centenaire du Lycée de Nantes,47.2192804,-1.5454278,node,3838330096
+Nantes,historic,Sesqui-centenaire du Lycée Georges Clemenceau,47.2195233,-1.5457211,node,3838330097
+Nantes,historic,Inauguration de l'asile Sainte-Anne,47.2242001,-1.5602867,node,3861743757
+Nantes,historic,Dénomination du Lycée Georges Clemenceau,47.2195612,-1.5456243,node,3866120782
+Nantes,historic,Plaque à Étienne Larcher,47.2110008,-1.5620524,node,3866139345
+Nantes,historic,"Plaque à Jean-Marie Durand-Gasselin, François Foltz et Philippe Ranson",47.2219588,-1.5653956,node,3866978264
+Nantes,historic,Statue d'Henri le Navigateur,47.2131613,-1.5583509,node,3866978265
+Nantes,historic,Buste d'Auguste de Caumont,47.2195368,-1.545896,node,3867862262
+Nantes,historic,Buste de l'abbé Follioley,47.2194909,-1.5458597,node,3867862263
+Nantes,historic,Buste de Camille Mellinet,47.2109852,-1.5620301,node,3887000590
+Nantes,historic,Buste de Philippe Gengembre,47.2125409,-1.5647668,node,3887000591
+Nantes,historic,Plaque à Auguste Lacaussade,47.2190763,-1.5636625,node,3887000592
+Nantes,historic,Plaque à Camille Mellinet,47.2109893,-1.5620188,node,3887000593
+Nantes,historic,Plaque au colonel Desgrées du Loû,47.2197614,-1.5483908,node,3888527540
+Nantes,historic,Plaque aux soldats de 1914-1918,47.2153989,-1.5542214,node,3888527541
+Nantes,historic,Plaque au personnel de l'Hôpital des Armées Broussais,47.226421,-1.5222521,node,3889498688
+Nantes,historic,Plaque aux soldats de 1914-1918,47.2257196,-1.5232258,node,3889521826
+Nantes,historic,Plaque aux soldats de 1914-1918,47.2257429,-1.5232413,node,3889521827
+Nantes,historic,Plaque aux soldats britanniques de 1914-1918,47.2181956,-1.5501572,node,3890361550
+Nantes,historic,Tombeau de François II et Marguerite de Foix,47.2182245,-1.5501159,node,3890361551
+Nantes,historic,Plaque aux soldats de 1914-1918,47.2103902,-1.5690381,node,3890837206
+Nantes,historic,Plaque aux soldats de 1914-1918,47.2104279,-1.5688727,node,3890837207
+Nantes,historic,Plaque à Baptiste Marcet,47.2173174,-1.6019731,node,3890837208
+Nantes,historic,Plaque à Léon Thomas,47.212543,-1.5612409,node,3895899436
+Nantes,historic,Sans nom,47.2074409,-1.5556802,node,3901246341
+Nantes,historic,Plaque aux morts de l'école Saint-Stanislas,47.2228427,-1.5557506,node,3905732407
+Nantes,historic,Plaque aux morts de l'école Saint-Stanislas,47.2228661,-1.5557182,node,3905732408
+Nantes,historic,Stèle du chanoine Guillou,47.2228574,-1.5557437,node,3905732409
+Nantes,historic,Sans nom,47.2474102,-1.4914816,node,3952550806
+Nantes,historic,Sans nom,47.248323,-1.4912007,node,3952550826
+Nantes,historic,Sans nom,47.2479522,-1.4892605,node,3952648764
+Nantes,historic,Sans nom,47.1901531,-1.5472195,node,3952816177
+Nantes,historic,Sans nom,47.1852504,-1.5478713,node,3952816185
+Nantes,historic,Sans nom,47.1904975,-1.5644112,node,3954250514
+Nantes,historic,Sans nom,47.1907327,-1.5631493,node,3954250523
+Nantes,historic,Plaque à Auguste Blouin,47.1944885,-1.5359893,node,3954359713
+Nantes,historic,Plaque à Élisa Mercœur,47.2144435,-1.5505231,node,3954359714
+Nantes,historic,Inauguration de la Résidence Les Hauts de Talensac,47.2204253,-1.5578414,node,3954359715
+Nantes,historic,Sans nom,47.1960316,-1.5323951,node,3954388590
+Nantes,historic,Sans nom,47.1951192,-1.531957,node,3954388592
+Nantes,historic,Sans nom,47.2026915,-1.5797159,node,3995140191
+Nantes,historic,Construction de l'Asile Sainte-Anne,47.224295,-1.5600916,node,3997640246
+Nantes,historic,Adolphe Bobierre,47.222318,-1.5663667,node,4016946696
+Nantes,historic,Luc-Augustin Bacqua,47.2224835,-1.5669215,node,4016946698
+Nantes,historic,Sans nom,47.1834325,-1.5334449,node,4038919537
+Nantes,historic,Pont Eric-Tabarly,47.2115199,-1.5287367,node,4049259649
+Nantes,historic,Toussaint Louverture,47.1949856,-1.6162134,node,4057385525
+Nantes,historic,Sans nom,47.2104384,-1.5021623,node,4077311043
+Nantes,historic,Plaque de l'inauguration du pont Léopold-Sedar-Senghor,47.2049824,-1.523636,node,4078093612
+Nantes,historic,Sans nom,47.2011838,-1.5244437,node,4078142976
+Nantes,historic,Sans nom,47.2130642,-1.5838536,node,4078170265
+Nantes,historic,Plaque aux combattants d'Afrique du Nord,47.2090928,-1.5705085,node,4079997501
+Nantes,historic,Plaque à Gilbert Grangeat,47.2135405,-1.5655875,node,4079997502
+Nantes,historic,Plaque à Jean-Pierre Kernéis,47.2102134,-1.5559441,node,4079997503
+Nantes,historic,Sans nom,47.221514,-1.5561002,node,4136384602
+Nantes,historic,Sans nom,47.2246194,-1.5587628,node,4136384603
+Nantes,historic,Sans nom,47.2253972,-1.5594247,node,4136384604
+Nantes,historic,Sans nom,47.2262078,-1.5601168,node,4136384605
+Nantes,historic,Sans nom,47.2269488,-1.5607573,node,4136572489
+Nantes,historic,Sans nom,47.2277266,-1.5614203,node,4136572490
+Nantes,historic,Sans nom,47.2285086,-1.5620723,node,4136572491
+Nantes,historic,Sans nom,47.2300812,-1.5633515,node,4136572492
+Nantes,historic,Sans nom,47.2316451,-1.5646526,node,4136572493
+Nantes,historic,Sans nom,47.2355559,-1.5679055,node,4136572494
+Nantes,historic,Sans nom,47.236338,-1.5685557,node,4136572495
+Nantes,historic,Sans nom,47.2371143,-1.5692221,node,4136572496
+Nantes,historic,Sans nom,47.2378577,-1.5699641,node,4136572497
+Nantes,historic,Sans nom,47.2408336,-1.5729309,node,4136572498
+Nantes,historic,Sans nom,47.2416026,-1.5736142,node,4136572499
+Nantes,historic,Sans nom,47.2424047,-1.5742091,node,4136572500
+Nantes,historic,Plaque inaugurale du jardin coréen « La Colline de Suncheon »,47.2298074,-1.508476,node,4143048347
+Nantes,historic,Sans nom,47.2294107,-1.5072542,node,4143048348
+Nantes,historic,Plaque à la maison de l'enfance,47.2262522,-1.5107606,node,4143048357
+Nantes,historic,Maison de Louis Choimet,47.1964344,-1.5389774,node,4144917030
+Nantes,historic,Plaque aux hospitaliers victimes du nazisme,47.1961943,-1.5371125,node,4144917031
+Nantes,historic,Sans nom,47.1960658,-1.5386835,node,4144917032
+Nantes,historic,Achèvement du bâtiment central de l'hôpital Saint-Jacques,47.1969718,-1.5372377,node,4145351855
+Nantes,historic,Sans nom,47.2330799,-1.5658512,node,4146473103
+Nantes,historic,Blason de la ville de Nantes,47.2337218,-1.5608677,node,4157692941
+Nantes,historic,Monument aux morts de la Mutualité,47.2076076,-1.5638044,node,4163622204
+Nantes,historic,Buste de François René Dubuisson,47.2127768,-1.5649429,node,4164140449
+Nantes,historic,Centenaire du Mont de Piété,47.2178637,-1.5530131,node,4164140450
+Nantes,historic,Création du Mont de Piété,47.21785,-1.5529699,node,4164140451
+Nantes,historic,Monuments aux morts du SNUC,47.2292948,-1.5808792,node,4164140452
+Nantes,historic,Plaque à Pascal Laporte,47.2280426,-1.5808058,node,4164140453
+Nantes,historic,Plaque à l'abbé Émile Tinier,47.2310662,-1.5557204,node,4164140454
+Nantes,historic,Stèle de la fondation du SNUC et du stade de Malville,47.2284169,-1.5807384,node,4164140455
+Nantes,historic,Plaque à l'Evèque Saint-Félix,47.2311555,-1.5559048,node,4164140457
+Nantes,historic,Sans nom,47.220675,-1.5333377,node,4167472289
+Nantes,historic,Sans nom,47.184736,-1.5428612,node,4185392522
+Nantes,historic,Sans nom,47.1857143,-1.5425466,node,4185422833
+Nantes,historic,Blason de la ville de Nantes,47.2388726,-1.5562934,node,4188327277
+Nantes,historic,Blason de la ville de Nantes,47.2388996,-1.5564809,node,4188327278
+Nantes,historic,Sans nom,47.2349487,-1.5614541,node,4188327279
+Nantes,historic,Sans nom,47.2298408,-1.5691235,node,4190893191
+Nantes,historic,Première pierre Résidence de la Madeleine,47.2031046,-1.5471859,node,4192572919
+Nantes,historic,Sans nom,47.2316637,-1.5597875,node,4192645465
+Nantes,historic,Statue de la Vierge,47.2314778,-1.5576131,node,4194403543
+Nantes,historic,Sans nom,47.2315652,-1.5575416,node,4194403544
+Nantes,historic,Sans nom,47.23207,-1.5537855,node,4194403545
+Nantes,historic,Sans nom,47.231252,-1.5575555,node,4194403546
+Nantes,historic,Sans nom,47.2489687,-1.577359,node,4198654442
+Nantes,historic,Sans nom,47.2298551,-1.5591058,node,4198707094
+Nantes,historic,Cent-cinquantenaire de l'école Saint-Félix,47.2318601,-1.5580343,node,4198756654
+Nantes,historic,Centenaire de l'école Saint-Félix,47.2318259,-1.5582051,node,4198756655
+Nantes,historic,Plaque aux anciens élèves et à Adrien Delavigne,47.2318241,-1.5582062,node,4198756656
+Nantes,historic,Noyades de Nantes,47.2087213,-1.5669002,node,4200349289
+Nantes,historic,Plaque aux victimes des noyades de Nantes,47.2086888,-1.5670186,node,4200349290
+Nantes,historic,Grue Noire,47.1960446,-1.5877111,node,4200634653
+Nantes,historic,Blason de la ville de Nantes,47.2195715,-1.5372579,node,4202691051
+Nantes,historic,Sans nom,47.2218696,-1.5375146,node,4202691052
+Nantes,historic,Sans nom,47.2205019,-1.5382022,node,4202691053
+Nantes,historic,Sans nom,47.2309577,-1.5761814,node,4208039638
+Nantes,historic,Blason de la Ville de Nantes,47.224547,-1.5644819,node,4224721827
+Nantes,historic,Statue de la Vierge à l'enfant,47.2283522,-1.565987,node,4224721828
+Nantes,historic,Sans nom,47.2249474,-1.5591999,node,4224721829
+Nantes,historic,Sans nom,47.224609,-1.5628805,node,4224721830
+Nantes,historic,Sans nom,47.2260675,-1.562463,node,4224721831
+Nantes,historic,Sans nom,47.2353452,-1.5607419,node,4226087508
+Nantes,historic,Sans nom,47.2326793,-1.552113,node,4226087509
+Nantes,historic,Sans nom,47.2355533,-1.5610266,node,4226087571
+Nantes,historic,Sans nom,47.2393039,-1.5593374,node,4226087572
+Nantes,historic,Sans nom,47.2238438,-1.5536457,node,4243762589
+Nantes,historic,Sans nom,47.2281294,-1.5587861,node,4243762590
+Nantes,historic,Sans nom,47.2245322,-1.5565492,node,4243762598
+Nantes,historic,Sans nom,47.2351945,-1.565958,node,4254007546
+Nantes,historic,Sans nom,47.2350538,-1.565502,node,4254007547
+Nantes,historic,Sans nom,47.23741,-1.5659266,node,4254007548
+Nantes,historic,Arsène Leloup,47.2218956,-1.5665151,node,4337499522
+Nantes,historic,Eugène Orieux,47.2224084,-1.5661422,node,4337499523
+Nantes,historic,Jean-Baptiste Bréa,47.2219306,-1.5670233,node,4337499524
+Nantes,historic,Joseph-Fleury Chenantais,47.222147,-1.5679889,node,4337499525
+Nantes,historic,Pierre Cambronne,47.2221073,-1.5670871,node,4337499526
+Nantes,historic,Pierre Garnier,47.2217289,-1.5665151,node,4337499527
+Nantes,historic,Sylvain Royé,47.2224407,-1.5662656,node,4337499528
+Nantes,historic,Charles-François François,47.2222715,-1.5681569,node,4339109996
+Nantes,historic,Charles-Victor Mangin,47.2224837,-1.5687785,node,4339109997
+Nantes,historic,Eugène Livet,47.2237538,-1.5682997,node,4339109998
+Nantes,historic,Jules-Élie Delaunay,47.2219461,-1.5656114,node,4339109999
+Nantes,historic,Louis Babin-Chevaye,47.2226008,-1.5669183,node,4339110000
+Nantes,historic,Louis-Victor Mangin,47.2224942,-1.5687664,node,4339110001
+Nantes,historic,Léon Jost,47.2223091,-1.5659192,node,4339110002
+Nantes,historic,Thomas Dobrée fils,47.2218941,-1.5656644,node,4339110003
+Nantes,historic,Thomas Dobrée père,47.2219016,-1.5656845,node,4339110004
+Nantes,historic,Édouard Normand,47.2225538,-1.5687034,node,4339110005
+Nantes,historic,Plaque aux trois pendus,47.2203052,-1.5448927,node,4359403692
+Nantes,historic,Plaque de la Manufacture des Tabacs de Nantes aux morts pour la France et pour la Liberté,47.2192881,-1.5364311,node,4460561734
+Nantes,historic,Sans nom,47.1988233,-1.5156239,node,4485225623
+Nantes,historic,Monument aux Morts 14-18,47.2045598,-1.5044439,node,4485225624
+Nantes,historic,Sans nom,47.1807674,-1.5115838,node,4508362342
+Nantes,historic,Plaque à André Péneau,47.210087,-1.5728808,node,4523973868
+Nantes,historic,Plaque aux donateurs du muséum,47.2124185,-1.5648014,node,4524105365
+Nantes,historic,Plaque aux donateurs du muséum,47.2124914,-1.5645881,node,4524105366
+Nantes,historic,Plaque aux directeurs du muséum,47.2124239,-1.5648223,node,4524105367
+Nantes,historic,Buste de Frédéric Cailliaud,47.2127641,-1.5649343,node,4524105368
+Nantes,historic,Anna Philip,47.2218926,-1.5395152,node,4528574882
+Nantes,historic,Niveau maximal de la crue de 1872,47.2118263,-1.5597165,node,4547027386
+Nantes,historic,Niveau maximal de la crue de 1910,47.2113089,-1.5470759,node,4547027387
+Nantes,historic,Niveau maximal de la crue de 1872,47.2130787,-1.5509448,node,4547027388
+Nantes,historic,Niveau maximal de la crue de 1872,47.2086821,-1.5687973,node,4547028689
+Nantes,historic,Plaque aux Frères et Professeurs de Saint-Jean-Baptiste de la Salle,47.2125054,-1.5503911,node,4547031352
+Nantes,historic,Plaque aux victimes du devoir de la défense passive,47.2183599,-1.554128,node,4550584364
+Nantes,historic,Annexion et restauration de l'Hôtel de Rosmadec,47.2183372,-1.5541448,node,4550584365
+Nantes,historic,Plaque aux mutilés du travail,47.2181228,-1.5549881,node,4550584366
+Nantes,historic,Proclamation de la République française de 1870,47.2181227,-1.554977,node,4550584367
+Nantes,historic,Décernement de la Croix de la Libération,47.2181157,-1.5550749,node,4550584368
+Nantes,historic,Plaque aux employés municipaux morts pour la France et victimes de la guerre,47.2181175,-1.5549787,node,4550584369
+Nantes,historic,Plaque aux employés municipaux morts pour la patrie,47.2181175,-1.5549538,node,4550584370
+Nantes,historic,Buste de Gabriel Guist'hau,47.2180275,-1.5548612,node,4550584371
+Nantes,historic,Buste d'Aimable André Sibille,47.2180843,-1.5548789,node,4550584372
+Nantes,historic,Buste de Ferdinand Favre,47.2180681,-1.554918,node,4550584373
+Nantes,historic,Buste de Mathieu-Augustin Cornet,47.2180831,-1.5549327,node,4550584374
+Nantes,historic,Buste de Guillaume Harouys,47.2180926,-1.5549474,node,4550584375
+Nantes,historic,Buste de René Gaston Baco de La Chapelle,47.2180915,-1.5549957,node,4550584376
+Nantes,historic,Buste de Paul-Émile Sarradin,47.2180903,-1.555044,node,4550584377
+Nantes,historic,Buste de Gérard Mellier,47.2180892,-1.5550924,node,4550584378
+Nantes,historic,Buste de Rousseau de Saint-Aignan,47.218088,-1.5551407,node,4550584379
+Nantes,historic,Buste d'André Morice,47.2178251,-1.5547562,node,4550584380
+Nantes,historic,Plaque au Docteur Henri Zeiler,47.194738,-1.5784959,node,4756907383
+Nantes,historic,Blason de la Ville de Nantes,47.238391,-1.5701491,node,4827209008
+Nantes,historic,Blason de la Ville de Nantes,47.2249888,-1.5695494,node,4831316493
+Nantes,historic,Sans nom,47.2174571,-1.5540011,node,4840779286
+Nantes,historic,Pierre à Lisa Bresner,47.2258176,-1.5545467,node,4851325605
+Nantes,historic,Le cours Saint-André de 1762 à nos jours,47.221132,-1.5515774,node,4875012189
+Nantes,historic,Folie de Barbin,47.2272695,-1.5531751,node,4879494380
+Nantes,historic,Petit oratoire,47.2306157,-1.548525,node,4906440353
+Nantes,historic,Sans nom,47.2143837,-1.5545098,node,4965848912
+Nantes,historic,Sans nom,47.2137986,-1.5564889,node,4970043361
+Nantes,historic,Sans nom,47.2138931,-1.5562163,node,4970043362
+Nantes,historic,Sans nom,47.2125564,-1.5593113,node,5015623286
+Nantes,historic,Sans nom,47.1929906,-1.5289363,node,5075560970
+Nantes,historic,Centenaire de la fondation de l'École Saint-Nicolas,47.2160001,-1.5627351,node,5238719390
+Nantes,historic,Sans nom,47.2181581,-1.5502615,node,5387240576
+Nantes,historic,Cryptes de la Cathédrale,47.2184489,-1.5498043,node,5387240583
+Nantes,historic,Sans nom,47.2179169,-1.549838,node,5387240616
+Nantes,historic,Plaque aux étudiants serbes,47.2231053,-1.5812142,node,5388272722
+Nantes,historic,Première pierre de l'école des Beaux-Arts,47.2169689,-1.5541913,node,5388272723
+Nantes,historic,Camp du Petit Port,47.2444662,-1.5589669,node,5388272724
+Nantes,historic,Sans nom,47.2203319,-1.559207,node,5394731137
+Nantes,historic,Plaque à Jean-Baptiste Legeay,47.2203401,-1.5590789,node,5394731138
+Nantes,historic,Buste de Charles Monselet,47.2198491,-1.5475206,node,5394731139
+Nantes,historic,Aménagement de la bibliothèque municipale,47.219861,-1.5475293,node,5394731140
+Nantes,historic,Fondation de la bibliothèque municipale,47.2198915,-1.5475595,node,5394731141
+Nantes,historic,Sans nom,47.2222597,-1.5649731,node,5441490980
+Nantes,historic,Niveau maximal de la crue de 1910,47.2123397,-1.5484859,node,5445380637
+Nantes,historic,Niveau maximal de la crue de 1910,47.2126528,-1.5480296,node,5445380638
+Nantes,historic,Plaque aux morts pour la France de l'Amicale Saint-Similien,47.2203537,-1.5590528,node,5455397285
+Nantes,historic,Hélène Cadou,47.2218732,-1.5385047,node,5502652202
+Nantes,historic,Fontaine Wallace,47.2118943,-1.5636108,node,5503487302
+Nantes,historic,Stade de la Beaujoire Louis Fonteneau,47.2560955,-1.525846,node,5503662052
+Nantes,historic,Plaque à Gilles Bouyer,47.2174902,-1.5584083,node,5563116667
+Nantes,historic,Saint-Donatien et Saint-Rogatien,47.2287218,-1.5434966,node,5593427621
+Nantes,historic,Sans nom,47.2279889,-1.5443335,node,5593427622
+Nantes,historic,Sans nom,47.2279638,-1.544597,node,5593427623
+Nantes,historic,Mary Osborn,47.2216605,-1.5657678,node,5646125688
+Nantes,historic,Stèle de René Terrière,47.270948,-1.6355153,node,5768890662
+Nantes,historic,Première pierre de la résidence Le Bout des Pavés,47.2535252,-1.5767587,node,5775929400
+Nantes,historic,Plaque à Irène Jaumillot,47.213488,-1.5622246,node,5791153456
+Nantes,historic,Sans nom,47.2245735,-1.5622451,node,5846318561
+Nantes,historic,Gérard Voisin (Sculpteur),47.2213711,-1.5554986,node,5863741480
+Nantes,historic,Sans nom,47.2425823,-1.5287523,node,5863854519
+Nantes,historic,Sans nom,47.225638,-1.5373429,node,6015439986
+Nantes,historic,Sans nom,47.26001,-1.5670427,node,6105546189
+Nantes,historic,Buste de Jacques Mauduit,47.2120878,-1.5688603,node,6359456915
+Nantes,historic,Plaque à Eugène Livet,47.211993,-1.5682148,node,6359456924
+Nantes,historic,Buste d'Eugène Livet,47.2121522,-1.5680636,node,6359456925
+Nantes,historic,Sans nom,47.2769788,-1.5533041,node,6486773290
+Nantes,historic,Sans nom,47.2072826,-1.5597579,node,6652979789
+Nantes,historic,Sans nom,47.2243529,-1.5328919,node,6718627590
+Nantes,historic,Sans nom,47.2213353,-1.6311139,node,6775010788
+Nantes,historic,Jacques Vaché,47.2132805,-1.562698,node,7140845523
+Nantes,historic,Sans nom,47.2901088,-1.5857146,node,7203120904
+Nantes,historic,Sans nom,47.2307071,-1.6053579,node,7206380968
+Nantes,historic,Sans nom,47.269401,-1.519063,node,7230107097
+Nantes,historic,Sans nom,47.2790212,-1.6407704,node,7405790274
+Nantes,historic,Sans nom,47.2663425,-1.5135514,node,7412668168
+Nantes,historic,Sans nom,47.1999178,-1.4832579,node,7414880113
+Nantes,historic,Jacques Cassard,47.2130746,-1.5583272,node,7620332399
+Nantes,historic,Abraham Duquesne,47.21306,-1.5582983,node,7620332400
+Nantes,historic,René Duguay-Trouin,47.2130454,-1.5582694,node,7620332401
+Nantes,historic,Jean Bart,47.2130307,-1.5582405,node,7620332402
+Nantes,historic,Sans nom,47.1950967,-1.5764349,node,7737028712
+Nantes,historic,Domus et Boutique Gallo Romaine,47.1892887,-1.5711844,node,7904895769
+Nantes,historic,Sans nom,47.2687381,-1.5463026,node,8637489182
+Nantes,historic,Sans nom,47.293923,-1.5921439,node,8637956899
+Nantes,historic,Sans nom,47.2794292,-1.5667702,node,8637956900
+Nantes,historic,Sans nom,47.2767444,-1.624556,node,8637956901
+Nantes,historic,Sans nom,47.1859099,-1.5642958,node,8655786374
+Nantes,historic,Sans nom,47.2202948,-1.5588028,node,8725328378
+Nantes,historic,Sans nom,47.2196225,-1.5591868,node,8726113222
+Nantes,historic,Sans nom,47.2194317,-1.5590724,node,8726113223
+Nantes,historic,Sans nom,47.2243664,-1.5525843,node,8728517529
+Nantes,historic,Sans nom,47.2267339,-1.5598493,node,8728517531
+Nantes,historic,Sans nom,47.2149107,-1.5616446,node,8728543776
+Nantes,historic,Sans nom,47.2226745,-1.5632695,node,8746588787
+Nantes,historic,Sans nom,47.2177968,-1.5555671,node,8746588789
+Nantes,historic,Sans nom,47.2163492,-1.5529228,node,8746588790
+Nantes,historic,Monuments aux morts,47.2358864,-1.5569794,node,8769257819
+Nantes,historic,Sans nom,47.211134,-1.5236762,node,8776508986
+Nantes,historic,Sans nom,47.2608316,-1.624477,node,8790505977
+Nantes,historic,Sans nom,47.2708059,-1.6223001,node,8790506033
+Nantes,historic,Sans nom,47.1989221,-1.5108865,node,8849329188
+Nantes,historic,Sans nom,47.2158137,-1.5931768,node,8891284938
+Nantes,historic,Sans nom,47.2117388,-1.5361266,node,8933214966
+Nantes,historic,Sans nom,47.1919121,-1.5651959,node,8959200467
+Nantes,historic,Sans nom,47.2283566,-1.5449163,node,8972784888
+Nantes,historic,Sans nom,47.2309865,-1.5434192,node,8972792149
+Nantes,historic,Sans nom,47.2746346,-1.51368,node,8996746593
+Nantes,historic,Alexandre Fourny,47.2235891,-1.5664067,node,9782253062
+Nantes,historic,Camille de Jésus,47.2235831,-1.5670753,node,9782253063
+Nantes,historic,Sans nom,47.2439987,-1.5539012,node,9851329612
+Nantes,historic,Ici vécut,47.2141986,-1.559343,node,9870678428
+Nantes,historic,Sans nom,47.2045782,-1.5626911,node,10060307482
+Nantes,historic,Buste de Pierre Haudaudine,47.2133201,-1.5591339,node,10140126244
+Nantes,historic,Buste de Mathurin Crucy,47.213564,-1.5598983,node,10140126245
+Nantes,historic,Buste de Jean-Baptiste Ceineray,47.2136453,-1.5601521,node,10140126246
+Nantes,historic,Reconstruction du Palais de la Bourse,47.2125986,-1.5585639,node,10140987296
+Nantes,historic,Construction du Palais de la Bourse,47.2127293,-1.5588315,node,10140987297
+Nantes,historic,Buste d'Apelle,47.2119641,-1.5621571,node,10141167627
+Nantes,historic,Buste de Praxitèle,47.2119942,-1.5621983,node,10141167628
+Nantes,historic,Buste de Pamphile,47.212045,-1.5620267,node,10141167629
+Nantes,historic,Buste de Polydore,47.2120741,-1.5620662,node,10141167630
+Nantes,historic,Construction du théâtre Graslin,47.2133718,-1.5623499,node,10141763590
+Nantes,historic,Statue de Molière,47.2134408,-1.5621698,node,10141763591
+Nantes,historic,Statue de Corneille,47.2134417,-1.5622838,node,10141763592
+Nantes,historic,Fondation du Palais de Justice,47.2175332,-1.5632209,node,10144479935
+Nantes,historic,Sans nom,47.2493713,-1.4839397,node,10222062968
+Nantes,historic,Sans nom,47.2180233,-1.6147414,node,11167486574
+Nantes,historic,Sans nom,47.201284,-1.4850366,node,11494410622
+Nantes,historic,Sans nom,47.2116434,-1.522702,node,11585353816
+Nantes,historic,Sans nom,47.2293322,-1.5417594,node,11663316515
+Nantes,historic,Sans nom,47.2494647,-1.4837694,node,11756931095
+Nantes,historic,Sans nom,47.2822901,-1.556237,node,11761676486
+Nantes,historic,Sans nom,47.2929872,-1.5542342,node,11825180142
+Nantes,historic,Sans nom,47.2335953,-1.533664,node,11918044933
+Nantes,historic,Plaque aux fusillés au Bêle,47.2604864,-1.5124314,node,12045366164
+Nantes,historic,Sans nom,47.2913349,-1.5067095,node,12050689975
+Nantes,historic,Sans nom,47.2025562,-1.5527748,node,12066168860
+Nantes,historic,Sans nom,47.2143368,-1.5848598,node,12066368185
+Nantes,historic,Sans nom,47.2169996,-1.5751817,node,12066541925
+Nantes,historic,Sans nom,47.213852,-1.5989187,node,12081755855
+Nantes,historic,Sans nom,47.1853279,-1.5282998,node,12178333705
+Nantes,historic,Sans nom,47.1928869,-1.5386375,node,12178393919
+Nantes,historic,Sans nom,47.1923361,-1.5376322,node,12178451463
+Nantes,historic,Sans nom,47.1923154,-1.5376103,node,12178455730
+Nantes,historic,Sans nom,47.1922976,-1.5375914,node,12178474800
+Nantes,historic,Sans nom,47.2075169,-1.532302,node,12189546760
+Nantes,historic,Sans nom,47.2170781,-1.5468204,node,12246609987
+Nantes,historic,Sans nom,47.2552135,-1.5771373,node,12248417300
+Nantes,historic,Sans nom,47.2549484,-1.5768083,node,12248448754
+Nantes,historic,Sans nom,47.2524673,-1.5703643,node,12248478057
+Nantes,historic,Monument aux résistants déportés internés,47.2522842,-1.5705606,node,12248513957
+Nantes,historic,Sans nom,47.2147226,-1.5510042,node,12290233528
+Nantes,historic,Sans nom,47.2731997,-1.6303596,node,12616824404
+Nantes,historic,Sans nom,47.2176942,-1.5455249,node,12709620203
+Nantes,historic,Sans nom,47.2183238,-1.5529962,node,12731572883
+Nantes,historic,Sans nom,47.2182619,-1.5523139,node,12731608765
+Nantes,historic,Sans nom,47.2140886,-1.5596615,node,12825835843
+Nantes,historic,Sans nom,47.2302281,-1.5584113,node,12828792352
+Nantes,historic,Sans nom,47.2273479,-1.5433123,node,12828880415
+Nantes,historic,Sans nom,47.1962375,-1.5538791,node,12875538467
+Nantes,historic,Sans nom,47.1967335,-1.5558425,node,12875577381
+Nantes,historic,Sans nom,47.1952086,-1.5814946,node,12875706414
+Nantes,historic,Sans nom,47.1923148,-1.5460911,node,12881770411
+Nantes,historic,Lieu de naissance de Jean-Baptiste Daviais,47.190575,-1.571995,node,12903772089
+Nantes,historic,Sans nom,47.2794802,-1.5667064,node,12945138011
+Nantes,historic,Moulin de la Verrière,47.2798025,-1.5666142,node,12945138012
+Nantes,historic,Sans nom,47.2798225,-1.5668926,node,12945138013
+Nantes,historic,Sans nom,47.2146807,-1.545659,node,12951636997
+Nantes,historic,Lefèvre-Utile,47.2226754,-1.5664697,node,13013384202
+Nantes,historic,Sans nom,47.2210503,-1.5482505,node,13027097874
+Nantes,historic,Sans nom,47.2187874,-1.5574553,node,13058611842
+Nantes,historic,Sans nom,47.2393799,-1.5680875,node,13061955969
+Nantes,historic,Sans nom,47.2260346,-1.5362962,node,13069553552
+Nantes,historic,Sans nom,47.2249816,-1.5257845,node,13069556029
+Nantes,historic,Sans nom,47.2222089,-1.5443984,node,13069569022
+Nantes,historic,Sans nom,47.2248004,-1.5416789,node,13069570662
+Nantes,historic,Sans nom,47.2249957,-1.5413599,node,13071423508
+Nantes,historic,Sans nom,47.2175754,-1.5515791,node,13073025730
+Nantes,historic,Sans nom,47.2174615,-1.551651,node,13073040673
+Nantes,historic,Sans nom,47.2173424,-1.5517141,node,13073043521
+Nantes,historic,Sans nom,47.2231981,-1.5464625,node,13076104480
+Nantes,historic,Sans nom,47.2237308,-1.5465577,node,13076104483
+Nantes,historic,Sans nom,47.1891009,-1.5460995,node,13076274239
+Nantes,historic,Sans nom,47.2080252,-1.5361147,node,13081629035
+Nantes,historic,Sans nom,47.2198716,-1.540877,node,13084886465
+Nantes,historic,Sans nom,47.220759,-1.586117,node,13094665397
+Nantes,historic,Sans nom,47.2214145,-1.5729551,node,13094716169
+Nantes,historic,Sans nom,47.219872,-1.5721565,node,13094788140
+Nantes,historic,Sans nom,47.2215005,-1.5734099,node,13094801112
+Nantes,historic,Sans nom,47.2161172,-1.5654301,node,13094860715
+Nantes,historic,Sans nom,47.2157458,-1.5647027,node,13094865636
+Nantes,historic,Sans nom,47.2168548,-1.5503677,node,13094891847
+Nantes,historic,Sans nom,47.2121427,-1.5501541,node,13128279558
+Nantes,historic,Sans nom,47.2204224,-1.5544852,node,13131342382
+Nantes,historic,Sans nom,47.2388377,-1.5386311,node,13134644623
+Nantes,historic,Sans nom,47.2295714,-1.5446113,node,13134730553
+Nantes,historic,Sans nom,47.2274104,-1.566098,node,13136627916
+Nantes,historic,Sans nom,47.2274112,-1.5660955,node,13136635608
+Nantes,historic,Maison Dobrée,47.2125911,-1.5664193,way,28735810
+Nantes,historic,Théâtre Graslin,47.2136459,-1.5622227,way,28770310
+Nantes,historic,Palais de la Bourse,47.2128407,-1.5585111,way,28775337
+Nantes,historic,Château de la Gaudinière,47.2433958,-1.5782374,way,29300540
+Nantes,historic,Sans nom,47.2392877,-1.5193889,way,44746122
+Nantes,historic,Sans nom,47.2391229,-1.5196131,way,44746123
+Nantes,historic,Manoir de la Hautière,47.2028992,-1.5827956,way,52421669
+Nantes,historic,CAP 44,47.1999311,-1.5791826,way,58929883
+Nantes,historic,Folie de la Gibraye,47.207292,-1.5164973,way,65224192
+Nantes,historic,Sans nom,47.2119737,-1.5684811,way,74544959
+Nantes,historic,Sans nom,47.212352,-1.567868,way,74545874
+Nantes,historic,Immeuble CGA,47.2141535,-1.564174,way,74609761
+Nantes,historic,Blockhaus DY10,47.2068639,-1.5642575,way,74719772
+Nantes,historic,Maison Avril et Fiteau,47.2081977,-1.5626149,way,74720868
+Nantes,historic,Villa de la Chantrerie,47.2874417,-1.5259305,way,82461527
+Nantes,historic,Sans nom,47.2935838,-1.5263254,way,82462166
+Nantes,historic,Manoir du Ranzay,47.2538174,-1.530429,way,82542988
+Nantes,historic,Sans nom,47.2397063,-1.555906,way,83057929
+Nantes,historic,Sans nom,47.2332451,-1.5459646,way,83868062
+Nantes,historic,Sans nom,47.2338353,-1.5545358,way,84097569
+Nantes,historic,Bateau Lavoir,47.2313314,-1.5494807,way,84098271
+Nantes,historic,Ancienne salle de spectacle de Bel-Air,47.223927,-1.558906,way,84134248
+Nantes,historic,Hôtel Leglas-Maurice,47.2284516,-1.561342,way,84135816
+Nantes,historic,Ancien octroi de la ville de Nantes,47.2384004,-1.5700529,way,84692349
+Nantes,historic,Chapelle Saint-Lupien,47.1920572,-1.5656387,way,84704570
+Nantes,historic,Ni haïr ni trahir,47.1903219,-1.5656335,way,84712086
+Nantes,historic,Château de la Close,47.2421207,-1.5749281,way,84875261
+Nantes,historic,Hôtel de Monti,47.218587,-1.5538256,way,85437591
+Nantes,historic,Hôtel Cazenove de Pradines,47.2185911,-1.5480352,way,85437647
+Nantes,historic,Ancienne chapelle du Martray,47.2195574,-1.5605072,way,85438489
+Nantes,historic,Sans nom,47.2165346,-1.5623846,way,85438785
+Nantes,historic,Bâtiment Saint-Léonard,47.2187442,-1.5550014,way,85440946
+Nantes,historic,La Psalette,47.2179561,-1.5499911,way,85441328
+Nantes,historic,Hôtel de la Pilorgerie,47.2187332,-1.5477358,way,85441414
+Nantes,historic,Sans nom,47.2199569,-1.5646497,way,85945917
+Nantes,historic,Sans nom,47.2245549,-1.5643212,way,85947435
+Nantes,historic,Hôtel Viarme,47.2222125,-1.5645895,way,85947486
+Nantes,historic,Sans nom,47.2168989,-1.5636118,way,86153231
+Nantes,historic,Sans nom,47.2156839,-1.5634071,way,86153471
+Nantes,historic,Château de la Bouvardière,47.2378725,-1.5993215,way,95519074
+Nantes,historic,Château de La Gobinière,47.2492965,-1.5846105,way,95713846
+Nantes,historic,Château de la Morlière,47.2553085,-1.5961705,way,95717678
+Nantes,historic,Manoir de la Cholière,47.2569285,-1.603976,way,95720706
+Nantes,historic,Mausolée de Claude-Antoine Peccot,47.2669497,-1.6200192,way,95724521
+Nantes,historic,Château du Loret,47.278736,-1.6135195,way,95731651
+Nantes,historic,Maillé-Brézé,47.2067047,-1.5716645,way,97962232
+Nantes,historic,Sans nom,47.2316068,-1.6150408,way,99270790
+Nantes,historic,Château de Bel-Air,47.2694345,-1.487819,way,129160522
+Nantes,historic,Château de l'Epinay,47.287746,-1.4903525,way,129161699
+Nantes,historic,Sans nom,47.2725355,-1.5352605,way,129564141
+Nantes,historic,Château de l'Hopitau,47.270265,-1.553099,way,129569474
+Nantes,historic,Manoir de La Bégraisière,47.2317772,-1.6146637,way,135074164
+Nantes,historic,Sans nom,47.2352555,-1.6359045,way,135099763
+Nantes,historic,Colonne Louis XVI,47.2194968,-1.5498408,way,142532680
+Nantes,historic,Porte Saint-Pierre,47.2188669,-1.5502935,way,142570515
+Nantes,historic,Sans nom,47.2159949,-1.5497682,way,142921858
+Nantes,historic,Sans nom,47.2119794,-1.5691096,way,142976513
+Nantes,historic,Sans nom,47.2277489,-1.5616239,way,143355357
+Nantes,historic,Mémorial des soldats de Loire-Atlantique morts en Afrique du Nord 1952-1964,47.1949193,-1.545676,way,155897312
+Nantes,historic,Statue de Georges de Villebois-Mareuil,47.2124597,-1.5589112,way,174665146
+Nantes,historic,Statue du Général Mellinet,47.2113503,-1.5763707,way,174759805
+Nantes,historic,Statue du Général Cambronne,47.2119431,-1.5631921,way,174798644
+Nantes,historic,Ancien observatoire astronomique de la Marine,47.2115713,-1.5659867,way,185818610
+Nantes,historic,Chapelle de la Savarière,47.2085825,-1.4910045,way,222866299
+Nantes,historic,Enceinte gallo-romaine,47.2189944,-1.5528666,way,270568961
+Nantes,historic,Château du Grand Blottereau,47.2262571,-1.5107802,way,284552928
+Nantes,historic,Jardin archéologique,47.2188467,-1.5501106,way,287795167
+Nantes,historic,Sans nom,47.2187963,-1.5501399,way,287795192
+Nantes,historic,Sans nom,47.2188012,-1.5501529,way,287795193
+Nantes,historic,Sans nom,47.2187711,-1.5501159,way,287795194
+Nantes,historic,Sans nom,47.2187566,-1.5500946,way,287795195
+Nantes,historic,Sans nom,47.2187477,-1.5500828,way,287795196
+Nantes,historic,Enceinte gallo-romaine,47.2187344,-1.5501534,way,287969921
+Nantes,historic,Muraille du 17e siècle,47.2187868,-1.5500356,way,287969922
+Nantes,historic,Pile de l'ancien pont transbordeur,47.2079323,-1.565287,way,289768002
+Nantes,historic,Stèle d'Haveloose,47.2214228,-1.5428054,way,310509200
+Nantes,historic,Ossuaire militaire,47.2230805,-1.5382677,way,310894357
+Nantes,historic,Hôtel Rosmadec,47.2183455,-1.554257,way,326896799
+Nantes,historic,Colonne de Juillet 1830,47.2218874,-1.5663424,way,331944197
+Nantes,historic,Sans nom,47.2124789,-1.5663257,way,340144302
+Nantes,historic,Le Manoir,47.212235,-1.566212,way,340144327
+Nantes,historic,Tour Dobrée,47.2125888,-1.5669313,way,340144334
+Nantes,historic,Monument aux morts 1914-1918,47.2213697,-1.5513698,way,340496654
+Nantes,historic,Monument aux Morts du lycée Georges Clemenceau,47.2195682,-1.5452025,way,353080360
+Nantes,historic,Stèle de Georges Clemenceau,47.2192761,-1.5459655,way,353080361
+Nantes,historic,Muraille de la tour du Haut-Pas,47.2170812,-1.5576891,way,393914726
+Nantes,historic,Motrice Jeumont n°144,47.2213866,-1.5264153,way,426315174
+Nantes,historic,Sans nom,47.220123,-1.5652599,way,467518239
+Nantes,historic,Sans nom,47.2199104,-1.5651263,way,467518240
+Nantes,historic,Sans nom,47.2153256,-1.5580666,way,479781534
+Nantes,historic,Sans nom,47.2072588,-1.5627688,way,485761948
+Nantes,historic,Sans nom,47.2243788,-1.5645353,way,489823119
+Nantes,historic,Le Goëland,47.2216933,-1.5532641,way,496788510
+Nantes,historic,Morgenster,47.2258195,-1.5533647,way,496943490
+Nantes,historic,Sans nom,47.2008692,-1.5808799,way,498265433
+Nantes,historic,Élisabeth,47.2262417,-1.5538361,way,499500397
+Nantes,historic,Pile de l'ancien pont transbordeur,47.2089213,-1.5662421,way,504896460
+Nantes,historic,Pile de l'ancien pont transbordeur,47.2090019,-1.5659655,way,504896461
+Nantes,historic,Pile de l'ancien pont transbordeur,47.2078463,-1.5655464,way,504896462
+Nantes,historic,Sans nom,47.2193707,-1.5469435,way,506778214
+Nantes,historic,Sans nom,47.2169132,-1.5634272,way,541754626
+Nantes,historic,Sans nom,47.2169421,-1.5634097,way,541754627
+Nantes,historic,Sans nom,47.2169851,-1.5634214,way,541754648
+Nantes,historic,Sans nom,47.2169604,-1.5634469,way,541754652
+Nantes,historic,Sans nom,47.2169072,-1.5633885,way,541754653
+Nantes,historic,Courtine Saint-Laurent,47.2177524,-1.5493648,way,558641451
+Nantes,historic,Sans nom,47.21744,-1.5492845,way,558641454
+Nantes,historic,Président Marchal,47.2296513,-1.5514412,way,577602831
+Nantes,historic,L'Alcyon,47.2333815,-1.548595,way,577602855
+Nantes,historic,Océan,47.2289817,-1.5511434,way,580263682
+Nantes,historic,Sans nom,47.2189354,-1.5500158,way,583532725
+Nantes,historic,Tour de l'Évêché,47.2189264,-1.5499721,way,583532727
+Nantes,historic,Sans nom,47.1940102,-1.5665138,way,602164604
+Nantes,historic,Château de la Persagotière,47.1922801,-1.5376761,way,675657601
+Nantes,historic,Sans nom,47.1969062,-1.5889406,way,682108063
+Nantes,historic,Steve Maia Caniço,47.1996173,-1.5728904,way,708915714
+Nantes,historic,Sans nom,47.2223374,-1.5579188,way,767328454
+Nantes,historic,Sans nom,47.191687,-1.5642018,way,968394775
+Nantes,historic,Sans nom,47.1916133,-1.5643077,way,968394777
+Nantes,historic,Sans nom,47.1916868,-1.5644438,way,968394778
+Nantes,historic,Sans nom,47.1917282,-1.5645986,way,968394779
+Nantes,historic,Sans nom,47.1917022,-1.5645936,way,968394780
+Nantes,historic,Sans nom,47.1916518,-1.5649106,way,968394781
+Nantes,historic,Sans nom,47.1914715,-1.56519,way,968394782
+Nantes,historic,Sans nom,47.1914436,-1.5651852,way,968394783
+Nantes,historic,Sans nom,47.1916356,-1.5651525,way,968394784
+Nantes,historic,Sans nom,47.2130111,-1.5508532,way,1162285692
+Nantes,historic,Sans nom,47.192136,-1.5652989,way,1393995457
+Nantes,historic,Presbytère Saint-Nicolas,47.2153462,-1.5572948,relation,1273598
+Nantes,historic,Hôtel de Derval,47.2180061,-1.5547722,relation,1273673
+Nantes,historic,Mémorial de l’Abolition de l’Esclavage,47.2094792,-1.5638423,relation,3878573
+Nantes,historic,Radisson Blu Hôtel Nantes,47.2178006,-1.5634127,relation,4236363
+Nantes,historic,La porte Sauvetout,47.2167369,-1.5578355,relation,4671838
+Nantes,historic,Muséum d'Histoire Naturelle,47.2125867,-1.5647898,relation,6742735
+Nantes,historic,Château des Ducs de Bretagne,47.216143,-1.5491415,relation,6808838
+Nantes,historic,Ligne de Segré à Nantes-État,47.439394,-1.2071093,relation,11763952
+Nantes,historic,Tour au duc,47.2169258,-1.5490686,relation,17367488
+Nantes,historic,Tour des Espagnols,47.2166306,-1.5497538,relation,17367543
+Nantes,historic,Sans nom,47.2165207,-1.5489735,relation,17369408

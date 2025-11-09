@@ -1,0 +1,750 @@
+city,category,name,lat,lon,osm_type,osm_id
+Annecy,museum,Musée d'art contemporain et d'art régional,45.8976558,6.1260521,node,3640440188
+Annecy,museum,Observatoire régional des lacs alpins,45.8976377,6.1268333,node,4891589832
+Annecy,museum,Centre d’Interprétation de l’Architecture et du Patrimoine,45.8985741,6.1269826,node,12157595234
+Annecy,museum,Ecomusée du lac d'Annecy,45.8641436,6.1420278,node,12534072471
+Annecy,museum,Musée de la Cloche PACCARD,45.8442658,6.1508093,way,70568938
+Annecy,park,Piano,45.9375105,6.1328994,node,12161642821
+Annecy,park,Parc des Marquisats - Clos Laeuffer,45.892282,6.1343779,node,13158475106
+Annecy,park,Parc Vignières-Pommaries,45.9134793,6.147292,way,24393219
+Annecy,park,Le Pâquier,45.9018343,6.1318435,way,24522215
+Annecy,park,Île Saint-Joseph,45.8984796,6.1213839,way,24669685
+Annecy,park,Square Bernard Bosson,45.900026,6.1248227,way,25008757
+Annecy,park,Parc Charles Bosson,45.9035588,6.1433378,way,26184739
+Annecy,park,Les Jardins de l'Europe,45.8992588,6.1308443,way,26185233
+Annecy,park,Plage d'Albigny,45.9046134,6.1478368,way,30702787
+Annecy,park,Square du 8 Mai 1945,45.9063805,6.1296221,way,36279570
+Annecy,park,Square du Collège,45.8997235,6.1269862,way,37202343
+Annecy,park,Square des Hirondelles,45.9051164,6.1182314,way,37666717
+Annecy,park,Square des Laurentides,45.8987672,6.1139672,way,37704381
+Annecy,park,Square de Stalingrad,45.900656,6.121786,way,37760411
+Annecy,park,Sans nom,45.9005623,6.1201578,way,37763050
+Annecy,park,Place aux Bois,45.8977901,6.1293422,way,40430734
+Annecy,park,Jardin des Remparts,45.8975353,6.1243493,way,40432581
+Annecy,park,Salle polyvalente,45.8814113,6.1799527,way,62953732
+Annecy,park,Parc Gabriel Fauré,45.9185409,6.1429246,way,85254153
+Annecy,park,Parc des Raisses,45.9120701,6.1511227,way,206114457
+Annecy,park,Parc du Pré de Vassy,45.8886309,6.0925024,way,237190197
+Annecy,park,Parc esplanade Paul Grimault,45.9030164,6.1243835,way,256280732
+Annecy,park,Square de la Côte Perrière,45.8975724,6.1274691,way,272998078
+Annecy,park,Sans nom,45.859081,6.1862032,way,303746843
+Annecy,park,Square Angoulême,45.8863852,6.098195,way,315876471
+Annecy,park,Square des Clarines,45.9149886,6.1406826,way,338045445
+Annecy,park,Sans nom,45.8994826,6.113506,way,346564718
+Annecy,park,Parc du Petit Brogny,45.9271132,6.1276911,way,352059216
+Annecy,park,Sans nom,45.8595598,6.1435041,way,388476451
+Annecy,park,Plage municipale de Sevrier,45.8626204,6.1438757,way,388478099
+Annecy,park,Parc le Trésum,45.8964642,6.1297103,way,405709936
+Annecy,park,Plage Municipale,45.8636877,6.1865971,way,420107672
+Annecy,park,Square des Martyrs de la Déportation,45.9021743,6.1273516,way,455743817
+Annecy,park,Sans nom,45.8727066,6.1432933,way,461923759
+Annecy,park,Parc Quai de la Tournette,45.8974439,6.1315191,way,462034522
+Annecy,park,Place de l'Abbaye,45.9165323,6.1400522,way,513651361
+Annecy,park,Jardin Public du 8 mai 1945,45.9079999,6.1079304,way,536752626
+Annecy,park,Promenade Cheltenham,45.8914875,6.1397536,way,551398343
+Annecy,park,Parc des Artisans,45.9105445,6.1388587,way,562162766
+Annecy,park,Sans nom,45.9121933,6.1287899,way,564771956
+Annecy,park,Sans nom,45.9116583,6.128861,way,564771957
+Annecy,park,Place Longiret,45.8842437,6.0954487,way,596565660
+Annecy,park,Square Riante Colline,45.9014421,6.0967956,way,607862505
+Annecy,park,Square des Pervenches,45.9029886,6.1000146,way,609724190
+Annecy,park,Sans nom,45.9107849,6.140199,way,632869105
+Annecy,park,Parc du Lachat,45.9237619,6.1476609,way,663500781
+Annecy,park,Pelouse,45.8869395,6.0965432,way,679004505
+Annecy,park,Sans nom,45.9029539,6.142461,way,696765367
+Annecy,park,Parc du Taillefer,45.8978925,6.1010773,way,759025423
+Annecy,park,Square des Romains,45.9081253,6.1212599,way,784420314
+Annecy,park,Parc de Malaz,45.8792498,6.1009857,way,791027196
+Annecy,park,Sans nom,45.856324,6.1464514,way,837001969
+Annecy,park,Sans nom,45.8683702,6.1835281,way,850531521
+Annecy,park,Sans nom,45.8874067,6.1725807,way,850532974
+Annecy,park,Square Camille Mugnier,45.9159735,6.1274776,way,865673634
+Annecy,park,Sans nom,45.9095716,6.0902784,way,875744902
+Annecy,park,Sans nom,45.9110061,6.0887948,way,875835088
+Annecy,park,Sans nom,45.944232,6.1185351,way,886633817
+Annecy,park,Sans nom,45.9410757,6.1421114,way,888284665
+Annecy,park,Parc du Val Vert - Bassin de Loverchy,45.8884619,6.108323,way,891572225
+Annecy,park,Sans nom,45.9160597,6.0868418,way,893087530
+Annecy,park,Les Crêts,45.9437042,6.0993584,way,893383601
+Annecy,park,Sans nom,45.9092928,6.0938783,way,893661578
+Annecy,park,Sans nom,45.9252386,6.1039379,way,893677222
+Annecy,park,Aires des Jeux,45.9039137,6.0940805,way,898023448
+Annecy,park,Sans nom,45.9176696,6.0944247,way,900888422
+Annecy,park,Square Paul Valéry,45.8994989,6.10919,way,905915245
+Annecy,park,Parc des Papeteries,45.9074018,6.1045771,way,911362296
+Annecy,park,Sans nom,45.8992861,6.1169503,way,929093579
+Annecy,park,Square Jean Chamey,45.9153206,6.0918888,way,955841144
+Annecy,park,Jardin du Manoir de Novel,45.9180903,6.1352636,way,961368140
+Annecy,park,Sans nom,45.9046807,6.1095716,way,964054870
+Annecy,park,Sans nom,45.9370669,6.0838501,way,964615984
+Annecy,park,Square Louise Michel,45.9220456,6.1230635,way,973323066
+Annecy,park,Square Gilette,45.9187962,6.1241549,way,973323095
+Annecy,park,Sans nom,45.9150515,6.1184019,way,973323112
+Annecy,park,Sans nom,45.91449,6.1194497,way,973323114
+Annecy,park,Sans nom,45.9387393,6.090403,way,974012555
+Annecy,park,Sans nom,45.8858158,6.1057728,way,974649366
+Annecy,park,Parc du Parmelan,45.9098953,6.1377011,way,978464837
+Annecy,park,Parc Jardin Galbert,45.9083705,6.1250875,way,981325197
+Annecy,park,Place Galbert,45.9088991,6.1242294,way,981325198
+Annecy,park,Sans nom,45.9061988,6.152555,way,982351665
+Annecy,park,Parc du Colovry,45.9059615,6.1489924,way,982351666
+Annecy,park,Square des Salomons,45.9095824,6.1394023,way,982351710
+Annecy,park,Sans nom,45.9101329,6.1376764,way,988376715
+Annecy,park,Place des Efléchères,45.8981414,6.1265207,way,1041580668
+Annecy,park,Sans nom,45.8996602,6.1173966,way,1134011387
+Annecy,park,Square du Jourdil,45.9064224,6.0994243,way,1145042140
+Annecy,park,Sans nom,45.833009,6.1650661,way,1148865927
+Annecy,park,Sans nom,45.8370422,6.1562176,way,1150813632
+Annecy,park,Sans nom,45.8361381,6.1578527,way,1150813633
+Annecy,park,Sans nom,45.8381401,6.1570932,way,1150813636
+Annecy,park,Sans nom,45.8464095,6.1432048,way,1158545623
+Annecy,park,Sans nom,45.8469008,6.1431183,way,1159130724
+Annecy,park,Sans nom,45.8484474,6.1412964,way,1159130755
+Annecy,park,Sans nom,45.845496,6.1420467,way,1159130756
+Annecy,park,Sans nom,45.8831472,6.1421891,way,1165237671
+Annecy,park,Sans nom,45.8746951,6.1426163,way,1165439419
+Annecy,park,Sans nom,45.9049611,6.1066204,way,1185725587
+Annecy,park,Sans nom,45.8975338,6.1173139,way,1185895028
+Annecy,park,Plage de La Brune,45.8787988,6.1751002,way,1196754373
+Annecy,park,Jardin Roger Allard-Metral,45.9510705,6.1901334,way,1245547903
+Annecy,park,Parc de la Colline,45.9208102,6.13002,way,1306045927
+Annecy,park,Sans nom,45.9031687,6.1327089,way,1308504520
+Annecy,park,Sans nom,45.9493535,6.1876062,way,1317899645
+Annecy,park,Square de la Muraz,45.8556458,6.1890598,way,1337359445
+Annecy,park,Sans nom,45.8555432,6.188574,way,1337359447
+Annecy,park,Sans nom,45.9092569,6.1545778,way,1339285813
+Annecy,park,Sans nom,45.9258033,6.1497795,way,1340077676
+Annecy,park,Sans nom,45.9039937,6.145874,way,1341047533
+Annecy,park,Sans nom,45.8965704,6.1268751,way,1341632995
+Annecy,park,Sans nom,45.8987385,6.1232763,way,1341852902
+Annecy,park,Square des Bains,45.8560207,6.192927,way,1346888933
+Annecy,park,Sans nom,45.919116,6.1436184,way,1347299348
+Annecy,park,Square de Loverchy,45.8942053,6.1178188,way,1349001539
+Annecy,park,Sans nom,45.9155875,6.1445133,way,1350734861
+Annecy,park,Sans nom,45.8823693,6.1004069,way,1357862167
+Annecy,park,Sans nom,45.8968407,6.1293922,way,1363357634
+Annecy,park,Sans nom,45.8949055,6.1126369,way,1378070555
+Annecy,park,Sans nom,45.8895723,6.0926237,way,1378370793
+Annecy,park,Sans nom,45.8906044,6.0939855,way,1378370822
+Annecy,park,Sans nom,45.9400877,6.1088634,way,1382557168
+Annecy,park,Sans nom,45.9035049,6.1261171,way,1424097341
+Annecy,park,Les Jardins du Prieuré,45.8632924,6.1422986,way,1433037067
+Annecy,park,Haras national d'Annecy,45.9047805,6.1273776,relation,6553599
+Annecy,park,Square de la Fraternité,45.9119176,6.1288036,relation,7446673
+Annecy,park,Square de Verdun,45.9012509,6.1214736,relation,8332586
+Annecy,restaurant,Le Catino,45.9177072,6.1319419,node,339815098
+Annecy,restaurant,La Sarrazine,45.9170715,6.1332383,node,341372776
+Annecy,restaurant,L'Ami Divin,45.9184003,6.1300426,node,357439231
+Annecy,restaurant,La Coupole,45.8992754,6.124004,node,434065153
+Annecy,restaurant,Inspiration 212,45.9065568,6.1239537,node,492086304
+Annecy,restaurant,l'Atout Cœur,45.9028665,6.1282633,node,492086316
+Annecy,restaurant,La Belle Époque,45.9021918,6.1288112,node,492086322
+Annecy,restaurant,Le comptoir du Palais,45.9038259,6.1306202,node,492086325
+Annecy,restaurant,Ô Sushi,45.9039448,6.1304497,node,492086327
+Annecy,restaurant,Bock'Café,45.908651,6.1291353,node,492086333
+Annecy,restaurant,Le Pêcheur,45.8799636,6.1750302,node,829506624
+Annecy,restaurant,New Japan,45.935064,6.0815581,node,1224332058
+Annecy,restaurant,Auberge de Savoie,45.8987686,6.1280362,node,1352560241
+Annecy,restaurant,Sans nom,45.9211957,6.0641039,node,1431985937
+Annecy,restaurant,Café de la Place,45.921722,6.0628969,node,1431985946
+Annecy,restaurant,Auberge des Tonnelles,45.8737487,6.1413427,node,1455440295
+Annecy,restaurant,Le Lac Bleu,45.8473748,6.1465009,node,1455440333
+Annecy,restaurant,Le P'tit Savoyard,45.8475073,6.1464211,node,1455440334
+Annecy,restaurant,Le Rituel,45.8787505,6.1413753,node,1455440348
+Annecy,restaurant,Sans nom,45.8770703,6.141464,node,1455440381
+Annecy,restaurant,Gamin,45.9054367,6.119322,node,1786404287
+Annecy,restaurant,Le Ryad,45.9062267,6.1162908,node,1786404293
+Annecy,restaurant,Los Primos,45.9062508,6.1160525,node,1786404295
+Annecy,restaurant,Le point B,45.9033961,6.1178714,node,1791348901
+Annecy,restaurant,Chez Pen,45.9044115,6.1213905,node,1791348902
+Annecy,restaurant,Petit Bacchus,45.9069464,6.1341235,node,1978964597
+Annecy,restaurant,Le Saint-Charles,45.9071659,6.1351771,node,1978964858
+Annecy,restaurant,La Bolée,45.9024774,6.1249654,node,2000527457
+Annecy,restaurant,The Roster,45.9382984,6.1223352,node,2007934434
+Annecy,restaurant,Mapp Italian Fresh Food,45.9309576,6.1672392,node,2008795156
+Annecy,restaurant,Paula La Pizzaiola,45.920245,6.0591235,node,2025355689
+Annecy,restaurant,Brasserie des Européens,45.89903,6.1282879,node,2107181674
+Annecy,restaurant,Chez Jojo,45.9044828,6.0999319,node,2234304727
+Annecy,restaurant,Restaurant Municipal,45.890793,6.0998436,node,2410115322
+Annecy,restaurant,clos du chateau,45.9545732,6.1126297,node,2513998253
+Annecy,restaurant,L'Étage,45.9008233,6.1266374,node,2583764407
+Annecy,restaurant,Le 55,45.9335611,6.0777645,node,2673172087
+Annecy,restaurant,Jadelight Buffet,45.8942269,6.1103182,node,2911983429
+Annecy,restaurant,Arômatik',45.8979582,6.1233183,node,3013951047
+Annecy,restaurant,Café Brunet,45.9199674,6.1423308,node,3081474404
+Annecy,restaurant,Brasserie de la paix,45.9030358,6.1254728,node,3092565383
+Annecy,restaurant,Bateau-Restaurant MS Libellule,45.8983758,6.1295859,node,3124526912
+Annecy,restaurant,Restaurant l'Île Bleue,45.8866945,6.0966468,node,3219160663
+Annecy,restaurant,La Roselière,45.9052555,6.1437642,node,3231494091
+Annecy,restaurant,Bleu 1801,45.8971049,6.1639704,node,3235825233
+Annecy,restaurant,Chez Mamie Anh,45.9150458,6.1450243,node,3341930311
+Annecy,restaurant,Le Céjo,45.9408193,6.105741,node,3378215479
+Annecy,restaurant,Le Republic,45.9385812,6.0908866,node,3378373210
+Annecy,restaurant,Les Tables,45.8981136,6.1237899,node,3455497228
+Annecy,restaurant,l'Oasis Auberge du Bessard,45.8785822,6.1428424,node,3543243526
+Annecy,restaurant,Le Clos des Sens,45.9178443,6.1444244,node,3546461467
+Annecy,restaurant,La Crêperie d'Annecy le vieux,45.9217307,6.1452791,node,3553416320
+Annecy,restaurant,Pizza Pepone,45.9218512,6.1454469,node,3553416321
+Annecy,restaurant,La Fringale,45.904142,6.159923,node,3579013335
+Annecy,restaurant,Albertine by Le Tanoué,45.8997502,6.1224678,node,3622029342
+Annecy,restaurant,Amma,45.8995622,6.1230604,node,3622029346
+Annecy,restaurant,Origines,45.8993473,6.123178,node,3622029347
+Annecy,restaurant,Beau Soleil,45.8988052,6.1269312,node,3657693625
+Annecy,restaurant,Pont Morens,45.8987528,6.1260355,node,3657694825
+Annecy,restaurant,Tête de Cochon,45.8983201,6.1252377,node,3657695325
+Annecy,restaurant,The Little Italy,45.8985009,6.1246908,node,3657696525
+Annecy,restaurant,Créabistro,45.8978835,6.1233912,node,3657696526
+Annecy,restaurant,La Porte Sainte-Claire,45.8978145,6.1234972,node,3657702725
+Annecy,restaurant,La Coupole Brasserie,45.8990751,6.1240668,node,3657703048
+Annecy,restaurant,L'Authentic,45.8983398,6.1261689,node,3657703359
+Annecy,restaurant,Le Pékin,45.8992548,6.119799,node,3657703428
+Annecy,restaurant,Kalapita,45.8973919,6.1231751,node,3657704125
+Annecy,restaurant,Le Vieil Annecy,45.8982933,6.1275608,node,3657731646
+Annecy,restaurant,Ô Savoyard !,45.8983188,6.1268981,node,3657733829
+Annecy,restaurant,Boeuf patate,45.8981692,6.1273863,node,3717112753
+Annecy,restaurant,Amicipizza,45.914764,6.0912103,node,3804327690
+Annecy,restaurant,Chalet du Port,45.8589475,6.18662,node,3901575737
+Annecy,restaurant,chez long,45.8670816,6.1397129,node,3916714310
+Annecy,restaurant,Le Bistrot du Port,45.8598784,6.1448109,node,4111478191
+Annecy,restaurant,Café de la poste,45.9339699,6.1893724,node,4112348991
+Annecy,restaurant,Le Bel Abri,45.9054636,6.1592937,node,4202114841
+Annecy,restaurant,Le Freti,45.8985465,6.124928,node,4212557490
+Annecy,restaurant,Yoann Conte,45.888864,6.1720869,node,4213832470
+Annecy,restaurant,Bloomer,45.9017652,6.1232818,node,4219944397
+Annecy,restaurant,La Crêperie du Thiou,45.898691,6.1275524,node,4336791232
+Annecy,restaurant,Le salon français,45.8998273,6.1221485,node,4359022597
+Annecy,restaurant,La Jungle,45.9427214,6.0733998,node,4374706227
+Annecy,restaurant,Captain Pub,45.898479,6.1257591,node,4412293197
+Annecy,restaurant,Bon Pain Bon Vin,45.8993427,6.1264374,node,4412293198
+Annecy,restaurant,Le T Quatre,45.9002995,6.1258296,node,4412293199
+Annecy,restaurant,Le Chalet,45.8987864,6.1258253,node,4412293200
+Annecy,restaurant,Rive Gauche,45.8983779,6.1267236,node,4412293223
+Annecy,restaurant,Chez Monique,45.8981424,6.1239968,node,4416258650
+Annecy,restaurant,Brasserie Brunet,45.9014694,6.1230034,node,4416258652
+Annecy,restaurant,Feuille de Lotus,45.8992178,6.1242691,node,4416258654
+Annecy,restaurant,La Galéjade,45.8980974,6.128609,node,4416258665
+Annecy,restaurant,La Table d'Elise,45.8982353,6.1279571,node,4416258666
+Annecy,restaurant,La Maison,45.8981263,6.1283904,node,4416258670
+Annecy,restaurant,Le paradis du fruit,45.9013796,6.1230302,node,4416258671
+Annecy,restaurant,Le Sarto,45.8981722,6.1281094,node,4416258672
+Annecy,restaurant,Le Vertumne,45.9021246,6.1238091,node,4416258673
+Annecy,restaurant,Les Chineurs de la Cusine,45.8979792,6.1234804,node,4416258675
+Annecy,restaurant,1er Mets,45.8989488,6.1273398,node,4416258722
+Annecy,restaurant,MAPP,45.9385101,6.1190608,node,4475562390
+Annecy,restaurant,Pizza Valtor,45.9458607,6.1399456,node,4475576691
+Annecy,restaurant,Amata traiteur italien,45.9150352,6.1235192,node,4475589992
+Annecy,restaurant,Café Cuisine,45.937939,6.1224028,node,4475662689
+Annecy,restaurant,Yin Ba,45.8998033,6.1220534,node,4607568591
+Annecy,restaurant,Le Denti,45.8964222,6.1206565,node,4610148255
+Annecy,restaurant,La Ciboulette,45.9018275,6.126146,node,4621663497
+Annecy,restaurant,Les Quatre Gourmets,45.9184363,6.1440727,node,4642597889
+Annecy,restaurant,La Bella Romana,45.9208644,6.0892664,node,4688792843
+Annecy,restaurant,Au Cha L'heureux,45.8832899,6.0620872,node,4747211752
+Annecy,restaurant,The Roster,45.9092754,6.0965787,node,4759858321
+Annecy,restaurant,Le Bilboquet,45.8975082,6.1231306,node,4861746345
+Annecy,restaurant,Café Bichette,45.8981417,6.1274445,node,4895456419
+Annecy,restaurant,Oson Doson,45.8992021,6.1170843,node,4896060635
+Annecy,restaurant,Sapaudia Caffè,45.9006392,6.1232659,node,4932495507
+Annecy,restaurant,Les Princes de Savoie,45.9008595,6.1231626,node,4932495510
+Annecy,restaurant,Les Crêpes de Dame Kerlou,45.8602154,6.1429496,node,4937089723
+Annecy,restaurant,Royal Pizza,45.8317476,6.1720495,node,4942808088
+Annecy,restaurant,EBO Annecy,45.9052058,6.1483496,node,4948112549
+Annecy,restaurant,La Maison du Lac,45.9051097,6.1478303,node,4948114725
+Annecy,restaurant,Le sultan,45.9094363,6.1379907,node,4948115516
+Annecy,restaurant,Bistro Green,45.9194263,6.1416344,node,4975651612
+Annecy,restaurant,L'Albigny,45.9065503,6.1460627,node,4994132498
+Annecy,restaurant,Le ptit Bistro,45.9065317,6.1460023,node,4994132499
+Annecy,restaurant,Fleur de Sel,45.9242892,6.1649783,node,4995129647
+Annecy,restaurant,Pizza Italia,45.9387241,6.1223118,node,5003387187
+Annecy,restaurant,L'amnésie,45.9387615,6.1272118,node,5028440439
+Annecy,restaurant,Slake Coffee,45.902444,6.1261824,node,5081255422
+Annecy,restaurant,Tom Morel,45.919404,6.1598494,node,5259840829
+Annecy,restaurant,5 Stelle d'oro,45.9071198,6.1070075,node,5263230521
+Annecy,restaurant,Tribeca Cosmopolitan Bistro,45.9443308,6.1265614,node,5299349655
+Annecy,restaurant,L'Orangerie,45.9177896,6.0829734,node,5329705179
+Annecy,restaurant,L'Envol,45.9310225,6.1066907,node,5329712356
+Annecy,restaurant,Le Poulailler,45.8936771,6.1177762,node,5351022366
+Annecy,restaurant,La Romantica,45.8991359,6.1179012,node,5382881821
+Annecy,restaurant,Auberge de Villaz,45.9520095,6.194255,node,5516401983
+Annecy,restaurant,Le Mulligan,45.8503833,6.2021551,node,5570970921
+Annecy,restaurant,La Place d'Italie,45.85155,6.1453249,node,5606465291
+Annecy,restaurant,Tokyo Sushi,45.8514716,6.1453562,node,5606465292
+Annecy,restaurant,Les Acacias,45.8868315,6.174704,node,5615088710
+Annecy,restaurant,L'Esquisse,45.8997318,6.1223872,node,5632969023
+Annecy,restaurant,Koto Koto,45.8905065,6.1153904,node,5651600132
+Annecy,restaurant,L'Estaminet,45.8985392,6.1251069,node,5692587721
+Annecy,restaurant,Minami,45.8973092,6.1229708,node,5693728515
+Annecy,restaurant,L'incandescent,45.8978171,6.1233297,node,5694524624
+Annecy,restaurant,Les Moustaches de Zébulon,45.8954862,6.1197446,node,5740048514
+Annecy,restaurant,Wabaki,45.8978468,6.1233518,node,5834536750
+Annecy,restaurant,Le Florilège,45.833431,6.1636705,node,5874150456
+Annecy,restaurant,Food Cancan,45.833176,6.1634007,node,5874150457
+Annecy,restaurant,Brasserie Irma - Bocuse,45.9061715,6.155262,node,5876500799
+Annecy,restaurant,Restaurant des Tennis,45.8613996,6.1887225,node,5876500829
+Annecy,restaurant,Puits Saint-Jean,45.9007685,6.1264081,node,5876978418
+Annecy,restaurant,L'appart du dix-sept,45.9007867,6.1264779,node,5876978419
+Annecy,restaurant,L'abbaye,45.9010798,6.1267635,node,5876978435
+Annecy,restaurant,Le Napoli,45.9010639,6.1266851,node,5876978436
+Annecy,restaurant,Le Pas Sage,45.8993258,6.1267021,node,5896911952
+Annecy,restaurant,Le Lilas Rose,45.8987104,6.1248314,node,5913661713
+Annecy,restaurant,Auberge du Lyonnais,45.8990307,6.1240763,node,5952520351
+Annecy,restaurant,basta Cosi !,45.9205081,6.0836148,node,6095536316
+Annecy,restaurant,Cortigrimpe,45.9363312,6.1080329,node,6133741255
+Annecy,restaurant,La Mamma,45.9188645,6.1317953,node,6208649286
+Annecy,restaurant,Bistro Sauvage,45.9082549,6.1193282,node,6467097678
+Annecy,restaurant,Au Bureau,45.9013466,6.1226811,node,6467657422
+Annecy,restaurant,Pizza Cosy,45.901611,6.1225587,node,6467938179
+Annecy,restaurant,Pizza Kheops,45.9108435,6.1239659,node,6471682354
+Annecy,restaurant,New Delhi,45.9149929,6.1246874,node,6471706804
+Annecy,restaurant,La Récré,45.9069944,6.1262719,node,6482384158
+Annecy,restaurant,La Brasserie de l'Impérial,45.9033577,6.1444088,node,6489365063
+Annecy,restaurant,Djo Pizza,45.9065101,6.1459441,node,6499407611
+Annecy,restaurant,Brasserie du Parc,45.9064242,6.1465931,node,6499407612
+Annecy,restaurant,OXO,45.9067202,6.1472094,node,6499407622
+Annecy,restaurant,Crêperie Bretonne La Bolée,45.8982036,6.1264097,node,6533719185
+Annecy,restaurant,Kelsa,45.898285,6.1265431,node,6533760285
+Annecy,restaurant,Savoie Bar,45.8988289,6.1277574,node,6611060685
+Annecy,restaurant,Jasmin,45.8977164,6.1233772,node,6655547040
+Annecy,restaurant,Yatta ! Ramen,45.9121693,6.1436676,node,6761918860
+Annecy,restaurant,La Bastille,45.8984084,6.127382,node,6764718486
+Annecy,restaurant,Le Bouillon,45.8992137,6.1217427,node,6822369017
+Annecy,restaurant,Sushi Box,45.9006061,6.1243253,node,6830378733
+Annecy,restaurant,Le Kabuki,45.9008834,6.1181447,node,6837266584
+Annecy,restaurant,Le Nid du Merle,45.8992986,6.1217089,node,6837378898
+Annecy,restaurant,The Craic,45.9028982,6.1226412,node,6839810701
+Annecy,restaurant,le Bap’s bar à salades,45.9009263,6.1196667,node,6843984940
+Annecy,restaurant,La Table d'Ébène,45.9004258,6.120072,node,6844030994
+Annecy,restaurant,Lac Casa,45.8992374,6.1197144,node,6888907178
+Annecy,restaurant,Mezze & Co,45.8991977,6.1195729,node,6888907183
+Annecy,restaurant,Chez Firmin,45.8991148,6.1186076,node,6889249968
+Annecy,restaurant,L'Étagère,45.8991834,6.1187181,node,6889249975
+Annecy,restaurant,Kia Ora,45.8997705,6.1215097,node,6902522701
+Annecy,restaurant,L'Impasse,45.8998411,6.1238871,node,6902617875
+Annecy,restaurant,Allegria,45.8995321,6.1229508,node,6915464630
+Annecy,restaurant,Racines,45.8994019,6.1228935,node,6915464634
+Annecy,restaurant,SV 144,45.8996623,6.1230155,node,6915486852
+Annecy,restaurant,L'Osteria,45.8996255,6.1229551,node,6915486855
+Annecy,restaurant,Bufa Pizza,45.899455,6.1235766,node,6915490862
+Annecy,restaurant,Le Tanoué,45.9032297,6.1255886,node,6967781067
+Annecy,restaurant,Jun,45.8978008,6.1276498,node,7088118784
+Annecy,restaurant,Sans nom,45.8982395,6.1272662,node,7088120434
+Annecy,restaurant,La Romana Pizzeria,45.933954,6.1278638,node,7088307430
+Annecy,restaurant,Cantine de l'école,45.8813077,6.1799334,node,7138518535
+Annecy,restaurant,Le Panda Gourmet,45.9127391,6.0951936,node,7473528132
+Annecy,restaurant,Les Comptoirs D'Asie,45.9218591,6.0898322,node,7473625182
+Annecy,restaurant,Les 3 Caesars,45.9213297,6.090791,node,7473625183
+Annecy,restaurant,La Strada,45.9217701,6.0898985,node,7473625184
+Annecy,restaurant,Granny Smith,45.9040706,6.1304023,node,7563526593
+Annecy,restaurant,Taj Mahal,45.8995593,6.1167721,node,7612026439
+Annecy,restaurant,Le Bistro du Rhône,45.899369,6.1168775,node,7612026440
+Annecy,restaurant,La Passion Des Saveurs,45.940493,6.0775702,node,7622666609
+Annecy,restaurant,New Tokyo,45.9338221,6.082177,node,7624160834
+Annecy,restaurant,L'Antre O Potes,45.9339618,6.0822816,node,7624160835
+Annecy,restaurant,Pizza Hut,45.9055993,6.1198804,node,7712026987
+Annecy,restaurant,Les Petites cantines Annecy,45.9098399,6.1118992,node,7744079261
+Annecy,restaurant,Sapaudia Trattoria,45.9019707,6.1257959,node,7862603217
+Annecy,restaurant,Indian's Food,45.8982213,6.1158514,node,7899588896
+Annecy,restaurant,L'Eridan,45.8989404,6.1249349,node,7903335788
+Annecy,restaurant,L'heure tourne,45.9033705,6.1257657,node,7903335789
+Annecy,restaurant,Punch,45.9030846,6.1256275,node,7903335791
+Annecy,restaurant,Nuance,45.8977383,6.1232679,node,8146283337
+Annecy,restaurant,La Rotonde des Trésoms,45.8896997,6.13704,node,8157280247
+Annecy,restaurant,Bar-Tabac Chez Jeannot,45.8839633,6.0622825,node,8231896460
+Annecy,restaurant,New China,45.9214998,6.0888988,node,8355488563
+Annecy,restaurant,Le Ché,45.9198571,6.0892864,node,8355488620
+Annecy,restaurant,American diner,45.9430547,6.0613404,node,8409902834
+Annecy,restaurant,Quart de cercle,45.9170376,6.0923114,node,8420666613
+Annecy,restaurant,Mcourt,45.9022206,6.1247269,node,8519906381
+Annecy,restaurant,Le restaurant,45.9063813,6.1239617,node,8532705845
+Annecy,restaurant,Maestro,45.937377,6.0790981,node,8564610869
+Annecy,restaurant,Cantine du collège des Barattes,45.9132228,6.1564695,node,8709411650
+Annecy,restaurant,Le Venitien,45.8996457,6.1243822,node,8755287426
+Annecy,restaurant,Yatta ! Ramen Seynod Annecy,45.8860544,6.1137577,node,8861538929
+Annecy,restaurant,La Petite Reine,45.8905566,6.1716154,node,8954669499
+Annecy,restaurant,La Voglia,45.8986546,6.1236785,node,9360832870
+Annecy,restaurant,Ailleurs qu'ici,45.902732,6.1285853,node,9412785829
+Annecy,restaurant,Fujikoya,45.9027202,6.1273806,node,9412799335
+Annecy,restaurant,L'osmose du lac,45.8591023,6.1965969,node,9413089819
+Annecy,restaurant,L'imprévu,45.8599185,6.1962241,node,9469361807
+Annecy,restaurant,Le confidentiel,45.859945,6.1962712,node,9469390869
+Annecy,restaurant,Sans nom,45.937552,6.1218998,node,9480926054
+Annecy,restaurant,Suko,45.9380005,6.1217786,node,9480934026
+Annecy,restaurant,Ttabegam,45.8989868,6.1243941,node,9517218984
+Annecy,restaurant,Les Burgers de Pierre,45.9056939,6.1447395,node,9571252190
+Annecy,restaurant,Le ramoneur savoyard,45.8991076,6.1269381,node,9587626543
+Annecy,restaurant,The Marcel Bistrot,45.926948,6.1673582,node,9629439446
+Annecy,restaurant,Vif Annecy,45.8998125,6.1263793,node,9668046318
+Annecy,restaurant,Azzuro,45.8979301,6.1233533,node,9673750317
+Annecy,restaurant,Les tilleuls,45.834359,6.1664314,node,9718934189
+Annecy,restaurant,Pizza Pepone,45.9068916,6.1092499,node,9797983688
+Annecy,restaurant,Bamboo,45.9069348,6.1093403,node,9797992037
+Annecy,restaurant,La storia,45.9064624,6.1060764,node,9868089422
+Annecy,restaurant,Le Petit Thiou,45.9071441,6.1071575,node,9883667311
+Annecy,restaurant,Le Binôme,45.9150371,6.1473227,node,9887641616
+Annecy,restaurant,La Brasserie Gourmande,45.8895463,6.0824544,node,9893900518
+Annecy,restaurant,Taobento,45.8441422,6.1494726,node,9925009720
+Annecy,restaurant,Sapaudia Sainte-Claire,45.8975972,6.1231488,node,9939763291
+Annecy,restaurant,Le Regann,45.9016007,6.1268706,node,9977418589
+Annecy,restaurant,La Collina,45.9153516,6.1390136,node,9983849517
+Annecy,restaurant,Chez Renée,45.9038876,6.130476,node,10008287273
+Annecy,restaurant,Mapp,45.8885359,6.1018358,node,10042269374
+Annecy,restaurant,Pizza du Treige,45.8611261,6.0680308,node,10213006963
+Annecy,restaurant,Le Bistrot du Treige,45.8627789,6.0680032,node,10213023078
+Annecy,restaurant,Maison Favre Felix & L'atelier,45.9062404,6.131824,node,10295258937
+Annecy,restaurant,Mazette,45.8973613,6.1231293,node,10295446587
+Annecy,restaurant,Galopin,45.8990766,6.1227535,node,10300586093
+Annecy,restaurant,Bistrot Pierrot,45.9124669,6.1354415,node,10310877699
+Annecy,restaurant,Le Tandem,45.9154377,6.1240214,node,10587385306
+Annecy,restaurant,Chez Ingalls,45.9011092,6.1236477,node,10669048590
+Annecy,restaurant,Le Tuktuk,45.9165129,6.1311786,node,10701218864
+Annecy,restaurant,Canailles,45.909434,6.1235653,node,10718813281
+Annecy,restaurant,Le moulin à Pizza,45.8412526,6.0584749,node,10915936607
+Annecy,restaurant,Le Prado,45.9124494,6.1121549,node,10922708463
+Annecy,restaurant,Le Freti Côté Prairie,45.8943873,6.1206603,node,11002710814
+Annecy,restaurant,Ginette,45.9027837,6.126528,node,11016373802
+Annecy,restaurant,Maï,45.960561,6.1661286,node,11017989032
+Annecy,restaurant,Boucle d’Or,45.9604188,6.1662915,node,11017989036
+Annecy,restaurant,L'atlas,45.8989748,6.1279431,node,11089134992
+Annecy,restaurant,Miamici delle Alpi,45.9059933,6.1315109,node,11101898607
+Annecy,restaurant,La Dolce Vita,45.9059181,6.1162794,node,11118651983
+Annecy,restaurant,Nagoya Sushi,45.8989378,6.1274155,node,11118898264
+Annecy,restaurant,La Douzaine,45.8985521,6.1250348,node,11118898267
+Annecy,restaurant,Brasserie Le Bon Lieu,45.9019934,6.1274649,node,11118898271
+Annecy,restaurant,Le poisson rouge,45.8676642,6.1435334,node,11126274961
+Annecy,restaurant,La Piste Verte,45.845421,6.1525096,node,11153427822
+Annecy,restaurant,Elwood,45.9390483,6.1338063,node,11156111521
+Annecy,restaurant,Choral,45.9096716,6.1201969,node,11266353059
+Annecy,restaurant,Le Frenchie,45.9092106,6.1207253,node,11266353060
+Annecy,restaurant,TOM,45.8991461,6.1170087,node,11292581996
+Annecy,restaurant,Le Cappadoc,45.8993234,6.1168234,node,11297311681
+Annecy,restaurant,Les mâles élevés,45.9608635,6.166328,node,11374882657
+Annecy,restaurant,La Cour 24,45.8980889,6.1278489,node,11387837416
+Annecy,restaurant,Vinistrot,45.898153,6.1271151,node,11476443869
+Annecy,restaurant,Le Ciselin,45.9070372,6.1470752,node,11494284869
+Annecy,restaurant,Nouilles Nouilles,45.8994494,6.1169418,node,11530792090
+Annecy,restaurant,Shiva,45.8991672,6.1155353,node,11533474541
+Annecy,restaurant,Nouilles Nouillles,45.8994504,6.1169559,node,11533477972
+Annecy,restaurant,Le Marrakech,45.8987234,6.1164392,node,11533494379
+Annecy,restaurant,"BAKHCHICH, BABA !",45.8991265,6.1152989,node,11533494380
+Annecy,restaurant,Dip Honest Food,45.8993755,6.1216779,node,11695042060
+Annecy,restaurant,Les quais,45.9142043,6.0915537,node,11695077892
+Annecy,restaurant,Le saint Georges,45.9148326,6.0919465,node,11700736293
+Annecy,restaurant,Tex Mex cafe 201,45.8831113,6.0972606,node,11777782833
+Annecy,restaurant,la cigale du lac,45.8644313,6.1406113,node,11818026158
+Annecy,restaurant,la bulle bistrot,45.8638023,6.1408613,node,11818026161
+Annecy,restaurant,Bistro Régent,45.8759595,6.0873279,node,11818634053
+Annecy,restaurant,kyo sushi,45.8755406,6.0864099,node,11818637068
+Annecy,restaurant,l'intrépide,45.8754821,6.0865925,node,11818739271
+Annecy,restaurant,ravigote,45.8989969,6.1242604,node,11824748847
+Annecy,restaurant,Là-Haut,45.9101488,6.1391433,node,11827134151
+Annecy,restaurant,Les Comptoirs D'Alice,45.8775323,6.0890865,node,11830811431
+Annecy,restaurant,Little vietnam,45.8992995,6.1141478,node,11886321364
+Annecy,restaurant,Nautic Café,45.8600939,6.1447932,node,11917496243
+Annecy,restaurant,Le saut de l'ange,45.911665,6.0983199,node,11930267091
+Annecy,restaurant,LMK Restaurant créole,45.897034,6.1226124,node,11930578068
+Annecy,restaurant,Le Ritz,45.8969584,6.1228524,node,11930580569
+Annecy,restaurant,Chez Mamie Lise,45.8991063,6.1272919,node,11935375599
+Annecy,restaurant,Casa SANTA CLARA,45.8983114,6.1251752,node,11950483182
+Annecy,restaurant,Saba,45.8973012,6.1229227,node,11962677673
+Annecy,restaurant,Pizza Pepone,45.9117594,6.1306559,node,11990114973
+Annecy,restaurant,Lords,45.9145891,6.1143891,node,12046705976
+Annecy,restaurant,Le Carrousel,45.8973358,6.1230676,node,12051860515
+Annecy,restaurant,Xing Fu Tang,45.9001138,6.1261579,node,12051869518
+Annecy,restaurant,Bistrot Paquet,45.9008838,6.1267366,node,12051869904
+Annecy,restaurant,Lilo Pizza,45.8492358,6.1461621,node,12101969294
+Annecy,restaurant,Bouillon Bernadette,45.9052802,6.1437505,node,12188835541
+Annecy,restaurant,L'histoire du sept,45.9145171,6.0909819,node,12275002891
+Annecy,restaurant,Tapaoo,45.9133745,6.1383178,node,12291508634
+Annecy,restaurant,Cozna,45.8973987,6.1228594,node,12358927601
+Annecy,restaurant,Pizza Pepone,45.8876552,6.1010371,node,12365483419
+Annecy,restaurant,RITA,45.9184245,6.1555211,node,12501237955
+Annecy,restaurant,L'Atelier Artisan Crêpier - Epagny,45.9357408,6.0796921,node,12504129101
+Annecy,restaurant,E-Motion,45.8896273,6.107689,node,12543981625
+Annecy,restaurant,Restaurant Vincent Favre Félix,45.9169817,6.1410318,node,12561420318
+Annecy,restaurant,Aki,45.9059083,6.1454741,node,12570765403
+Annecy,restaurant,Plein sud,45.8987389,6.1262754,node,12698722901
+Annecy,restaurant,P&Co,45.8913289,6.088364,node,12766090051
+Annecy,restaurant,Plein Sud,45.8987519,6.1262591,node,12894825702
+Annecy,restaurant,Les Négociantes,45.899255,6.1149971,node,12897744501
+Annecy,restaurant,La Piscine by Les Châtaigniers,45.8303374,6.1498339,node,12973803595
+Annecy,restaurant,La Guinguette du Pépé,45.8299926,6.1813269,node,12981652346
+Annecy,restaurant,Bamboo,45.9405254,6.1397186,node,13023064091
+Annecy,restaurant,Le Marrakech,45.8987521,6.1163647,node,13056322683
+Annecy,restaurant,Waffle Factory,45.9351011,6.0794999,node,13057977217
+Annecy,restaurant,Aux Amis,45.9189448,6.0955229,node,13063331311
+Annecy,restaurant,Los Primos,45.8976643,6.1303867,node,13067648019
+Annecy,restaurant,Giulia,45.8975587,6.1305363,node,13067648125
+Annecy,restaurant,Restaurant LÔNA,45.9057915,6.1518081,node,13142341310
+Annecy,restaurant,La testa dura,45.9445992,6.0718289,node,13149198946
+Annecy,restaurant,Léon de Bruxelles,45.9353396,6.0795695,node,13170008163
+Annecy,restaurant,Bleu de Toi,45.8989175,6.1275075,way,37205546
+Annecy,restaurant,l'Alpin,45.8982352,6.1253353,way,40398553
+Annecy,restaurant,Auberge de la Ferme de Ferrières,45.9647934,6.0812429,way,62399673
+Annecy,restaurant,Sans nom,45.9265733,6.1626822,way,62488098
+Annecy,restaurant,Restaurant Universitaire d'Annecy,45.9193778,6.1570859,way,62491584
+Annecy,restaurant,Auberge sur les bois,45.9227193,6.1718411,way,62498450
+Annecy,restaurant,Casa Nostra,45.9159843,6.1471645,way,62498771
+Annecy,restaurant,Le Clocher,45.9200151,6.1420723,way,62500902
+Annecy,restaurant,Bora Bora,45.9045318,6.159915,way,62505113
+Annecy,restaurant,L'auberge d'Argonay,45.944845,6.1401774,way,62517256
+Annecy,restaurant,La Détente,45.9386269,6.1339817,way,62517401
+Annecy,restaurant,Le Viéran,45.914085,6.100359,way,62528324
+Annecy,restaurant,O Planète,45.9374287,6.0795167,way,62547363
+Annecy,restaurant,La Boucherie,45.9334682,6.0815858,way,62547499
+Annecy,restaurant,La Brasserie Gourmande,45.9351563,6.0848258,way,62548579
+Annecy,restaurant,Key West,45.9337444,6.0809697,way,62549079
+Annecy,restaurant,Buffalo Grill,45.9294046,6.0835619,way,62549744
+Annecy,restaurant,Sans nom,45.9353355,6.1077921,way,62644852
+Annecy,restaurant,Au fil des jours,45.9315249,6.1199932,way,62645491
+Annecy,restaurant,La Villa du Port,45.8810688,6.1759373,way,62948808
+Annecy,restaurant,Buvette de la plage de la Brune,45.8791758,6.1755073,way,62952332
+Annecy,restaurant,Auberge du lac,45.8817677,6.1746494,way,62953047
+Annecy,restaurant,Adelita,45.8625523,6.1411226,way,70565739
+Annecy,restaurant,Shangaï Bay,45.8546511,6.1432081,way,70565742
+Annecy,restaurant,La Seiche,45.8459089,6.150668,way,70566396
+Annecy,restaurant,L’Amnésie Sevrier,45.844678,6.1502866,way,70566693
+Annecy,restaurant,Le Terracotta,45.8626551,6.1437776,way,70566916
+Annecy,restaurant,La Fauconière,45.8773972,6.1414025,way,70569544
+Annecy,restaurant,Les terrasses du lac,45.8841843,6.134469,way,70574323
+Annecy,restaurant,Lac et montagne,45.8377944,6.169972,way,70595812
+Annecy,restaurant,Restaurant de la Plage de Saint Jorioz - Chez Nous à la Plage,45.8436306,6.1724009,way,70598605
+Annecy,restaurant,Rendez-vous des Chasseurs,45.9433468,6.0598073,way,87038390
+Annecy,restaurant,Monte Bianco,45.9434368,6.0604292,way,87038866
+Annecy,restaurant,La cantine bouillon,45.8801065,6.0969755,way,317218530
+Annecy,restaurant,Les agapes,45.9414052,6.1489123,way,384294828
+Annecy,restaurant,Sans nom,45.8638992,6.1867469,way,746328422
+Annecy,restaurant,Palace beach restaurant,45.8541905,6.1883712,way,873066740
+Annecy,restaurant,IT - Italian Trattoria,45.9037337,6.1242801,way,889285983
+Annecy,restaurant,Bingo Sushi,45.9252798,6.1240765,way,946952731
+Annecy,restaurant,Self,45.9377227,6.1335486,way,1032509245
+Annecy,restaurant,Pizz'Annecy,45.9377923,6.0749992,way,1049540354
+Annecy,restaurant,Le Candide,45.9371469,6.0744043,way,1049541339
+Annecy,restaurant,Flunch,45.9372594,6.0740228,way,1049542260
+Annecy,restaurant,Petit Self,45.9377239,6.1332704,way,1313941450
+Annecy,restaurant,Grand Self,45.9376908,6.1336161,way,1313941451
+Annecy,station,Annecy,45.902023,6.1207122,node,5061961433
+Annecy,station,Pringy,45.9395669,6.1234176,node,7093491696
+Annecy,historic,Croix des Cessenaz,45.8422221,6.1276818,node,267215490
+Annecy,historic,Croix de Chuguet,45.8756948,6.1348944,node,364774158
+Annecy,historic,Croix du Crêt,45.8692208,6.1327947,node,372823076
+Annecy,historic,Notre-Dame du Vallon,45.8672614,6.1170336,node,409495557
+Annecy,historic,Croix du Chef-Lieu,45.8603532,6.1314122,node,413998004
+Annecy,historic,Monument aux combattants,45.9028873,6.1302037,node,421949179
+Annecy,historic,Sans nom,45.8994683,6.1663456,node,470929830
+Annecy,historic,Sans nom,45.8590842,6.1964549,node,1265044078
+Annecy,historic,Sans nom,45.9638402,6.1485311,node,1400497182
+Annecy,historic,Château de Promery,45.9545527,6.1133706,node,1430259417
+Annecy,historic,Sans nom,45.9219424,6.1677648,node,1431123259
+Annecy,historic,Sans nom,45.8742985,6.1414185,node,1455440380
+Annecy,historic,Sans nom,45.9461943,6.1224409,node,1657590889
+Annecy,historic,Souvenir de Mission 1935,45.9652566,6.1462354,node,1717373526
+Annecy,historic,Sans nom,45.9652679,6.1462639,node,1717373534
+Annecy,historic,Sans nom,45.9468636,6.1189444,node,2004732249
+Annecy,historic,Le France,45.897655,6.149522,node,2366251593
+Annecy,historic,Souvenir Français,45.8879307,6.0994103,node,2409615788
+Annecy,historic,Sans nom,45.883545,6.0892159,node,2451416624
+Annecy,historic,Sans nom,45.9246885,6.0983374,node,2519574344
+Annecy,historic,Sans nom,45.8583749,6.2026679,node,2844144526
+Annecy,historic,Sans nom,45.8832545,6.0835446,node,3220054688
+Annecy,historic,Roman milestone,45.8819969,6.1404418,node,3259184225
+Annecy,historic,Claude Louis Berthollet,45.8992611,6.132226,node,3822475193
+Annecy,historic,Sans nom,45.8620326,6.0894307,node,4742767554
+Annecy,historic,Sans nom,45.880514,6.0518575,node,4746761925
+Annecy,historic,Croix Batailleur,45.9249556,6.1461713,node,4799325352
+Annecy,historic,Stèle à la mémoire des combattants d'A.F.N.,45.9123692,6.1553549,node,4822974022
+Annecy,historic,Site sublacustre du Petit Port,45.9048631,6.1547631,node,4963548708
+Annecy,historic,Sans nom,45.9190789,6.1420491,node,4975651617
+Annecy,historic,Gabriel Fauré,45.9186906,6.142959,node,5001530687
+Annecy,historic,Sans nom,45.9188544,6.1353821,node,5014932663
+Annecy,historic,Sans nom,45.9210479,6.1406731,node,5044909220
+Annecy,historic,Sans nom,45.9215193,6.1706633,node,5044986023
+Annecy,historic,Pilier de Boutae,45.9122664,6.120473,node,5115776582
+Annecy,historic,Site archéologique des Marais,45.8351995,6.182852,node,5205047180
+Annecy,historic,Site archéologique du Crêt-de-Chatillon,45.8603806,6.1554937,node,5205067587
+Annecy,historic,Site archéologique des Mongets,45.8532446,6.1513106,node,5205083064
+Annecy,historic,Site archéologique du Pâquier,45.9022036,6.1389633,node,5207293467
+Annecy,historic,Monument Victor Curtat,45.9074417,6.123911,node,5579314291
+Annecy,historic,Puits Saint-Jean,45.9007256,6.1260047,node,5842107603
+Annecy,historic,Sans nom,45.9022083,6.1273469,node,5876978052
+Annecy,historic,Sans nom,45.9388174,6.1063073,node,6437983145
+Annecy,historic,Sans nom,45.859661,6.0529793,node,6474786916
+Annecy,historic,Sans nom,45.9507356,6.1893979,node,6695862655
+Annecy,historic,Mémorial Ecole Saint-Francois,45.9005949,6.1203003,node,6820331110
+Annecy,historic,Mémorial Ecole Saint-François,45.9006657,6.1211604,node,6820331116
+Annecy,historic,Buste du Docteur Claudius Gallet,45.8995676,6.1301552,node,6857367619
+Annecy,historic,Mémorial Villa Mary 2è GM,45.9033145,6.1312531,node,6857367621
+Annecy,historic,Plaque mémorial Abbé Camille Folliet Pasteur Paul Chappal,45.8992868,6.1257196,node,6908830908
+Annecy,historic,Sans nom,45.9286496,6.1852515,node,6924580542
+Annecy,historic,Mémorial Bataillon des Glières 1944,45.9341098,6.1897694,node,6924734424
+Annecy,historic,Sans nom,45.9327624,6.1872243,node,6924736587
+Annecy,historic,Monument aux Morts,45.9344372,6.1899551,node,6924750839
+Annecy,historic,L'ancien Hôtel de Sales,45.900941,6.1263949,node,6945033798
+Annecy,historic,Saint François de Sales,45.8977564,6.1292888,node,6945073831
+Annecy,historic,Fondation 1610 Ordre Visitation sainte Marie,45.8973378,6.1303229,node,6945073833
+Annecy,historic,Rocher du maquis,45.9619667,6.0559308,node,7006451514
+Annecy,historic,Aux Espagnols morts pour la Liberté,45.9062381,6.1235019,node,7088258603
+Annecy,historic,Mémorial Jacques Lespès,45.9081836,6.1245052,node,7088304157
+Annecy,historic,Mémorial du corps franc Simon,45.9081699,6.1245004,node,7088304158
+Annecy,historic,Sans nom,45.9269249,6.1309043,node,7088306032
+Annecy,historic,Sans nom,45.8432993,6.0807915,node,7196051260
+Annecy,historic,Sans nom,45.8435983,6.0838251,node,7196051261
+Annecy,historic,Sans nom,45.8610097,6.1384799,node,7196343185
+Annecy,historic,Sans nom,45.8949561,6.1670897,node,7251926001
+Annecy,historic,Sans nom,45.8807171,6.0739508,node,7251928329
+Annecy,historic,Sans nom,45.8766417,6.0836308,node,7251928330
+Annecy,historic,Sans nom,45.8711887,6.085507,node,7251928331
+Annecy,historic,Sans nom,45.8633967,6.086997,node,7251928332
+Annecy,historic,Sans nom,45.8810859,6.0828986,node,7251928333
+Annecy,historic,Sans nom,45.9455716,6.1403502,node,7277522537
+Annecy,historic,Sans nom,45.9445552,6.1392975,node,7277522541
+Annecy,historic,Grotte de Notre-Dame de Lourdes,45.945678,6.1407056,node,7280488499
+Annecy,historic,Sans nom,45.8510742,6.050964,node,7291240452
+Annecy,historic,Sans nom,45.9352993,6.187749,node,7295059863
+Annecy,historic,Sans nom,45.934471,6.1899465,node,7295059882
+Annecy,historic,Sans nom,45.9510568,6.199762,node,7295059883
+Annecy,historic,Sans nom,45.9515715,6.1964173,node,7295059884
+Annecy,historic,Sans nom,45.9522093,6.1895026,node,7295079085
+Annecy,historic,Croix du Felan,45.9494392,6.1859035,node,7295079086
+Annecy,historic,Sans nom,45.9470239,6.1781971,node,7295079087
+Annecy,historic,Sans nom,45.8818339,6.0900896,node,7336968656
+Annecy,historic,Sans nom,45.876022,6.1042245,node,7340760849
+Annecy,historic,Sans nom,45.8668681,6.0946787,node,7340760884
+Annecy,historic,Sans nom,45.8623141,6.084585,node,7340807360
+Annecy,historic,Sans nom,45.8966143,6.0677766,node,7343113499
+Annecy,historic,Sans nom,45.8826527,6.0696396,node,7343113504
+Annecy,historic,Sans nom,45.8947308,6.1187904,node,7369294729
+Annecy,historic,Sans nom,45.8808518,6.1022014,node,7386150134
+Annecy,historic,Sans nom,45.9152457,6.0919879,node,7394687864
+Annecy,historic,Sans nom,45.9257358,6.1385162,node,7406480211
+Annecy,historic,Sans nom,45.8632756,6.1998659,node,7460290790
+Annecy,historic,Sans nom,45.8693463,6.1883069,node,7460290791
+Annecy,historic,Sans nom,45.8770609,6.1837069,node,7460290792
+Annecy,historic,Sans nom,45.8818934,6.1793403,node,7460290793
+Annecy,historic,Notre-Dame de Lourdes,45.9351371,6.1880722,node,7460331665
+Annecy,historic,Sans nom,45.951759,6.1936136,node,7460331666
+Annecy,historic,Sans nom,45.8750796,6.1032032,node,7477040187
+Annecy,historic,Sans nom,45.8647621,6.082278,node,7486539231
+Annecy,historic,Sans nom,45.836901,6.1573007,node,7685413746
+Annecy,historic,Sans nom,45.9745274,6.1161147,node,7846539506
+Annecy,historic,Sans nom,45.9670418,6.0890161,node,7862342075
+Annecy,historic,Sans nom,45.8597904,6.0794722,node,7864419530
+Annecy,historic,Sans nom,45.8607652,6.0822889,node,7864419535
+Annecy,historic,Mémorial appel du 18 juin,45.9120036,6.1320639,node,7864755925
+Annecy,historic,Commémoration Chapelle des Clarisses,45.8981645,6.1234357,node,7864971708
+Annecy,historic,Mémorial 30è Régiment d'Infanterie,45.8973665,6.1255866,node,7865032062
+Annecy,historic,Vieille Grotte de Chantemerle,45.8619661,6.1354347,node,7865669286
+Annecy,historic,"Plaque commémorative Marcel Fournier, créateur de Carrefour",45.9012092,6.1224433,node,7899571652
+Annecy,historic,Mémorial crash bombardier 2è GM,45.9088865,6.0965876,node,7899603376
+Annecy,historic,Sans nom,45.9230175,6.1406103,node,8102774949
+Annecy,historic,Sans nom,45.9332525,6.1887455,node,8286124794
+Annecy,historic,Sans nom,45.9217355,6.0985692,node,8325784927
+Annecy,historic,Ruines du Couvent de Sainte-Catherine,45.8708209,6.1128513,node,8399722226
+Annecy,historic,Jean Bal,45.8328408,6.061844,node,8403289369
+Annecy,historic,Sans nom,45.9009717,6.1057776,node,8406732586
+Annecy,historic,Jean Moulin,45.9036651,6.1015675,node,8418289053
+Annecy,historic,Sans nom,45.9740782,6.1168785,node,8517769506
+Annecy,historic,Sans nom,45.9464109,6.1226289,node,8599798797
+Annecy,historic,Sans nom,45.9590046,6.1973395,node,8610333888
+Annecy,historic,Croix des Luzes,45.8347849,6.1280099,node,8629748639
+Annecy,historic,Sans nom,45.9526279,6.1313518,node,8709519204
+Annecy,historic,Sans nom,45.8825451,6.1836174,node,8783651373
+Annecy,historic,Sans nom,45.9184816,6.0751042,node,8929251940
+Annecy,historic,Sans nom,45.916444,6.0552156,node,8942727088
+Annecy,historic,Sans nom,45.9239386,6.0620499,node,8942727108
+Annecy,historic,Germain Sommeiller,45.9061673,6.1297207,node,9148151760
+Annecy,historic,Sans nom,45.9114845,6.1286448,node,9150009220
+Annecy,historic,Sans nom,45.9305225,6.0625684,node,9230934092
+Annecy,historic,Sans nom,45.8920627,6.1891211,node,9233358028
+Annecy,historic,Forêt du Cret du Maure,45.8895299,6.1294736,node,9405395162
+Annecy,historic,À Ernest Guinier,45.8895094,6.1294568,node,9405395163
+Annecy,historic,Sans nom,45.8998127,6.1261342,node,9410319970
+Annecy,historic,Mur d'enceinte de la ville d'Annecy,45.9012162,6.1249875,node,9410343455
+Annecy,historic,Sans nom,45.8334413,6.1640143,node,9574755541
+Annecy,historic,Sans nom,45.9076292,6.072822,node,9646014020
+Annecy,historic,Sans nom,45.9070831,6.0762732,node,9646014021
+Annecy,historic,Sans nom,45.8326301,6.1623695,node,9658994934
+Annecy,historic,Château de la Pesse,45.9171585,6.1559506,node,9682710228
+Annecy,historic,Sans nom,45.9054987,6.143147,node,9949064664
+Annecy,historic,Saint Martin,45.8699495,6.1429452,node,10020893407
+Annecy,historic,Sans nom,45.9090635,6.096555,node,10267630957
+Annecy,historic,Sans nom,45.9087209,6.1222279,node,10301283395
+Annecy,historic,Sans nom,45.8895179,6.1345618,node,10559367976
+Annecy,historic,Sans nom,45.9398874,6.137591,node,10579810100
+Annecy,historic,Sans nom,45.8377444,6.0852796,node,10769860487
+Annecy,historic,Sans nom,45.8314234,6.067086,node,10769870306
+Annecy,historic,Sans nom,45.8320263,6.0600279,node,10769870309
+Annecy,historic,Sans nom,45.8319807,6.0598079,node,10769870310
+Annecy,historic,Sans nom,45.9683442,6.1721411,node,10844486063
+Annecy,historic,Sans nom,45.9628384,6.1651123,node,11018375076
+Annecy,historic,Sans nom,45.8498034,6.1407175,node,11149144776
+Annecy,historic,Sans nom,45.8566269,6.1883154,node,11270066804
+Annecy,historic,Sans nom,45.9225474,6.0634325,node,11333732253
+Annecy,historic,Sans nom,45.9135045,6.053067,node,11384219026
+Annecy,historic,Sans nom,45.8663019,6.121321,node,11426860050
+Annecy,historic,Monument à la paix,45.8839704,6.0519275,node,11673300513
+Annecy,historic,Croix de Lorraine,45.9156039,6.1456031,node,11751179827
+Annecy,historic,Sans nom,45.8289773,6.1519063,node,11833506406
+Annecy,historic,Sans nom,45.8639625,6.1424253,node,12086948972
+Annecy,historic,Sans nom,45.8987074,6.1214693,node,12271398365
+Annecy,historic,Sans nom,45.9061749,6.1060711,node,12272079587
+Annecy,historic,Sans nom,45.9210291,6.0637633,node,12325698283
+Annecy,historic,Reliquaire de saint François de Sales,45.8926251,6.1277587,node,12384642706
+Annecy,historic,Reliquaire de sainte Jeanne de Chantal,45.8925081,6.1277928,node,12384642708
+Annecy,historic,Sans nom,45.8701651,6.0924233,node,12394142092
+Annecy,historic,Sans nom,45.9427283,6.1866247,node,12395936674
+Annecy,historic,Saint François de Sales,45.942699,6.1866183,node,12395936675
+Annecy,historic,Marc Le Roux,45.8985546,6.1312631,node,12413075321
+Annecy,historic,Sans nom,45.8627155,6.1911672,node,12439091064
+Annecy,historic,À Charles Bosson,45.904314,6.1408871,node,12449753633
+Annecy,historic,Sans nom,45.9147563,6.1510989,node,12487910110
+Annecy,historic,RAYMOND François,45.8906941,6.1411634,node,12505551115
+Annecy,historic,Sans nom,45.8752438,6.1821662,node,12507302606
+Annecy,historic,Sans nom,45.8616996,6.1975463,node,12507332698
+Annecy,historic,Sans nom,45.9334038,6.1280967,node,12519106294
+Annecy,historic,Sans nom,45.8815022,6.1802601,node,12539251753
+Annecy,historic,Sans nom,45.9119305,6.1248201,node,12566001377
+Annecy,historic,Sans nom,45.8911159,6.1393406,node,12590228699
+Annecy,historic,Pose de la première pierre de l’IUP d’Annecy,45.9187911,6.157534,node,12629324616
+Annecy,historic,Sans nom,45.9074496,6.1244298,node,12814031445
+Annecy,historic,Sans nom,45.9074496,6.1244298,node,12814031446
+Annecy,historic,Sans nom,45.9074496,6.1244298,node,12814031447
+Annecy,historic,Sans nom,45.9074496,6.1244298,node,12814031448
+Annecy,historic,Sans nom,45.8985523,6.1269514,node,12883230680
+Annecy,historic,Sans nom,45.8992365,6.123712,node,12883230681
+Annecy,historic,Sans nom,45.9399375,6.1064391,node,12898151110
+Annecy,historic,Sans nom,45.9081358,6.1075857,node,13110255041
+Annecy,historic,Sans nom,45.859672,6.1955283,node,13141625055
+Annecy,historic,Sans nom,45.9108885,6.1454249,node,13157883034
+Annecy,historic,Sans nom,45.8640797,6.1422861,node,13171237838
+Annecy,historic,Grotte de Notre-Dame de Lourdes,45.8642309,6.1376383,node,13171237857
+Annecy,historic,Sans nom,45.8623797,6.1384349,node,13173173958
+Annecy,historic,Georges Grandchamp,45.8761637,6.1186605,node,13241252034
+Annecy,historic,Sans nom,45.9148143,6.1458301,node,13277581378
+Annecy,historic,Voie Romaine,45.9189035,6.200427,way,4805295
+Annecy,historic,Château d'Annecy,45.8975492,6.1261941,way,24980106
+Annecy,historic,L'Impérial,45.9035887,6.1446171,way,26184736
+Annecy,historic,Manoir de Novel,45.9182936,6.1348136,way,30827049
+Annecy,historic,Route Romaine,45.8562203,6.0736424,way,31525240
+Annecy,historic,Route Romaine,45.8564396,6.0759703,way,31525242
+Annecy,historic,Hôtel de Sales,45.9010972,6.1263534,way,37052432
+Annecy,historic,Palais de l'Isle,45.8985763,6.1270145,way,37205550
+Annecy,historic,Palais de l'Isle,45.8985463,6.1273591,way,37205553
+Annecy,historic,Ancien Hôtel de Ville d'Annecy,45.8998598,6.1255502,way,37255162
+Annecy,historic,Maison Lambert,45.8989493,6.1252324,way,37255837
+Annecy,historic,Maison Gallo,45.8980814,6.1234733,way,40353270
+Annecy,historic,Porte Saint-Clair,45.8979849,6.1235622,way,40353272
+Annecy,historic,Sans nom,45.8980088,6.1274898,way,40434496
+Annecy,historic,Sans nom,45.8972995,6.1227521,way,40525169
+Annecy,historic,Château de Trésum,45.8934097,6.1313254,way,40950917
+Annecy,historic,Chapelle de Colmyr,45.8898009,6.1394526,way,41019744
+Annecy,historic,Château de la Cour,45.9226893,6.1421392,way,62491540
+Annecy,historic,Château de Fésigny,45.8847578,6.1789791,way,62953746
+Annecy,historic,Sans nom,45.9670249,6.2019841,way,86986105
+Annecy,historic,Sans nom,45.9669821,6.2018614,way,86986883
+Annecy,historic,Sans nom,45.8544273,6.1907754,way,420906528
+Annecy,historic,Tombeau de Hippolyte Taine,45.854484,6.1908886,way,420906530
+Annecy,historic,Le Vieux Moulin,45.9624553,6.1944562,way,871839217
+Annecy,historic,Petit Pont Romain,45.9327942,6.1277749,way,892078137
+Annecy,historic,Mémorial AFN de Haute-Savoie,45.9082215,6.1254972,way,981325186
+Annecy,historic,Château de Menthon-Saint-Bernard,45.8639677,6.2035174,relation,174256
+Annecy,historic,Château de Monthoux,45.9547388,6.1200968,relation,974255

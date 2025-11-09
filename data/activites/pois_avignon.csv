@@ -1,0 +1,654 @@
+city,category,name,lat,lon,osm_type,osm_id
+Avignon,museum,Musée du Petit Palais,43.9527473,4.8063438,node,309712990
+Avignon,museum,Museum Requien,43.9467218,4.8034283,node,443916232
+Avignon,museum,Musée Pierre-de-Luxembourg,43.9637314,4.7968264,node,908930249
+Avignon,museum,Chartreuse Notre-Dame-du-Val-de-Bénédiction,43.9665144,4.7975804,node,1070740454
+Avignon,museum,Musée Angladon,43.9460946,4.8069976,node,1490236423
+Avignon,museum,Musée Calvet,43.9469675,4.8036302,node,1490236424
+Avignon,museum,Musée de l'Œuvre,43.9509826,4.8061963,node,1490236425
+Avignon,museum,Palais du Roure,43.9484284,4.805423,node,1501550355
+Avignon,museum,Musée du Palais des Papes,43.9506848,4.8069668,node,2115650839
+Avignon,museum,Maison Jean Vilar,43.9498046,4.8067172,node,12039405942
+Avignon,museum,Musée Bains Pommer,43.947283,4.811686,node,12952010401
+Avignon,museum,Maison Jean Vilar,43.9491728,4.8067669,way,83755833
+Avignon,museum,Collection Lambert,43.9447971,4.8043332,way,83774997
+Avignon,museum,Musée Lapidaire,43.945887,4.806035,way,83784740
+Avignon,museum,Musée Louis Vouland,43.947265,4.8006216,way,83788659
+Avignon,park,Erable de Montpellier,43.9602082,4.7970261,node,4157704390
+Avignon,park,Jardin botanique,43.9687452,4.7941176,node,4157751115
+Avignon,park,Jardin sec,43.977124,4.7868359,node,4157753426
+Avignon,park,Jardin sec,43.9749313,4.7815734,node,4157753677
+Avignon,park,Jardin sec,43.9777231,4.7870518,node,4157757789
+Avignon,park,Jardin sec,43.9705818,4.7959306,node,4157760133
+Avignon,park,Jardin de la Garenne,43.9740116,4.7794029,node,4157768402
+Avignon,park,Jardin sec,43.9797938,4.785615,node,4157770888
+Avignon,park,Promenade des Perrières,43.9847192,4.7967626,node,11716786022
+Avignon,park,Square Agricol Perdiguier,43.9446542,4.8064351,way,28196526
+Avignon,park,Sans nom,43.950982,4.81969,way,83789543
+Avignon,park,Sans nom,43.9321869,4.8463373,way,85273439
+Avignon,park,Parc Chico Mendes,43.9465202,4.8479629,way,88191911
+Avignon,park,Square des Cigales,43.9351936,4.8727677,way,91750223
+Avignon,park,Sans nom,43.9532456,4.8533935,way,96969164
+Avignon,park,Rocher des Doms,43.9526663,4.8080925,way,132792631
+Avignon,park,Sans nom,43.9628738,4.8751006,way,133054808
+Avignon,park,Jardin des Carmes,43.9508789,4.8137812,way,160651260
+Avignon,park,Parc Saint-Lazare,43.9520988,4.817647,way,205331368
+Avignon,park,Sans nom,43.9476071,4.8190234,way,205332767
+Avignon,park,Sans nom,43.9471792,4.8187155,way,205332768
+Avignon,park,Sans nom,43.9437301,4.8010212,way,241502001
+Avignon,park,Parc Bardi,43.9787322,4.9100573,way,242483141
+Avignon,park,Parc de la Mairie,43.9596154,4.863659,way,274571682
+Avignon,park,Parc de Saint Louis,43.9546015,4.8687079,way,274573521
+Avignon,park,Sans nom,43.9624363,4.8573905,way,275265517
+Avignon,park,La Colline des Mourgues,43.9607661,4.7952106,way,276546708
+Avignon,park,Sans nom,43.9654916,4.7953731,way,292049231
+Avignon,park,Parc du Pré du Curé,43.9353773,4.797517,way,301662335
+Avignon,park,Sans nom,43.9303946,4.8269081,way,315567710
+Avignon,park,Parc du Clos de la Murette,43.926931,4.8248952,way,329695685
+Avignon,park,Sans nom,43.9579515,4.7956553,way,340385968
+Avignon,park,"Jeux d'enfants, bancs.",43.9589876,4.9269926,way,342852750
+Avignon,park,Sans nom,43.9741358,4.9176014,way,359277961
+Avignon,park,Sans nom,43.9394046,4.799678,way,411057594
+Avignon,park,Sans nom,43.954061,4.8002545,way,443543881
+Avignon,park,Sans nom,43.9547229,4.8050429,way,443543882
+Avignon,park,Sans nom,43.9501031,4.8172781,way,445338067
+Avignon,park,Parc du Clos de la Murette,43.951578,4.8393588,way,465886860
+Avignon,park,Sans nom,43.9544019,4.830801,way,477678180
+Avignon,park,Place des Petits Pas,43.9318804,4.8303418,way,477693104
+Avignon,park,Parc de la Cantonne Avignon,43.9369476,4.8721383,way,497096789
+Avignon,park,Parc de l'Abbaye,43.9323704,4.8132119,way,544362988
+Avignon,park,Parc Campo Bello,43.9307552,4.8115302,way,544371908
+Avignon,park,Parc de la Croix de Noves,43.9260376,4.8386293,way,544373651
+Avignon,park,Sans nom,43.9151286,4.8898389,way,653247348
+Avignon,park,Parc Colette,43.9296211,4.7968464,way,656749240
+Avignon,park,Sans nom,43.9177125,4.8803189,way,660690187
+Avignon,park,Parc du Cosmos,43.9624589,4.7539211,way,669956534
+Avignon,park,Sans nom,43.9174661,4.8884587,way,682073707
+Avignon,park,Jardins de la Castelette,43.9183127,4.8785604,way,688106252
+Avignon,park,Sans nom,43.9618465,4.742273,way,729451427
+Avignon,park,Sans nom,43.9211687,4.8966121,way,779645075
+Avignon,park,Sans nom,43.9358388,4.8713002,way,780974238
+Avignon,park,Sans nom,43.9419074,4.8444304,way,784234731
+Avignon,park,Sans nom,43.9428568,4.84143,way,784234732
+Avignon,park,Sans nom,43.9438592,4.8332068,way,813961854
+Avignon,park,Parc Julie-Victoire Daubié,43.9257758,4.8035933,way,857510387
+Avignon,park,Base de loisirs de la Barthelasse,43.954745,4.8001955,way,889787476
+Avignon,park,Domaine de la Souvine,43.9261929,4.8652323,way,890842018
+Avignon,park,Sans nom,43.9373581,4.804712,way,903063317
+Avignon,park,Sans nom,43.9670354,4.800677,way,985471579
+Avignon,park,Sans nom,43.9433116,4.8277444,way,1001810611
+Avignon,park,Square Anne Frank,43.9346038,4.8058892,way,1024174062
+Avignon,park,Parc de la Laïcité,43.9327276,4.7961039,way,1024174063
+Avignon,park,parc stc,43.931707,4.8423897,way,1047830839
+Avignon,park,Sans nom,43.9637202,4.8814547,way,1090693101
+Avignon,park,Sans nom,43.9548747,4.7736791,way,1194210542
+Avignon,park,Sans nom,43.9542378,4.7745241,way,1194210543
+Avignon,park,Square Christiane Bray,43.9355288,4.8022854,way,1211769117
+Avignon,park,Sans nom,43.9300269,4.8837072,way,1212686375
+Avignon,park,Le Champ vert,43.9275847,4.8155542,way,1212935079
+Avignon,park,Sans nom,43.9280316,4.818911,way,1212939777
+Avignon,park,iman,43.9297149,4.8003174,way,1262492826
+Avignon,park,Sans nom,43.9148314,4.8898057,way,1263328056
+Avignon,park,Sans nom,43.9582979,4.7535175,way,1301568608
+Avignon,park,Parc de la Barbière,43.9312829,4.8336196,way,1353628118
+Avignon,park,Parc du Verger des Cèdres,43.9360844,4.8797061,way,1356682441
+Avignon,park,Sans nom,43.978685,4.8887978,relation,6655989
+Avignon,restaurant,Le Bercail,43.9551681,4.8109671,node,302666367
+Avignon,restaurant,La Moutardier du Pape,43.9511134,4.8062789,node,302848749
+Avignon,restaurant,Café In et Off,43.9505934,4.8062246,node,302848756
+Avignon,restaurant,L'idylle du Palais,43.9502787,4.8058974,node,302848803
+Avignon,restaurant,Restaurant Festicafé,43.9503708,4.8058835,node,302848804
+Avignon,restaurant,Léo Léa,43.9497935,4.8064,node,302852529
+Avignon,restaurant,La Civette,43.9497594,4.8067616,node,302852530
+Avignon,restaurant,Brasserie de L’Horloge,43.9495845,4.8063335,node,302852531
+Avignon,restaurant,L'Opéra Café,43.9495224,4.8063324,node,302852532
+Avignon,restaurant,La Sperlongaise,43.9494317,4.8063309,node,302852533
+Avignon,restaurant,Le Forum,43.9493214,4.806329,node,302852534
+Avignon,restaurant,Brasserie de l'hôtel de ville,43.9491764,4.8062598,node,302852535
+Avignon,restaurant,Le Venaissin,43.9491348,4.8062598,node,302852536
+Avignon,restaurant,Le Jacquemart,43.9490612,4.8062596,node,302852538
+Avignon,restaurant,Milano,43.9500886,4.8026676,node,303075922
+Avignon,restaurant,La Scène,43.9500459,4.8030038,node,303075926
+Avignon,restaurant,Le Café de la Comédie,43.9500611,4.8031359,node,303075927
+Avignon,restaurant,Le Crillon,43.9500515,4.8032302,node,303075928
+Avignon,restaurant,La Ferugoulo,43.9508762,4.8030956,node,303075942
+Avignon,restaurant,Le Goût du jour,43.9505582,4.8042523,node,303075943
+Avignon,restaurant,Aux saveurs partagé,43.9514349,4.8181578,node,303080515
+Avignon,restaurant,Les Jardins d'Été,43.9664933,4.7968217,node,303084844
+Avignon,restaurant,La maison,43.9471397,4.8094645,node,419423773
+Avignon,restaurant,Les Jardins de la livrée,43.9644436,4.7957817,node,905829483
+Avignon,restaurant,Restaurant universitaire - CROUS,43.9106016,4.8905776,node,974706463
+Avignon,restaurant,Au bout d’la Rue,43.9512726,4.8186136,node,975425852
+Avignon,restaurant,Restaurant des Carmes,43.951122,4.8129123,node,1340915744
+Avignon,restaurant,Les Deux J & Cie,43.9163848,4.8893057,node,1342314967
+Avignon,restaurant,La Mijote,43.9164806,4.8886395,node,1342314968
+Avignon,restaurant,L'atelier,43.9287903,4.8390519,node,1387633387
+Avignon,restaurant,Les 3 bonheurs,43.948121,4.806881,node,1426761239
+Avignon,restaurant,Le Vintage,43.9479009,4.8066153,node,1427774354
+Avignon,restaurant,Croq Nem Le Tai,43.9443786,4.8036793,node,1445366513
+Avignon,restaurant,Via Roma,43.977951,4.871234,node,1449993078
+Avignon,restaurant,La Criée,43.9797065,4.8721226,node,1450013006
+Avignon,restaurant,Le Rieti,43.9754642,4.8698975,node,1450077429
+Avignon,restaurant,Flunch,43.9208729,4.8679066,node,1455841953
+Avignon,restaurant,La Casa de la Brochette,43.9375058,4.8103894,node,1501550058
+Avignon,restaurant,La Mirande,43.9500891,4.8077073,node,1509853505
+Avignon,restaurant,Il centro ! d’Italia,43.948426,4.808631,node,1538398619
+Avignon,restaurant,La Canoa,43.947366,4.80767,node,1539742950
+Avignon,restaurant,Casa nostra,43.948416,4.808693,node,1539822047
+Avignon,restaurant,Le Domus,43.943974,4.8056507,node,1540755551
+Avignon,restaurant,Pomelo,43.9448173,4.805335,node,1540763738
+Avignon,restaurant,Restaurant Viet-Nam,43.9483441,4.806096,node,1540773137
+Avignon,restaurant,Restaurant Le central,43.9454974,4.8057417,node,1540784850
+Avignon,restaurant,El Rancho,43.981429,4.879019,node,1589738970
+Avignon,restaurant,L'essentiel,43.949267,4.804275,node,1598870938
+Avignon,restaurant,Coin Caché,43.9494783,4.8080957,node,1603233054
+Avignon,restaurant,Moloko,43.947567,4.803425,node,1763841281
+Avignon,restaurant,Le cochon bleu,43.947256,4.802696,node,1763842963
+Avignon,restaurant,La cour d'honneur,43.946964,4.803198,node,1763844182
+Avignon,restaurant,Pollen,43.947715,4.804011,node,1794321493
+Avignon,restaurant,Gnocchi Della Mamma,43.949233,4.810316,node,1796937756
+Avignon,restaurant,Saigon food,43.949499,4.811814,node,1796949593
+Avignon,restaurant,Asie garden,43.921923,4.865566,node,1807596965
+Avignon,restaurant,Brasserie la pergola,43.921122,4.865091,node,1807627584
+Avignon,restaurant,Le bistrot des sales gosses,43.94715,4.806969,node,1821454458
+Avignon,restaurant,Pinocchio,43.946603,4.806022,node,1823134214
+Avignon,restaurant,Resto Raj Mahal,43.947271,4.806113,node,1823308171
+Avignon,restaurant,Mamma mia,43.947321,4.806646,node,1823308977
+Avignon,restaurant,Italie là-bas,43.947622,4.806435,node,1823310141
+Avignon,restaurant,Restaurant d'ici et d'ailleurs,43.94825,4.806457,node,1823313561
+Avignon,restaurant,Xuan,43.948154,4.806495,node,1823313695
+Avignon,restaurant,Tanoshii,43.948005,4.806544,node,1823314333
+Avignon,restaurant,Côté goût,43.9482076,4.8066357,node,1823317013
+Avignon,restaurant,La cigale,43.94813,4.806318,node,1823318332
+Avignon,restaurant,Restaurant Françoise,43.948881,4.810369,node,1823351040
+Avignon,restaurant,Éphèse,43.9490568,4.8104694,node,1823351623
+Avignon,restaurant,Pizz'Alif,43.9273429,4.7902347,node,1823766549
+Avignon,restaurant,La Grande muraille,43.929774,4.790716,node,1823780929
+Avignon,restaurant,Le kiwi,43.983729,4.86037,node,1824082705
+Avignon,restaurant,Le Cul De Poule,43.9502063,4.8132223,node,1824390008
+Avignon,restaurant,Café Saint-Jean,43.9486521,4.8101891,node,1825085830
+Avignon,restaurant,Graines de piment,43.947836,4.807237,node,1825720399
+Avignon,restaurant,Naka,43.947921,4.807151,node,1825720724
+Avignon,restaurant,Le verso,43.949068,4.807138,node,1825771001
+Avignon,restaurant,Jab's bar,43.948927,4.807389,node,1825773732
+Avignon,restaurant,Le Petit Napolitain,43.949904,4.8199595,node,1826447943
+Avignon,restaurant,Citron pressé,43.950334,4.813935,node,1826474687
+Avignon,restaurant,Au canard de Pékin,43.949942,4.812723,node,1826483900
+Avignon,restaurant,Ripert,43.9477222,4.8086497,node,1826503479
+Avignon,restaurant,Meinado,43.889682,4.9140211,node,1852925698
+Avignon,restaurant,Le bistro Bodeguita,43.945778,4.817017,node,1885412932
+Avignon,restaurant,Pizzeria Napoli,43.9622209,4.8594084,node,1935225364
+Avignon,restaurant,L’ottoman,43.9634521,4.858483,node,1935233878
+Avignon,restaurant,Le Libanais,43.9557273,4.8426392,node,1935241715
+Avignon,restaurant,Pizza de la Place,43.9415457,4.9054431,node,1935885670
+Avignon,restaurant,Le 16,43.9417774,4.90676,node,1935889106
+Avignon,restaurant,Le Barrio,43.9513568,4.8127606,node,1962556990
+Avignon,restaurant,Pizz & food,43.9522517,4.8118032,node,1962560304
+Avignon,restaurant,La Cuisine de Papa,43.949866,4.804835,node,1962664822
+Avignon,restaurant,Subito,43.9505773,4.8040984,node,2021469691
+Avignon,restaurant,Sushi & Bowl,43.9505872,4.8040125,node,2021470041
+Avignon,restaurant,Cherry´s,43.9845527,4.8875136,node,2028522494
+Avignon,restaurant,Moma sushi,43.945122,4.806109,node,2059729435
+Avignon,restaurant,Le Molière,43.944163,4.807402,node,2059747263
+Avignon,restaurant,Les tables de La Fontaine,43.9445118,4.8074954,node,2059747850
+Avignon,restaurant,L'épicerie de Ginette,43.944462,4.807885,node,2059749274
+Avignon,restaurant,Burger will,43.94433,4.8080371,node,2059749446
+Avignon,restaurant,La princière,43.9445317,4.8078157,node,2059750000
+Avignon,restaurant,L'Agape,43.944578,4.807788,node,2059750529
+Avignon,restaurant,Le pili,43.944652,4.807472,node,2059752413
+Avignon,restaurant,L’atelier de Bélinda,43.944625,4.807775,node,2059765622
+Avignon,restaurant,La Fourchette,43.9513695,4.8055805,node,2092350820
+Avignon,restaurant,Les Arts,43.9489723,4.8062595,node,2123610716
+Avignon,restaurant,Vert citron,43.949028,4.8062596,node,2123610929
+Avignon,restaurant,Restaurant interadministratif,43.943529,4.807533,node,2123711029
+Avignon,restaurant,Le Corail,43.9422475,4.8085854,node,2151541532
+Avignon,restaurant,Palais Bab Mansour,43.9431861,4.8086025,node,2174783216
+Avignon,restaurant,Basta Cosi!,43.9549909,4.7926035,node,2207997700
+Avignon,restaurant,Palais du Maharaja,43.9506677,4.8038019,node,2211147221
+Avignon,restaurant,Le pavillon bleu,43.9530337,4.7997604,node,2211167327
+Avignon,restaurant,La compagnie des chats,43.9451568,4.8087127,node,2212789280
+Avignon,restaurant,Lou piadina,43.9503825,4.8128156,node,2212811761
+Avignon,restaurant,Au Jardin des Carmes,43.9507491,4.8126738,node,2212815017
+Avignon,restaurant,Hygge,43.950963,4.8126489,node,2212822456
+Avignon,restaurant,fou de fafa,43.9458871,4.807711,node,2241171600
+Avignon,restaurant,La Salamandre,43.9642029,4.7975098,node,2241171634
+Avignon,restaurant,L'Auberge de Bonpas,43.8889755,4.9187961,node,2292608636
+Avignon,restaurant,L'ardéchois perché,43.949169,4.8147583,node,2303511046
+Avignon,restaurant,Vezzo pizza,43.945444,4.8142142,node,2303531866
+Avignon,restaurant,Bar La brasserie,43.9447878,4.8140839,node,2303534704
+Avignon,restaurant,numéro 75,43.9448237,4.8144653,node,2303535891
+Avignon,restaurant,Le square,43.9445757,4.8064913,node,2303817989
+Avignon,restaurant,Baryum,43.9457298,4.8077228,node,2314153286
+Avignon,restaurant,Restaurant le 26,43.9455984,4.8074839,node,2314153299
+Avignon,restaurant,Maison de Coto,43.9457759,4.807574,node,2314153303
+Avignon,restaurant,Le Joat,43.9458,4.8077105,node,2314153305
+Avignon,restaurant,Tulipe,43.946307,4.8076067,node,2314171792
+Avignon,restaurant,Le petit Cabestan,43.9467447,4.808711,node,2314192823
+Avignon,restaurant,Le potard,43.9477342,4.8075945,node,2345368592
+Avignon,restaurant,Tango Paëlla,43.9583466,4.7751448,node,2421527526
+Avignon,restaurant,Chez Cécile,43.9583474,4.775314,node,2421527541
+Avignon,restaurant,Maison Bronzini,43.9669654,4.7963125,node,2423143378
+Avignon,restaurant,Le Lutrin,43.9502767,4.8060355,node,2428281104
+Avignon,restaurant,Restaurant Christian Etienne,43.9500978,4.8069199,node,2428283964
+Avignon,restaurant,Hiély Lucullus,43.9484036,4.8060647,node,2428344132
+Avignon,restaurant,Indian Food,43.9454884,4.8128184,node,2504757126
+Avignon,restaurant,Art’è gusto,43.9452328,4.8130257,node,2504757896
+Avignon,restaurant,Maïnama,43.9451451,4.8131166,node,2504757897
+Avignon,restaurant,L'offset,43.9449021,4.8132232,node,2504759654
+Avignon,restaurant,Le zinzolin,43.9448998,4.813692,node,2504761237
+Avignon,restaurant,Le Synopsis,43.9450214,4.8137037,node,2504762188
+Avignon,restaurant,Le chapelier toqué,43.9452961,4.8141943,node,2504765409
+Avignon,restaurant,Gandhi,43.9453827,4.8142057,node,2504769715
+Avignon,restaurant,San Marino,43.9511867,4.8153382,node,2504795094
+Avignon,restaurant,La kasba des halles,43.9470655,4.8104774,node,2512533426
+Avignon,restaurant,La fabrique,43.9470894,4.8099362,node,2512533823
+Avignon,restaurant,Cabane dOléron,43.9472834,4.8099659,node,2512538273
+Avignon,restaurant,Courtepaille,43.9034027,4.8966258,node,2646583706
+Avignon,restaurant,La Manutention,43.9515615,4.808509,node,2649595340
+Avignon,restaurant,Le Palais de Jade,43.9595845,4.7566474,node,2676933379
+Avignon,restaurant,Sans nom,43.9416646,4.9048835,node,2677104995
+Avignon,restaurant,Équinoxe,43.9300077,4.7819008,node,2689754193
+Avignon,restaurant,Sans nom,43.9296581,4.7768588,node,2690243066
+Avignon,restaurant,Indochine,43.9774121,4.8730429,node,2874202773
+Avignon,restaurant,Chez Olivier Bistrot,43.9641842,4.7970873,node,2955631669
+Avignon,restaurant,La boucherie,43.9262607,4.8442237,node,3018707207
+Avignon,restaurant,La pataterie,43.9288948,4.8391389,node,3018757044
+Avignon,restaurant,Bistro Régent,43.9285163,4.8387972,node,3018759334
+Avignon,restaurant,Wafu Ramen,43.9481801,4.8086625,node,3029499038
+Avignon,restaurant,Mecha Uma,43.9482869,4.8085643,node,3029507097
+Avignon,restaurant,Chez Nine,43.9485088,4.8082981,node,3029570985
+Avignon,restaurant,Les Bulleuses,43.9444247,4.8074648,node,3421595302
+Avignon,restaurant,Restaurant Pollen,43.9494192,4.8034948,node,3515659038
+Avignon,restaurant,El Patio,43.964298,4.7969898,node,3737706052
+Avignon,restaurant,La Table de Saint-Louis,43.9440079,4.8044377,node,3766906711
+Avignon,restaurant,Première édition,43.9465639,4.8062571,node,3766921061
+Avignon,restaurant,Sapori di Calabria,43.9458257,4.8123705,node,3867380896
+Avignon,restaurant,C'est Ici,43.9836551,4.8713867,node,3899031466
+Avignon,restaurant,Memphis,43.9301505,4.836838,node,4017225696
+Avignon,restaurant,Rossini Sandwicherie,43.9486121,4.8039213,node,4137545289
+Avignon,restaurant,Vivotto,43.9165356,4.8883159,node,4350016270
+Avignon,restaurant,Chez Mamie,43.949293,4.8109045,node,4375388356
+Avignon,restaurant,La kasba,43.946971,4.8104797,node,4423474110
+Avignon,restaurant,Le Coude à Coude,43.9472023,4.8072682,node,4471543040
+Avignon,restaurant,Le hom art,43.916167,4.8902069,node,4614486997
+Avignon,restaurant,Dubble  Food Avignon Agroparc,43.916144,4.8903116,node,4614486999
+Avignon,restaurant,Le Tholéan,43.9162432,4.8898586,node,4614492759
+Avignon,restaurant,Le petit chaudron,43.9405626,4.8015189,node,4660471155
+Avignon,restaurant,Le bistro,43.9514854,4.8087243,node,4672176892
+Avignon,restaurant,Le Petit Gourmand,43.9482553,4.8089052,node,4672216712
+Avignon,restaurant,L'ardoise,43.9480565,4.809448,node,4672216957
+Avignon,restaurant,L'Italienne au Chapeau Rouge,43.9486528,4.8112392,node,4672228898
+Avignon,restaurant,Mamma Corsica,43.9482382,4.8112066,node,4778982939
+Avignon,restaurant,Naturabsolu,43.9631661,4.7971522,node,4786448250
+Avignon,restaurant,MAM'S,43.9490007,4.8104382,node,4786462824
+Avignon,restaurant,Chez Marie,43.9494179,4.8125421,node,4843725646
+Avignon,restaurant,Le Citron Vert,43.9493966,4.8127299,node,4843734434
+Avignon,restaurant,Au jasmin,43.9482936,4.8109108,node,4873749302
+Avignon,restaurant,Café des Négociants,43.9360062,4.8713938,node,4885343221
+Avignon,restaurant,La fourchette,43.9502441,4.804871,node,4936750622
+Avignon,restaurant,La Petite Pêche,43.950385,4.8048038,node,4936750624
+Avignon,restaurant,L’arlequin,43.9501133,4.804845,node,4936764321
+Avignon,restaurant,Ma belle cuisine,43.9485887,4.8040652,node,4938276021
+Avignon,restaurant,La Table Hot,43.9498356,4.8035893,node,4940164022
+Avignon,restaurant,La Cour du Louvre,43.9485286,4.8043715,node,4960168124
+Avignon,restaurant,Estaminet Arômes et Tentations,43.9499339,4.8033977,node,4975257060
+Avignon,restaurant,Brasserie La civette,43.949261,4.8060955,node,4999128624
+Avignon,restaurant,L'amista,43.9480477,4.8087305,node,4999665524
+Avignon,restaurant,Lôc Ańh,43.9479223,4.8088205,node,4999734721
+Avignon,restaurant,Madame Ho,43.947782,4.8113812,node,5004840623
+Avignon,restaurant,Ô léopard,43.9489259,4.808985,node,5016299351
+Avignon,restaurant,Nawak,43.9515982,4.8162597,node,5019410021
+Avignon,restaurant,Sur les planches,43.9492336,4.8102282,node,5019690573
+Avignon,restaurant,Le 47. Glaces artisanales,43.9493104,4.8110567,node,5019735662
+Avignon,restaurant,Pizza Cosy,43.9409038,4.8260668,node,5034630740
+Avignon,restaurant,Bibiche Avignon,43.9496108,4.8082041,node,5039007652
+Avignon,restaurant,Le cloître,43.9495668,4.8082926,node,5039007653
+Avignon,restaurant,Le Riad,43.9477859,4.8067952,node,5087849963
+Avignon,restaurant,Violette,43.9449529,4.8041802,node,5088500721
+Avignon,restaurant,Vivotto,43.9453428,4.8074092,node,5088929266
+Avignon,restaurant,L'épicerie,43.9493936,4.8077705,node,5100453121
+Avignon,restaurant,U sushi,43.9481107,4.8090181,node,5100716950
+Avignon,restaurant,Nobushi,43.9156438,4.8895427,node,5109031348
+Avignon,restaurant,Le Bistrot Trèfle,43.9155633,4.8891882,node,5109031352
+Avignon,restaurant,Daddy Bar,43.9419652,4.8225537,node,5109066404
+Avignon,restaurant,Napoli Mia,43.9426746,4.8208179,node,5224513134
+Avignon,restaurant,L'Escargot,43.9431156,4.8189667,node,5224513922
+Avignon,restaurant,Sans nom,43.9778359,4.786596,node,5250401332
+Avignon,restaurant,Da Enzo,43.954933,4.7901747,node,5314585609
+Avignon,restaurant,Les Romarins,43.9575657,4.7633712,node,5314616058
+Avignon,restaurant,Le Cèdre,43.9507859,4.8029891,node,5327752877
+Avignon,restaurant,Chez Lisette,43.9493428,4.8085695,node,5344615303
+Avignon,restaurant,Le 7,43.9630788,4.7919086,node,5469780062
+Avignon,restaurant,Bar-restaurant La Croisière,43.9515958,4.8276368,node,5636603202
+Avignon,restaurant,Le Sicilien,43.9583361,4.775071,node,5688601829
+Avignon,restaurant,Thaï Trucks,43.9579538,4.775472,node,5688601831
+Avignon,restaurant,HB Restaurant,43.9509824,4.8290416,node,5754326122
+Avignon,restaurant,Le Gecko,43.946028,4.8118152,node,5796139831
+Avignon,restaurant,Chez Angelo,43.9459228,4.8122176,node,5796142525
+Avignon,restaurant,Chez Flore,43.9591006,4.7690608,node,5837960501
+Avignon,restaurant,La Strada,43.9588564,4.7561413,node,5837960509
+Avignon,restaurant,Chez Sergio,43.9503261,4.8128333,node,5841368563
+Avignon,restaurant,Anaho poké,43.9477596,4.8085238,node,5846230733
+Avignon,restaurant,Bibendum,43.9454607,4.8046009,node,5884593085
+Avignon,restaurant,Entre Vigne et Garrigue,43.9903921,4.77746,node,5893250534
+Avignon,restaurant,Angkor Apsara,43.9422763,4.8073088,node,6150077042
+Avignon,restaurant,Au chineur,43.9437515,4.8073209,node,6219462848
+Avignon,restaurant,La quiche de Marcel,43.9443443,4.8074487,node,6271627486
+Avignon,restaurant,Le lapin blanc,43.9462671,4.8117166,node,6293067789
+Avignon,restaurant,Marcel à table,43.9850575,4.885351,node,6310052222
+Avignon,restaurant,Espace Brésil,43.9505912,4.8141267,node,6325471104
+Avignon,restaurant,Al Quds,43.9502402,4.8137122,node,6325485028
+Avignon,restaurant,La Machine à Écrire,43.9503724,4.8131909,node,6325505252
+Avignon,restaurant,La cuisine des copains,43.9492156,4.80859,node,6325582264
+Avignon,restaurant,LauRa di pasta,43.9478976,4.8095745,node,6347320706
+Avignon,restaurant,Pizzeria Le Ristretto,43.9471271,4.8072711,node,6367506441
+Avignon,restaurant,Couscousserie de l'horloge,43.9491757,4.8063033,node,6411606885
+Avignon,restaurant,Carré du palais,43.9502024,4.8063592,node,6411650683
+Avignon,restaurant,Le Gout Pile,43.9793842,4.905031,node,6449262887
+Avignon,restaurant,Au Petit Détour,43.9519404,4.8121154,node,6559867700
+Avignon,restaurant,Ô Papilles,43.9493204,4.808649,node,6782514558
+Avignon,restaurant,Meinado,43.8896978,4.91396,node,6785786105
+Avignon,restaurant,Coeur d'artichaut,43.9477916,4.8073578,node,6810816010
+Avignon,restaurant,Le Petit Bangkok,43.9416978,4.9062546,node,6848153328
+Avignon,restaurant,Café Terrasse Grands Dignitaires,43.9508635,4.8072115,node,6860598887
+Avignon,restaurant,L''Attraction,43.9488361,4.8115243,node,6910685915
+Avignon,restaurant,Restaurant Campanile Avignon Sud,43.925733,4.8510358,node,6927531691
+Avignon,restaurant,Auberge de Cassagne,43.9608115,4.8742783,node,6938815856
+Avignon,restaurant,Restaurant L’Olivier,43.9765086,4.8725477,node,6939730982
+Avignon,restaurant,El Asador,43.9830417,4.873823,node,7014651924
+Avignon,restaurant,Brut Butcher,43.9832801,4.8737266,node,7014656488
+Avignon,restaurant,Le Saint-Laurent,43.9835979,4.8741158,node,7014675063
+Avignon,restaurant,Villa Food House,43.9835449,4.8742823,node,7014675064
+Avignon,restaurant,Salad & Co,43.9833986,4.8744015,node,7014675065
+Avignon,restaurant,Italian Trattoria,43.9834112,4.873709,node,7014682913
+Avignon,restaurant,Ayako Sushi,43.9835159,4.873788,node,7014682914
+Avignon,restaurant,Ambassade de Bretagne,43.9835878,4.8739405,node,7014682915
+Avignon,restaurant,Umut grill,43.9549585,4.8384633,node,7103973091
+Avignon,restaurant,Restaurant mer noire,43.9615842,4.8577186,node,7116168033
+Avignon,restaurant,Qui l’eût « cru »,43.9491557,4.8074524,node,7138490420
+Avignon,restaurant,Terra mia,43.9123814,4.8810246,node,7156192579
+Avignon,restaurant,La Petite Cuillère,43.9635748,4.7995492,node,7388560711
+Avignon,restaurant,La Civette,43.949711,4.80639,node,7787264027
+Avignon,restaurant,Petit grand,43.9440441,4.8073596,node,7812576811
+Avignon,restaurant,Cap de l’eau,43.9399968,4.7979963,node,7847202557
+Avignon,restaurant,Mamma airport,43.9055351,4.8979923,node,7893495414
+Avignon,restaurant,L'Osteria,43.9473161,4.8064516,node,7941701396
+Avignon,restaurant,Le 46,43.9515397,4.8057954,node,8021772609
+Avignon,restaurant,Le batelier fou,43.9520372,4.8056065,node,8021786943
+Avignon,restaurant,L’impro,43.9475415,4.8106598,node,8031623790
+Avignon,restaurant,Modern afghan food,43.9469047,4.8107193,node,8039569798
+Avignon,restaurant,Ò délices,43.9451299,4.8069021,node,8059052136
+Avignon,restaurant,Restaurant universitaire centre ville,43.9490155,4.817761,node,8740222110
+Avignon,restaurant,Cafétéria CROUS,43.9491169,4.817635,node,8740222111
+Avignon,restaurant,L'atelier selon Freddy,43.9593431,4.7565831,node,9018427983
+Avignon,restaurant,La Salsa,43.9456259,4.8126617,node,9033474094
+Avignon,restaurant,L’Oiseau,43.9511765,4.8140298,node,9080085519
+Avignon,restaurant,Label JD,43.9465646,4.8112372,node,9157955614
+Avignon,restaurant,Factory,43.9789242,4.8734972,node,9219754478
+Avignon,restaurant,Brasseries des MIN,43.9334881,4.83392,node,9223216795
+Avignon,restaurant,Mine des Saveurs,43.933584,4.8345559,node,9223216797
+Avignon,restaurant,Une Marguerite à Table,43.9458093,4.809129,node,9355723537
+Avignon,restaurant,Brasserie du Théâtre,43.9449286,4.805376,node,9463754718
+Avignon,restaurant,MDF,43.9461707,4.8116865,node,9587657974
+Avignon,restaurant,béou,43.9452738,4.8037519,node,9596673997
+Avignon,restaurant,Wok D'asie,43.888733,4.852618,node,9669821034
+Avignon,restaurant,Le Trinquet des Carmes,43.949997,4.8128232,node,9781439763
+Avignon,restaurant,Pizza Roll,43.9781198,4.787916,node,9841456752
+Avignon,restaurant,Le Lieu,43.9457643,4.8121288,node,9860167823
+Avignon,restaurant,Restaurant Bayon,43.9330774,4.8096918,node,9888550324
+Avignon,restaurant,Bodhari,43.9461382,4.8118721,node,9895406939
+Avignon,restaurant,Bistronomik,43.939098,4.9056638,node,9905037861
+Avignon,restaurant,Brasserie Le Caf'Or,43.8877043,4.8556375,node,9952274696
+Avignon,restaurant,UBON Thaï Restaurant,43.9450273,4.8086718,node,9968192496
+Avignon,restaurant,Lam's,43.9443473,4.8150287,node,9969773609
+Avignon,restaurant,Le petit nice,43.9490964,4.8062587,node,10029805028
+Avignon,restaurant,Cell’s Patio,43.9479494,4.8115095,node,10135255601
+Avignon,restaurant,La Chapelle,43.9508718,4.8190126,node,10169240547
+Avignon,restaurant,Bambino,43.9579062,4.7969206,node,10553102209
+Avignon,restaurant,Ju'ste Chez Moi,43.9165364,4.8086937,node,10690598607
+Avignon,restaurant,Le Patio,43.9425889,4.8023453,node,10720473143
+Avignon,restaurant,O’Meydan,43.9283631,4.792298,node,10991753583
+Avignon,restaurant,Cantina Lasalle,43.9493838,4.816933,node,11065129831
+Avignon,restaurant,Le mon plaisir,43.9529077,4.8708564,node,11290497262
+Avignon,restaurant,Come A Roma,43.9474725,4.8074759,node,11524622368
+Avignon,restaurant,Cœur d'Artichaut,43.9283119,4.8430881,node,11538253313
+Avignon,restaurant,Aux Pieds Tanques,43.9022112,4.7559914,node,11543813902
+Avignon,restaurant,Salakha,43.9541507,4.7912992,node,11634062433
+Avignon,restaurant,Italian queen,43.9439432,4.8052668,node,11645436692
+Avignon,restaurant,Mas de l’echanson,43.8881397,4.8627199,node,11654584269
+Avignon,restaurant,Le Murano,43.9285883,4.8349692,node,11887338331
+Avignon,restaurant,La vieille fontaine - Hôtel d'Europe,43.9503713,4.803458,node,11928687855
+Avignon,restaurant,Le 3B,43.8975767,4.8033028,node,11985484139
+Avignon,restaurant,Aubergine,43.964129,4.7967643,node,12002703870
+Avignon,restaurant,Ô Chalet,43.9308444,4.7865167,node,12162147553
+Avignon,restaurant,La Nouvelle Forge,43.9623074,4.8608876,node,12180511101
+Avignon,restaurant,Le quai des saveurs,43.9423297,4.8048952,node,12431010292
+Avignon,restaurant,Nem d'Asie,43.9015585,4.7559756,node,12545945340
+Avignon,restaurant,Maison de la Tour,43.9521978,4.8161088,node,12734393065
+Avignon,restaurant,Le bistro du canotier,43.8985384,4.802807,node,12790347156
+Avignon,restaurant,asia,43.8986526,4.8035744,node,12790347158
+Avignon,restaurant,Confidentiel,43.9852275,4.8881764,node,12795208801
+Avignon,restaurant,Le Kashmir,43.9642019,4.7974357,node,12880765489
+Avignon,restaurant,L'Heure Bleue,43.9638324,4.7967986,node,12880765490
+Avignon,restaurant,Chez Ju,43.9639404,4.7967972,node,12880765491
+Avignon,restaurant,L'Annexe,43.9633384,4.7972368,node,12880765493
+Avignon,restaurant,Le L Crêperie,43.9634865,4.7971085,node,12880765494
+Avignon,restaurant,ShiFuMi,43.9633913,4.7977324,node,12880765495
+Avignon,restaurant,Le Barrel,43.9630552,4.7971603,node,12880765496
+Avignon,restaurant,Sans nom,43.9288272,4.7841753,node,12995325917
+Avignon,restaurant,La Pizza,43.9542609,4.8974975,node,13030609839
+Avignon,restaurant,Le Nil,43.9414039,4.8245026,way,83749790
+Avignon,restaurant,Le Léopard,43.9274488,4.8387683,way,83749885
+Avignon,restaurant,La socca,43.9321104,4.8728587,way,83753567
+Avignon,restaurant,Le chêne d'or,43.9304635,4.7809419,way,83758841
+Avignon,restaurant,Hippopotamus,43.9226184,4.8597107,way,83760020
+Avignon,restaurant,Koté Kour,43.9498039,4.8032552,way,83762788
+Avignon,restaurant,Restaurant de l'école hotelière d'Avignon,43.9266556,4.8491905,way,83765059
+Avignon,restaurant,Au bonheur gourmet,43.9227683,4.8586807,way,83776048
+Avignon,restaurant,La vache à carreaux,43.9495757,4.8080229,way,83788755
+Avignon,restaurant,Territoires de France,43.9225805,4.912294,way,91450291
+Avignon,restaurant,Les Cèdres,43.9605547,4.7807457,way,92260582
+Avignon,restaurant,La Guinguette du Vieux Moulin,43.9570654,4.7961329,way,92280226
+Avignon,restaurant,Buffalo Grill,43.9776154,4.8709921,way,96495934
+Avignon,restaurant,Tommy's,43.9786022,4.8711267,way,96497809
+Avignon,restaurant,Le chic,43.9782563,4.8730596,way,96499638
+Avignon,restaurant,Flunch,43.9812283,4.8828656,way,96499925
+Avignon,restaurant,Restaurant la Gare,43.9802338,4.8749613,way,96500068
+Avignon,restaurant,Bug’s butchers,43.9760592,4.8727064,way,96500330
+Avignon,restaurant,L'Escale Antillaise,43.9785725,4.8736687,way,96503112
+Avignon,restaurant,Au Bureau,43.978405,4.8780358,way,96503233
+Avignon,restaurant,Chinois Wok,43.9760433,4.8711524,way,96504711
+Avignon,restaurant,3 Brasseurs,43.9799646,4.8807319,way,96506080
+Avignon,restaurant,Ô Panda,43.9766669,4.8730553,way,96506754
+Avignon,restaurant,Planet Rock,43.9792916,4.8751004,way,96507100
+Avignon,restaurant,Le Mas Gourmand,43.9034921,4.8162882,way,99733048
+Avignon,restaurant,Pleine nature,43.9848847,4.8872967,way,124522915
+Avignon,restaurant,Hexagone,43.9813226,4.8792207,way,124905524
+Avignon,restaurant,Wok 168,43.9857429,4.8869491,way,125167857
+Avignon,restaurant,Bistrot du Cap,43.9280816,4.8368828,way,125324730
+Avignon,restaurant,Kaly sushi,43.9280115,4.8372316,way,125616516
+Avignon,restaurant,Le vieux marché,43.9787764,4.8891664,way,134675540
+Avignon,restaurant,Lilly Rosa Pizza d'hôtes,43.9789379,4.8889541,way,134675576
+Avignon,restaurant,Carré des Gourmets,43.9787481,4.8884897,way,134730496
+Avignon,restaurant,Bo bistro,43.9788753,4.8885055,way,134730511
+Avignon,restaurant,Buffalo Grill,43.9206602,4.8671854,way,552446669
+Avignon,restaurant,Flunch,43.9823292,4.8814147,way,625048811
+Avignon,restaurant,Flunch,43.9813037,4.8831835,way,625048814
+Avignon,restaurant,Le comptoir de Sevran,43.9478237,4.810443,way,656305241
+Avignon,restaurant,Au canard de Pékin,43.9478637,4.8102347,way,656305243
+Avignon,restaurant,Chez les filles,43.9474065,4.810059,way,656305255
+Avignon,restaurant,La petite cuisine des Halles,43.9474197,4.8099869,way,656305256
+Avignon,restaurant,Cuisine Centr'Halles,43.9474773,4.8100087,way,656305258
+Avignon,restaurant,Le Gigognan,43.9351484,4.7814322,way,739031170
+Avignon,station,Avignon-Centre,43.941688,4.8052782,node,3805976209
+Avignon,station,Avignon TGV,43.9217832,4.786072,node,4907034453
+Avignon,station,Villeneuve-lès-Avignon,43.9567791,4.7922121,node,10874267294
+Avignon,station,Gare d'Avignon Sud,43.9344801,4.8410616,way,83764778
+Avignon,station,Montfavet,43.9326351,4.873943,way,83771616
+Avignon,station,Morières-lès-Avignon,43.9414724,4.9081962,way,91442863
+Avignon,historic,Sans nom,43.9705838,4.8410091,node,315134143
+Avignon,historic,Porte de la Brèche,43.9524155,4.7672307,node,1046395171
+Avignon,historic,Monument aux Morts,43.9633678,4.7994125,node,1876319750
+Avignon,historic,Sans nom,43.9514652,4.816166,node,2153222738
+Avignon,historic,Chartreuse de Bonpas,43.8892023,4.9254505,node,2401021158
+Avignon,historic,Église,43.9661966,4.7977903,node,2427063676
+Avignon,historic,Chapelle de la visitation,43.9481358,4.8124732,node,2499307400
+Avignon,historic,Sans nom,43.9519032,4.8073831,node,2572705341
+Avignon,historic,Tombeau de l'Ermite,43.9604979,4.7967176,node,3742895282
+Avignon,historic,Sans nom,43.9796845,4.8999337,node,3925504381
+Avignon,historic,Sans nom,43.9625356,4.8607281,node,3925549576
+Avignon,historic,Sans nom,43.970777,4.9175696,node,4092284634
+Avignon,historic,Sans nom,43.9609696,4.7957132,node,4157704517
+Avignon,historic,monument aux morts 1870-1871 : la sentinelle des morts,43.9486774,4.8260051,node,4393693190
+Avignon,historic,Sans nom,43.947017,4.81018,node,4414662133
+Avignon,historic,Paul Saïn,43.9527948,4.8074859,node,4894937338
+Avignon,historic,Paul Vayson,43.952801,4.8080061,node,4894948949
+Avignon,historic,Sans nom,43.9355336,4.8710453,node,4914853817
+Avignon,historic,Sans nom,43.9509851,4.8057112,node,5216331153
+Avignon,historic,Hôtel Pamard,43.9500052,4.8076478,node,5216331154
+Avignon,historic,Hôtel de Verclos,43.9479939,4.8070758,node,5216331155
+Avignon,historic,Hôtel de l'Espine,43.9482083,4.8034327,node,5216331156
+Avignon,historic,Hôtel de Brantes,43.9492974,4.8042896,node,5216331158
+Avignon,historic,Tour dite de la Saunerie,43.949337,4.8099853,node,5218700815
+Avignon,historic,Sans nom,43.9517295,4.806194,node,5218700816
+Avignon,historic,Croix des Veuves,43.8980364,4.7609736,node,5257682568
+Avignon,historic,Croix de la Capitaine,43.8956223,4.7597819,node,5257685307
+Avignon,historic,Sans nom,43.9382614,4.8240082,node,5304576046
+Avignon,historic,Sans nom,43.9493222,4.8119086,node,5409887357
+Avignon,historic,Sans nom,43.897214,4.8047724,node,5581375980
+Avignon,historic,Jean Althen,43.9533218,4.8076772,node,5885048587
+Avignon,historic,Sans nom,43.8912105,4.9270832,node,5902034268
+Avignon,historic,Sans nom,43.9491497,4.8043397,node,5950856323
+Avignon,historic,Pierre Boulle,43.9456638,4.8091562,node,6811950291
+Avignon,historic,Sans nom,43.9631256,4.796528,node,7065486185
+Avignon,historic,Sans nom,43.9631932,4.7978114,node,7065486187
+Avignon,historic,Sans nom,43.9676175,4.7955912,node,7065493829
+Avignon,historic,JUIFS DEPORTES DU VAUCLUSE,43.9521627,4.8073363,node,7749825858
+Avignon,historic,Sans nom,43.9521258,4.8073408,node,7749825859
+Avignon,historic,Héros de la résistance,43.9443677,4.8061028,node,7820061792
+Avignon,historic,Mémorial du génocide arménien,43.9443928,4.8058266,node,7820061793
+Avignon,historic,Croix de Joubert,43.8897801,4.7502914,node,9258878957
+Avignon,historic,Sans nom,43.8949865,4.7429261,node,9258878958
+Avignon,historic,Sans nom,43.9410503,4.8348897,node,9464239556
+Avignon,historic,Sans nom,43.9529907,4.8054603,node,9981399143
+Avignon,historic,monument aux morts,43.899165,4.749363,node,10298070469
+Avignon,historic,monument aux morts,43.8985125,4.8030358,node,10298275052
+Avignon,historic,plaque comméorative de l'hôtel de police,43.9427198,4.7995847,node,10648850542
+Avignon,historic,Sans nom,43.944284,4.9095966,node,10673894092
+Avignon,historic,Stèle de la Déportation,43.942032,4.9058601,node,10673894093
+Avignon,historic,stèle Jean Moulin,43.9422415,4.9076732,node,10673894094
+Avignon,historic,Sans nom,43.9423343,4.9067395,node,10673894095
+Avignon,historic,Sans nom,43.949642,4.8056556,node,11014256223
+Avignon,historic,Sans nom,43.890259,4.8511575,node,11277000282
+Avignon,historic,Morts en service,43.9417423,4.8345013,node,11359674905
+Avignon,historic,Morts au feu,43.9417458,4.8345195,node,11359674910
+Avignon,historic,%orts au champ d'honneur,43.9417451,4.8345374,node,11359674911
+Avignon,historic,Aux victimes du devoir,43.9411427,4.8360239,node,11360295848
+Avignon,historic,Aux sapeurs pompiers,43.9411282,4.8360276,node,11360295849
+Avignon,historic,Vestiges Des Arcades Romaines,43.9505263,4.8048325,node,11682180769
+Avignon,historic,Lou Primadié Jan Brunet,43.9477792,4.8067746,node,11717544286
+Avignon,historic,Sans nom,43.9514188,4.8161216,node,12288942902
+Avignon,historic,Sans nom,43.8980358,4.750053,node,12909475579
+Avignon,historic,Stèle commémorative Louis Marius Aymard,43.9273856,4.7781305,node,12917469723
+Avignon,historic,Sans nom,43.9167976,4.7464795,node,12951778306
+Avignon,historic,Sans nom,43.8962982,4.7488656,node,12952036979
+Avignon,historic,Sans nom,43.8931669,4.7464268,node,12952040082
+Avignon,historic,Sans nom,43.9790602,4.9024682,node,13256635801
+Avignon,historic,Sans nom,43.9767727,4.8987148,node,13257339312
+Avignon,historic,Sans nom,43.9786356,4.9032766,node,13259561574
+Avignon,historic,Abbaye Saint-Ruf,43.9328516,4.8125858,way,80615783
+Avignon,historic,Sans nom,43.9515349,4.8062429,way,83748381
+Avignon,historic,Sans nom,43.948131,4.8079436,way,83748750
+Avignon,historic,Hôtel de Villeneuve-Martignan,43.9469768,4.8039772,way,83748757
+Avignon,historic,Remparts d'Avignon,43.9493657,4.8189465,way,83750605
+Avignon,historic,Sans nom,43.9469047,4.8073863,way,83752518
+Avignon,historic,Hôtel de Montfaucon,43.9449123,4.8037719,way,83752591
+Avignon,historic,Hôtel Geoffroy (ancien),43.9473474,4.8012536,way,83753308
+Avignon,historic,Sans nom,43.9471906,4.8075269,way,83754536
+Avignon,historic,Remparts d'Avignon,43.9517645,4.8036828,way,83755499
+Avignon,historic,Sans nom,43.9511445,4.8062479,way,83755652
+Avignon,historic,Sans nom,43.9440012,4.8046196,way,83756563
+Avignon,historic,Remparts d'Avignon,43.9510304,4.8030886,way,83757855
+Avignon,historic,Hôtel Peilhon de Faret,43.9483883,4.8073546,way,83759092
+Avignon,historic,Sans nom,43.9328027,4.8128871,way,83759255
+Avignon,historic,Tour de la Madeleine (ancienne),43.9503679,4.8047024,way,83759626
+Avignon,historic,Sans nom,43.9489119,4.8063501,way,83759908
+Avignon,historic,Sans nom,43.9501342,4.8070168,way,83759924
+Avignon,historic,Remparts d'Avignon,43.9522721,4.8164162,way,83760751
+Avignon,historic,Hôtel de Raousset-Boulbon,43.9485034,4.8036309,way,83762721
+Avignon,historic,Tour des Augustins,43.9500267,4.8132501,way,83763483
+Avignon,historic,Maison dite de la petite lanterne,43.9466279,4.803195,way,83763708
+Avignon,historic,"Maison de Forli, dite de la Reine Jeanne",43.9506213,4.8040455,way,83764204
+Avignon,historic,Hôtel de la Bastide,43.9511517,4.8116886,way,83764907
+Avignon,historic,Maison Louis XVI,43.9445343,4.8073676,way,83765466
+Avignon,historic,Sans nom,43.9517515,4.8189962,way,83766738
+Avignon,historic,Sans nom,43.9513704,4.8061723,way,83768158
+Avignon,historic,Remparts d'Avignon,43.9500152,4.8193751,way,83768184
+Avignon,historic,Pont Saint-Bénezet,43.9536906,4.8050404,way,83769147
+Avignon,historic,Sans nom,43.950373,4.8083829,way,83773948
+Avignon,historic,Hôtel de Montaigu,43.9468483,4.8118136,way,83774257
+Avignon,historic,Hôtel de Sade,43.947634,4.8054392,way,83774356
+Avignon,historic,Sans nom,43.9506834,4.8058905,way,83774601
+Avignon,historic,Collection Lambert,43.9447971,4.8043332,way,83774997
+Avignon,historic,Sans nom,43.9512682,4.80428,way,83778122
+Avignon,historic,Tour d'Espagne,43.9394284,4.8667711,way,83778364
+Avignon,historic,Remparts d'Avignon,43.9431022,4.8104348,way,83778572
+Avignon,historic,Remparts d'Avignon,43.9505942,4.819193,way,83779375
+Avignon,historic,"Maison de Forli, dite de la Reine Jeanne",43.9506542,4.8042426,way,83779885
+Avignon,historic,Hôtel de Rochefort-Brancas,43.9480547,4.8040364,way,83780065
+Avignon,historic,Hôtel de Salvador,43.9464229,4.8104158,way,83780833
+Avignon,historic,Sans nom,43.9475441,4.8045196,way,83781450
+Avignon,historic,Remparts d'Avignon,43.9530135,4.8054407,way,83782136
+Avignon,historic,Hôtel des Taillades,43.9470119,4.8031679,way,83782334
+Avignon,historic,Hôtel Cloître Saint-Louis,43.9438046,4.8045672,way,83782447
+Avignon,historic,Hôtel du 18s,43.9450485,4.8047307,way,83783909
+Avignon,historic,Maison Casal,43.9500762,4.8038165,way,83783948
+Avignon,historic,Hôtel de Blanchetti,43.9499266,4.8099775,way,83784091
+Avignon,historic,Sans nom,43.9497841,4.8044784,way,83784151
+Avignon,historic,Hôtel de Salvati-Palasse,43.9481977,4.8066512,way,83784356
+Avignon,historic,Hôtel Le Gras,43.9492525,4.8090892,way,83785227
+Avignon,historic,Tour Saint-Jean-le-Vieux,43.9485698,4.8100163,way,83785370
+Avignon,historic,Palais du Roure,43.9484271,4.8054032,way,83786354
+Avignon,historic,"Maison de Forli, dite de la Reine Jeanne",43.9506364,4.8041172,way,83789101
+Avignon,historic,Fort Saint-André,43.9662034,4.8011142,way,88806649
+Avignon,historic,Sans nom,43.9533262,4.8855642,way,91720114
+Avignon,historic,Sans nom,43.9784162,4.9034737,way,91720537
+Avignon,historic,Sans nom,43.9786819,4.9035905,way,91724679
+Avignon,historic,Abbaye Saint-André,43.9659111,4.8009572,way,92264339
+Avignon,historic,Chapelle Notre-Dame de Consolation,43.9601718,4.7961823,way,92271046
+Avignon,historic,Tour Philippe le Bel,43.9585814,4.7976043,way,92283697
+Avignon,historic,Sans nom,43.9518489,4.7644054,way,92304965
+Avignon,historic,Tour des Masc,43.9539809,4.7647043,way,92307638
+Avignon,historic,Sans nom,43.9351136,4.7442132,way,92315460
+Avignon,historic,Château,43.900773,4.7472405,way,114946139
+Avignon,historic,Tour du Cardinal Grimaldi,43.897449,4.748376,way,114948523
+Avignon,historic,Statue du Centenaire,43.9473264,4.7992786,way,193436791
+Avignon,historic,Sans nom,43.9492249,4.8047031,way,205336931
+Avignon,historic,Maison des Chevaliers,43.8987165,4.747494,way,694590093
+Avignon,historic,Maisons et tour de Mirault,43.9509555,4.806133,way,694590094
+Avignon,historic,Caravelle Guyane,43.9032598,4.8981286,way,734948275
+Avignon,historic,Sans nom,43.9034804,4.8987793,way,734960038
+Avignon,historic,Mirage F1-C,43.9032148,4.8985097,way,734960039
+Avignon,historic,Sans nom,43.948691,4.8261441,way,1143947880
+Avignon,historic,Sans nom,43.9411372,4.8360108,way,1224887009
+Avignon,historic,En mémoire de nos camarades disparus,43.9417324,4.8345194,way,1224947543
+Avignon,historic,Hôtel de Chanciergues,43.9491652,4.8038781,relation,1253095
+Avignon,historic,Sans nom,43.9504949,4.8061602,relation,1253107
+Avignon,historic,Sans nom,43.9498626,4.8084369,relation,1253108
+Avignon,historic,Sans nom,43.9506699,4.8061394,relation,1253140
+Avignon,historic,Hôtel de Ville,43.9492992,4.8053163,relation,1253146
+Avignon,historic,Palais des Papes,43.9507198,4.8075845,relation,1253164
+Avignon,historic,Sans nom,43.947789,4.8051466,relation,1253174
+Avignon,historic,Hôtel Crillon,43.9468765,4.8080811,relation,1253192
+Avignon,historic,Hôtel Bernard de Rascas,43.9485864,4.8081157,relation,1253197
+Avignon,historic,Hôtel Tonduty de Malijac,43.9498854,4.8041375,relation,1253206
+Avignon,historic,Sans nom,43.9474432,4.8054578,relation,1253212
+Avignon,historic,Sans nom,43.9527274,4.8064658,relation,1253215
+Avignon,historic,Chapelle des Templiers,43.9485107,4.804351,relation,1253218
+Avignon,historic,Hôtel de Monery,43.9501392,4.8042372,relation,1253224
+Avignon,historic,Hôtel Azémar,43.9498022,4.8103454,relation,1253232
+Avignon,historic,Sans nom,43.9499487,4.8070505,relation,1253236
+Avignon,historic,Hôtel de Luynes,43.94585,4.8074291,relation,1253247
+Avignon,historic,Château de Fargues,43.9571474,4.8595464,relation,1390125
+Avignon,historic,Remparts d'Avignon,43.9480514,4.8087127,relation,6594149
+Avignon,historic,"Centre historique d’Avignon : Palais des papes, ensemble épiscopal et Pont d’Avignon",43.9520675,4.8068212,relation,9668352

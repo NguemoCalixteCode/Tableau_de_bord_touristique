@@ -1,0 +1,842 @@
+city,category,name,lat,lon,osm_type,osm_id
+Dijon,museum,Muséum d'Histoire Naturelle,47.3218523,5.0289424,node,255935624
+Dijon,museum,Espace d’art contemporain,47.3210209,5.0347197,node,1443061549
+Dijon,museum,Musée archéologique de Dijon,47.3218301,5.0350557,node,1493118991
+Dijon,museum,Musée Rude,47.321005,5.0442148,node,2482864557
+Dijon,museum,Musée Magnin,47.3209486,5.0422275,node,2751550494
+Dijon,museum,Musée d'art sacré,47.3177794,5.0379087,node,5141876795
+Dijon,museum,FRAC Bourgogne,47.3235992,5.0404585,node,5496817978
+Dijon,museum,Fabrique de pain d'épices Mulot et Petit Jean,47.3240205,5.0187828,node,6638656461
+Dijon,museum,Musée de la vie bourguignonne Perrin de Puycousin,47.3174424,5.0380043,way,23363257
+Dijon,museum,Église Sainte-Anne,47.3177323,5.0379625,way,41501851
+Dijon,museum,Chapelle des Climats,47.3167594,5.0298764,way,114351778
+Dijon,museum,Musée de l'électricité de Bourgogne,47.3278275,5.0939145,way,125713280
+Dijon,museum,Musée des Beaux Arts,47.3216285,5.0423315,way,175641505
+Dijon,park,Square Henri Vallée,47.3105312,5.0191323,way,4848668
+Dijon,park,Parc de la Colombière,47.2995743,5.0461426,way,5228937
+Dijon,park,Square Georges Serraz,47.3018952,5.0160215,way,5734933
+Dijon,park,Square Clément Janin,47.3070311,5.0522239,way,23149156
+Dijon,park,Jardin du Château de Larrey,47.3138977,5.0135119,way,23161674
+Dijon,park,Jardin du Ruisseau de la Fontaine d'Ouche,47.3170566,5.0080458,way,23162301
+Dijon,park,Square Georges Brassens,47.3020706,5.0073859,way,23170663
+Dijon,park,Square Georges Connes,47.3013356,5.0051708,way,23170780
+Dijon,park,Promenade Quai Gauthey,47.3096438,5.0295876,way,23183486
+Dijon,park,Square Rue de l'Île,47.3119751,5.0293739,way,23183611
+Dijon,park,Square du Nuits-Saint-Georges,47.3054875,5.017114,way,23195040
+Dijon,park,Square en Saint-Jacques,47.3023958,5.013817,way,23196222
+Dijon,park,Square des Valendons,47.3028065,5.0098928,way,23196228
+Dijon,park,Square des Violettes,47.3033513,5.0085609,way,23196229
+Dijon,park,Square Chapelle Saint-Jacques,47.3074623,5.011206,way,23196359
+Dijon,park,Mail Tino Rossi,47.310605,5.0074113,way,23197164
+Dijon,park,Sans nom,47.3102837,5.0091379,way,23197172
+Dijon,park,Jardin des Quatre Saisons,47.3098852,5.0084864,way,23204014
+Dijon,park,Parc des Grésilles,47.3337911,5.0718127,way,23206623
+Dijon,park,Sans nom,47.3268875,5.0679207,way,23207379
+Dijon,park,Sans nom,47.3285685,5.0712909,way,23207544
+Dijon,park,Sans nom,47.3274326,5.0722441,way,23207545
+Dijon,park,Square du Volnay,47.3120602,5.0169068,way,23255269
+Dijon,park,Square Gaston Roupnel,47.31645,5.0375362,way,23255601
+Dijon,park,Square du 19 Mars 1962,47.3246651,5.0646912,way,23258047
+Dijon,park,Square du 18 Juin,47.3250264,5.0641349,way,23261581
+Dijon,park,Square Chevreul,47.3076511,5.0437125,way,23263001
+Dijon,park,Port du Canal,47.314499,5.0265371,way,23266361
+Dijon,park,Jardin de l'Arquebuse,47.3211953,5.0276358,way,23280237
+Dijon,park,Square Sainte-Chantal,47.3152185,5.0226248,way,23282223
+Dijon,park,Square des Ribottées,47.3295299,5.0595568,way,23297500
+Dijon,park,Square Camille Flammarion,47.3312547,5.0633469,way,23297536
+Dijon,park,Square Laplace,47.3317896,5.0621973,way,23297561
+Dijon,park,Square Lavoisier,47.3324764,5.0616642,way,23297567
+Dijon,park,Jardin Jean de Berbisey,47.3180718,5.0374918,way,23330324
+Dijon,park,Square de Bourges,47.3205668,5.0049497,way,23432504
+Dijon,park,Square des Ducs de Bourgogne,47.3220466,5.0421864,way,23465056
+Dijon,park,Square de la République,47.3263919,5.0460272,way,23484272
+Dijon,park,Square Darcy,47.3244102,5.0323474,way,23575397
+Dijon,park,Promenade de l'Ouche,47.3006248,5.0381433,way,23610371
+Dijon,park,Parc Clémenceau,47.3266961,5.0496831,way,23657406
+Dijon,park,Square Rue de Colmar,47.3267408,5.0518326,way,23657415
+Dijon,park,Square Edmond de Debeaumarché,47.3130099,5.0501024,way,23756688
+Dijon,park,Square du Creux d'Enfer,47.3171155,5.0579782,way,23757742
+Dijon,park,Place du Président Wilson,47.3161527,5.0433186,way,23792974
+Dijon,park,Esplanade Amédée Bargy,47.3175833,5.0248111,way,23817770
+Dijon,park,Esplanade du Clos de Maillonas,47.309235,5.0329442,way,23817793
+Dijon,park,Square des Saunières,47.3316911,5.0177341,way,23955525
+Dijon,park,Square Charles le Téméraire,47.3323314,5.0266892,way,23966908
+Dijon,park,Sans nom,47.3340089,5.0219797,way,23966913
+Dijon,park,Sans nom,47.3310992,5.0270515,way,23967033
+Dijon,park,Sans nom,47.3348498,5.0284511,way,23967332
+Dijon,park,Square Darius Milhaud,47.3332815,5.0333365,way,23967345
+Dijon,park,Sans nom,47.335243,5.0320163,way,23967349
+Dijon,park,Square Paul Éluard,47.3346088,5.0319184,way,23967350
+Dijon,park,Square Montchapet,47.3309387,5.0293751,way,23967484
+Dijon,park,Sans nom,47.295673,5.0514424,way,23985698
+Dijon,park,Sans nom,47.305995,5.0636556,way,23986775
+Dijon,park,Mail André Moreau,47.3094367,5.0651515,way,23986787
+Dijon,park,Square Eugène Spuller,47.3299389,5.0312511,way,24032019
+Dijon,park,Sans nom,47.3304404,5.0320778,way,24032145
+Dijon,park,Square Marguerite - Jean Menneveau,47.3270139,5.0307447,way,24032146
+Dijon,park,Place Paul Bert,47.3306804,5.0326014,way,24048895
+Dijon,park,Square Paul et Henriette Dard,47.3335158,5.0362643,way,24153706
+Dijon,park,Sans nom,47.3356826,5.0312218,way,24153714
+Dijon,park,Place Saint-Bernard,47.3255411,5.0388773,way,24232040
+Dijon,park,Place Charles François Dupuis,47.3266284,5.0381554,way,24232060
+Dijon,park,Parc du Drapeau,47.3375417,5.0428351,way,24244027
+Dijon,park,Square de la République,47.3268958,5.0439497,way,24249034
+Dijon,park,Sans nom,47.3324503,5.042696,way,24249046
+Dijon,park,Sans nom,47.3287466,5.0427981,way,24249467
+Dijon,park,Square Général Giraud,47.336163,5.052147,way,24263937
+Dijon,park,Parc de la Toison d'Or,47.3550029,5.0549435,way,24272636
+Dijon,park,Promenade du Suzon,47.3509221,5.0374141,way,24279631
+Dijon,park,Sans nom,47.3537003,5.0372826,way,24279637
+Dijon,park,Sans nom,47.3525809,5.0400299,way,24279641
+Dijon,park,Square Pascal,47.3375054,5.0545836,way,24291395
+Dijon,park,Parc de l'Hôtel d'Esterno,47.3194037,5.0366889,way,24295581
+Dijon,park,Square Gabriel Lejard,47.3210981,5.058038,way,24423959
+Dijon,park,Espace Vert de l'Éperon,47.3214499,4.9950121,way,24424421
+Dijon,park,Parc du Château de Pouilly,47.3474288,5.0508255,way,24452668
+Dijon,park,Jardin Japonais,47.3484944,5.038119,way,24475631
+Dijon,park,Square de la Charmette,47.3461879,5.0397791,way,24481729
+Dijon,park,Sans nom,47.3478088,5.0385192,way,24482064
+Dijon,park,Sans nom,47.3439075,5.0419596,way,24482364
+Dijon,park,Sans nom,47.3444255,5.0415015,way,24482943
+Dijon,park,Square Émile Poillot,47.3450388,5.0376551,way,24482991
+Dijon,park,Sans nom,47.2920958,5.0051671,way,31797372
+Dijon,park,Plaine Gambetta,47.2959465,5.0101762,way,31825989
+Dijon,park,Sans nom,47.2943448,5.0139252,way,31826690
+Dijon,park,Sans nom,47.3016236,5.0115508,way,31922709
+Dijon,park,Le Clos du Roy,47.2918395,4.9986,way,31970860
+Dijon,park,Sans nom,47.3423782,5.0348453,way,34635577
+Dijon,park,Sans nom,47.3442588,5.0351473,way,34998321
+Dijon,park,Mail Boulevard de Verdun,47.3258046,5.0517571,way,41921074
+Dijon,park,Parc de la Fontaine aux Fées,47.3325684,5.0005379,way,42272474
+Dijon,park,Parc des Carrières Bacquin,47.3259513,5.0183754,way,47335658
+Dijon,park,Terrain de Jeux des Carrières de l'Ouest,47.3265896,5.0133962,way,47731774
+Dijon,park,Sans nom,47.3224097,5.009198,way,47977012
+Dijon,park,Square des Gênois,47.3355941,5.0231787,way,48371406
+Dijon,park,Parc des Basses Combottes,47.3396504,5.0232754,way,52084068
+Dijon,park,Square du Petit Citeaux,47.3141833,5.0354897,way,72478127
+Dijon,park,Square du 19 Mars,47.3299393,5.0879548,way,124008698
+Dijon,park,Sans nom,47.3351057,5.0421389,way,124991877
+Dijon,park,Place Chanoine Kir,47.3291476,5.0901316,way,125896421
+Dijon,park,Esplanade des Marcs d'Or,47.3141389,5.0029402,way,126687446
+Dijon,park,Parc des Varennes,47.3357363,5.0948043,way,126705509
+Dijon,park,Sans nom,47.3135872,5.049408,way,132622146
+Dijon,park,Sans nom,47.3164288,5.031879,way,133370760
+Dijon,park,Square des Bénédictins,47.321927,5.034605,way,136114823
+Dijon,park,Services techniques,47.3512371,4.9985015,way,158541877
+Dijon,park,Sans nom,47.3153808,5.0432914,way,164713219
+Dijon,park,Sans nom,47.310549,5.045673,way,166894168
+Dijon,park,Sans nom,47.3039429,5.0477646,way,166894169
+Dijon,park,Sans nom,47.303679,5.0488585,way,166894170
+Dijon,park,Sans nom,47.3079256,5.0461183,way,166894172
+Dijon,park,Sans nom,47.3142279,5.0435906,way,166918599
+Dijon,park,Sans nom,47.3116244,5.0446122,way,166918600
+Dijon,park,Sans nom,47.313393,5.0439263,way,166918601
+Dijon,park,Sans nom,47.3461283,5.0579756,way,167096341
+Dijon,park,Esplanade Érasme,47.3143622,5.0660422,way,207007568
+Dijon,park,Sans nom,47.3124371,5.0684962,way,207007654
+Dijon,park,Sans nom,47.3395166,5.034579,way,220510302
+Dijon,park,Sans nom,47.3373779,5.0269798,way,224301684
+Dijon,park,Sans nom,47.3373723,5.0273975,way,224301685
+Dijon,park,Place de l'Hôtel de Ville,47.3417594,5.0221746,way,225128986
+Dijon,park,Place des Feuillants,47.3454976,5.0166987,way,225129663
+Dijon,park,Sans nom,47.3425984,5.0223648,way,225180397
+Dijon,park,Sans nom,47.3368506,5.030475,way,225485920
+Dijon,park,Square des Billetottes,47.3028041,5.0211303,way,252664503
+Dijon,park,Sans nom,47.332261,5.0459281,way,254845987
+Dijon,park,Sans nom,47.2863349,5.0060667,way,256477098
+Dijon,park,Sans nom,47.2861649,5.007167,way,256477099
+Dijon,park,Espace Parabiago,47.2855231,5.0082421,way,256477101
+Dijon,park,Sans nom,47.3282386,5.0701709,way,257763389
+Dijon,park,Parc des Argentières,47.3152236,5.057022,way,257806197
+Dijon,park,Square des Petites Roches,47.3140478,5.0564067,way,257806200
+Dijon,park,Sans nom,47.3134948,5.0526738,way,257806372
+Dijon,park,Square Ernst Johnson,47.3315055,5.0097376,way,259344632
+Dijon,park,Parc de l'Arsenal,47.30614,5.0253619,way,260050528
+Dijon,park,Sans nom,47.3415402,5.0370527,way,270440720
+Dijon,park,Sans nom,47.350689,5.0080863,way,284792534
+Dijon,park,Place Salvador Allende,47.2891975,5.0036873,way,291330542
+Dijon,park,Square Pierre Curie,47.2898826,5.0015636,way,291330543
+Dijon,park,Sans nom,47.289343,5.0019069,way,291330544
+Dijon,park,Promenade de l'Ouche,47.3193199,5.0191092,way,297107544
+Dijon,park,Parc de la Redoute de Saint-Apollinaire,47.3366568,5.0744991,way,304373451
+Dijon,park,Square du Petit Bernard,47.3046438,5.0354706,way,320483620
+Dijon,park,Terrain des verriers,47.3016592,5.0367466,way,320483621
+Dijon,park,Square des Corbaulées,47.3293812,5.0064583,way,334755694
+Dijon,park,Square des Pétignys,47.2984015,5.0118724,way,338973862
+Dijon,park,Place du Marronnier,47.3519735,5.0018579,way,339315093
+Dijon,park,Sans nom,47.2990966,5.0009401,way,340145605
+Dijon,park,Square Salvador Allende,47.3395839,4.9947039,way,340608443
+Dijon,park,Parc de Pré-Thomas,47.3260908,5.0862112,way,364765238
+Dijon,park,Square du Parc des Sports,47.3259422,5.0664132,way,372186158
+Dijon,park,Sans nom,47.3468354,5.0045962,way,375333545
+Dijon,park,Sans nom,47.3504767,5.0030241,way,375647136
+Dijon,park,Parc des Tourelles,47.3528365,4.9949889,way,376334042
+Dijon,park,Sans nom,47.3511591,4.9988259,way,376562427
+Dijon,park,Sans nom,47.3524581,4.9942436,way,376615980
+Dijon,park,Parc de la Combe à la Serpent,47.3124648,4.9674932,way,384708790
+Dijon,park,Sans nom,47.3270677,4.9981629,way,408319995
+Dijon,park,Sans nom,47.3433079,5.0529341,way,501426580
+Dijon,park,Sans nom,47.3441585,5.0510783,way,501426608
+Dijon,park,Jardin des Saules,47.3507422,5.0491737,way,503843320
+Dijon,park,Sans nom,47.3332906,5.0636365,way,525872848
+Dijon,park,Square d'Arsonval,47.3298068,5.0619156,way,525872849
+Dijon,park,Sans nom,47.3204834,5.0687409,way,540992691
+Dijon,park,Sans nom,47.3259831,5.0656903,way,543106992
+Dijon,park,Parc Hyacinthe Vincent,47.3257438,5.0715513,way,543665746
+Dijon,park,Sans nom,47.3170959,5.0425515,way,544819199
+Dijon,park,Sans nom,47.317102,5.0422752,way,544819582
+Dijon,park,Square de la Paix,47.3339572,5.0802919,way,584460805
+Dijon,park,Sans nom,47.3196155,5.053316,way,646804387
+Dijon,park,Piste Municipale d'Éducation Routière,47.30634,5.0285291,way,658684703
+Dijon,park,Square Samuel Paty,47.3243218,5.048972,way,660120308
+Dijon,park,Sans nom,47.294787,5.0578447,way,662688888
+Dijon,park,Sans nom,47.307506,5.0795174,way,666415628
+Dijon,park,Sans nom,47.3085289,5.0790441,way,666417915
+Dijon,park,Sans nom,47.2864878,5.0612416,way,672618710
+Dijon,park,Sans nom,47.2894529,5.0614167,way,681599021
+Dijon,park,Sans nom,47.2901754,5.0608324,way,682057543
+Dijon,park,Sans nom,47.2900268,5.0600486,way,682057665
+Dijon,park,Sans nom,47.2889579,5.062596,way,682058383
+Dijon,park,Sans nom,47.2885529,5.0621624,way,682059370
+Dijon,park,Sans nom,47.2890482,5.0638635,way,682197203
+Dijon,park,Sans nom,47.2893405,5.0647263,way,682197204
+Dijon,park,Sans nom,47.2885094,5.0642428,way,682197611
+Dijon,park,Sans nom,47.2903044,5.0640502,way,682198417
+Dijon,park,Esplanade de Corcelles,47.3115653,5.0010502,way,710634193
+Dijon,park,Square du Coteau de Giron,47.3099279,4.9930808,way,710635424
+Dijon,park,Promenade de la Fontaine Sainte-Anne,47.3067379,4.9975898,way,710638492
+Dijon,park,Parc de la Combe Saint-Joseph,47.3055927,4.9898983,way,710645511
+Dijon,park,Parc de la Combe Persil,47.3105795,4.9936613,way,710681826
+Dijon,park,Sans nom,47.3340838,5.0860701,way,710711851
+Dijon,park,Promenade du Bief de l'Ouche,47.3121586,5.0311665,way,710719552
+Dijon,park,Square Gustave Eiffel,47.3166755,5.0265252,way,713743304
+Dijon,park,Sans nom,47.3416536,5.0550018,way,713956934
+Dijon,park,Sans nom,47.3143325,5.0315566,way,714868944
+Dijon,park,Square Colette,47.3213417,5.0456604,way,715313742
+Dijon,park,Cours Junot,47.3376421,5.0463036,way,717309097
+Dijon,park,Sans nom,47.3360262,5.0086462,way,722921564
+Dijon,park,Mail des Lochères,47.3305995,5.0668316,way,733093748
+Dijon,park,Parc de la Motte-Giron,47.3134999,4.9821941,way,733906766
+Dijon,park,Promenade Toussaint Louverture,47.3332678,5.0694687,way,740818570
+Dijon,park,Sans nom,47.3313067,5.0193551,way,747987114
+Dijon,park,Square Renan,47.3443056,5.0464849,way,770050677
+Dijon,park,Sans nom,47.3372762,5.0558817,way,770817717
+Dijon,park,Sans nom,47.3386249,5.0557501,way,770817718
+Dijon,park,Sans nom,47.2866672,5.0641507,way,772641286
+Dijon,park,Sans nom,47.3045009,5.0621249,way,772654428
+Dijon,park,Sans nom,47.3021291,5.0665224,way,772656610
+Dijon,park,Sans nom,47.2962389,5.0494671,way,773699966
+Dijon,park,Sans nom,47.2967633,5.0502228,way,773701119
+Dijon,park,Sans nom,47.2970715,5.050325,way,773701120
+Dijon,park,Sans nom,47.340848,4.9929837,way,799473393
+Dijon,park,Jardin de Sainte-Anne,47.3173158,5.0380043,way,816785911
+Dijon,park,Jardin des Carmélites,47.3185738,5.0389181,way,816785914
+Dijon,park,Jardin de la Banque de France,47.3246696,5.0394871,way,846208570
+Dijon,park,Promenade du Mail,47.301417,5.0135463,way,881019289
+Dijon,park,Sans nom,47.3142625,5.0297639,way,881021923
+Dijon,park,Sans nom,47.3076029,5.0447552,way,925706602
+Dijon,park,Sans nom,47.2880729,5.0605995,way,932707641
+Dijon,park,Sans nom,47.309513,5.0272269,way,932716069
+Dijon,park,Cours Paul Morelon,47.348792,5.0234068,way,948482254
+Dijon,park,Promenades de Pouilly,47.3480246,5.0530204,way,948788269
+Dijon,park,Sans nom,47.3480075,5.0310622,way,952731881
+Dijon,park,Square du Père de Foucauld,47.309872,5.0019191,way,955368859
+Dijon,park,Terrain de Jeux Allée de la Saône,47.3133407,5.0245952,way,979317376
+Dijon,park,Plateau de la Cour du Roy,47.3347488,5.003238,way,1013409513
+Dijon,park,Square Maryse Bastié,47.3008689,5.0601632,way,1017653415
+Dijon,park,Sans nom,47.3345612,5.0841809,way,1018356879
+Dijon,park,Sans nom,47.3152803,5.1013795,way,1051947714
+Dijon,park,Sans nom,47.3700726,5.0812158,way,1053142165
+Dijon,park,Sans nom,47.367954,5.0775839,way,1053142173
+Dijon,park,Square du Chambertin,47.3146446,5.0144882,way,1061382769
+Dijon,park,Promenade de la Redoute,47.3307638,5.0726427,way,1062738423
+Dijon,park,Sans nom,47.3053501,5.0492884,way,1082232820
+Dijon,park,Jardin du 19 Mars 1962,47.3393878,5.0005377,way,1101199891
+Dijon,park,Square des logis de Bourgogne,47.3400115,4.999296,way,1101199892
+Dijon,park,Sans nom,47.3313441,5.0764132,way,1135288892
+Dijon,park,Sans nom,47.3360412,5.0792987,way,1135293374
+Dijon,park,Parc Jeanne Barret,47.344821,5.043309,way,1151633156
+Dijon,park,Sans nom,47.3416639,5.0436851,way,1163792182
+Dijon,park,Sans nom,47.3410509,5.041717,way,1177274963
+Dijon,park,Sans nom,47.3527373,5.0585471,way,1177862531
+Dijon,park,Sans nom,47.3660261,4.9949886,way,1218606000
+Dijon,park,Sans nom,47.365759,5.0247618,way,1227958113
+Dijon,park,Sans nom,47.3175916,5.0208584,way,1256632153
+Dijon,park,Réserve Urbaine de Biodiversité du Suzon,47.3490389,5.0358814,way,1259336833
+Dijon,park,Square Carrelet de Loisy,47.3202472,5.0447605,way,1381166426
+Dijon,park,Jardin de l’hôtel de Vogüé,47.3230247,5.0423885,way,1416523264
+Dijon,park,Sans nom,47.3330128,5.0450398,relation,9774529
+Dijon,restaurant,Marco Polo,47.3201157,5.0359844,node,255728482
+Dijon,restaurant,Les Friands disent,47.3201768,5.0360003,node,255731744
+Dijon,restaurant,L'Édito,47.3233936,5.0350105,node,256276605
+Dijon,restaurant,En Face la Cité,47.3183319,5.0306434,node,256396180
+Dijon,restaurant,La Braserade,47.3286912,5.0416721,node,262373880
+Dijon,restaurant,La Bon'Heure,47.330747,5.0487599,node,262552103
+Dijon,restaurant,Refuge des Pirates,47.3515791,5.0580714,node,266015694
+Dijon,restaurant,Soleil de Tunis,47.3164899,5.0343803,node,890307278
+Dijon,restaurant,Les Remparts,47.3167042,5.0342326,node,890307287
+Dijon,restaurant,Le Pharaon,47.3175444,5.0340926,node,890307292
+Dijon,restaurant,Le piano qui fume,47.3190328,5.0373275,node,890307330
+Dijon,restaurant,Chambouletous,47.3191481,5.0374992,node,890307348
+Dijon,restaurant,Le Shanti,47.3176605,5.0348679,node,891812235
+Dijon,restaurant,L'Âge de Raisin,47.3176791,5.0349417,node,891812240
+Dijon,restaurant,Sushi King,47.3187817,5.0350738,node,891812242
+Dijon,restaurant,L'Epicerie & Cie,47.3189632,5.0356921,node,891812262
+Dijon,restaurant,Le Cercle,47.3184235,5.0332223,node,893208553
+Dijon,restaurant,L'Émile Brochettes,47.3187154,5.0352085,node,893208595
+Dijon,restaurant,Le Resto,47.3188404,5.0350217,node,893208607
+Dijon,restaurant,Le Zola,47.3188929,5.0349705,node,893208617
+Dijon,restaurant,La Pizz Zola,47.3189321,5.034931,node,893208621
+Dijon,restaurant,Le Maharaja,47.3192515,5.0348764,node,893208625
+Dijon,restaurant,La Fine Heure,47.3190652,5.0373717,node,895350839
+Dijon,restaurant,La Closerie,47.3184475,5.0380434,node,902330149
+Dijon,restaurant,Le Gril' Laure,47.3211751,5.0338636,node,905520191
+Dijon,restaurant,Aki,47.3187386,5.0357743,node,1345107024
+Dijon,restaurant,La sardine,47.3174218,5.0338274,node,1345107027
+Dijon,restaurant,La barca,47.3054238,5.1016543,node,1377668596
+Dijon,restaurant,Le Tire Bouchon,47.3101009,5.0946329,node,1377770198
+Dijon,restaurant,Chez Septime,47.3227267,5.0545021,node,1377820226
+Dijon,restaurant,La Véranda,47.2881038,5.0124993,node,1377827315
+Dijon,restaurant,MuiMa Saveurs Du Sud,47.3229092,5.0397871,node,1379416434
+Dijon,restaurant,Les Moulins Bleus,47.3228631,5.0404883,node,1379416441
+Dijon,restaurant,Le 314,47.3233747,5.0392379,node,1379434383
+Dijon,restaurant,Le Café du Marché,47.3231378,5.0395075,node,1379434385
+Dijon,restaurant,Rochangul - Cuisine Ouïghour,47.3228941,5.0382499,node,1379434388
+Dijon,restaurant,DZ'envies,47.3238157,5.0393736,node,1379434389
+Dijon,restaurant,La Menuiserie,47.3244558,5.038778,node,1379434396
+Dijon,restaurant,Le Bistrot des Halles,47.3242909,5.0396483,node,1379434397
+Dijon,restaurant,Sublime,47.3244851,5.0386061,node,1379434399
+Dijon,restaurant,Chez Gaston,47.3236379,5.0393225,node,1379434402
+Dijon,restaurant,Il Ristorante,47.3130284,5.0951918,node,1380588067
+Dijon,restaurant,La Musarde,47.3642389,4.9928973,node,1402205112
+Dijon,restaurant,Pizza du bourg,47.3316949,5.0844555,node,1404428151
+Dijon,restaurant,Le Méditerranéen,47.3293565,5.0429751,node,1415905527
+Dijon,restaurant,Spica,47.3247128,5.0425512,node,1419915122
+Dijon,restaurant,Restaurant de la Porte Guillaume,47.3230701,5.0350001,node,1422149594
+Dijon,restaurant,O'Bareuzai,47.3225869,5.0390516,node,1430869839
+Dijon,restaurant,Le coin repas,47.3109273,5.0529502,node,1460282831
+Dijon,restaurant,Le Burguignon,47.3131536,5.0568291,node,1460287411
+Dijon,restaurant,Brasserie la Cantine,47.3137746,5.0681104,node,1483540615
+Dijon,restaurant,BollyWood lounge,47.3193665,5.0333094,node,1493118985
+Dijon,restaurant,La Cloche,47.3240207,5.0340914,node,1495892275
+Dijon,restaurant,Au grès de mes envies,47.3190706,5.037605,node,1509645502
+Dijon,restaurant,Pourquoi pas ?,47.3195294,5.0356031,node,1509645516
+Dijon,restaurant,Min'Chine,47.3224315,5.0252287,node,1515593465
+Dijon,restaurant,Le Sauvage,47.3190994,5.0338976,node,1538219779
+Dijon,restaurant,Chez Ti,47.3179566,5.0351258,node,1633233131
+Dijon,restaurant,Aux Délices d'Annaba,47.317982,5.0351838,node,1633233134
+Dijon,restaurant,Parapluie,47.3188736,5.0337622,node,1637581988
+Dijon,restaurant,Hôtel du Stade,47.3217469,5.0532768,node,1669831140
+Dijon,restaurant,Pavillon Bacchus,47.3666205,5.048208,node,1855698645
+Dijon,restaurant,Les Tramways,47.3247416,5.052054,node,2039800554
+Dijon,restaurant,La Criée,47.3260493,5.0759575,node,2048123785
+Dijon,restaurant,Courtepaille,47.326042,5.0752134,node,2048123815
+Dijon,restaurant,Pizz'Artistes,47.3280356,5.0534268,node,2105765793
+Dijon,restaurant,Le Noti,47.3281961,5.0493107,node,2146284863
+Dijon,restaurant,L'Bout d'la Rue,47.3240783,5.044031,node,2163325429
+Dijon,restaurant,Cafétéria Droit-Lettre,47.3140916,5.0646816,node,2163346974
+Dijon,restaurant,Chez Léon,47.32471,5.0388085,node,2295254785
+Dijon,restaurant,Salsapelpa,47.3275519,5.0447265,node,2471248904
+Dijon,restaurant,Caffé Cosi,47.3242336,5.0402826,node,2504497269
+Dijon,restaurant,La Jeanne Brasserie,47.3259673,5.0451191,node,2539265191
+Dijon,restaurant,Sushi Feist,47.3237606,5.0312207,node,2563070125
+Dijon,restaurant,L'Arôme,47.3258256,5.0452384,node,2568987296
+Dijon,restaurant,Le Palazzio,47.3259061,5.045234,node,2568987318
+Dijon,restaurant,La flambée,47.2885791,5.0987447,node,2639535618
+Dijon,restaurant,Régal Pizza,47.3260378,5.0288993,node,2670271041
+Dijon,restaurant,La Scala,47.3233608,5.0300771,node,2731952076
+Dijon,restaurant,Le Comptoir,47.3233382,5.0298098,node,2731954494
+Dijon,restaurant,Ramen by Origine,47.3575872,5.0358515,node,2870025157
+Dijon,restaurant,La Dame d'Aquitaine,47.3202027,5.0368261,node,2884850310
+Dijon,restaurant,Palais Nippon,47.3281271,5.0442922,node,2891210013
+Dijon,restaurant,Caveau de Saulx,47.3251914,5.0457332,node,2921600704
+Dijon,restaurant,Les Bistrottines,47.3345555,5.0152462,node,2923414657
+Dijon,restaurant,Thai & Dijon,47.3250885,5.0451574,node,3012240657
+Dijon,restaurant,L'autrement,47.3342836,5.077603,node,3024706472
+Dijon,restaurant,Le Shamrat,47.3279603,5.0451585,node,3413218326
+Dijon,restaurant,Le Bora,47.327961,5.0446128,node,3413220017
+Dijon,restaurant,Le Ptit bouchon Dijonnais,47.32587,5.0484561,node,3449110481
+Dijon,restaurant,Terre & Mer,47.3265145,5.0465986,node,3449110482
+Dijon,restaurant,La Bourgogne,47.3259627,5.0455955,node,3449110483
+Dijon,restaurant,Sakura Sushi,47.3206637,5.0432217,node,3449150850
+Dijon,restaurant,Au Grenier café,47.3208328,5.0426933,node,3449150852
+Dijon,restaurant,Au Moulin à Vent,47.3222514,5.0392346,node,3449248918
+Dijon,restaurant,Brasserie François,47.3230997,5.0398111,node,3449248920
+Dijon,restaurant,Restaurant Gustave,47.32325,5.0402804,node,3449300666
+Dijon,restaurant,Chez Copains,47.3233387,5.0402988,node,3449300667
+Dijon,restaurant,Les Fils à Maman,47.3236842,5.0403967,node,3449300669
+Dijon,restaurant,Au Jardin des Halles,47.323976,5.0404718,node,3449300670
+Dijon,restaurant,Chez Tonton,47.3200061,5.0394988,node,3453754219
+Dijon,restaurant,L‘AbenFant,47.3199803,5.0397934,node,3453754220
+Dijon,restaurant,Monique boire et manger,47.319907,5.0398175,node,3453754221
+Dijon,restaurant,Le Mandarin,47.3293885,4.9970337,node,3479303767
+Dijon,restaurant,Le Petit Roi de la Lune,47.3199683,5.0399997,node,3606611561
+Dijon,restaurant,La Brasserie,47.3326977,5.0688474,node,3681022145
+Dijon,restaurant,Ristorante Del Arte,47.3124101,5.0909556,node,3742930727
+Dijon,restaurant,Cafeteria Gabriel,47.3161926,5.0657349,node,4047457830
+Dijon,restaurant,L'évidence,47.3218065,5.0467479,node,4079717534
+Dijon,restaurant,Akdeniz,47.3218395,5.0465801,node,4079717535
+Dijon,restaurant,Masami,47.3215475,5.0478199,node,4079717536
+Dijon,restaurant,Le café du pont,47.3191268,5.0221621,node,4097537975
+Dijon,restaurant,Les Garçons,47.3188104,5.0343983,node,4102090579
+Dijon,restaurant,My Wok,47.3267179,5.0464831,node,4119503374
+Dijon,restaurant,Le Rameau,47.3276582,5.0489169,node,4119503378
+Dijon,restaurant,Le Château Bourgogne,47.328036,5.0509739,node,4119503380
+Dijon,restaurant,Pizz N' Go,47.3302768,5.0434392,node,4119503385
+Dijon,restaurant,Brasserie de l'Hôtel de Ville,47.3209529,5.0411897,node,4126782262
+Dijon,restaurant,Le Pré aux Clercs,47.3209167,5.0415421,node,4126782271
+Dijon,restaurant,Le Potimarron,47.3180885,5.0270771,node,4133802326
+Dijon,restaurant,Le Bouchon du Palais,47.3205545,5.0415561,node,4240930934
+Dijon,restaurant,Le Carpe Diem,47.3205192,5.0415125,node,4240930935
+Dijon,restaurant,Le Petit Central,47.3230171,5.0372848,node,4243610729
+Dijon,restaurant,L'Un des Sens,47.3224447,5.0432754,node,4244754293
+Dijon,restaurant,La Licorne,47.322703,5.0406881,node,4244761693
+Dijon,restaurant,In Teglia,47.3226147,5.0435465,node,4244761891
+Dijon,restaurant,La Paillote,47.3224275,5.0434952,node,4244762292
+Dijon,restaurant,Speakeasy,47.3235051,5.0403754,node,4244809289
+Dijon,restaurant,Au gré de mes envies,47.3206678,5.040863,node,4245669592
+Dijon,restaurant,Loiseau Des Ducs,47.3207666,5.0411946,node,4245669594
+Dijon,restaurant,Villa Vauban,47.3205481,5.0409788,node,4245757490
+Dijon,restaurant,Restaurant Bistronomique,47.3209014,5.0411433,node,4245763391
+Dijon,restaurant,Fado à Mesa,47.3237299,5.0446847,node,4314647471
+Dijon,restaurant,Le Marrakech,47.3196401,5.0355259,node,4314658544
+Dijon,restaurant,Anshu,47.3243727,5.0294897,node,4396697736
+Dijon,restaurant,New Delhices,47.3243206,5.0302491,node,4396697739
+Dijon,restaurant,Sushi Park,47.3243945,5.0289432,node,4396697741
+Dijon,restaurant,Phö Dijon,47.3243161,5.0303779,node,4396697744
+Dijon,restaurant,Koki,47.344707,5.0454698,node,4460234338
+Dijon,restaurant,The Little Italy,47.32311,5.042976,node,4475976473
+Dijon,restaurant,L'Auguste,47.3236087,5.0441858,node,4510857247
+Dijon,restaurant,Le Bistingo,47.3239185,5.0357119,node,4565189708
+Dijon,restaurant,L'instant,47.3409397,5.0674148,node,4571085800
+Dijon,restaurant,3 Brasseurs,47.3126659,5.0902355,node,4690682413
+Dijon,restaurant,La Boucherie,47.3124176,5.090421,node,4690682414
+Dijon,restaurant,Piccolina,47.3389811,5.0384279,node,4700127470
+Dijon,restaurant,Le phénicien,47.3218265,5.0466435,node,4719165668
+Dijon,restaurant,O'summum,47.3215967,5.0475897,node,4720404009
+Dijon,restaurant,Le Petit Vatel,47.3145117,5.0477505,node,4734602303
+Dijon,restaurant,The Gratiné,47.3145311,5.0473322,node,4734602305
+Dijon,restaurant,Akatsuki,47.3153588,5.0451019,node,4734602311
+Dijon,restaurant,Jaïpur,47.3155539,5.0455807,node,4734603027
+Dijon,restaurant,Pizza station,47.315601,5.0454818,node,4734603028
+Dijon,restaurant,Le Sommatino,47.3159106,5.0449489,node,4734603030
+Dijon,restaurant,Village Mandarin,47.3159585,5.044852,node,4734603031
+Dijon,restaurant,Restaurant Origine par Tomofumi Uchimura,47.3159111,5.0442179,node,4734603033
+Dijon,restaurant,Le relais des fac,47.3139382,5.0622994,node,4775400399
+Dijon,restaurant,My spicy snack,47.3301529,5.0447286,node,4964612943
+Dijon,restaurant,Les Molidors,47.3153923,5.0615658,node,4990041561
+Dijon,restaurant,L'Atelier,47.3558303,5.0369637,node,5042905930
+Dijon,restaurant,Au Bureau,47.3267067,5.0434079,node,5052721598
+Dijon,restaurant,La Causerie des Mondes,47.3199884,5.0401019,node,5066265757
+Dijon,restaurant,Coin Cuisine,47.2923163,5.0207064,node,5066401109
+Dijon,restaurant,Casa Antonio,47.3568914,5.0316216,node,5095769699
+Dijon,restaurant,Wokasie Dijon,47.3559173,5.0313965,node,5095769700
+Dijon,restaurant,Le Bistrot du Coin Caché,47.3575966,5.0350039,node,5095769701
+Dijon,restaurant,Loup Blanc,47.3567966,5.0353235,node,5095769704
+Dijon,restaurant,L'Aqueduc,47.3571539,5.0353493,node,5095769705
+Dijon,restaurant,Le Cellier d'Clem,47.3553539,5.0352094,node,5095769711
+Dijon,restaurant,Le Coq en Pâte,47.3539323,5.0351836,node,5095769712
+Dijon,restaurant,La Maisonnette,47.2956463,5.0181851,node,5107747693
+Dijon,restaurant,Le Boucanier,47.2958839,5.0182309,node,5107747694
+Dijon,restaurant,Alfred Burgers & Vins,47.3193415,5.0350457,node,5150710994
+Dijon,restaurant,Le Palmier,47.3352682,5.044523,node,5164625403
+Dijon,restaurant,La petite Istanbul,47.3338249,5.0438445,node,5164625410
+Dijon,restaurant,Le Concept,47.3349337,5.0419535,node,5164625419
+Dijon,restaurant,American way,47.3650598,5.0498311,node,5227082727
+Dijon,restaurant,Le Cordina by Tom,47.366007,5.0503508,node,5227082729
+Dijon,restaurant,Le parc,47.3658425,5.0502705,node,5227082730
+Dijon,restaurant,La Chanoine,47.3211472,5.040761,node,5264685414
+Dijon,restaurant,Le National,47.3173089,5.0430817,node,5287754854
+Dijon,restaurant,La Papaye Verte,47.3274121,5.0449013,node,5533132230
+Dijon,restaurant,Sushi-King,47.3189741,5.0346398,node,5538423011
+Dijon,restaurant,Acqua e Farina,47.322831,5.0398643,node,5591153355
+Dijon,restaurant,Popotes,47.3284039,5.0498445,node,5647101971
+Dijon,restaurant,100Dô,47.3189771,5.0440023,node,5731060579
+Dijon,restaurant,Chamas Tacos,47.3213427,5.0451265,node,5731063508
+Dijon,restaurant,Da Adriano,47.3212751,5.0359428,node,5731638972
+Dijon,restaurant,Yaoz,47.3224171,5.0408529,node,5731664412
+Dijon,restaurant,Osaka,47.3227193,5.0397951,node,5803933353
+Dijon,restaurant,Le Dauphine,47.3213128,5.0390004,node,5863069669
+Dijon,restaurant,Azerole,47.3181936,5.0356664,node,5863293259
+Dijon,restaurant,Abyssinia,47.3272035,5.0494281,node,5915894590
+Dijon,restaurant,So,47.3196321,5.0409599,node,5969202917
+Dijon,restaurant,Le neuf bis,47.3201053,5.0529149,node,6038823336
+Dijon,restaurant,ABE,47.3101727,5.0259709,node,6084242123
+Dijon,restaurant,Un pied chez La Marinette,47.3103052,5.0260166,node,6084242124
+Dijon,restaurant,Le Vendôme,47.3024885,5.0221427,node,6096439321
+Dijon,restaurant,Saveurs de Porto,47.3441184,5.0457085,node,6134832502
+Dijon,restaurant,Samouraï sushis,47.3229549,5.0436617,node,6192291159
+Dijon,restaurant,Bangkok Factory,47.3188998,5.0357708,node,6247532684
+Dijon,restaurant,Kebab des facultés,47.3155101,5.0640917,node,6347153190
+Dijon,restaurant,Le coin caché,47.3290742,5.0388001,node,6533988749
+Dijon,restaurant,"Hôtel Restaurant ""Castel Burgond / Les Trois Ducs""",47.3429428,5.0011907,node,6557903695
+Dijon,restaurant,Sakura So' Ramen,47.3230855,5.0354622,node,6644328573
+Dijon,restaurant,Le P'tit Dij,47.3266891,5.0514782,node,6723685338
+Dijon,restaurant,L'essentiel,47.3256631,5.0343258,node,6761273418
+Dijon,restaurant,L'Aspérule,47.3248138,5.0450367,node,7216213743
+Dijon,restaurant,Au bois tordu,47.3058638,5.0598595,node,7405134740
+Dijon,restaurant,In Teglia,47.3562723,5.0352891,node,7415886417
+Dijon,restaurant,My Wok,47.3413667,5.062344,node,7462552328
+Dijon,restaurant,Les Gourmands Disent,47.3325605,5.0270507,node,7476890245
+Dijon,restaurant,L'Escale,47.3411647,5.0381528,node,7803271625
+Dijon,restaurant,Paulette,47.3238864,5.039393,node,8015643672
+Dijon,restaurant,Saigon Express,47.3215092,5.0540117,node,8111336645
+Dijon,restaurant,Les Mijoteuses,47.3086284,5.0243703,node,8194478178
+Dijon,restaurant,La baraque,47.2971772,5.0218357,node,8194510697
+Dijon,restaurant,Toasty Brunch,47.3197587,5.0396119,node,8245230442
+Dijon,restaurant,Les Petits Oignons,47.3216628,5.0473474,node,8293660020
+Dijon,restaurant,Gallery 412,47.3552908,5.0508364,node,8410857837
+Dijon,restaurant,Ramen by Origine,47.3267991,5.0465713,node,8509617478
+Dijon,restaurant,Bobun Monge,47.3184103,5.032953,node,8587075800
+Dijon,restaurant,Central Sushi,47.3234853,5.0314896,node,8599546944
+Dijon,restaurant,Torikara san,47.324738,5.0450049,node,8696911409
+Dijon,restaurant,La Crêpitante,47.3236294,5.0433778,node,8728526339
+Dijon,restaurant,So lunch,47.3272795,5.0493906,node,8731635991
+Dijon,restaurant,My roll's,47.3276069,5.0491098,node,8731635992
+Dijon,restaurant,Aïda Restaurant,47.3225301,5.0425744,node,8735825328
+Dijon,restaurant,La Maison des Cariatides,47.3228898,5.0440946,node,8735825333
+Dijon,restaurant,Le 75,47.3393522,5.0464427,node,8848963625
+Dijon,restaurant,Jiu,47.3187321,5.0352882,node,8923062741
+Dijon,restaurant,Burger restaurant,47.3266181,5.0401177,node,8932724760
+Dijon,restaurant,Le Nid,47.3224783,5.0384475,node,8985946017
+Dijon,restaurant,Holly's Diner,47.3128732,5.0902639,node,8993709865
+Dijon,restaurant,Chez Toque,47.3233862,5.0355917,node,9041217541
+Dijon,restaurant,Les Docks de Bourgogne,47.3224172,5.0253954,node,9043603375
+Dijon,restaurant,Le Chamois,47.3279419,5.0443032,node,9043630597
+Dijon,restaurant,Kisoro,47.3243855,5.0293918,node,9053363798
+Dijon,restaurant,Les Cornichons,47.3459421,5.0597678,node,9151990243
+Dijon,restaurant,Eat Salad,47.3566782,5.0392595,node,9282954849
+Dijon,restaurant,Le New Colonial,47.3290509,5.0383976,node,9320496279
+Dijon,restaurant,Restaurant William Frachot,47.3212699,5.0357882,node,9340586689
+Dijon,restaurant,Eat salad,47.3229859,5.0369428,node,9376527438
+Dijon,restaurant,Le Gustave,47.31066,5.0364722,node,9438171782
+Dijon,restaurant,Oh !! Casse Croute,47.3285159,5.054391,node,9442805146
+Dijon,restaurant,My Thaï,47.3234097,5.0306576,node,9505171432
+Dijon,restaurant,L'alsacien Dijon,47.3231337,5.0366033,node,9562122199
+Dijon,restaurant,La Table des Climats,47.317084,5.0304203,node,9730420070
+Dijon,restaurant,Le Brasserie Des Loges,47.3210501,5.043004,node,9737359417
+Dijon,restaurant,Bouillon Notre-Dame,47.3226737,5.04096,node,9769036518
+Dijon,restaurant,Madeleine Café,47.3226954,5.042899,node,9784662486
+Dijon,restaurant,Pizza Zap,47.3139607,5.0491883,node,9820121456
+Dijon,restaurant,Le Trappeur,47.3180942,5.0415178,node,9883059623
+Dijon,restaurant,Sushi d'or,47.3209854,5.0398547,node,9885509252
+Dijon,restaurant,Sartaj,47.3189356,5.0371857,node,9908227734
+Dijon,restaurant,Al Tarboush,47.3184538,5.0364447,node,9908227736
+Dijon,restaurant,Chez l'Bougnat,47.3178117,5.0352296,node,9908227738
+Dijon,restaurant,Xich Lô,47.3237257,5.0310727,node,9974166062
+Dijon,restaurant,Meurette & Persillé,47.317272,5.0296521,node,10007245708
+Dijon,restaurant,Awan Dimsum,47.3184667,5.0356452,node,10045981219
+Dijon,restaurant,Aux baguettes d'or,47.3150009,5.0994262,node,10058425983
+Dijon,restaurant,Rotisserie Nilamin,47.3290617,5.0385747,node,10069862989
+Dijon,restaurant,Meridio,47.319985,5.0396515,node,10077614230
+Dijon,restaurant,Le Kassoumay,47.3188917,5.0371227,node,10077624631
+Dijon,restaurant,Mon Amie Suzette,47.3224074,5.0391519,node,10079435875
+Dijon,restaurant,Lucilla – Le Clan des Mamma,47.3239791,5.0386028,node,10079594759
+Dijon,restaurant,Fu Yun,47.323702,5.0385151,node,10079594761
+Dijon,restaurant,Les 3 Bures,47.3243011,5.0395943,node,10079704300
+Dijon,restaurant,Place d’Italie,47.3191146,5.0404047,node,10080283082
+Dijon,restaurant,Saison,47.3228563,5.0438508,node,10111282768
+Dijon,restaurant,La cantine de la Fourmilière,47.332857,5.0422941,node,10131924284
+Dijon,restaurant,Trilogie et saveurs,47.3221985,5.0451983,node,10308687826
+Dijon,restaurant,Slice Pizza,47.3189089,5.0338091,node,10612639492
+Dijon,restaurant,Chez Mes Sœurs,47.3227203,5.0405963,node,10665701962
+Dijon,restaurant,Ganesh Akash,47.324354,5.0433941,node,10674876060
+Dijon,restaurant,Côté Sushi,47.3235222,5.0392912,node,10678286011
+Dijon,restaurant,Mezze du Liban,47.3204606,5.0431657,node,10680682180
+Dijon,restaurant,3 Brasseurs,47.3559952,5.0519661,node,10784440481
+Dijon,restaurant,La Rotisserie des Halles,47.3231314,5.0396934,node,10820454316
+Dijon,restaurant,ChanhChhay,47.321689,5.0472449,node,10844529929
+Dijon,restaurant,Nuage,47.3199369,5.0363328,node,10846826110
+Dijon,restaurant,Clos des Saveurs,47.3227772,5.0453505,node,10852736607
+Dijon,restaurant,Cave,47.3220653,5.0454502,node,10939040152
+Dijon,restaurant,Simone,47.324062,5.0385821,node,10975951837
+Dijon,restaurant,Régal d'orient,47.3231446,5.0327432,node,11080997117
+Dijon,restaurant,My wok,47.3231543,5.032771,node,11080999181
+Dijon,restaurant,Pho Viet,47.3251994,5.0449822,node,11081006195
+Dijon,restaurant,Taj Mahal,47.3204868,5.0414643,node,11108206162
+Dijon,restaurant,Bella Ciao,47.317491,5.0479704,node,11271529954
+Dijon,restaurant,La Mia Cucina,47.3447971,5.0644716,node,11355478169
+Dijon,restaurant,Cibo,47.3219045,5.0454523,node,11409756512
+Dijon,restaurant,A la bonne heure,47.356027,5.0520006,node,11462554677
+Dijon,restaurant,Le Central,47.3230489,5.0375799,node,11466111062
+Dijon,restaurant,Brasserie François,47.3229152,5.0397198,node,11466120064
+Dijon,restaurant,Le p'tit Zinc,47.3227952,5.0400628,node,11466120462
+Dijon,restaurant,Comptoir de la cité,47.3175413,5.0305226,node,11489645853
+Dijon,restaurant,La Chouchou,47.3032251,5.0583353,node,11578480639
+Dijon,restaurant,La P'tite Trattoria,47.3218744,5.0497516,node,11595002291
+Dijon,restaurant,Royal Buffet,47.3392648,5.0682379,node,11601973037
+Dijon,restaurant,In Teglia,47.326761,5.0285732,node,11900429204
+Dijon,restaurant,Table Du Cap,47.3425284,5.0674105,node,12014601539
+Dijon,restaurant,La Cave se Rebiffe,47.3226229,5.045559,node,12175008678
+Dijon,restaurant,Chez Mes Sœurs,47.3520333,5.0429973,node,12214765925
+Dijon,restaurant,Döner Kebab,47.3024779,5.050477,node,12254999642
+Dijon,restaurant,O Comaven,47.3231334,5.0385149,node,12306954164
+Dijon,restaurant,Ittshin izakaya,47.3269519,5.047035,node,12432761187
+Dijon,restaurant,Dédé Restaurant,47.3148467,5.0503959,node,12488018811
+Dijon,restaurant,Dédé Restaurant,47.3148467,5.0503959,node,12488626714
+Dijon,restaurant,Le Rougail,47.2946982,5.0062166,node,12520226015
+Dijon,restaurant,Gina,47.3235777,5.0393087,node,12541355972
+Dijon,restaurant,Le chat qui pense,47.3197036,5.0356262,node,12617824682
+Dijon,restaurant,Curieuses,47.3208993,5.033937,node,12626490001
+Dijon,restaurant,Italisamo,47.3058273,5.0988489,node,12640631101
+Dijon,restaurant,Le Jardin De Faustine,47.2916891,5.0990937,node,12656964466
+Dijon,restaurant,Chez Odile,47.3262944,5.0577294,node,12769147370
+Dijon,restaurant,Frantalia,47.3062376,5.0985497,node,12836998251
+Dijon,restaurant,Turnip,47.3200275,5.0386488,node,12865230376
+Dijon,restaurant,P&P,47.3577968,5.0517405,node,13028646368
+Dijon,restaurant,Valentine et Hugo,47.3203731,5.0411353,node,13092883353
+Dijon,restaurant,Tran,47.3578944,5.052049,node,13096394661
+Dijon,restaurant,Le Marta,47.3266224,5.0465741,node,13152295562
+Dijon,restaurant,Les Epleumiens,47.3309327,5.0799148,node,13175065902
+Dijon,restaurant,L'Horloge,47.3561217,5.0519602,node,13230628682
+Dijon,restaurant,My Wok,47.3562096,5.051927,node,13230630634
+Dijon,restaurant,Kyriad Direct Dijon Nord,47.3515283,5.0697255,way,58115387
+Dijon,restaurant,Le Cap Nord,47.3494191,5.0735921,way,58445010
+Dijon,restaurant,Le Lieu Dit,47.3274919,5.0464491,way,71123831
+Dijon,restaurant,Restaurant universitaire Montmuzard,47.3143249,5.0700907,way,115427098
+Dijon,restaurant,L'échappée belle,47.343556,5.0191515,way,117731738
+Dijon,restaurant,L'entrecôte,47.3379535,5.014155,way,117832925
+Dijon,restaurant,Restaurant Universitaire Mansart,47.311194,5.061852,way,124308876
+Dijon,restaurant,Ye Sushi,47.329111,5.0661106,way,125943809
+Dijon,restaurant,Milan,47.3006895,5.02385,way,126265042
+Dijon,restaurant,La Chaumine,47.302777,5.0196785,way,126414172
+Dijon,restaurant,Levanna,47.3512848,4.9990523,way,158543515
+Dijon,restaurant,Le Bon coin,47.298796,5.0201035,way,254700834
+Dijon,restaurant,Chez Louise,47.298033,5.0196105,way,254701105
+Dijon,restaurant,Sakura Sushi,47.2888865,5.0125065,way,254703529
+Dijon,restaurant,Panda de Chine,47.288527,5.0139955,way,254704080
+Dijon,restaurant,Courtepaille,47.3601567,5.0485321,way,257038846
+Dijon,restaurant,Ristorante Del Arte,47.3599385,5.0492501,way,257038848
+Dijon,restaurant,Kinomai,47.3257513,5.0287392,way,261412378
+Dijon,restaurant,A la bonne heure,47.3565945,5.0339017,way,665908675
+Dijon,restaurant,La Cuisine expérientielle,47.3174284,5.0295005,way,1096887175
+Dijon,station,Gare Dijon Porte Neuve,47.3227839,5.0549152,node,69264033
+Dijon,station,Dijon-Ville,47.3230453,5.0272536,node,251811298
+Dijon,historic,Monument des Martyrs de la déportation,47.3129562,5.0500805,node,257396133
+Dijon,historic,Statue de François Rude,47.3252937,5.0322273,node,261645175
+Dijon,historic,Statue de Saint-Bernard,47.3256341,5.038814,node,262373894
+Dijon,historic,"Char Sherman ""Duguay-Trouin""",47.3291013,5.0431555,node,262544247
+Dijon,historic,Mémorial Première Guerre Mondiale,47.2927071,5.0005504,node,359129906
+Dijon,historic,Monument de la Victoire,47.308543,5.0462188,node,860536088
+Dijon,historic,Sans nom,47.346361,5.0205333,node,1387869045
+Dijon,historic,Puits de Moïse,47.3211575,5.0167114,node,1402626340
+Dijon,historic,Monument aux morts,47.3324238,5.0813072,node,1404428095
+Dijon,historic,Sans nom,47.369518,5.0248277,node,1404808681
+Dijon,historic,Sans nom,47.3656699,5.0239813,node,1416393730
+Dijon,historic,Sarcophages époque mérovingienne,47.3219063,5.0349547,node,1493118995
+Dijon,historic,Un Pignon de la Grande Église,47.3218436,5.0178854,node,1639637250
+Dijon,historic,Sans nom,47.3757298,5.0235907,node,1930322235
+Dijon,historic,Monument de la Défense,47.3216688,5.0522089,node,2039885967
+Dijon,historic,Fort d'Hauteville,47.3671026,4.9799344,node,2285839961
+Dijon,historic,Monument aux Morts,47.3342306,5.0038883,node,2524738671
+Dijon,historic,Monument aux Morts Indochine-Corée,47.326029,5.0655088,node,2618784953
+Dijon,historic,Sans nom,47.3482902,5.0381654,node,2618785480
+Dijon,historic,Hôtel de Vienne,47.31956,5.0430039,node,2628992076
+Dijon,historic,Sans nom,47.3575527,5.0466541,node,2632290981
+Dijon,historic,Mémorial Allemand,47.3428771,5.0419621,node,2632758641
+Dijon,historic,Hôtel Fevret de Saint-Mesmin,47.3209369,5.0366421,node,2648532082
+Dijon,historic,Hôtel de Talmay,47.3207397,5.0412,node,2648532084
+Dijon,historic,Maison Millière,47.3227379,5.0419736,node,2648532086
+Dijon,historic,Castel,47.3106069,5.0366305,node,2648562752
+Dijon,historic,Croix Mâchefer,47.3107428,5.0475409,node,2648562753
+Dijon,historic,Hôtel (ancien),47.3174326,5.0368197,node,2648562755
+Dijon,historic,Hôtel Thomas Berbisey,47.3189273,5.0374708,node,2648562757
+Dijon,historic,Hôtel de Pressigny,47.31843,5.0356661,node,2648562760
+Dijon,historic,Ancienne villa,47.3024783,5.0550187,node,2807522079
+Dijon,historic,Monument du Général Giraud,47.3363225,5.0522101,node,3662900138
+Dijon,historic,Le Petit Cîteaux,47.3187988,5.0326075,node,3691268162
+Dijon,historic,Ancienne Poudrière,47.3097504,5.0548013,node,3757189416
+Dijon,historic,Hôtel Esmonin de Dampierre,47.3242968,5.0424384,node,3757189417
+Dijon,historic,Lavoir de Daix,47.3527298,4.9984379,node,4027627049
+Dijon,historic,Monument aux Morts,47.3529039,4.9986585,node,4027627050
+Dijon,historic,Mémorial Départemental A.F.N,47.3248255,5.0647702,node,4144302273
+Dijon,historic,Hôtel Chartraire de Montigny et Hôtel du Commandant Militaire,47.3238431,5.0462106,node,4266219092
+Dijon,historic,Hôtel Grasset,47.3187894,5.0442162,node,4266219093
+Dijon,historic,Hôtel Muteau,47.3200588,5.0433309,node,4266219094
+Dijon,historic,Hôtel Pouffier,47.3244287,5.0441059,node,4266219095
+Dijon,historic,Hôtel Saint-Père,47.3242382,5.0385839,node,4266219096
+Dijon,historic,Maison des Cariatides,47.3228731,5.0440515,node,4266219099
+Dijon,historic,Sans nom,47.322489,5.0452988,node,4266219100
+Dijon,historic,Hôtel Brûlart,47.32,5.0366476,node,4266250283
+Dijon,historic,Hôtel Fyot de Mimeure,47.3196207,5.0403924,node,4266250284
+Dijon,historic,Hôtel Gauthier,47.320127,5.0386991,node,4266250285
+Dijon,historic,Hôtel Perreney de Baleure,47.3201579,5.0368902,node,4266250286
+Dijon,historic,Hôtel de Gissey,47.3206467,5.0382099,node,4266250287
+Dijon,historic,Hôtel de Lux,47.3206974,5.0365006,node,4266250288
+Dijon,historic,Hôtel de la Mare,47.3191817,5.0378918,node,4266250489
+Dijon,historic,Maison Dubret,47.3218622,5.0397919,node,4266250490
+Dijon,historic,Sans nom,47.3153587,5.0293002,node,4373358545
+Dijon,historic,Sans nom,47.3235624,5.0441408,node,4510857246
+Dijon,historic,Sans nom,47.3482534,5.0487226,node,4696515678
+Dijon,historic,Sans nom,47.3483244,5.0487891,node,4696515679
+Dijon,historic,Sans nom,47.3235449,5.0273525,node,4729261166
+Dijon,historic,Sans nom,47.3235379,5.0273331,node,4729261167
+Dijon,historic,Stèle de l'appel du 18 Juin 1940,47.3251052,5.0641676,node,4729261168
+Dijon,historic,Sans nom,47.3681732,4.992862,node,4754724115
+Dijon,historic,Paix,47.3539277,5.0465812,node,4755009134
+Dijon,historic,Porte du diable,47.3570004,4.9648864,node,4760813412
+Dijon,historic,Sans nom,47.3308552,5.0520885,node,5071572676
+Dijon,historic,Tour du Petit Saint-Benigne,47.3194171,5.0401079,node,5266153220
+Dijon,historic,Château de Montmusard,47.324796,5.0593194,node,5538572686
+Dijon,historic,Porte Saint-Pierre,47.3172266,5.0432539,node,5559137572
+Dijon,historic,Maison Maillard,47.3225669,5.0408987,node,5564991503
+Dijon,historic,Sans nom,47.322516,5.0408551,node,5564991504
+Dijon,historic,Hôtel Jacqueron,47.322611,5.038755,node,5830232911
+Dijon,historic,Pavillons d'angle,47.321241,5.0421587,node,5830232912
+Dijon,historic,Cellier de Morimont,47.3191232,5.0359537,node,5830304042
+Dijon,historic,Sans nom,47.3123865,5.0089711,node,5864538357
+Dijon,historic,Monument aux Morts des 27e et 227e Régiments d'Infanterie,47.3294988,5.0449797,node,6186181599
+Dijon,historic,Sans nom,47.3087951,5.0144067,node,6296072504
+Dijon,historic,Sans nom,47.3019196,5.0218941,node,6566354374
+Dijon,historic,Sans nom,47.3597976,5.0078934,node,7650417017
+Dijon,historic,Abbé Pierre,47.3321034,5.0904854,node,7786995276
+Dijon,historic,Sans nom,47.32121,5.0340374,node,8286196012
+Dijon,historic,Hôtel de Vogüé,47.3226767,5.0422002,node,8450029309
+Dijon,historic,Joël Chambault,47.3220724,5.0408693,node,8501377120
+Dijon,historic,Croix Vierge des Pins,47.2935134,4.9942678,node,8613163695
+Dijon,historic,Sans nom,47.3450055,5.017013,node,8623226924
+Dijon,historic,Sans nom,47.3449896,5.0172906,node,8623226925
+Dijon,historic,Sans nom,47.3452095,5.0167005,node,8623226926
+Dijon,historic,Sans nom,47.3463908,5.0157268,node,8623226952
+Dijon,historic,Sans nom,47.3339919,5.083306,node,8749884483
+Dijon,historic,Sans nom,47.3340409,5.0813588,node,8749884487
+Dijon,historic,Plaque Henri Barabant,47.3291754,5.0345145,node,8818218603
+Dijon,historic,Plaque Roger Cuvillier et le Pan Cinor,47.3273982,5.0330539,node,8818268245
+Dijon,historic,Sans nom,47.3674548,5.0821167,node,8826187321
+Dijon,historic,Maison du général Henri Giraud,47.3267133,5.029032,node,8875469617
+Dijon,historic,Commémoration Marcelle Parde,47.3273317,5.0471917,node,8951518439
+Dijon,historic,Sans nom,47.3054317,5.0494018,node,9146331719
+Dijon,historic,Sans nom,47.3093395,5.0014961,node,9495927528
+Dijon,historic,Sans nom,47.3419752,5.0016537,node,9502577804
+Dijon,historic,Sans nom,47.308159,5.0403311,node,9502619137
+Dijon,historic,Sans nom,47.3707951,5.0671129,node,9508068188
+Dijon,historic,Sans nom,47.3435062,5.0187513,node,9516868252
+Dijon,historic,Sans nom,47.3465575,5.0137237,node,9516891958
+Dijon,historic,Sans nom,47.2943578,5.010513,node,9797155457
+Dijon,historic,Mémorial à la mémoire des Déportés de Guerre,47.3234733,5.0488937,node,9802349020
+Dijon,historic,18 Juin 1940 - Appel du Général de Gaulle,47.3387724,5.0218939,node,10106337142
+Dijon,historic,Sans nom,47.3509823,5.021005,node,10689124164
+Dijon,historic,Sans nom,47.3290447,5.0394395,node,11078137556
+Dijon,historic,Sans nom,47.3308638,5.0420418,node,11078137557
+Dijon,historic,Sans nom,47.3642821,4.9939036,node,11107390136
+Dijon,historic,Sans nom,47.3485225,5.0237503,node,11179224672
+Dijon,historic,Sans nom,47.3452934,5.0173398,node,11179224673
+Dijon,historic,Sans nom,47.344822,5.0185124,node,11586577626
+Dijon,historic,Sans nom,47.3696217,5.0249572,node,11895912867
+Dijon,historic,Sans nom,47.3702937,5.0194911,node,11895912868
+Dijon,historic,La voie romaine,47.301248,5.0453837,node,11962674945
+Dijon,historic,Hôtel Lemullier de Bressey,47.3204378,5.0427018,node,12444190669
+Dijon,historic,Hôtel Mochot-Coppin,47.3241765,5.0422613,node,12444190672
+Dijon,historic,Grand Hôtel Berbisey,47.3185222,5.0372663,node,12444190673
+Dijon,historic,Petit Hôtel Berbisey,47.318424,5.0370236,node,12444190674
+Dijon,historic,Hôtel Villedieu de Torcy,47.3177822,5.0431819,node,12444190677
+Dijon,historic,Hôtel Guyton de Morveau,47.320466,5.0370571,node,12444190678
+Dijon,historic,Hôtel Caristie,47.3178131,5.0417858,node,12444801260
+Dijon,historic,Hôtel de Mucie,47.322176,5.0433536,node,12444801261
+Dijon,historic,Hôtel Nicaise,47.3187595,5.0420561,node,12444801262
+Dijon,historic,Ancien hôtel de Vienne,47.31988,5.0387663,node,12444801263
+Dijon,historic,Hôtel Le Belin,47.3186059,5.0414787,node,12444801264
+Dijon,historic,Hôtel Gonthier d'Auvillars,47.3182627,5.0416269,node,12444801265
+Dijon,historic,Hôtel Legouz de la Berchère,47.3188563,5.0373079,node,12444801266
+Dijon,historic,Hôtel Gauthier,47.3189527,5.0400545,node,12447320022
+Dijon,historic,Hôtel de Thianges,47.31918,5.0399753,node,12447320023
+Dijon,historic,Hôtel de Migieu,47.3203337,5.0369391,node,12447320024
+Dijon,historic,Hôtel de Frasans,47.3225115,5.0438498,node,12447320025
+Dijon,historic,Hôtel Grangier,47.3202614,5.0428118,node,12447320027
+Dijon,historic,Hôtel Mille,47.3185681,5.0422512,node,12447320028
+Dijon,historic,Hôtel de Malain,47.3185568,5.0425053,node,12447320029
+Dijon,historic,Jacques Lichtenstein,47.3215667,5.0406104,node,13108561964
+Dijon,historic,Raphaël Amon,47.3215841,5.0398026,node,13108561965
+Dijon,historic,Pierre Baruch,47.3199463,5.0400567,node,13108561966
+Dijon,historic,Robert Blum,47.3189654,5.0374194,node,13108561967
+Dijon,historic,Zysla Blankenberg,47.3175979,5.0367942,node,13108561968
+Dijon,historic,Wolf Blankenberg,47.3175996,5.0367921,node,13108561969
+Dijon,historic,Joseph Blankenberg,47.3175988,5.0367932,node,13108561970
+Dijon,historic,Jacob Cher,47.3273927,5.0437586,node,13108561971
+Dijon,historic,Maurice Bigio,47.3287423,5.0388958,node,13108561972
+Dijon,historic,Victor Friedrich,47.3281737,5.0334441,node,13108561973
+Dijon,historic,Gustave Judenkirsz,47.3251986,5.0290267,node,13108561974
+Dijon,historic,Alfred Hauser,47.3291693,5.0271859,node,13108561975
+Dijon,historic,René Lévy,47.3176949,5.0551976,node,13108561976
+Dijon,historic,Eidel Roudnick,47.3286246,5.0265716,node,13108652896
+Dijon,historic,Hélène Roudnick,47.3286254,5.0265726,node,13108652897
+Dijon,historic,Chaïm Roudnick,47.3286238,5.0265707,node,13108652898
+Dijon,historic,Thérèse Katz,47.3288863,5.0253434,node,13108652899
+Dijon,historic,Anita Oppenheimer,47.3288853,5.0253429,node,13108652900
+Dijon,historic,Malka Herckowicz,47.3253661,5.0450855,node,13108660101
+Dijon,historic,Idel Lebensart,47.3212877,5.0481017,node,13108660102
+Dijon,historic,Herta Kohlmann,47.3228803,5.0411579,node,13108660103
+Dijon,historic,Léon Israël,47.3198047,5.0452137,node,13108660104
+Dijon,historic,Arthur Salm,47.3076339,5.0502752,node,13108961518
+Dijon,historic,Fernand Uhry,47.3268701,5.0384508,node,13108961519
+Dijon,historic,Manuel Lev,47.3217212,5.0532443,node,13108961520
+Dijon,historic,Ruchla Zlotowicz,47.3163497,5.0343201,node,13108961521
+Dijon,historic,Mireille Steinitz,47.3312939,5.0212133,node,13108961522
+Dijon,historic,Rosa Steinitz,47.3312934,5.0212146,node,13108961523
+Dijon,historic,Edmond Michel,47.3451016,5.0414991,node,13108961524
+Dijon,historic,Irma Michel,47.3451006,5.0414993,node,13108961525
+Dijon,historic,Lilly Michel,47.3451026,5.0414989,node,13108961526
+Dijon,historic,Sans nom,47.3233985,5.0075174,way,24278043
+Dijon,historic,Sans nom,47.3234849,5.005505,way,24278045
+Dijon,historic,Pressoirs des ducs de Bourgogne,47.2919399,5.000447,way,31990637
+Dijon,historic,Porte Guillaume,47.3232884,5.034732,way,41497744
+Dijon,historic,Monument Henry Darcy,47.3244861,5.0316286,way,41497749
+Dijon,historic,Hôtel Nicolas Rolin,47.3220898,5.0441203,way,41513070
+Dijon,historic,Banque de France,47.3246302,5.0402847,way,41550559
+Dijon,historic,Hôtel de Saint-Seine,47.3234195,5.0430833,way,41558420
+Dijon,historic,Hôtel Aubriot,47.3223883,5.040206,way,41569790
+Dijon,historic,Hôtel Chambellan,47.3222485,5.0405264,way,41569792
+Dijon,historic,Hôtel Lantin,47.3209065,5.0420627,way,41684193
+Dijon,historic,Hôtel Bénigne Malyon,47.3231496,5.0432847,way,41890754
+Dijon,historic,Sans nom,47.3228819,5.0429911,way,41910769
+Dijon,historic,Hôtel Frémyot,47.32261,5.0430971,way,41910787
+Dijon,historic,Hôtel Pérard de la Vesvre,47.3223918,5.0445889,way,41911774
+Dijon,historic,Sans nom,47.3224666,5.0452892,way,41911786
+Dijon,historic,Hôtel de Chamblanc,47.3220489,5.0457177,way,41926416
+Dijon,historic,Hôtel Montillet,47.3203687,5.0454264,way,41935504
+Dijon,historic,Hôtel des Barres,47.3194888,5.0434454,way,41988143
+Dijon,historic,Hôtel Viard de Samerey,47.3189366,5.0415374,way,42059792
+Dijon,historic,Hôtel de Cirey,47.3180383,5.0430454,way,47086268
+Dijon,historic,Kiosque à musique,47.3161698,5.0428721,way,47105118
+Dijon,historic,Hôtel Rigoley de Chevigny,47.318704,5.0400201,way,47127837
+Dijon,historic,Hôtel de Sassenay,47.3195812,5.0386539,way,47145094
+Dijon,historic,Hôtel de Ruffey,47.3181166,5.036357,way,47148628
+Dijon,historic,Sans nom,47.3260428,4.9967717,way,55745565
+Dijon,historic,Sans nom,47.3248937,5.0023559,way,104684737
+Dijon,historic,Sans nom,47.3243028,5.0031104,way,104684797
+Dijon,historic,Fort de la Motte-Giron,47.3150046,4.9842609,way,106935384
+Dijon,historic,Sans nom,47.3295615,5.0049955,way,117833126
+Dijon,historic,Sans nom,47.329441,5.004806,way,117833504
+Dijon,historic,Sans nom,47.3295645,5.004923,way,117833779
+Dijon,historic,Sans nom,47.3295945,5.004791,way,117834167
+Dijon,historic,Sans nom,47.329514,5.0047195,way,117834836
+Dijon,historic,Chapelle Saint-Jean le Théologien,47.3318784,5.0509307,way,125706993
+Dijon,historic,Château,47.3340915,5.084029,way,125711288
+Dijon,historic,Sans nom,47.30663,5.0224025,way,126032785
+Dijon,historic,Château de Pouilly,47.3479189,5.0497886,way,126072952
+Dijon,historic,Chapelle de la Chartreuse de Champmol,47.3216554,5.0174891,way,129118839
+Dijon,historic,Ligne de Dijon-Ville à Épinac,47.329989,4.948607,way,129376786
+Dijon,historic,Château de Longvic,47.2862865,5.061791,way,149303674
+Dijon,historic,Château de Gouville,47.2977975,4.9660905,way,158645599
+Dijon,historic,Ligne de Dijon-Ville à Épinac,47.3235033,5.0130104,way,199796865
+Dijon,historic,Porte des allées du parc,47.3153983,5.0433057,way,216798667
+Dijon,historic,Sans nom,47.3671388,4.9797466,way,234104560
+Dijon,historic,Lichey,47.3121085,5.0821637,way,235859220
+Dijon,historic,Redoute de Saint-Apollinaire,47.3366187,5.0742877,way,253449485
+Dijon,historic,Hôtel du Président Bouhier,47.3205234,5.0403886,way,259444480
+Dijon,historic,Sans nom,47.3217334,5.0391141,way,259444485
+Dijon,historic,Ligne de Dijon-Ville à Épinac,47.3238781,5.010938,way,305255975
+Dijon,historic,Ligne de Dijon-Ville à Épinac,47.3235605,5.00846,way,305255976
+Dijon,historic,Ligne de Dijon-Ville à Épinac,47.3320157,4.9810074,way,334380870
+Dijon,historic,Obélisque,47.3149997,5.0281989,way,715061191
+Dijon,historic,Sans nom,47.334057,5.0902381,way,1091373096
+Dijon,historic,Ligne de Dijon-Ville à Épinac,47.3237654,5.0096667,way,1126473843
+Dijon,historic,Place Laurent Poisneuf,47.3177109,5.0349273,way,1167332949
+Dijon,historic,Mémorial des fusillés,47.3275735,5.0722285,way,1364537333
+Dijon,historic,Château des Evêques,47.3386091,4.9727705,relation,2123664
+Dijon,historic,Palais des Ducs et États de Bourgogne,47.3217741,5.0415636,relation,2345676
+Dijon,historic,Hôtel Chartraire de Montigny,47.323621,5.0463511,relation,3462419
+Dijon,historic,Via Agrippa,47.3039138,5.6475217,relation,5612334
+Dijon,historic,Via Agrippa Chalon - Langres,47.3380806,5.1095931,relation,12649584
+Dijon,historic,Chartreuse de Champmol,47.3215005,5.0172984,relation,12840450
+Dijon,historic,Hôtel Legouz de Gerland,47.3200164,5.0405401,relation,19643339

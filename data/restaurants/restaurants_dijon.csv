@@ -1,0 +1,40 @@
+restaurant_id,city,name,latitude,longitude,rating,total_ratings,price_range,cuisine_type,address,phone,website,opening_hours,data_source
+dijon_resto_001,Dijon,Le Petit Table,47.300874,5.052502,4.5,156,€,Française,100 Rue du Centre,0222312215,https://www.dijon-restaurant-1.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_002,Dijon,La Cuisine de Dijon,47.28014,5.065619,4.2,118,€€€,Française,195 Rue du Centre,0425325222,https://www.dijon-restaurant-2.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_003,Dijon,Au Bouchon Dijon,47.330052,5.070031,4.2,250,€€,Vins,22 Rue Victor Hugo,0563774918,https://www.dijon-restaurant-3.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_004,Dijon,Le Nouveau Café,47.303365,5.028897,4.4,413,€,Française,194 Rue du Centre,0220471924,https://www.dijon-restaurant-4.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_005,Dijon,La Table du Dijon,47.312552,5.058983,3.5,454,€€€,Française,14 Rue Victor Hugo,0564253233,https://www.dijon-restaurant-5.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_006,Dijon,Café Au Dijon,47.371599,5.050904,3.6,296,€€€,Française,34 Rue du Centre,0298798963,https://www.dijon-restaurant-6.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_007,Dijon,Le Table du Dijon,47.273999,5.046806,4.2,286,€,Vins,103 Rue Principale,0321353671,https://www.dijon-restaurant-7.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_008,Dijon,Au Bon Table,47.279161,5.050701,4.7,52,€€€,Bourguignonne,181 Rue de Paris,0295858620,https://www.dijon-restaurant-8.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_009,Dijon,Chez Typique Bistro,47.289149,4.999647,4.4,408,€€€,Bourguignonne,22 Rue Principale,0622229414,https://www.dijon-restaurant-9.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_010,Dijon,La Table du Dijon,47.357406,5.045969,3.6,147,€€€,Française,164 Rue du Centre,0448943898,https://www.dijon-restaurant-10.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_011,Dijon,Le Comptoir Dijon,47.301627,5.079385,4.3,38,€€,Bourguignonne,169 Rue du Centre,0528303376,https://www.dijon-restaurant-11.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_012,Dijon,Les Café Dijon,47.357533,5.061587,3.3,237,€,Vins,18 Rue du Centre,0429468889,https://www.dijon-restaurant-12.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_013,Dijon,La Petit Table,47.301523,5.086923,4.2,332,€,Française,176 Rue Principale,0340849429,https://www.dijon-restaurant-13.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_014,Dijon,Les Bon Comptoir,47.370863,5.042556,3.3,45,€,Française,62 Rue Victor Hugo,0615398711,https://www.dijon-restaurant-14.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_015,Dijon,Le Café Dijon,47.284968,5.071125,3.8,246,€€,Bourguignonne,75 Rue Victor Hugo,0286907630,https://www.dijon-restaurant-15.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_016,Dijon,Le Table de Dijon,47.290562,4.999794,3.5,480,€€,Bourguignonne,43 Rue du Centre,0227476140,https://www.dijon-restaurant-16.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_017,Dijon,Table Le Central,47.3152,4.9996,3.7,306,€€€,Vins,87 Rue Principale,0453675839,https://www.dijon-restaurant-17.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_018,Dijon,Comptoir Le des Arts,47.349349,5.027333,3.8,351,€,Bourguignonne,132 Rue du Centre,0556598768,https://www.dijon-restaurant-18.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_019,Dijon,Au Petit Table,47.274162,5.009035,4.0,260,€€,Bourguignonne,182 Rue Principale,0490729173,https://www.dijon-restaurant-19.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_020,Dijon,Les Vieux Table,47.31937,5.076257,3.7,223,€,Vins,160 Rue Victor Hugo,0591444694,https://www.dijon-restaurant-20.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_021,Dijon,Bistro Les Dijon,47.306238,5.021123,4.3,107,€€,Française,39 Rue de Paris,0376489270,https://www.dijon-restaurant-21.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_022,Dijon,Comptoir Chez Dijon,47.278249,5.002693,4.0,410,€€€,Française,49 Rue Principale,0165309722,https://www.dijon-restaurant-22.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_023,Dijon,Chez Bouchon Dijon,47.330778,5.065173,4.5,218,€,Vins,37 Rue du Centre,0490947032,https://www.dijon-restaurant-23.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_024,Dijon,La Cuisine de Dijon,47.332449,5.070468,4.1,249,€,Vins,154 Rue du Centre,0235869973,https://www.dijon-restaurant-24.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_025,Dijon,La Cuisine de Dijon,47.285973,5.072809,4.6,376,€,Vins,23 Rue Victor Hugo,0475191875,https://www.dijon-restaurant-25.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_026,Dijon,Table La du Marché,47.306481,5.034612,4.3,36,€,Vins,138 Rue Victor Hugo,0190785590,https://www.dijon-restaurant-26.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_027,Dijon,Le Nouveau Restaurant,47.367098,5.012892,4.0,466,€€,Vins,52 Rue de Paris,0131263889,https://www.dijon-restaurant-27.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_028,Dijon,Au Bouchon Dijon,47.370716,5.047081,3.9,361,€€,Bourguignonne,97 Rue Victor Hugo,0669127715,https://www.dijon-restaurant-28.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_029,Dijon,Brasserie Les du Port,47.316197,5.021827,3.7,337,€€€,Française,146 Rue Principale,0540381364,https://www.dijon-restaurant-29.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_030,Dijon,Au Typique Comptoir,47.27293,5.003358,3.5,320,€€€,Vins,108 Rue de Paris,0633393791,https://www.dijon-restaurant-30.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_031,Dijon,Le Bon Brasserie,47.293534,5.079576,4.7,366,€,Bourguignonne,117 Rue Victor Hugo,0133655675,https://www.dijon-restaurant-31.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_032,Dijon,Les Bouchon Dijon,47.300927,5.030736,3.8,452,€€€,Vins,116 Rue du Centre,0428433684,https://www.dijon-restaurant-32.fr,"11:30-15:00, 18:30-23:00",generated_data
+dijon_resto_033,Dijon,Le Café Dijon,47.293203,5.049259,4.6,301,€€,Vins,85 Rue Victor Hugo,0451749782,https://www.dijon-restaurant-33.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_034,Dijon,Le Grand Bistro,47.369363,5.055868,3.4,132,€,Bourguignonne,83 Rue du Centre,0268585552,https://www.dijon-restaurant-34.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_035,Dijon,Chez Bouchon Dijon,47.311192,5.038123,3.8,136,€€€,Bourguignonne,70 Rue de Paris,0562997685,https://www.dijon-restaurant-35.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_036,Dijon,La Café Dijon,47.287757,4.996107,3.8,232,€€€,Française,174 Rue du Centre,0235907280,https://www.dijon-restaurant-36.fr,"12:00-14:30, 19:00-22:30",generated_data
+dijon_resto_037,Dijon,La Comptoir Dijon,47.328065,5.091426,3.8,384,€€,Bourguignonne,98 Rue du Centre,0230592823,https://www.dijon-restaurant-37.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_038,Dijon,Le Nouveau Brasserie,47.288659,5.056257,4.3,412,€€,Française,155 Rue de Paris,0349324075,https://www.dijon-restaurant-38.fr,"12:00-14:00, 19:00-22:00",generated_data
+dijon_resto_039,Dijon,Les Café Dijon,47.350515,5.061721,4.6,63,€€,Bourguignonne,100 Rue Principale,0234302681,https://www.dijon-restaurant-39.fr,"12:00-14:00, 19:00-22:00",generated_data

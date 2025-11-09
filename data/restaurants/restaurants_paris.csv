@@ -1,0 +1,35 @@
+restaurant_id,city,name,latitude,longitude,rating,total_ratings,price_range,cuisine_type,address,phone,website,opening_hours,data_source
+paris_resto_001,Paris,La Comptoir Paris,48.813323,2.382547,4.6,239,€,Brasserie,10 Rue Victor Hugo,0335233341,https://www.paris-restaurant-1.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_002,Paris,Au Bouchon Paris,48.848055,2.363181,3.4,338,€€€,Fusion,186 Rue Principale,0492955648,https://www.paris-restaurant-2.fr,"12:00-14:30, 19:00-22:30",generated_data
+paris_resto_003,Paris,La Café Paris,48.849514,2.334155,4.2,190,€€,Italienne,50 Rue Victor Hugo,0483872623,https://www.paris-restaurant-3.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_004,Paris,Au Grand Restaurant,48.901911,2.399582,4.7,301,€€,Française,71 Rue Victor Hugo,0324409264,https://www.paris-restaurant-4.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_005,Paris,Le Bouchon Paris,48.871508,2.3486,4.0,466,€€€,Fusion,79 Rue Victor Hugo,0154589785,https://www.paris-restaurant-5.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_006,Paris,Comptoir Au Paris,48.884126,2.389719,3.5,381,€,Italienne,179 Rue de Paris,0217304045,https://www.paris-restaurant-6.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_007,Paris,Le Cuisine du Paris,48.818071,2.373502,4.6,246,€€,Asiatique,7 Rue de Paris,0615384130,https://www.paris-restaurant-7.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_008,Paris,Le Nouveau Comptoir,48.872954,2.333052,4.7,302,€€€,Bistro,166 Rue Principale,0434903560,https://www.paris-restaurant-8.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_009,Paris,Brasserie Au du Port,48.87961,2.354744,3.4,327,€€,Italienne,138 Rue de Paris,0118679459,https://www.paris-restaurant-9.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_010,Paris,Comptoir Chez du Port,48.838665,2.308564,3.4,359,€€€,Asiatique,138 Rue Principale,0217729263,https://www.paris-restaurant-10.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_011,Paris,Au Café Paris,48.824189,2.352283,4.3,395,€,Italienne,39 Rue du Centre,0196375834,https://www.paris-restaurant-11.fr,"12:00-14:30, 19:00-22:30",generated_data
+paris_resto_012,Paris,Comptoir La des Arts,48.822292,2.356022,4.5,351,€€,Française,158 Rue de Paris,0215979313,https://www.paris-restaurant-12.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_013,Paris,Le Café Paris,48.878656,2.388468,3.2,113,€€,Italienne,6 Rue Victor Hugo,0622314999,https://www.paris-restaurant-13.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_014,Paris,Au Traditionnel Restaurant,48.818034,2.321804,3.3,345,€€€,Asiatique,10 Rue Principale,0680716861,https://www.paris-restaurant-14.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_015,Paris,Chez Café Paris,48.879082,2.368684,3.4,269,€€€,Bistro,173 Rue Victor Hugo,0291247882,https://www.paris-restaurant-15.fr,"12:00-14:30, 19:00-22:30",generated_data
+paris_resto_016,Paris,Les Café Paris,48.882788,2.350866,3.6,199,€€,Française,104 Rue Principale,0291382856,https://www.paris-restaurant-16.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_017,Paris,La Cuisine du Paris,48.858878,2.334322,3.6,474,€,Française,147 Rue de Paris,0640869138,https://www.paris-restaurant-17.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_018,Paris,Le Cuisine de Paris,48.874892,2.339343,3.7,204,€,Brasserie,23 Rue du Centre,0520507276,https://www.paris-restaurant-18.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_019,Paris,Les Nouveau Brasserie,48.853657,2.348896,4.7,72,€,Bistro,103 Rue Victor Hugo,0114411241,https://www.paris-restaurant-19.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_020,Paris,Les Bon Brasserie,48.858175,2.329827,4.3,187,€€,Bistro,162 Rue de Paris,0665591874,https://www.paris-restaurant-20.fr,"12:00-14:30, 19:00-22:30",generated_data
+paris_resto_021,Paris,Le Cuisine du Paris,48.857709,2.400407,3.4,466,€,Fusion,103 Rue Victor Hugo,0535108069,https://www.paris-restaurant-21.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_022,Paris,Les Comptoir Paris,48.813895,2.33879,4.2,280,€,Fusion,151 Rue du Centre,0394437863,https://www.paris-restaurant-22.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_023,Paris,La Table du Paris,48.853192,2.344858,4.2,289,€€,Fusion,153 Rue de Paris,0164811516,https://www.paris-restaurant-23.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_024,Paris,Chez Comptoir Paris,48.85538,2.350656,3.8,199,€,Française,94 Rue Victor Hugo,0532256755,https://www.paris-restaurant-24.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_025,Paris,Le Vieux Table,48.898364,2.344614,4.4,156,€€,Asiatique,89 Rue Victor Hugo,0511135980,https://www.paris-restaurant-25.fr,"12:00-14:30, 19:00-22:30",generated_data
+paris_resto_026,Paris,Le Cuisine du Paris,48.877096,2.30575,4.0,24,€,Asiatique,158 Rue du Centre,0593642556,https://www.paris-restaurant-26.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_027,Paris,Le Table de Paris,48.865586,2.364198,3.5,388,€€,Asiatique,136 Rue de Paris,0627383417,https://www.paris-restaurant-27.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_028,Paris,La Cuisine du Paris,48.880039,2.381488,3.7,448,€,Fusion,107 Rue de Paris,0324336177,https://www.paris-restaurant-28.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_029,Paris,Table Les Central,48.832186,2.316265,4.1,432,€€,Fusion,59 Rue du Centre,0585563266,https://www.paris-restaurant-29.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_030,Paris,Chez Café Paris,48.820067,2.325628,4.0,112,€€€,Italienne,193 Rue du Centre,0184408034,https://www.paris-restaurant-30.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_031,Paris,Le Table de Paris,48.819968,2.313357,3.7,348,€€€,Italienne,55 Rue du Centre,0286515587,https://www.paris-restaurant-31.fr,"12:00-14:00, 19:00-22:00",generated_data
+paris_resto_032,Paris,Au Bon Café,48.858671,2.388663,4.3,322,€€,Italienne,139 Rue Principale,0681104878,https://www.paris-restaurant-32.fr,"11:30-15:00, 18:30-23:00",generated_data
+paris_resto_033,Paris,Le Bon Comptoir,48.828998,2.345981,4.2,194,€€€,Asiatique,100 Rue de Paris,0633873863,https://www.paris-restaurant-33.fr,"12:00-14:30, 19:00-22:30",generated_data
+paris_resto_034,Paris,Les Comptoir Paris,48.901406,2.319989,4.8,394,€€€,Asiatique,85 Rue du Centre,0132564716,https://www.paris-restaurant-34.fr,"12:00-14:00, 19:00-22:00",generated_data

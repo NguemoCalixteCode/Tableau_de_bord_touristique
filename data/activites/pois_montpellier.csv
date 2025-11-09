@@ -1,0 +1,1237 @@
+city,category,name,lat,lon,osm_type,osm_id
+Montpellier,museum,Musée de l'Histoire de Montpellier,43.6098384,3.8777584,node,598185433
+Montpellier,museum,Musée Languedocien,43.6095397,3.8791384,node,1165324328
+Montpellier,museum,Musée de la Résistance et de la Déportation,43.6330592,3.8958432,node,4219880844
+Montpellier,museum,Pharmacie et Chapelle de la Miséricorde,43.6107381,3.8792357,node,4402339752
+Montpellier,museum,Sans nom,43.6396431,3.8739453,way,140637431
+Montpellier,museum,Site archéologique de Lattara,43.5656654,3.9066409,way,142362858
+Montpellier,museum,Musée d'Art Brut,43.6184515,3.8822835,way,667055642
+Montpellier,museum,Bâtiment M - Musée des moulages Empereur Antonin,43.6319205,3.8702358,way,722201929
+Montpellier,museum,Musée Saharien,43.6406852,3.932848,way,1021169151
+Montpellier,park,Jardin des Plantes,43.6139991,3.8718419,way,8105305
+Montpellier,park,Square Planchon,43.6056097,3.8798987,way,8597466
+Montpellier,park,"Jardin des cinq continents, Parc Emmanuel Roblès",43.6059896,3.8787566,way,8597467
+Montpellier,park,Jardins du Champ de Mars,43.6113,3.8822455,way,8599077
+Montpellier,park,Square des Gélinottes,43.6284378,3.8799923,way,9232597
+Montpellier,park,Sans nom,43.6299033,3.8804586,way,9361944
+Montpellier,park,Square des Cétoines,43.6281316,3.8740163,way,9704283
+Montpellier,park,Parc de l'Aiguelongue,43.6297137,3.8736273,way,9728318
+Montpellier,park,Jardin archéologique des potiers,43.6137406,3.8811709,way,10067843
+Montpellier,park,Place de la Brigade Légère du Languedoc,43.6272864,3.8693917,way,10152513
+Montpellier,park,Domaine de Méric,43.6305127,3.8917373,way,10493424
+Montpellier,park,Parc Sainte-Odile,43.6239666,3.8721746,way,12871886
+Montpellier,park,Parc Edith Piaf,43.6219286,3.8883021,way,14882681
+Montpellier,park,Esplanade de la Musique,43.6167623,3.8821476,way,17921136
+Montpellier,park,Parc du Terral,43.5850861,3.8276176,way,21518843
+Montpellier,park,Place Frédéric Chopin,43.6354628,3.8753369,way,22752646
+Montpellier,park,Gratesol,43.6389844,3.882169,way,22752696
+Montpellier,park,Bois de Montmaur,43.6415176,3.8685776,way,22914199
+Montpellier,park,Parc Rimbaud,43.6181752,3.8949232,way,22940347
+Montpellier,park,Sans nom,43.6295344,3.8763423,way,23019141
+Montpellier,park,Parc Magnol,43.6173412,3.8630505,way,23232712
+Montpellier,park,Square Jean Monnet,43.6042044,3.8891493,way,23638864
+Montpellier,park,Parc René Dumont,43.6010414,3.8760984,way,25534782
+Montpellier,park,Espace du Puits de Gaud,43.5767421,3.8235287,way,25580080
+Montpellier,park,Place des Patriotes,43.601661,3.8937273,way,25677040
+Montpellier,park,Square de Marathon,43.6075986,3.8895652,way,25741111
+Montpellier,park,Parc Sophie Desmarets,43.6280588,3.8148054,way,25760857
+Montpellier,park,Jardin botanique et d'acclimatation de Flaugergues,43.6089407,3.9198473,way,26246536
+Montpellier,park,Parcours de santé Grammont,43.6180101,3.927365,way,26248396
+Montpellier,park,Parc du Mas de Neuville,43.6262445,3.8413705,way,26408669
+Montpellier,park,Square des Terres Blanches,43.6252439,3.8446688,way,26409587
+Montpellier,park,Square Pirro Ligorlo,43.6311286,3.8330664,way,26544730
+Montpellier,park,Square Angelo Bramante,43.6313886,3.8359123,way,26544742
+Montpellier,park,Parc Saint-Fiacre,43.6320918,3.8317248,way,26544755
+Montpellier,park,Square Saint-Fiacre,43.633868,3.8331975,way,26544757
+Montpellier,park,Parc Saint-Fiacre,43.6331179,3.8323751,way,26544776
+Montpellier,park,Parc Dioscoride,43.6131586,3.8317868,way,26601920
+Montpellier,park,Espaces des Pertuisanes,43.6077274,3.886162,way,26930621
+Montpellier,park,Sans nom,43.5665278,3.9161528,way,27124862
+Montpellier,park,Parc Georges Clemenceau,43.604083,3.8716449,way,27817003
+Montpellier,park,Parc du Mas Vanneau,43.6240622,3.8428264,way,28379695
+Montpellier,park,Square Jouanique,43.6209065,3.8471395,way,28380573
+Montpellier,park,Parc Bel Juel,43.6177841,3.8319861,way,28397235
+Montpellier,park,Place des Pruneliers,43.6162532,3.8336634,way,28397860
+Montpellier,park,Parc de Fontcolombe,43.5978395,3.8304246,way,28874983
+Montpellier,park,Parc du Mas Prunet,43.5985879,3.8323014,way,28875008
+Montpellier,park,Parc Jacques Roseau,43.5966044,3.8345504,way,31298037
+Montpellier,park,Parc de Bagatelle,43.5938223,3.8397001,way,31298225
+Montpellier,park,Square Hildevert,43.5976807,3.8853614,way,31312421
+Montpellier,park,Parc Montcalm,43.5971184,3.8591584,way,31339324
+Montpellier,park,Parc des Sylvains,43.5908168,3.868111,way,31437585
+Montpellier,park,Square du Mas Drevon,43.5917232,3.8696914,way,31437606
+Montpellier,park,Parc Tastavin,43.5967265,3.869916,way,31437667
+Montpellier,park,Parc de la Guirlande,43.6072355,3.8605885,way,31437736
+Montpellier,park,Parc Malbosc,43.6316418,3.82765,way,31438333
+Montpellier,park,Domaine d'Ô,43.6339812,3.8385284,way,31438648
+Montpellier,park,Jardin de l'Hôtel de Sully,43.613223,3.8806974,way,35465288
+Montpellier,park,Esplanade Pierre Paraf,43.5951655,3.8458891,way,41950968
+Montpellier,park,Square Près d'Arènes,43.5903929,3.889875,way,41961412
+Montpellier,park,Square Jean Moulin,43.5787021,3.8233412,way,44534210
+Montpellier,park,Place François Jaumes,43.6054249,3.8841916,way,48274235
+Montpellier,park,Lac du Crès,43.6537753,3.9312876,way,57386478
+Montpellier,park,Parc du Rieucoulon,43.5908929,3.8411026,way,60679726
+Montpellier,park,Parc du Belvédère,43.5900886,3.8462556,way,60680454
+Montpellier,park,Square de Diane,43.599891,3.8602361,way,60962376
+Montpellier,park,Parc Montplaisir,43.6366532,3.8920347,way,62001552
+Montpellier,park,Square de la Tour des Pins,43.6139966,3.8737405,way,78195773
+Montpellier,park,Place du Four à Chaux,43.637939,3.904231,way,98739295
+Montpellier,park,Sans nom,43.6318435,3.8618357,way,104341690
+Montpellier,park,Jardin de la Pépinière,43.5955572,3.8850141,way,108603657
+Montpellier,park,Parc de la Rauze,43.5912549,3.8956603,way,109832509
+Montpellier,park,Square de l'Intendance du Languedoc,43.6123231,3.875976,way,110521269
+Montpellier,park,Plan Cavaillé Coll,43.6135148,3.8784792,way,110521621
+Montpellier,park,Square du Père Bonnet,43.6068291,3.8661847,way,110676928
+Montpellier,park,Jardin de la Reine,43.6134154,3.8701442,way,116984605
+Montpellier,park,Parc de la Peyrière,43.5725212,3.8368363,way,121802493
+Montpellier,park,Parc Enclava del lop,43.6007992,3.8469896,way,122191543
+Montpellier,park,Square des Arceaux,43.6119632,3.861146,way,124190975
+Montpellier,park,Square Ginette Kolinka,43.6246177,3.8145695,way,124192829
+Montpellier,park,Square d'Arsonval,43.5948101,3.8641545,way,124199751
+Montpellier,park,Jardin des Beaux-Arts,43.6160016,3.8838627,way,129749172
+Montpellier,park,Square Camille Ernst,43.6185404,3.8785947,way,149425256
+Montpellier,park,Jardins de la Lironde,43.6077281,3.9093628,way,154882720
+Montpellier,park,Square Charles Flahault,43.6170446,3.8785652,way,156452571
+Montpellier,park,Sans nom,43.6031097,3.8950848,way,159340845
+Montpellier,park,Parc de Grammont,43.6155039,3.9302191,way,159550008
+Montpellier,park,Parc Georges Brassens,43.6386921,3.8130206,way,162932010
+Montpellier,park,Parc La Carriera,43.6408993,3.8170022,way,162932011
+Montpellier,park,Square Hélène de Savoie,43.6508868,3.9366348,way,177378094
+Montpellier,park,Square Dominique Bagouet,43.6086734,3.8761479,way,181565280
+Montpellier,park,Square Théophraste Renaudot,43.6149776,3.8757685,way,195749636
+Montpellier,park,Parc Petit bois de la Colline,43.6054602,3.8407348,way,197825261
+Montpellier,park,Parc du Mas de Costebelle,43.6105508,3.9019084,way,228053349
+Montpellier,park,Parc Georges Charpak,43.6010154,3.9052988,way,235641857
+Montpellier,park,Iles de la Vasque,43.5745502,3.9031497,way,236853682
+Montpellier,park,Parcours de santé Bonneterre,43.5755329,3.9172254,way,243502663
+Montpellier,park,Parc Toussain Louverture,43.6498437,3.8321619,way,277043508
+Montpellier,park,Parc des Pastourelles,43.6211484,3.8998852,way,290507792
+Montpellier,park,Parc Rachel,43.6338444,3.8563119,way,300702847
+Montpellier,park,Parc des Quatre Saisons,43.5669354,3.9038175,way,316960689
+Montpellier,park,Square Fragonard,43.6176688,3.8470847,way,351207667
+Montpellier,park,Esplanade Gabriel Michel,43.6140043,3.908504,way,351357281
+Montpellier,park,Square du Colonel André Vedel,43.6156188,3.9132614,way,364365240
+Montpellier,park,Square Jean Monnet,43.6143277,3.8107072,way,375403859
+Montpellier,park,Parc Richter,43.6027435,3.8969109,way,377463400
+Montpellier,park,Jardin des Perrières,43.6322097,3.9078659,way,377623655
+Montpellier,park,Domaine des Oliviers,43.6516602,3.908985,way,377625925
+Montpellier,park,Square Lydie Wilson,43.6295985,3.9008305,way,377631166
+Montpellier,park,Square des Aiguerelles,43.5984866,3.8910526,way,377779802
+Montpellier,park,Square Docteur Pierre Azema,43.6164866,3.8287986,way,378155766
+Montpellier,park,Parc des Berges du Lez,43.6281484,3.8957009,way,378386348
+Montpellier,park,Square d'Ajaccio,43.6370316,3.8111402,way,380682395
+Montpellier,park,Square d'Ajaccio,43.636622,3.8118173,way,380683227
+Montpellier,park,Parc Municipal Jacques Robert,43.6419504,3.9356637,way,386352118
+Montpellier,park,Parcours de santé Montouzères,43.5663668,3.8769907,way,386456776
+Montpellier,park,Parc public,43.6461829,3.9132008,way,386906268
+Montpellier,park,Parc Biquet,43.5753304,3.9003051,way,386969896
+Montpellier,park,Square du cadran solaire,43.6197846,3.9005539,way,388511466
+Montpellier,park,La Peupleraie,43.603893,3.9060226,way,389547491
+Montpellier,park,Bois du Devois,43.6453654,3.9215359,way,390320431
+Montpellier,park,Square Fournel,43.6326562,3.8946306,way,395287192
+Montpellier,park,Bois du Château d'Eau,43.6378617,3.8983142,way,395738031
+Montpellier,park,Bois du Miradou,43.637787,3.8966291,way,395738172
+Montpellier,park,Square Jules Ménassier,43.6324227,3.898404,way,395745244
+Montpellier,park,Square de la Rue des Loutres,43.6239601,3.8768852,way,411703732
+Montpellier,park,Parc Frédéric-Bazille,43.6343923,3.9079056,way,424148603
+Montpellier,park,Mail Alain Bashung,43.5939378,3.8836027,way,431466959
+Montpellier,park,Square Joseph Delteil,43.6164614,3.8385109,way,432571377
+Montpellier,park,Square François Dezeuze,43.6082935,3.8400181,way,432572082
+Montpellier,park,Square du chai Molière,43.5919667,3.8549643,way,433002666
+Montpellier,park,Square Clos des Orangers,43.6005505,3.8536747,way,433002676
+Montpellier,park,Square Fabre de Morlhon,43.5941375,3.8778358,way,433002679
+Montpellier,park,Parc Saint-Martin,43.5919425,3.8849419,way,433004584
+Montpellier,park,Square Docteur Fourcade,43.5891564,3.8946568,way,433004591
+Montpellier,park,Square Jean Baumel,43.6402645,3.8584257,way,433029738
+Montpellier,park,Square des Brusses,43.6335347,3.8591496,way,433029740
+Montpellier,park,Square Billie Holiday,43.6379022,3.8353863,way,433029744
+Montpellier,park,Square Maquis Bir-hakeim,43.6110765,3.8584425,way,433033047
+Montpellier,park,Square du Soleil Levant,43.6402827,3.8126533,way,433226313
+Montpellier,park,Parc Chico Mendes,43.6319905,3.8230995,way,433226321
+Montpellier,park,Square des Sculpteurs,43.6385195,3.8353051,way,433226328
+Montpellier,park,Parc Edouard André,43.6131644,3.8239202,way,433238111
+Montpellier,park,Square Louis Carles,43.613433,3.827676,way,433238112
+Montpellier,park,Square des Escarcelliers,43.6119736,3.8350847,way,433238113
+Montpellier,park,Square Pierre Causse,43.6101818,3.8356894,way,433238114
+Montpellier,park,Jardin des Amandiers,43.6073748,3.8319702,way,433238117
+Montpellier,park,Jardin des Amandiers,43.6069665,3.8317773,way,433238118
+Montpellier,park,Mail du Mas de Perrette,43.5980141,3.8387603,way,433238120
+Montpellier,park,Square des Hibiscus,43.5925367,3.8570608,way,433238121
+Montpellier,park,Square Paul Valéry,43.5957078,3.8499546,way,433245922
+Montpellier,park,Square Bernard Chely,43.5973509,3.8566461,way,433245928
+Montpellier,park,Jardin Demain,43.5928633,3.8734797,way,433245932
+Montpellier,park,Square Saint-Cléophas,43.6002205,3.8676161,way,433245937
+Montpellier,park,Square Figuerolles,43.6061012,3.8615815,way,433245944
+Montpellier,park,Square Ferdinan de Lesseps,43.5933333,3.8785725,way,433245949
+Montpellier,park,Square des Améthystes,43.5965021,3.8905981,way,433245952
+Montpellier,park,Square Blaise Pascal,43.6119968,3.9080316,way,433249422
+Montpellier,park,Square Vinci-Enstein,43.6073437,3.9060423,way,433249424
+Montpellier,park,Parc Urbain ouest,43.6080239,3.9048324,way,433249425
+Montpellier,park,Square de la Providence,43.613867,3.8754415,way,433272720
+Montpellier,park,Square Louis Boffet,43.6136282,3.8749067,way,433272721
+Montpellier,park,Jardin des Arceaux,43.6113318,3.8680144,way,433272722
+Montpellier,park,Parc Bartolomé de Las Casas,43.6167,3.844787,way,433272725
+Montpellier,park,Square Saint-Berthomieu,43.5980185,3.8559754,way,434358028
+Montpellier,park,Parc d'Alco,43.6236875,3.8389469,way,453754593
+Montpellier,park,Parc Richter,43.6050488,3.8979525,way,455743605
+Montpellier,park,Sans nom,43.6376114,3.8193892,way,456947220
+Montpellier,park,Parc du chemin du mas du diable,43.6381265,3.8942808,way,462375341
+Montpellier,park,Parc de la Licorne,43.6127163,3.8131028,way,469530230
+Montpellier,park,Grand Parc Laporte,43.6387264,3.913501,way,479287947
+Montpellier,park,Jardin de la Panacée,43.612815,3.8780928,way,480210780
+Montpellier,park,Parc Mas du Rochet,43.6256227,3.9082812,way,508981182
+Montpellier,park,Place de Tibériade,43.5811109,3.87748,way,509890180
+Montpellier,park,Parc de la Croix d’Argent,43.5868629,3.8635042,way,528549551
+Montpellier,park,Square de la Libération,43.6106727,3.8578272,way,543507368
+Montpellier,park,Parc de Boirargues,43.5902399,3.9240622,way,544789142
+Montpellier,park,Square Abdenour Tataï,43.6154894,3.8379275,way,545016934
+Montpellier,park,Square de Cos,43.6218699,3.8188133,way,551679243
+Montpellier,park,Square Abbé Coursindel,43.6080559,3.8631658,way,552095218
+Montpellier,park,Square des Renoncules,43.6076612,3.8489421,way,552098950
+Montpellier,park,Place Albin Tixador,43.6173919,3.8831784,way,552145109
+Montpellier,park,Square Gaston Doumergue,43.6205575,3.850332,way,552153043
+Montpellier,park,Square Joan L'An Près,43.6200681,3.8228271,way,553315480
+Montpellier,park,Sans nom,43.5675607,3.9062816,way,554272615
+Montpellier,park,Domaine Le Claud,43.5788485,3.8276622,way,558839169
+Montpellier,park,Union des Pins,43.589635,3.8743336,way,561802502
+Montpellier,park,Promenade du Peyrou,43.6113146,3.8700455,way,615932591
+Montpellier,park,Parc de la Capoulière,43.5735301,3.8395014,way,621112633
+Montpellier,park,Square Félix Chanliau,43.6150904,3.8097211,way,623053245
+Montpellier,park,Square Le Tintoret,43.605305,3.9095542,way,667124786
+Montpellier,park,Square d'Ajaccio,43.6364668,3.8124822,way,674629175
+Montpellier,park,Pinède Mosson,43.6312378,3.8174177,way,674633869
+Montpellier,park,Sans nom,43.6300207,3.8181746,way,674633870
+Montpellier,park,Allée de la pinède,43.6318789,3.817836,way,674633871
+Montpellier,park,Terrasse de Malbosc,43.6318742,3.8307227,way,674637549
+Montpellier,park,Sans nom,43.6015102,3.9026041,way,674927517
+Montpellier,park,Square des Castors,43.623324,3.876375,way,674933361
+Montpellier,park,Square des scarabées,43.6262179,3.8741476,way,674933362
+Montpellier,park,Square Alexandre Chambon,43.6355049,3.921234,way,698489893
+Montpellier,park,Sans nom,43.6033959,3.8942189,way,728327871
+Montpellier,park,Agriparc du Mas Nouguier,43.5827793,3.8532221,way,746592011
+Montpellier,park,Parc du Mas Nègre,43.5908187,3.8524315,way,746592918
+Montpellier,park,Sans nom,43.632049,3.8624829,way,762359215
+Montpellier,park,Sans nom,43.631838,3.8630022,way,762359224
+Montpellier,park,Pelouse Commune Résidence Ideal Campus,43.6357567,3.8669,way,858716709
+Montpellier,park,Square Elias Belassal,43.626396,3.8217754,way,934181831
+Montpellier,park,Sans nom,43.6231435,3.8149493,way,934482634
+Montpellier,park,Parc Carignan,43.6491781,3.8106907,way,941809809
+Montpellier,park,Sans nom,43.6065272,3.8171383,way,942251606
+Montpellier,park,Parc Jane Evrard,43.6204372,3.9075239,way,972305386
+Montpellier,park,Parc Suzanne-Babut,43.6180784,3.8757977,way,996878051
+Montpellier,park,Sans nom,43.6430353,3.9365465,way,1040518607
+Montpellier,park,Square Christine Boumeester,43.6217105,3.8673042,way,1059558030
+Montpellier,park,Sans nom,43.5951264,3.8633317,way,1083189799
+Montpellier,park,Sans nom,43.6030558,3.8867495,way,1089425502
+Montpellier,park,Bau de Rochas,43.6514749,3.8281966,way,1090257960
+Montpellier,park,Espace Mosson,43.581795,3.8168596,way,1154697915
+Montpellier,park,Parc Robinson Crusoë,43.5884829,3.8531701,way,1230551412
+Montpellier,park,Parc Vincent Sablé,43.6386778,3.893585,way,1249934781
+Montpellier,park,Square Jean Giono,43.6187759,3.8340854,way,1272988099
+Montpellier,park,Square Laurent-Bochu,43.6317816,3.8965265,way,1289579212
+Montpellier,park,Parc Nadine Gordimer,43.5809195,3.8761523,way,1314698685
+Montpellier,park,Sans nom,43.65291,3.8858331,way,1340297541
+Montpellier,park,Square Jeanne-Barret,43.6322915,3.914201,way,1343512404
+Montpellier,park,Parc Guilhem VIII de Montpellier,43.5998427,3.9261246,way,1364468235
+Montpellier,park,Square Las Rébès,43.6242647,3.8490448,way,1368676783
+Montpellier,park,Parc Pujol,43.6304466,3.9072359,way,1380743295
+Montpellier,park,Parc Nino Ferrer,43.5899835,3.8830422,way,1381994820
+Montpellier,park,Jardins du Peyrou,43.6113146,3.8700455,relation,3186606
+Montpellier,park,Bassin Jacques Cœur,43.5993021,3.9000153,relation,5604750
+Montpellier,park,Parc d'Arménie,43.5982018,3.8968885,relation,8747298
+Montpellier,park,Square Alexandre Brongniart,43.633854,3.828498,relation,17510515
+Montpellier,restaurant,Le Ranch,43.6294453,3.8701224,node,105440558
+Montpellier,restaurant,Côté Jardin,43.6300571,3.8706242,node,105440570
+Montpellier,restaurant,Au Festin du Roi,43.6131115,3.8691846,node,251344346
+Montpellier,restaurant,Il Pizzaiolo,43.6109756,3.8758721,node,299705248
+Montpellier,restaurant,Poke Food,43.6129173,3.8792581,node,299705935
+Montpellier,restaurant,Au Père Tranquille,43.6221997,3.8975702,node,317556807
+Montpellier,restaurant,Brasserie Midi Café,43.6224148,3.8988397,node,317557164
+Montpellier,restaurant,3 Brasseurs,43.6036824,3.9162494,node,323130276
+Montpellier,restaurant,Il Ristorante,43.6034116,3.9162099,node,323141644
+Montpellier,restaurant,Bistro Régent,43.6035917,3.9179428,node,323143810
+Montpellier,restaurant,Au Bureau,43.6033649,3.9160416,node,323143811
+Montpellier,restaurant,Casa Inesa,43.603226,3.9157256,node,323143813
+Montpellier,restaurant,La Réserve Rimbaud,43.6169645,3.8929317,node,462688949
+Montpellier,restaurant,Le Jardinet,43.6040947,3.8823948,node,553101146
+Montpellier,restaurant,L'Escapade,43.6047569,3.8825449,node,553101443
+Montpellier,restaurant,L'Etage,43.6187842,3.8562421,node,566630321
+Montpellier,restaurant,Chez Vincent,43.6165504,3.880033,node,579739333
+Montpellier,restaurant,Sun Osaka,43.6072804,3.8893447,node,579814447
+Montpellier,restaurant,Sans nom,43.6157639,3.8814419,node,579814452
+Montpellier,restaurant,Le Chat Perché,43.6134681,3.8791827,node,583260046
+Montpellier,restaurant,Le Ban des Gourmands,43.6033694,3.8826831,node,598918887
+Montpellier,restaurant,Parfums d'Asie,43.6032107,3.8802644,node,598921236
+Montpellier,restaurant,Saveurs d'Afrique,43.6045303,3.8825457,node,598921514
+Montpellier,restaurant,La St Louisienne,43.6033966,3.8826027,node,598931253
+Montpellier,restaurant,La Tulipe,43.6042512,3.8826349,node,598936804
+Montpellier,restaurant,Parma Pizza,43.6039274,3.8826072,node,598975111
+Montpellier,restaurant,Atelier 29,43.6170871,3.881105,node,598980552
+Montpellier,restaurant,Chez Pinot,43.60887,3.8748754,node,598998076
+Montpellier,restaurant,Café Margaux,43.6080559,3.8803341,node,600736626
+Montpellier,restaurant,Sans nom,43.6079232,3.8756034,node,601145487
+Montpellier,restaurant,Le Petit Mickey,43.6080067,3.875641,node,601145619
+Montpellier,restaurant,La Cigale,43.6113177,3.866483,node,601725037
+Montpellier,restaurant,Cena,43.610721,3.8784484,node,601728597
+Montpellier,restaurant,Don Camillo,43.6102932,3.8779405,node,601728801
+Montpellier,restaurant,Rosemarie,43.6091804,3.8757946,node,602012283
+Montpellier,restaurant,Brasserie du Théâtre,43.6074935,3.8789229,node,605004023
+Montpellier,restaurant,Boca,43.6115184,3.8803473,node,605006260
+Montpellier,restaurant,Black Beef,43.5919464,3.8742603,node,606155216
+Montpellier,restaurant,Chez Boris,43.6100039,3.8803059,node,607956265
+Montpellier,restaurant,l'Indya,43.6072966,3.8810858,node,607974828
+Montpellier,restaurant,L'ESCALE,43.6073627,3.8811314,node,607975082
+Montpellier,restaurant,Le Bol d'Or,43.6066988,3.8801757,node,608101376
+Montpellier,restaurant,Le Verdi,43.6067621,3.8815482,node,608148271
+Montpellier,restaurant,L'Olivier,43.6067041,3.8816984,node,608165076
+Montpellier,restaurant,L'Assiette au Boeuf,43.6078575,3.8800945,node,608218699
+Montpellier,restaurant,Al Manara,43.6068468,3.880417,node,608241787
+Montpellier,restaurant,Sushi Boat,43.6071886,3.880584,node,608254167
+Montpellier,restaurant,L'Entrecôte,43.6078743,3.880292,node,608262480
+Montpellier,restaurant,O saveurs d'Asie,43.6083935,3.8805451,node,608275467
+Montpellier,restaurant,La Pagode,43.6076749,3.8815268,node,608297200
+Montpellier,restaurant,Kuma-Ï sushi,43.607647,3.8813329,node,608303104
+Montpellier,restaurant,Le Regency,43.6065153,3.8835087,node,608314484
+Montpellier,restaurant,Sicilia,43.6136339,3.8802046,node,609076764
+Montpellier,restaurant,Tôt ou Tard,43.6134163,3.878915,node,609077227
+Montpellier,restaurant,Naan Tikka,43.6149599,3.8771947,node,609239742
+Montpellier,restaurant,L’Original,43.6042639,3.8823659,node,610462161
+Montpellier,restaurant,Brasserie Le Dôme,43.6051328,3.874381,node,611634696
+Montpellier,restaurant,Les Bains de Montpellier,43.6072404,3.8780255,node,613225285
+Montpellier,restaurant,AJM,43.6051228,3.884886,node,613351517
+Montpellier,restaurant,L'Essentiel,43.6047204,3.8830063,node,614101693
+Montpellier,restaurant,La petite Aphrodite,43.6049063,3.8830333,node,614102103
+Montpellier,restaurant,House of Indian,43.6045815,3.8831349,node,614102169
+Montpellier,restaurant,The Street Food,43.6042458,3.8959475,node,615020200
+Montpellier,restaurant,Morceau de Lune,43.6135129,3.880046,node,615025388
+Montpellier,restaurant,The Black Cat,43.6128563,3.875853,node,615026581
+Montpellier,restaurant,Brasserie de la Gare,43.6048754,3.8801191,node,616106076
+Montpellier,restaurant,L'Encas - Salon de thé et restaurant,43.6062419,3.8802209,node,616933496
+Montpellier,restaurant,Pizza Papa,43.6085565,3.8802685,node,617007934
+Montpellier,restaurant,Crêperie de la Comédie,43.6086026,3.8803581,node,617007937
+Montpellier,restaurant,La Tomate,43.6080627,3.8748405,node,617028087
+Montpellier,restaurant,Plaza de Espagna,43.6091413,3.8902359,node,617526185
+Montpellier,restaurant,Le Petit Jardin,43.612225,3.8732926,node,620882675
+Montpellier,restaurant,Umami la cinquième saveur,43.6119661,3.8735697,node,620882677
+Montpellier,restaurant,La Coquille,43.6114203,3.8737439,node,620882678
+Montpellier,restaurant,Napoléon Dynamite,43.6117433,3.8742437,node,620882679
+Montpellier,restaurant,La Grange,43.6124237,3.8729695,node,620882681
+Montpellier,restaurant,Le Carré Chic,43.611452,3.8779382,node,620884301
+Montpellier,restaurant,Miao,43.611553,3.8779358,node,620884303
+Montpellier,restaurant,Empanadas Club,43.6117628,3.8762349,node,620884308
+Montpellier,restaurant,Bombay,43.6131586,3.8796855,node,620884558
+Montpellier,restaurant,Le Puja,43.6151682,3.8773303,node,621193468
+Montpellier,restaurant,Le Baron Rouge,43.6105382,3.8804343,node,621197206
+Montpellier,restaurant,La ferme de Marguerite,43.6039314,3.8877737,node,621197851
+Montpellier,restaurant,Via Pila,43.6130644,3.879601,node,622316104
+Montpellier,restaurant,Aux 5 Sens,43.616072,3.8799372,node,622317000
+Montpellier,restaurant,Krishna,43.6159551,3.8817683,node,622317259
+Montpellier,restaurant,"Chez Valou, Les Souris Dansent",43.6095304,3.8771706,node,622644806
+Montpellier,restaurant,Brasserie Lepic,43.6012674,3.8635151,node,628130456
+Montpellier,restaurant,Les Beatnik Modernes,43.612783,3.8768911,node,635866757
+Montpellier,restaurant,L'Oignon Givré,43.6140306,3.8773178,node,635868921
+Montpellier,restaurant,Kim-Yen,43.6140728,3.8773324,node,635868922
+Montpellier,restaurant,Sushi Bar,43.615726,3.8818908,node,635875018
+Montpellier,restaurant,Bambino Rocco,43.6106575,3.8779006,node,635879580
+Montpellier,restaurant,Cucina Nostra,43.6132617,3.8791587,node,635883714
+Montpellier,restaurant,Ma Maison,43.6112165,3.8784675,node,635883719
+Montpellier,restaurant,Nawa,43.6129757,3.8793702,node,635883720
+Montpellier,restaurant,Delecto,43.6134712,3.8790069,node,635883721
+Montpellier,restaurant,Les Casseroles en folies,43.6133514,3.8788172,node,635883724
+Montpellier,restaurant,Kim Hi,43.6152459,3.8810761,node,635903321
+Montpellier,restaurant,Café Marceau,43.6057958,3.8738515,node,645723690
+Montpellier,restaurant,La table du Maroc,43.6077937,3.867251,node,645736539
+Montpellier,restaurant,Berlinpinpin,43.6071877,3.8710463,node,645736568
+Montpellier,restaurant,Le Barbotin,43.6082357,3.8681491,node,645736569
+Montpellier,restaurant,Le Clemenceau,43.6045968,3.8737722,node,660179400
+Montpellier,restaurant,Siam Thai Bistro,43.6041885,3.8735551,node,660189650
+Montpellier,restaurant,Pizza Hut,43.6012735,3.8685789,node,660247121
+Montpellier,restaurant,Le Fabuleux Brasserie,43.6028608,3.8709812,node,660247252
+Montpellier,restaurant,Akatsuki,43.6001884,3.8670455,node,660267566
+Montpellier,restaurant,Luna Y Sol,43.5980239,3.8652696,node,660297362
+Montpellier,restaurant,Le Lion,43.5990185,3.8661435,node,660297370
+Montpellier,restaurant,Olla Oasis Urbaine,43.608584,3.8728722,node,664032820
+Montpellier,restaurant,Les Caves du Courreau,43.6084378,3.8704523,node,664040555
+Montpellier,restaurant,Le Canard Laqué,43.6084742,3.8702293,node,664040559
+Montpellier,restaurant,Anis et Canisses,43.5983737,3.8654178,node,664040565
+Montpellier,restaurant,Les Frères Poulards,43.6082671,3.8710726,node,664040576
+Montpellier,restaurant,Au Pays du Levant,43.6084811,3.8701816,node,664040758
+Montpellier,restaurant,Le Repalatin,43.607077,3.8661139,node,664073193
+Montpellier,restaurant,L'Equateur,43.6077988,3.8674963,node,664073247
+Montpellier,restaurant,La Broche d'Or,43.5940669,3.8604039,node,674039112
+Montpellier,restaurant,MAKIROLL,43.6098588,3.8756198,node,674042163
+Montpellier,restaurant,Willamette,43.6105844,3.8656807,node,674049723
+Montpellier,restaurant,La Pyramide,43.607682,3.8700877,node,674054943
+Montpellier,restaurant,Le Bourdon,43.6088941,3.8739522,node,674080496
+Montpellier,restaurant,Le Madagascar,43.6311964,3.8220104,node,697324858
+Montpellier,restaurant,Traiteur,43.6273908,3.8173163,node,697326536
+Montpellier,restaurant,Sans nom,43.6245764,3.816853,node,697336015
+Montpellier,restaurant,Menus d'Or,43.6210354,3.8171143,node,697354243
+Montpellier,restaurant,Le 19ème,43.6131466,3.879169,node,711896100
+Montpellier,restaurant,Le Manneken,43.6125874,3.879183,node,711910210
+Montpellier,restaurant,El Chivito,43.6124247,3.8791806,node,711917088
+Montpellier,restaurant,L'Arganier,43.6123278,3.8791802,node,711917095
+Montpellier,restaurant,Le raffiné,43.6122299,3.8792704,node,711917099
+Montpellier,restaurant,Le Tire Bouchon,43.6101765,3.8777447,node,711994591
+Montpellier,restaurant,Brasserie Régis,43.6101027,3.878104,node,711994631
+Montpellier,restaurant,L'Aveyronnais,43.609836,3.8768505,node,712004009
+Montpellier,restaurant,À l'Origine,43.6099188,3.87674,node,712004014
+Montpellier,restaurant,Arezzo,43.6097644,3.8769357,node,712004056
+Montpellier,restaurant,Quartier Libre,43.6106534,3.8755117,node,712099900
+Montpellier,restaurant,La Morue,43.6113503,3.8753969,node,712159656
+Montpellier,restaurant,L'Entretemps,43.6114653,3.8754204,node,724168983
+Montpellier,restaurant,Green Gorilla,43.6115013,3.8754035,node,724168984
+Montpellier,restaurant,Le Sheri's,43.6127553,3.879116,node,724171845
+Montpellier,restaurant,Les Petits Siamois,43.6133408,3.8798373,node,724171868
+Montpellier,restaurant,Thaï'n House,43.6136705,3.8789827,node,724171872
+Montpellier,restaurant,Le Grillardin,43.6132019,3.8788389,node,724171874
+Montpellier,restaurant,Duo Restaurant,43.6131396,3.8789354,node,724171876
+Montpellier,restaurant,Alif tandori,43.6137975,3.8790015,node,724171882
+Montpellier,restaurant,Le Bistrok,43.6121195,3.8790897,node,724173324
+Montpellier,restaurant,Balthazar,43.6114343,3.8761613,node,724181322
+Montpellier,restaurant,Chez Peng Peng,43.6122691,3.876541,node,724185253
+Montpellier,restaurant,Ma Première Cantine,43.6100008,3.878191,node,724186512
+Montpellier,restaurant,Pinocchio,43.6098031,3.8780144,node,724186529
+Montpellier,restaurant,L'authentik,43.6126892,3.8764655,node,724186716
+Montpellier,restaurant,Li's Raviolis Chinois,43.6127604,3.8767352,node,724186724
+Montpellier,restaurant,Le méli mélo,43.6143321,3.8772512,node,724187834
+Montpellier,restaurant,Maison Maguerite,43.6106041,3.876087,node,724205101
+Montpellier,restaurant,Casa du Giorgio,43.60966,3.8776775,node,724205185
+Montpellier,restaurant,Ma Cuisine,43.6102165,3.8765542,node,724207426
+Montpellier,restaurant,Lou Graillou,43.6100479,3.8768083,node,724209675
+Montpellier,restaurant,Chez Toto,43.6113126,3.8755498,node,724215477
+Montpellier,restaurant,La Buvette,43.6122539,3.8766327,node,724224714
+Montpellier,restaurant,Les Vignes,43.6117729,3.8770498,node,724224800
+Montpellier,restaurant,Gino,43.6101376,3.8766809,node,724232881
+Montpellier,restaurant,100 sushis,43.626225,3.8662832,node,899034019
+Montpellier,restaurant,Il Fornetto,43.6072898,3.8892597,node,1018061162
+Montpellier,restaurant,Pourquoi pas ?,43.6080634,3.8765389,node,1217404974
+Montpellier,restaurant,Café de la mairie,43.6079065,3.8758019,node,1261342142
+Montpellier,restaurant,Le Toast-Tea,43.6089912,3.8763277,node,1261342227
+Montpellier,restaurant,La Bonne Bouille,43.5731922,3.9002743,node,1284535293
+Montpellier,restaurant,Sans nom,43.5718566,3.8998838,node,1284535299
+Montpellier,restaurant,Bistrot d'Ariane,43.5721579,3.9004216,node,1284535307
+Montpellier,restaurant,Les 3 Marches,43.5732711,3.9004846,node,1284535317
+Montpellier,restaurant,Restaumarché,43.6135722,3.810421,node,1312805409
+Montpellier,restaurant,Heng-Lay,43.6197606,3.8731958,node,1354577227
+Montpellier,restaurant,Le Bayon,43.6206601,3.8730151,node,1376239032
+Montpellier,restaurant,La Terrasse de Candolle,43.6132165,3.875665,node,1506456021
+Montpellier,restaurant,Angelo,43.6079264,3.8881423,node,1560238757
+Montpellier,restaurant,Le Sens Six,43.6106018,3.8499142,node,1560698630
+Montpellier,restaurant,La Chistera,43.606978,3.8791662,node,1585984219
+Montpellier,restaurant,Bistrot Gilles,43.608086,3.876771,node,1585984231
+Montpellier,restaurant,Rocco et sa mère,43.6083079,3.8758293,node,1585984236
+Montpellier,restaurant,Montpel',43.6080773,3.8764255,node,1585984247
+Montpellier,restaurant,Donuts corp.,43.6141248,3.8810778,node,1587217899
+Montpellier,restaurant,Chaud bento,43.6159585,3.8791497,node,1601102593
+Montpellier,restaurant,L'écailler des Beaux Arts,43.6175913,3.8815797,node,1624007003
+Montpellier,restaurant,L'Entre Deux,43.635059,3.8685552,node,1640350345
+Montpellier,restaurant,Coté Soleil,43.577544,3.8286594,node,1662734720
+Montpellier,restaurant,La Mamma St Roch,43.6077669,3.8759735,node,1666067181
+Montpellier,restaurant,Les Jardins de l'Orchidee,43.6037162,3.9190986,node,1673410364
+Montpellier,restaurant,Odiki Sushi,43.6034048,3.9179178,node,1673435259
+Montpellier,restaurant,Ma Première Cantine,43.6036806,3.9207582,node,1673435274
+Montpellier,restaurant,Le Bistro de Denis,43.6057649,3.9062532,node,1673503459
+Montpellier,restaurant,L'Imprévu,43.6019836,3.8845695,node,1674969686
+Montpellier,restaurant,Le Méridien,43.5988628,3.9007978,node,1679433811
+Montpellier,restaurant,Le Réfectoire,43.6111955,3.8634159,node,1684865460
+Montpellier,restaurant,Star Kebab,43.602035,3.8987981,node,1702675887
+Montpellier,restaurant,Autour du Bassin,43.6004353,3.8987415,node,1702685964
+Montpellier,restaurant,Le Comté,43.6005803,3.8989361,node,1702685977
+Montpellier,restaurant,Oléo Pazzo,43.5998071,3.8961843,node,1702692966
+Montpellier,restaurant,Bangkok Factory,43.6028237,3.8989022,node,1702731036
+Montpellier,restaurant,Jap'asian,43.6004037,3.9006045,node,1702787543
+Montpellier,restaurant,Le Comptoir,43.6001831,3.8993885,node,1702787549
+Montpellier,restaurant,Le Site,43.6002346,3.8996648,node,1702787575
+Montpellier,restaurant,Le Trinque Fougasse,43.6002872,3.8999484,node,1702787582
+Montpellier,restaurant,Sans nom,43.6026632,3.880463,node,1702963786
+Montpellier,restaurant,San Sushi,43.6017324,3.8823336,node,1702963803
+Montpellier,restaurant,Restaurant Oriental,43.6022828,3.8811047,node,1702963829
+Montpellier,restaurant,Café Cesar,43.6088289,3.8877207,node,1704447876
+Montpellier,restaurant,Le Punjab,43.6086112,3.8873729,node,1704447889
+Montpellier,restaurant,Edogawa,43.6084566,3.8871002,node,1704447913
+Montpellier,restaurant,Simplement Bon,43.6082636,3.8900275,node,1704449641
+Montpellier,restaurant,Il Gallo Piccolo,43.6082519,3.8901717,node,1704449657
+Montpellier,restaurant,Naka,43.6083205,3.8892158,node,1704449678
+Montpellier,restaurant,Tam's Coffee,43.6082344,3.8904342,node,1704449690
+Montpellier,restaurant,La Table d'Alexandre,43.6082583,3.8901001,node,1704449704
+Montpellier,restaurant,Ramen Life,43.6082581,3.8887545,node,1704449708
+Montpellier,restaurant,Le Shiva,43.6082666,3.8889323,node,1704449711
+Montpellier,restaurant,Zeugma,43.6082923,3.8896499,node,1704449712
+Montpellier,restaurant,L'Escargotière,43.6082783,3.8898578,node,1704449739
+Montpellier,restaurant,Tiger Noodles,43.6083173,3.8890639,node,1704449743
+Montpellier,restaurant,Vert Tomate,43.6082912,3.8885187,node,1704461298
+Montpellier,restaurant,Les Bistronomes,43.60841,3.8881765,node,1704461307
+Montpellier,restaurant,Spizza - Fac de Lettres Montpellier,43.6353331,3.8687709,node,1711206781
+Montpellier,restaurant,Le Cèdre blanc,43.6078606,3.8891996,node,1711395886
+Montpellier,restaurant,Gyraya,43.6078356,3.8894809,node,1711395901
+Montpellier,restaurant,Isabella,43.607808,3.8873206,node,1711446672
+Montpellier,restaurant,Sensation de Sichuan,43.6040909,3.8957229,node,1714309569
+Montpellier,restaurant,Sans nom,43.6090634,3.8761399,node,1716859781
+Montpellier,restaurant,La Palme d'Orient,43.6033777,3.8986117,node,1718509100
+Montpellier,restaurant,Chez Lez Amis,43.6043804,3.8979108,node,1718564142
+Montpellier,restaurant,Brasserie Pompette,43.6044115,3.8977807,node,1718564183
+Montpellier,restaurant,Happy Cantine,43.6044891,3.9001222,node,1718575679
+Montpellier,restaurant,Fulltacos,43.6014799,3.8983832,node,1718627292
+Montpellier,restaurant,Pizzacosy,43.6018469,3.8997325,node,1718627297
+Montpellier,restaurant,Al Andalus,43.6080983,3.8806789,node,1719505392
+Montpellier,restaurant,Le Bouchon Catalan,43.6052771,3.8842589,node,1719508117
+Montpellier,restaurant,Burger et Ratatouille,43.6110446,3.8777123,node,1720532345
+Montpellier,restaurant,Bistrot des musées,43.6102796,3.8792116,node,1720532348
+Montpellier,restaurant,La Taquería,43.6133958,3.8797344,node,1720711427
+Montpellier,restaurant,Green Lab - Comédie,43.6072397,3.8805465,node,1721122870
+Montpellier,restaurant,Tropic Addict,43.6071377,3.8806135,node,1721122889
+Montpellier,restaurant,La Bistrote,43.6099544,3.8748712,node,1721138019
+Montpellier,restaurant,Cafet' St Charles,43.6162124,3.8736618,node,1732434628
+Montpellier,restaurant,Banh Mi Shop,43.6042565,3.8834778,node,1733302605
+Montpellier,restaurant,Ripailles,43.6133937,3.8791358,node,1738360211
+Montpellier,restaurant,Le Dom Bosco,43.6053121,3.8916009,node,1739563916
+Montpellier,restaurant,O Beach,43.6053045,3.8901492,node,1739563947
+Montpellier,restaurant,Brasserie 96,43.606358,3.8901641,node,1739592790
+Montpellier,restaurant,Pozz'a Pizza,43.6064371,3.8911612,node,1739826427
+Montpellier,restaurant,Namazu,43.6065899,3.8910965,node,1739826464
+Montpellier,restaurant,Aux Arches d'Antigone,43.6071891,3.8962459,node,1739838545
+Montpellier,restaurant,Bistrot Romain,43.6083042,3.8962852,node,1739838547
+Montpellier,restaurant,Bouddha Wok,43.6079817,3.8962838,node,1739838548
+Montpellier,restaurant,Hippopotamus,43.6082829,3.8965358,node,1739838549
+Montpellier,restaurant,L'Arlequin,43.6077625,3.8962416,node,1739838550
+Montpellier,restaurant,Pizza Papa,43.6069024,3.8963493,node,1739838551
+Montpellier,restaurant,Volfoni,43.6079628,3.8964801,node,1739838552
+Montpellier,restaurant,Le Sud,43.607732,3.8964576,node,1739838553
+Montpellier,restaurant,Léon,43.6073353,3.8964016,node,1739838554
+Montpellier,restaurant,Asa,43.6118961,3.8659838,node,1795660405
+Montpellier,restaurant,OD'LYS,43.6129726,3.8595475,node,1795750160
+Montpellier,restaurant,Le Cinq,43.6112385,3.8672518,node,1795770148
+Montpellier,restaurant,Sans nom,43.6105924,3.8624818,node,1795823663
+Montpellier,restaurant,Momo et sa Mère,43.6139949,3.8579245,node,1795858441
+Montpellier,restaurant,Pizza Bruno a emporter,43.6149343,3.8568727,node,1796021197
+Montpellier,restaurant,Pizza Valentino,43.6083976,3.8737386,node,1846854147
+Montpellier,restaurant,Le Pastis,43.609963,3.8738071,node,1846855374
+Montpellier,restaurant,Angelus,43.6095824,3.8755827,node,1846855378
+Montpellier,restaurant,Menjia,43.6095179,3.8728781,node,1846856168
+Montpellier,restaurant,Lady Sushi,43.577684,3.8280425,node,1864450476
+Montpellier,restaurant,L'O à la Bouche,43.5767149,3.828636,node,1864450498
+Montpellier,restaurant,Le Temps Suspendu,43.5784806,3.8353543,node,1864450532
+Montpellier,restaurant,La Faluche,43.6232191,3.8633329,node,1872872748
+Montpellier,restaurant,Les Fontaines de Malbosc,43.6343766,3.8327082,node,1909814909
+Montpellier,restaurant,A Tribord,43.5728699,3.8984561,node,1930223532
+Montpellier,restaurant,L'Atelier Gourmand,43.6065409,3.8847879,node,1968608968
+Montpellier,restaurant,Bistrot City,43.590994,3.8562694,node,1982921863
+Montpellier,restaurant,Le Ranch Pizzeria,43.6294234,3.8704273,node,2054149003
+Montpellier,restaurant,Resto-self Village du Père Soulas,43.6300423,3.844467,node,2065486107
+Montpellier,restaurant,La Cigalière,43.6285509,3.8460493,node,2065508011
+Montpellier,restaurant,Le Saint-Eloi,43.623972,3.8672704,node,2078140296
+Montpellier,restaurant,Sans nom,43.595585,3.8880815,node,2078180957
+Montpellier,restaurant,Chez Oopie,43.5967555,3.8871907,node,2078180960
+Montpellier,restaurant,Pizzeria,43.6426454,3.8186858,node,2123914632
+Montpellier,restaurant,Poke Wave,43.6080951,3.8801321,node,2123997677
+Montpellier,restaurant,Le Déclic,43.6136898,3.8303026,node,2159366507
+Montpellier,restaurant,Le P'tit Thaï,43.614656,3.829066,node,2159534751
+Montpellier,restaurant,Les Caves Jean Jaurès,43.6099485,3.8786462,node,2228674715
+Montpellier,restaurant,La Part des Anges,43.6098941,3.8786006,node,2228674724
+Montpellier,restaurant,House Pizza,43.6312873,3.8543744,node,2244886196
+Montpellier,restaurant,Bane Lao,43.6061624,3.8754298,node,2252921971
+Montpellier,restaurant,l'observatoire libanais,43.6066339,3.8763833,node,2252921977
+Montpellier,restaurant,Titou Pizza,43.6133276,3.9052651,node,2279977145
+Montpellier,restaurant,Grillad'Oc,43.6073528,3.880644,node,2292333435
+Montpellier,restaurant,Ô Délices des Saveurs,43.6053751,3.8831091,node,2336211352
+Montpellier,restaurant,Le Maquis,43.6053014,3.8835697,node,2336211359
+Montpellier,restaurant,Sans nom,43.6394916,3.8388663,node,2363219116
+Montpellier,restaurant,L'épicurien,43.6059787,3.8757489,node,2365533747
+Montpellier,restaurant,Sans nom,43.608521,3.874794,node,2387947975
+Montpellier,restaurant,La Jalade,43.6287781,3.862345,node,2392611838
+Montpellier,restaurant,Taco Loco,43.6306042,3.8710515,node,2403444012
+Montpellier,restaurant,L'Artichaut,43.610371,3.8755596,node,2428120442
+Montpellier,restaurant,Les Enfants Rouges,43.6102283,3.875931,node,2428120443
+Montpellier,restaurant,Les Hockeyeurs,43.6142503,3.8865457,node,2462963445
+Montpellier,restaurant,Aldo Pizzas,43.6224874,3.898856,node,2463017440
+Montpellier,restaurant,Brasserie 3BBB,43.6246984,3.8994264,node,2463874401
+Montpellier,restaurant,Tacos King,43.6209312,3.8973421,node,2463915404
+Montpellier,restaurant,Miam,43.6483007,3.8630443,node,2479893240
+Montpellier,restaurant,Folia,43.6102748,3.9187392,node,2481218717
+Montpellier,restaurant,Magic Pizza,43.6486673,3.8314457,node,2502840459
+Montpellier,restaurant,Class'croute,43.611108,3.9128356,node,2514315827
+Montpellier,restaurant,Déjeuner sur l'Herbe,43.6509708,3.8387034,node,2637267931
+Montpellier,restaurant,Le Shelter,43.6105219,3.8753575,node,2663189106
+Montpellier,restaurant,Planet Sushi,43.6068452,3.8760115,node,2742299579
+Montpellier,restaurant,SHAMS PIZZA KEBAB,43.6058471,3.8754995,node,2742299585
+Montpellier,restaurant,La Trattoria,43.6063903,3.8759639,node,2742299587
+Montpellier,restaurant,Planet kebab,43.6037013,3.8985718,node,2792893685
+Montpellier,restaurant,Le Factory,43.6003409,3.9013467,node,2793007457
+Montpellier,restaurant,De l'Art ou du Cochon,43.601504,3.8999359,node,2807564676
+Montpellier,restaurant,Sur le Pouce,43.6123076,3.870136,node,2808022646
+Montpellier,restaurant,Art Mango,43.606737,3.8773667,node,2874637361
+Montpellier,restaurant,L'Italien,43.6488247,3.8420123,node,2875108057
+Montpellier,restaurant,Le Petit Dauphin,43.6068467,3.8816996,node,2948065136
+Montpellier,restaurant,Bistrot Urbain,43.6085338,3.8737587,node,2949663350
+Montpellier,restaurant,A Favela,43.6084816,3.8736451,node,2949663351
+Montpellier,restaurant,La Crêperie Jean Moulin,43.6079538,3.8773387,node,2950822133
+Montpellier,restaurant,Ceba,43.6124411,3.8790813,node,2951507233
+Montpellier,restaurant,Hakko,43.6100079,3.8792516,node,2955520001
+Montpellier,restaurant,Pirate Paradise,43.6035058,3.9170927,node,2957470196
+Montpellier,restaurant,Sushi Time,43.6080079,3.8811318,node,3039554802
+Montpellier,restaurant,Il Pizzaiolo,43.6077788,3.881182,node,3039554805
+Montpellier,restaurant,Sans nom,43.5964192,3.8363677,node,3098855113
+Montpellier,restaurant,Roony's,43.6121702,3.8790936,node,3127515306
+Montpellier,restaurant,Brasserie des Finances,43.6037791,3.8678848,node,3141681429
+Montpellier,restaurant,Chez la Tunisienne,43.6047164,3.8696498,node,3157824144
+Montpellier,restaurant,La Table des Poètes,43.6048347,3.8694815,node,3157825230
+Montpellier,restaurant,La Rose de Damas,43.6044544,3.8688713,node,3157825232
+Montpellier,restaurant,La Cantoch',43.6245587,3.8381075,node,3172823673
+Montpellier,restaurant,Ma Pause Dej',43.624224,3.838009,node,3172823674
+Montpellier,restaurant,La Prose,43.5744966,3.9406818,node,3173773007
+Montpellier,restaurant,Heliotel,43.6515934,3.8671011,node,3193696562
+Montpellier,restaurant,La Maison,43.5762301,3.9099077,node,3231508105
+Montpellier,restaurant,L'Atelier Gourmand Restaurant d'Application Purple Campus Montpellier,43.6215245,3.8322851,node,3383017259
+Montpellier,restaurant,Sans nom,43.6045347,3.8776407,node,3392942376
+Montpellier,restaurant,Pampa y Luna,43.6069187,3.8668946,node,3393055145
+Montpellier,restaurant,Le Sphinx,43.6073832,3.8672945,node,3393055150
+Montpellier,restaurant,Royal Orchid,43.6045218,3.8796717,node,3398730354
+Montpellier,restaurant,Quebab,43.6047696,3.8800298,node,3398748988
+Montpellier,restaurant,sidi bou,43.6048037,3.8800901,node,3398748989
+Montpellier,restaurant,Au Grands Enfants,43.5998603,3.9026821,node,3484083769
+Montpellier,restaurant,MIA,43.6007605,3.9023535,node,3484086539
+Montpellier,restaurant,La Kitchenette,43.6011606,3.9022274,node,3484086540
+Montpellier,restaurant,Brasserie Laissac,43.6062879,3.8763043,node,3487421750
+Montpellier,restaurant,Le Jasmin,43.6057561,3.877088,node,3592283576
+Montpellier,restaurant,Le Melody,43.6128194,3.8746243,node,3625554002
+Montpellier,restaurant,El Pincho Loco,43.61446,3.8799465,node,3629381253
+Montpellier,restaurant,Playfood,43.6142003,3.8802841,node,3629381255
+Montpellier,restaurant,Green Lab - Université,43.6118934,3.8764193,node,3633000702
+Montpellier,restaurant,El pueblo,43.6129777,3.8748899,node,3633000705
+Montpellier,restaurant,Le p'ti Taureau,43.6121139,3.8764309,node,3633000707
+Montpellier,restaurant,Chez Le Libanais,43.6137459,3.8772147,node,3635353886
+Montpellier,restaurant,Dadicook,43.6128721,3.8769146,node,3635353887
+Montpellier,restaurant,Spicy Coffee,43.5989695,3.8959717,node,3643413100
+Montpellier,restaurant,Maxxim,43.5992531,3.8966543,node,3643413101
+Montpellier,restaurant,La Santa Luccia,43.5841039,3.8594518,node,3647840948
+Montpellier,restaurant,Chez nous de Gérard Cabiron,43.6069417,3.9129263,node,3666565728
+Montpellier,restaurant,Baguette d'Or,43.6393588,3.93376,node,3672309899
+Montpellier,restaurant,Alba Pizze,43.636005,3.9253735,node,3672395041
+Montpellier,restaurant,Florence,43.6331232,3.898864,node,3708217952
+Montpellier,restaurant,Le Zèbre bleu,43.5737168,3.895987,node,3714971642
+Montpellier,restaurant,L'Autre Sud,43.6071597,3.8771552,node,3739290274
+Montpellier,restaurant,Bistro Régent,43.5784303,3.9360878,node,3758937084
+Montpellier,restaurant,Restaurant universitaire de Richter,43.6029836,3.8991822,node,3760745170
+Montpellier,restaurant,Bellagio,43.6179984,3.8102729,node,3787683030
+Montpellier,restaurant,Heaven sushi,43.6180246,3.8102062,node,3787683032
+Montpellier,restaurant,Le Richelieu,43.6139575,3.8140117,node,3787691408
+Montpellier,restaurant,Le lavandin,43.6154636,3.8075377,node,3813996137
+Montpellier,restaurant,Palermo pizza,43.6153842,3.807538,node,3813996138
+Montpellier,restaurant,Minerve Cafétéria du Personnel de l'UM - Campus Triolet,43.6347966,3.8608502,node,3843784443
+Montpellier,restaurant,Cuisine S,43.6065068,3.882266,node,3856928342
+Montpellier,restaurant,Lucky Days,43.6074095,3.876775,node,3861818273
+Montpellier,restaurant,Les Délices de Claudine,43.6107582,3.8655804,node,3891870516
+Montpellier,restaurant,Le coup de fourchette,43.6377085,3.9269726,node,3915525854
+Montpellier,restaurant,Escal'régale,43.6248977,3.8671986,node,3986289078
+Montpellier,restaurant,Tudisco Pizza,43.6172195,3.8678605,node,3986433944
+Montpellier,restaurant,Coldrip Food & Coffee,43.6110497,3.8790023,node,4087023397
+Montpellier,restaurant,Moutarde & Wasabi,43.6053821,3.8845216,node,4105182921
+Montpellier,restaurant,Le Bourgeon,43.6080241,3.8764059,node,4118348128
+Montpellier,restaurant,Le Montys,43.6074882,3.8758602,node,4128140704
+Montpellier,restaurant,L'Amuse Bouches,43.6074097,3.8759474,node,4128140705
+Montpellier,restaurant,Planète Kosmos,43.6226971,3.8638249,node,4133295798
+Montpellier,restaurant,2Hands,43.6228523,3.863707,node,4133295801
+Montpellier,restaurant,Shiva Food,43.6238575,3.8617808,node,4133295803
+Montpellier,restaurant,Au pied du Baobab,43.6137009,3.8290542,node,4187024715
+Montpellier,restaurant,Le Forest,43.6403201,3.934237,node,4197183898
+Montpellier,restaurant,L'Estaminet,43.6379826,3.9322558,node,4207110763
+Montpellier,restaurant,Sensation,43.5726929,3.8982243,node,4210510128
+Montpellier,restaurant,Le restaurant de la Maison des Vins du Languedoc,43.5825969,3.8905231,node,4220859651
+Montpellier,restaurant,Cantine CIRAD Montferrier,43.6491716,3.8699528,node,4248121157
+Montpellier,restaurant,Cantine IRD,43.6453675,3.8681866,node,4248121158
+Montpellier,restaurant,Sans nom,43.6506037,3.831619,node,4248418697
+Montpellier,restaurant,Bella Napoli,43.6378867,3.8733742,node,4269919379
+Montpellier,restaurant,Bistrot Trifontaine,43.6493642,3.8431373,node,4284360775
+Montpellier,restaurant,Gusto,43.6034297,3.9213093,node,4293164012
+Montpellier,restaurant,Le Restaurant,43.6091901,3.9147609,node,4299691776
+Montpellier,restaurant,Cafétéria de Vertbois,43.6347414,3.8706096,node,4332360051
+Montpellier,restaurant,Restaurant universitaire de Vert-Bois,43.6348536,3.8708945,node,4332360062
+Montpellier,restaurant,Caféteria UM3,43.6330842,3.8686761,node,4332360069
+Montpellier,restaurant,Café Léon,43.6081153,3.875771,node,4338081589
+Montpellier,restaurant,Sushi Kawai,43.5963858,3.8879471,node,4343434189
+Montpellier,restaurant,Le Chupinazo,43.608058,3.8769043,node,4357624595
+Montpellier,restaurant,Pizza,43.5693886,3.8990566,node,4404275408
+Montpellier,restaurant,Veg'As Pizza,43.5736813,3.9144646,node,4404307706
+Montpellier,restaurant,Couleur Pizza,43.569669,3.9047448,node,4408167440
+Montpellier,restaurant,Le tête à tête,43.5695436,3.9048574,node,4408167442
+Montpellier,restaurant,Les Délices d'Ariane,43.572816,3.900644,node,4408197922
+Montpellier,restaurant,L'Oxalys,43.5725802,3.8983405,node,4408197925
+Montpellier,restaurant,Brasserie de l'Europe,43.6137409,3.9061291,node,4411106984
+Montpellier,restaurant,Mas Campo,43.5846099,3.9202258,node,4414902718
+Montpellier,restaurant,Lou Païs d’Aqui,43.5856848,3.9333783,node,4414948848
+Montpellier,restaurant,Les Artistes,43.5850869,3.9345073,node,4414948854
+Montpellier,restaurant,Aqui Pizza (fermeture définitive),43.6279924,3.8983531,node,4418566824
+Montpellier,restaurant,Gambetta,43.6101309,3.9144638,node,4504740674
+Montpellier,restaurant,L'escale du millénaire,43.6100241,3.9144954,node,4504740675
+Montpellier,restaurant,Fourchette et Tirebouchon,43.5686104,3.8373545,node,4527885182
+Montpellier,restaurant,Poz'pasta,43.5685778,3.8366149,node,4527885185
+Montpellier,restaurant,L'un des Sens,43.567799,3.8390604,node,4527886833
+Montpellier,restaurant,La Pataterie,43.5686585,3.8391731,node,4527886837
+Montpellier,restaurant,Pepe & Pina,43.5694178,3.8390821,node,4527886838
+Montpellier,restaurant,Trinque Fougasse,43.572154,3.8502018,node,4527926954
+Montpellier,restaurant,Espada Buffet,43.5736746,3.8507165,node,4527996681
+Montpellier,restaurant,Opanda,43.5722536,3.8510802,node,4527997441
+Montpellier,restaurant,Villascaia,43.5736879,3.8493817,node,4530260832
+Montpellier,restaurant,Food Food,43.6078223,3.8896675,node,4532231258
+Montpellier,restaurant,Pourquoi Pas …,43.6079705,3.888846,node,4532231259
+Montpellier,restaurant,Buffalo Grill,43.5785711,3.876159,node,4590917055
+Montpellier,restaurant,Le Bouzou,43.6228733,3.8989342,node,4634404169
+Montpellier,restaurant,Le Fooky's,43.5778181,3.8788828,node,4703190177
+Montpellier,restaurant,L'Incontournable,43.5790593,3.8793773,node,4703219794
+Montpellier,restaurant,Treille Pizza,43.5778938,3.8256988,node,4721319501
+Montpellier,restaurant,Au Mazet de grand mémé,43.6358958,3.9160585,node,4727341450
+Montpellier,restaurant,Aux 3 comptoirs,43.632799,3.8958104,node,4727341451
+Montpellier,restaurant,Rêve du chef,43.6393775,3.9221583,node,4727341454
+Montpellier,restaurant,Brasserie du Palais des Sports,43.6452909,3.9158934,node,4727341455
+Montpellier,restaurant,Brasserie Simon,43.6375849,3.9274656,node,4727378774
+Montpellier,restaurant,Côté Crêpes,43.6322961,3.8977952,node,4727380495
+Montpellier,restaurant,Lorenzo Pizza,43.6395371,3.9222336,node,4734242369
+Montpellier,restaurant,Lady Sushi,43.6316724,3.9082001,node,4735850657
+Montpellier,restaurant,Le Bengali,43.633077,3.9039157,node,4735850658
+Montpellier,restaurant,Otoro,43.6326984,3.9163434,node,4735850661
+Montpellier,restaurant,P'tit wok,43.6327243,3.9167437,node,4735850664
+Montpellier,restaurant,L'ours qui boude,43.633219,3.8957296,node,4735914106
+Montpellier,restaurant,Le Rendez-Vous de l'Aube,43.6383566,3.9260417,node,4735919036
+Montpellier,restaurant,Le Sablassou Pizzeria,43.6370414,3.9258264,node,4735919037
+Montpellier,restaurant,Les deux grenouilles,43.633738,3.8955191,node,4735920121
+Montpellier,restaurant,Pizzéria Le Pascalou,43.6335969,3.8954064,node,4735926515
+Montpellier,restaurant,Le Casamance Thaï,43.6329417,3.8954801,node,4735935799
+Montpellier,restaurant,Nikki Sushi,43.6361303,3.9256715,node,4735935800
+Montpellier,restaurant,Saeng Dao,43.6372145,3.9255884,node,4735935801
+Montpellier,restaurant,Sushi shari,43.6327968,3.8956897,node,4735935802
+Montpellier,restaurant,Destination Tapas,43.6077282,3.8765698,node,4770115821
+Montpellier,restaurant,Ristorante Del Arte,43.6385305,3.929796,node,4792979821
+Montpellier,restaurant,Le Mazerand,43.5736204,3.9219739,node,4794841896
+Montpellier,restaurant,Aiguelongue Pizzeria,43.6299923,3.8859598,node,4813560034
+Montpellier,restaurant,Le Mirador,43.6148239,3.8298793,node,4831112477
+Montpellier,restaurant,Les Jardins de Marrakech,43.5988042,3.9006443,node,4859665034
+Montpellier,restaurant,Pilou,43.6061333,3.8757221,node,4894155222
+Montpellier,restaurant,Véd'As Pizza,43.5747986,3.8297861,node,4978280866
+Montpellier,restaurant,La table de Cana,43.5855028,3.883622,node,4984882793
+Montpellier,restaurant,Le Mas Bringaud,43.5854233,3.8798937,node,4990203326
+Montpellier,restaurant,Pizza Papa,43.5810095,3.8823423,node,4990256057
+Montpellier,restaurant,Wok d'Asie,43.5816039,3.8835378,node,4991971984
+Montpellier,restaurant,La Saga,43.578023,3.8801496,node,4992105855
+Montpellier,restaurant,La Table du Midi,43.5758202,3.8565318,node,4994790234
+Montpellier,restaurant,Tajine Bladi,43.6210441,3.8167944,node,5007340646
+Montpellier,restaurant,L’Atelier de l’Alchimiste,43.6081446,3.8750665,node,5078485724
+Montpellier,restaurant,Le Pat'Daniel's,43.6052049,3.8848077,node,5078506821
+Montpellier,restaurant,Le Paresseur,43.6077769,3.876283,node,5078639123
+Montpellier,restaurant,Thanh Long Restaurant,43.6057495,3.8772049,node,5078639322
+Montpellier,restaurant,L'Alliance des Plaisirs,43.6081228,3.8755382,node,5078655621
+Montpellier,restaurant,Le Petit Valentino,43.6084256,3.8759707,node,5085794721
+Montpellier,restaurant,La Baraquette,43.5922669,3.9056318,node,5094848078
+Montpellier,restaurant,Cafétéria,43.6356613,3.8504358,node,5104905755
+Montpellier,restaurant,Cafétéria,43.6113935,3.8862384,node,5107692093
+Montpellier,restaurant,Kim Heng,43.5769142,3.828481,node,5158021937
+Montpellier,restaurant,Tacos and Co,43.5747219,3.8224553,node,5163899875
+Montpellier,restaurant,La Crémaillère,43.5825017,3.8423365,node,5167906012
+Montpellier,restaurant,Boulder Café,43.6297357,3.9100152,node,5267659974
+Montpellier,restaurant,Le sage libanais,43.6084183,3.8706549,node,5279395653
+Montpellier,restaurant,Pizza d'Ô,43.6398969,3.839485,node,5316201424
+Montpellier,restaurant,Hayas,43.6098719,3.8744058,node,5333797422
+Montpellier,restaurant,La Cantine du Faubourg,43.6062765,3.8758038,node,5559421111
+Montpellier,restaurant,Décadence,43.6092819,3.87692,node,5589363922
+Montpellier,restaurant,Le Pré Vert,43.6099321,3.8743307,node,5611494922
+Montpellier,restaurant,Le Petit Bistrot,43.6097519,3.8760486,node,5699232465
+Montpellier,restaurant,Comme un Dimanche sous le Figuier,43.6081357,3.8754779,node,5732608208
+Montpellier,restaurant,Chez Rosalie,43.610315,3.8762762,node,5732647996
+Montpellier,restaurant,Le Cabanon,43.6111773,3.8791039,node,5732648019
+Montpellier,restaurant,Mogador,43.6103801,3.8788383,node,5747890383
+Montpellier,restaurant,La Maison d'Anna,43.6099172,3.8789027,node,5747890385
+Montpellier,restaurant,L'Acolyte,43.6099754,3.8789181,node,5747890386
+Montpellier,restaurant,LM Traiteur,43.6102415,3.8767285,node,5747891326
+Montpellier,restaurant,Caffè Panis,43.6116667,3.8774657,node,5747891359
+Montpellier,restaurant,Bistro Saleya,43.6116317,3.8776474,node,5747891361
+Montpellier,restaurant,Ché Lys,43.6130445,3.8793104,node,5747891394
+Montpellier,restaurant,Tartine & Sac à Dos,43.6089962,3.8773917,node,5761150821
+Montpellier,restaurant,Les fils à maman,43.6079915,3.87554,node,5812825816
+Montpellier,restaurant,C Breizh,43.6087321,3.8750673,node,5812852790
+Montpellier,restaurant,Le Couperet,43.6087017,3.8751843,node,5812852991
+Montpellier,restaurant,Le Weilai,43.6080724,3.8754503,node,5812853217
+Montpellier,restaurant,Soulenq,43.6499751,3.8385511,node,5968633985
+Montpellier,restaurant,Mikado,43.6077729,3.8748562,node,6138194785
+Montpellier,restaurant,Casa Picaflor,43.6156496,3.8820161,node,6240776759
+Montpellier,restaurant,Atipico,43.6104223,3.9177914,node,6277492975
+Montpellier,restaurant,La Marmite,43.6188819,3.8562051,node,6349215702
+Montpellier,restaurant,Le Verre à Soi,43.6094761,3.8752135,node,6381987636
+Montpellier,restaurant,Bistrot Umami,43.6116333,3.8741488,node,6405036236
+Montpellier,restaurant,L'Ovalino,43.5920176,3.8512389,node,6423779557
+Montpellier,restaurant,Le complexe,43.6186681,3.8853156,node,6439072887
+Montpellier,restaurant,Domaine de Verchant,43.6220733,3.9231857,node,6456643895
+Montpellier,restaurant,L'Effet Jardin,43.5838018,3.9208865,node,6458931285
+Montpellier,restaurant,Chez Oscar,43.6096308,3.8918958,node,6490118424
+Montpellier,restaurant,L'Industrie,43.5804174,3.8797789,node,6533763457
+Montpellier,restaurant,L'Instant Gourmand,43.6086264,3.8755144,node,6550557659
+Montpellier,restaurant,Crêprie Le Kreisker,43.609383,3.8795464,node,6563822285
+Montpellier,restaurant,La cantine du Mekong,43.5927039,3.9049518,node,6627218611
+Montpellier,restaurant,The Tacos Station,43.5927743,3.9049919,node,6627256092
+Montpellier,restaurant,Aux Copains d'Abord,43.5926734,3.9054752,node,6627256095
+Montpellier,restaurant,Terminal #1,43.5919649,3.9066759,node,6627256107
+Montpellier,restaurant,Bivouak Café,43.5925481,3.9050128,node,6627633600
+Montpellier,restaurant,Yumiwi,43.6083608,3.8764985,node,6647915576
+Montpellier,restaurant,L'Acoudoir,43.6083643,3.8759599,node,6681351888
+Montpellier,restaurant,The Hood,43.609468,3.8754178,node,6681352490
+Montpellier,restaurant,Les Mômes,43.6110821,3.8775589,node,6695148373
+Montpellier,restaurant,Young-Min Grill,43.6424538,3.9191918,node,6718315688
+Montpellier,restaurant,Le Canotier,43.6098015,3.8765266,node,6764130701
+Montpellier,restaurant,Le Marvelous,43.6093376,3.8770346,node,6771066785
+Montpellier,restaurant,Les Terres Oubliées,43.5720952,3.8265017,node,6772871133
+Montpellier,restaurant,self,43.6153286,3.8667703,node,6804721384
+Montpellier,restaurant,Biquette,43.6121691,3.8620369,node,6814364900
+Montpellier,restaurant,So Fresh,43.609942,3.9143868,node,6898765918
+Montpellier,restaurant,Bistrot Méditerranéen,43.5825299,3.8541489,node,6986756273
+Montpellier,restaurant,Takkito,43.6095522,3.876036,node,7038382246
+Montpellier,restaurant,Immersion,43.6103187,3.8756783,node,7057970787
+Montpellier,restaurant,Hippopotamus,43.603365,3.9164088,node,7072055093
+Montpellier,restaurant,Black Corner,43.6035526,3.9177309,node,7072763413
+Montpellier,restaurant,Basilic & CO,43.6260094,3.9011924,node,7099733904
+Montpellier,restaurant,Memphis,43.5883829,3.9396026,node,7116943858
+Montpellier,restaurant,Pokei,43.610226,3.9145458,node,7230302765
+Montpellier,restaurant,Brasserie Le M by MHR,43.5925056,3.850858,node,7501509049
+Montpellier,restaurant,Tempo,43.6097415,3.8759565,node,7661622285
+Montpellier,restaurant,Le Bazar,43.630209,3.8871557,node,7701592406
+Montpellier,restaurant,Joy Healthyfood,43.6061004,3.8747114,node,7822403186
+Montpellier,restaurant,L’Alchimiste,43.6081914,3.8745841,node,7858575486
+Montpellier,restaurant,Pokhawaï,43.60458,3.8788375,node,7911820486
+Montpellier,restaurant,Sans nom,43.651743,3.8948184,node,7922110593
+Montpellier,restaurant,Le Bistrot,43.6487469,3.8316939,node,7944483185
+Montpellier,restaurant,Le Temple de la Danse,43.5781167,3.8796238,node,7944867986
+Montpellier,restaurant,Olya Brunch,43.6083129,3.8721965,node,7956275171
+Montpellier,restaurant,Gurü,43.6081544,3.8774281,node,7971712385
+Montpellier,restaurant,Tandem,43.6448449,3.830837,node,8003913688
+Montpellier,restaurant,Les Halles Solanid,43.6028642,3.9131582,node,8010203777
+Montpellier,restaurant,Snack le Gecko,43.5982668,3.9203528,node,8010203778
+Montpellier,restaurant,Coco d'asie,43.6026904,3.8741996,node,8085628231
+Montpellier,restaurant,Crée ta crèpe,43.6210149,3.8973646,node,8147476406
+Montpellier,restaurant,Les saveurs chinoises,43.619781,3.8975524,node,8147540817
+Montpellier,restaurant,Pizzeria Damiano,43.6197237,3.8975671,node,8147540818
+Montpellier,restaurant,Binom,43.6109768,3.8776435,node,8388081821
+Montpellier,restaurant,Aux saveurs d'Angkor,43.6206641,3.8973094,node,8389856107
+Montpellier,restaurant,Popu - The Babel Community,43.6098995,3.891951,node,8539608033
+Montpellier,restaurant,Restaurant Villattes,43.5682114,3.903925,node,8638642459
+Montpellier,restaurant,La Tomate,43.6098253,3.8747087,node,8761759341
+Montpellier,restaurant,Le Hangar 34,43.6214102,3.8210315,node,9017812940
+Montpellier,restaurant,TOP Grands Buffets,43.5842116,3.9401619,node,9024009117
+Montpellier,restaurant,Pizzeria Casher,43.6176381,3.8789262,node,9025186017
+Montpellier,restaurant,La Table Marocaine,43.5912589,3.9373327,node,9139969808
+Montpellier,restaurant,Beyrouth,43.5887568,3.9372011,node,9160298154
+Montpellier,restaurant,Sans nom,43.5882742,3.9378642,node,9160298155
+Montpellier,restaurant,O’ Buffet,43.5885529,3.9395667,node,9160298156
+Montpellier,restaurant,Reflet d'Obione,43.6123103,3.8729845,node,9180092397
+Montpellier,restaurant,Pasta Cosi,43.6196959,3.9160276,node,9190566163
+Montpellier,restaurant,Poke & Go,43.6196976,3.9159399,node,9190566164
+Montpellier,restaurant,Matt' Burger,43.6075342,3.8763587,node,9199521983
+Montpellier,restaurant,Lys Tea,43.6085084,3.8736107,node,9269832114
+Montpellier,restaurant,Goc Pho,43.5756935,3.8314588,node,9354132199
+Montpellier,restaurant,Pizz'as,43.6125232,3.8087603,node,9495696117
+Montpellier,restaurant,Grillade & Tacos,43.5836368,3.8598693,node,9529431918
+Montpellier,restaurant,R Restaurant,43.5913236,3.9413011,node,9542525629
+Montpellier,restaurant,Les Canons,43.6127344,3.8763981,node,9549491784
+Montpellier,restaurant,Pro Race Café,43.639915,3.938621,node,9580000117
+Montpellier,restaurant,Lady Sushi,43.5880363,3.9157368,node,9608688756
+Montpellier,restaurant,Lady Sushi,43.6076769,3.8737893,node,9608919011
+Montpellier,restaurant,Campanile,43.567414,3.8358315,node,9611043197
+Montpellier,restaurant,L'Arbre Blanc,43.6059438,3.8981013,node,9671858732
+Montpellier,restaurant,La Pratique,43.6104249,3.9136934,node,9732089918
+Montpellier,restaurant,Le Grand Arbre,43.6023107,3.8207434,node,9814962221
+Montpellier,restaurant,La Fabrik,43.5758649,3.8603504,node,9916728700
+Montpellier,restaurant,Bravo Babette,43.612355,3.8729257,node,9974760815
+Montpellier,restaurant,La Casa Deya,43.627776,3.8987866,node,9991155118
+Montpellier,restaurant,Sensible,43.6136507,3.8800159,node,10177228598
+Montpellier,restaurant,Mididix,43.5852232,3.9397029,node,10201313345
+Montpellier,restaurant,Table de la Lyre,43.6423024,3.8452056,node,10225066217
+Montpellier,restaurant,Comptoir de Saison,43.5741441,3.8363749,node,10236225487
+Montpellier,restaurant,Le Jade,43.5741813,3.8356468,node,10239941922
+Montpellier,restaurant,La Tour de Touré,43.6069162,3.8772592,node,10248694897
+Montpellier,restaurant,Augusta,43.6118029,3.8768888,node,10290227357
+Montpellier,restaurant,La Manaba,43.6075218,3.8675175,node,10735366153
+Montpellier,restaurant,Ô Tradition,43.6078042,3.8678252,node,10735366154
+Montpellier,restaurant,Grillade du Midi,43.6077491,3.8677323,node,10735366156
+Montpellier,restaurant,Escale du Liban,43.6077325,3.8677003,node,10735366157
+Montpellier,restaurant,Manga Café,43.6054327,3.8771651,node,10739556269
+Montpellier,restaurant,Bagel & U,43.6082464,3.8807074,node,10741946253
+Montpellier,restaurant,Pizza Marsala,43.6053199,3.8834744,node,10832852411
+Montpellier,restaurant,Djazz,43.6146058,3.8810248,node,10833932740
+Montpellier,restaurant,Basilic & Co,43.603123,3.8775568,node,10862058478
+Montpellier,restaurant,Droguerie des Marchands,43.606016,3.8760598,node,10908125124
+Montpellier,restaurant,Le Patio,43.592621,3.9008788,node,10940121236
+Montpellier,restaurant,Le Jardin des Frangins,43.621137,3.8938486,node,10943825856
+Montpellier,restaurant,Mamie Lasagnes,43.6327429,3.8989827,node,11001541095
+Montpellier,restaurant,Mademoiselle Boris,43.6290267,3.8979055,node,11003354185
+Montpellier,restaurant,Namazu Castelnau,43.6279824,3.8986948,node,11003359058
+Montpellier,restaurant,Bari Trattoria,43.6242231,3.9137588,node,11003376038
+Montpellier,restaurant,Djaam,43.6137628,3.8770873,node,11056601890
+Montpellier,restaurant,Pahoa Burger,43.6253497,3.9064165,node,11067381027
+Montpellier,restaurant,"Setori, la fabrique à Tielle",43.6118961,3.8767317,node,11088633805
+Montpellier,restaurant,Foudie | Fine Bouffe,43.5994865,3.8662962,node,11092337035
+Montpellier,restaurant,Tandoori,43.6068963,3.8814886,node,11120638760
+Montpellier,restaurant,La Case du Saloum,43.6052118,3.8775302,node,11145948682
+Montpellier,restaurant,Saine Ouverte,43.5882154,3.9370601,node,11150198240
+Montpellier,restaurant,Le Méraki,43.6058996,3.877558,node,11152422505
+Montpellier,restaurant,Broc' Café,43.612628,3.8727201,node,11152628605
+Montpellier,restaurant,MW restaurant & pizzeria,43.6076393,3.8701579,node,11158150705
+Montpellier,restaurant,Mas De Lafeuillade,43.6087716,3.9020401,node,11163224284
+Montpellier,restaurant,Le Baroque,43.6085876,3.8736764,node,11194053248
+Montpellier,restaurant,O'Vesuvio,43.6086543,3.8874068,node,11207580760
+Montpellier,restaurant,Chô Chaï,43.6087139,3.8874815,node,11207583186
+Montpellier,restaurant,Merzouga,43.6267756,3.8403259,node,11209691948
+Montpellier,restaurant,Pause Gourmande,43.6269077,3.8403753,node,11209691949
+Montpellier,restaurant,Sushi Kawaii,43.6088132,3.8734938,node,11227677037
+Montpellier,restaurant,L'ilothentik,43.5877419,3.855729,node,11233043935
+Montpellier,restaurant,Eugène et Marie,43.6147437,3.9083326,node,11269006658
+Montpellier,restaurant,Le Passeo,43.6142482,3.9072234,node,11269006661
+Montpellier,restaurant,Pho King,43.6068684,3.8982788,node,11269113687
+Montpellier,restaurant,Le Faitout,43.6152421,3.8747624,node,11288634081
+Montpellier,restaurant,Eat Salad,43.5987731,3.9033164,node,11291167073
+Montpellier,restaurant,Le Terroubi,43.5972574,3.900844,node,11291169779
+Montpellier,restaurant,Le Melice,43.5995143,3.9018994,node,11358362869
+Montpellier,restaurant,Il Pizzaiolo,43.6055377,3.8753125,node,11386232905
+Montpellier,restaurant,Restaurant scolaire,43.6170149,3.8633006,node,11476191969
+Montpellier,restaurant,Faune,43.6062681,3.8788404,node,11659530191
+Montpellier,restaurant,Mon Cuisinier,43.6196412,3.9165227,node,11659887901
+Montpellier,restaurant,cantine,43.6133218,3.8496795,node,11662869669
+Montpellier,restaurant,Sumac,43.6085398,3.8879923,node,11740660537
+Montpellier,restaurant,Le G,43.5731252,3.8596064,node,11876055923
+Montpellier,restaurant,Mamakech,43.6105807,3.8744912,node,11893347817
+Montpellier,restaurant,Le Lézard sur Pâtes,43.6035528,3.9217185,node,11902004566
+Montpellier,restaurant,Anga - Beaulieu,43.6104808,3.8752797,node,11964210692
+Montpellier,restaurant,Esencia,43.6057832,3.8747163,node,12006519316
+Montpellier,restaurant,Filika,43.6057517,3.8748919,node,12006527013
+Montpellier,restaurant,La Pizza PaPa,43.6085634,3.8803967,node,12007224194
+Montpellier,restaurant,Thai Zone,43.6079002,3.8810573,node,12007230624
+Montpellier,restaurant,PIZZA GELLA,43.6076618,3.8760025,node,12012810469
+Montpellier,restaurant,NACHOS,43.6075245,3.8776678,node,12018217608
+Montpellier,restaurant,Mimino,43.6078217,3.8897249,node,12067719872
+Montpellier,restaurant,Yiwu Ramen,43.6046637,3.879876,node,12128145841
+Montpellier,restaurant,Mon cuisinier,43.6222523,3.822087,node,12151801751
+Montpellier,restaurant,Cuisine S3,43.6081308,3.8765756,node,12161935163
+Montpellier,restaurant,Le désinvolte,43.6100538,3.9145541,node,12186515709
+Montpellier,restaurant,Crous't Wok,43.6002042,3.8670867,node,12195567725
+Montpellier,restaurant,Nono,43.610846,3.8296679,node,12196884490
+Montpellier,restaurant,Comprend Qui Peut,43.611092,3.8759135,node,12233200923
+Montpellier,restaurant,Bistrot Umami,43.6116368,3.8741422,node,12239509843
+Montpellier,restaurant,Le Saoudi,43.605528,3.8707946,node,12275987330
+Montpellier,restaurant,chez cui-cui,43.6019935,3.9019041,node,12357980352
+Montpellier,restaurant,Goya,43.599246,3.9015209,node,12361685076
+Montpellier,restaurant,Le 17:45,43.6106039,3.8783435,node,12364909535
+Montpellier,restaurant,Kinosa,43.5956639,3.9211927,node,12393796282
+Montpellier,restaurant,Sans nom,43.6067851,3.8739087,node,12406611849
+Montpellier,restaurant,Mamy,43.6113833,3.8760223,node,12459239745
+Montpellier,restaurant,Le Sefed,43.6145925,3.8792357,node,12481586101
+Montpellier,restaurant,Eugénie,43.6079381,3.876416,node,12532475540
+Montpellier,restaurant,Faim,43.6105361,3.8740741,node,12547743680
+Montpellier,restaurant,Sefed,43.6146092,3.8791984,node,12571374106
+Montpellier,restaurant,Coldtrip,43.5977362,3.8994599,node,12572094782
+Montpellier,restaurant,Bisciu,43.6154001,3.8812238,node,12590451960
+Montpellier,restaurant,Peacefood Café,43.6102442,3.8756611,node,12658422501
+Montpellier,restaurant,Sans nom,43.6000425,3.8979728,node,12705064201
+Montpellier,restaurant,Chez Alice,43.6082614,3.8735008,node,12758394683
+Montpellier,restaurant,Emiko,43.6086627,3.8741601,node,12768532338
+Montpellier,restaurant,Lance Ta Hache,43.6315146,3.9101048,node,12770421443
+Montpellier,restaurant,Kim Hi Noodle,43.6301436,3.90343,node,12782455324
+Montpellier,restaurant,Krousty Sabaidi,43.631384,3.9095693,node,12787806957
+Montpellier,restaurant,Aloha Poké,43.6323216,3.912626,node,12787806968
+Montpellier,restaurant,Oh My Bowl,43.6127122,3.8768344,node,12802729174
+Montpellier,restaurant,Miranove,43.6001687,3.8955768,node,12806553742
+Montpellier,restaurant,Ophélia,43.6170309,3.9310914,node,12888454155
+Montpellier,restaurant,Guinguette de la Maison Blanche,43.6220757,3.8980218,node,12912725103
+Montpellier,restaurant,Mochi Sushi,43.6022851,3.8544589,node,13003872193
+Montpellier,restaurant,Cantine solidaire l'Esperluette,43.6142101,3.8302847,node,13033713088
+Montpellier,restaurant,La Cantina,43.6489832,3.8332087,node,13033713089
+Montpellier,restaurant,Le Tapas,43.6098708,3.8764748,node,13042400901
+Montpellier,restaurant,Nonna Dussi,43.6083932,3.8709396,node,13070825437
+Montpellier,restaurant,Nem Saïgon,43.6080313,3.8805159,node,13084286970
+Montpellier,restaurant,Le Bloléquin,43.6089052,3.8739804,node,13084781173
+Montpellier,restaurant,Grand Sushi,43.6090527,3.8740316,node,13084781174
+Montpellier,restaurant,My Poké,43.6089554,3.8737863,node,13084781175
+Montpellier,restaurant,Enzyme,43.6089759,3.8738412,node,13084781176
+Montpellier,restaurant,Darunee,43.6086933,3.8732166,node,13084781181
+Montpellier,restaurant,Press Start,43.6096973,3.8758482,node,13084781446
+Montpellier,restaurant,Les T'OCqués,43.6082726,3.874449,node,13084815140
+Montpellier,restaurant,Thym et romarin,43.6083616,3.8741899,node,13084815141
+Montpellier,restaurant,Los Locos,43.6090919,3.8750078,node,13084828299
+Montpellier,restaurant,Il Bar a Pizze,43.597433,3.8997321,node,13099085701
+Montpellier,restaurant,Caravaggio,43.6113783,3.8757755,node,13119155620
+Montpellier,restaurant,Kōyō Izakaya,43.6062861,3.8760192,node,13136101533
+Montpellier,restaurant,Maria & Juana,43.6112718,3.8751829,node,13136112207
+Montpellier,restaurant,Pause,43.6193145,3.9160484,node,13157791201
+Montpellier,restaurant,J'adooore Asia,43.6196836,3.9161625,node,13157802701
+Montpellier,restaurant,YURICHA,43.6127414,3.8791995,node,13159510401
+Montpellier,restaurant,Origami,43.5755368,3.8303609,node,13167182944
+Montpellier,restaurant,Palazzo Pizza,43.5754874,3.8302893,node,13167247993
+Montpellier,restaurant,Mamie Lasagnes,43.575426,3.8303023,node,13167247994
+Montpellier,restaurant,Rôtisserie Védasienne,43.5755035,3.8307438,node,13175115845
+Montpellier,restaurant,Halles Les Cuves Gourmandes,43.578477,3.9389122,node,13179747874
+Montpellier,restaurant,La Nipote,43.6317965,3.9080424,node,13180206961
+Montpellier,restaurant,Monak,43.5834732,3.859387,node,13185576001
+Montpellier,restaurant,New Delhi,43.6072957,3.875936,node,13188451101
+Montpellier,restaurant,Angus et Bacchus,43.607201,3.8768125,node,13202155725
+Montpellier,restaurant,La Ô,43.6391947,3.8334171,node,13234335472
+Montpellier,restaurant,Sushi Corner,43.5776566,3.8351736,node,13245701474
+Montpellier,restaurant,La Churrasqueira,43.6194681,3.9150767,node,13245981495
+Montpellier,restaurant,Le Dodo Blanc,43.6060504,3.8756673,node,13250719059
+Montpellier,restaurant,Doppio Malto,43.6033369,3.9177192,node,13252418213
+Montpellier,restaurant,Tiflis,43.6033032,3.8801532,node,13256648431
+Montpellier,restaurant,Rocambolès,43.595564,3.9213141,node,13264670359
+Montpellier,restaurant,Le Sésame,43.5881971,3.8843655,node,13277499201
+Montpellier,restaurant,Les Gourmands,43.620307,3.8872916,way,59720077
+Montpellier,restaurant,Restophone,43.5825121,3.8788433,way,75009516
+Montpellier,restaurant,Maison des Échanges et du Commerce,43.6061344,3.8866946,way,75043243
+Montpellier,restaurant,Courtepaille,43.5896396,3.891322,way,75235788
+Montpellier,restaurant,Self du Lycée Joffre,43.6124858,3.8847414,way,75247203
+Montpellier,restaurant,Pains et délices,43.6035737,3.8680031,way,75398320
+Montpellier,restaurant,Castel Ronsard,43.5931889,3.8613789,way,75755774
+Montpellier,restaurant,Self,43.61394,3.8676278,way,75782216
+Montpellier,restaurant,Le VR à Vin,43.6463703,3.8394297,way,76042816
+Montpellier,restaurant,Maison Bonnaire,43.6116202,3.9136548,way,76180755
+Montpellier,restaurant,L'Aubergine,43.6112174,3.8982904,way,76183460
+Montpellier,restaurant,Restaurant universitaire de Boutonnet,43.6235696,3.8694031,way,76199437
+Montpellier,restaurant,Sans nom,43.6307603,3.8599868,way,76214331
+Montpellier,restaurant,Resto'U Vert-Bois,43.6348297,3.8707959,way,76361986
+Montpellier,restaurant,Bistro Régent,43.6093655,3.8818926,way,81371871
+Montpellier,restaurant,Sans nom,43.5726147,3.8942402,way,82206207
+Montpellier,restaurant,Le Coup de Coeur,43.5759831,3.9114663,way,82382967
+Montpellier,restaurant,Buffalo Grill,43.5834853,3.9349514,way,82416871
+Montpellier,restaurant,Le Chalet Chamoniard,43.5846312,3.933809,way,82416945
+Montpellier,restaurant,Brasserie Gusto,43.5836926,3.9367906,way,82417516
+Montpellier,restaurant,Pura Vida Montpellier,43.6233415,3.9179065,way,103662003
+Montpellier,restaurant,La Placette,43.633169,3.8954035,way,103662721
+Montpellier,restaurant,Fred & Co,43.6327795,3.8960115,way,103664283
+Montpellier,restaurant,Pizza Siciliana,43.632728,3.8958005,way,103665655
+Montpellier,restaurant,Pizza Mongelli,43.633147,3.8952905,way,103672342
+Montpellier,restaurant,La Boucherie,43.5681565,3.838677,way,109895592
+Montpellier,restaurant,Buffalo Grill,43.5690035,3.837874,way,109900297
+Montpellier,restaurant,L'annexe,43.5858135,3.9386155,way,112732801
+Montpellier,restaurant,Panda Wok,43.586579,3.939719,way,112737153
+Montpellier,restaurant,La Fabrica,43.589052,3.9374885,way,112739599
+Montpellier,restaurant,Restaurant Universitaire du Triolet,43.6311893,3.8601981,way,170953156
+Montpellier,restaurant,Sous le Mûrier,43.639572,3.9343955,way,191285967
+Montpellier,restaurant,Route 66,43.651684,3.8378355,way,192482300
+Montpellier,restaurant,Bistrot D'O,43.6357935,3.8364534,way,230064854
+Montpellier,restaurant,Maky Sushi,43.5716259,3.940664,way,374099951
+Montpellier,restaurant,Le Grillon,43.5717052,3.9408167,way,374099963
+Montpellier,restaurant,Agora brasserie,43.6043429,3.8808438,way,401414244
+Montpellier,restaurant,Garçon,43.5818706,3.9297163,way,413332657
+Montpellier,restaurant,Café & Cie by Bibal,43.5716908,3.846901,way,423095045
+Montpellier,restaurant,Pizza & Cie,43.5716596,3.847059,way,423095046
+Montpellier,restaurant,La Boucherie,43.6383588,3.9289939,way,479681613
+Montpellier,restaurant,La Plage,43.6223192,3.9240965,way,546352973
+Montpellier,restaurant,Le Mood,43.6409675,3.9346376,way,625226844
+Montpellier,restaurant,La Baraquette des Halles,43.606066,3.8766834,way,868046190
+Montpellier,restaurant,La Fabrica,43.6060541,3.876438,way,868046198
+Montpellier,restaurant,Maison Costa,43.582444,3.9303048,way,893690731
+Montpellier,restaurant,Cafétéria Crescendo,43.6423159,3.940421,way,951439491
+Montpellier,restaurant,KingDoner,43.6399815,3.8290268,way,1154194485
+Montpellier,restaurant,Yukimi,43.6059073,3.89468,way,1168571435
+Montpellier,restaurant,Casa Poké,43.629982,3.8859782,way,1212450475
+Montpellier,restaurant,Tropizz',43.6019125,3.8579701,way,1253678335
+Montpellier,restaurant,La Cantina,43.6489793,3.8331126,way,1418062675
+Montpellier,station,Montpellier Saint-Roch,43.6042456,3.8803219,node,1721162711
+Montpellier,station,Montpellier-Sud-de-France,43.595115,3.9239637,node,8096578751
+Montpellier,historic,Statue Louis Ravaz,43.6183551,3.8561181,node,566425181
+Montpellier,historic,Sans nom,43.6098719,3.8822885,node,1252168860
+Montpellier,historic,Sans nom,43.6102493,3.8828746,node,1252168901
+Montpellier,historic,Croix de Boutonnet,43.6221945,3.8723232,node,1342187095
+Montpellier,historic,Font Putanelle,43.6176977,3.8698701,node,1342191083
+Montpellier,historic,Statue-menhir des Vidals,43.6426493,3.878478,node,2634557083
+Montpellier,historic,Sans nom,43.6524931,3.8092598,node,2707460004
+Montpellier,historic,Jean Jaurès,43.6104492,3.8816162,node,2948065135
+Montpellier,historic,Sans nom,43.6111637,3.8818834,node,2948065171
+Montpellier,historic,Sans nom,43.611853,3.88195,node,2948065175
+Montpellier,historic,Sans nom,43.6121386,3.8820314,node,2948065179
+Montpellier,historic,Borne Milliaire (Via Domitia),43.6441835,3.9131694,node,2996805763
+Montpellier,historic,Sans nom,43.6395867,3.8736809,node,3048110523
+Montpellier,historic,Sans nom,43.6396473,3.87366,node,3048110524
+Montpellier,historic,Sans nom,43.6033281,3.8674692,node,3145365368
+Montpellier,historic,Couvent des Ursulines,43.6143192,3.8783888,node,3632803537
+Montpellier,historic,Sans nom,43.5673003,3.9032873,node,3913579646
+Montpellier,historic,Via Domitia,43.6398815,3.8942889,node,4021970461
+Montpellier,historic,Sans nom,43.6084557,3.8691083,node,4195864202
+Montpellier,historic,Sans nom,43.6097568,3.8775978,node,4195864203
+Montpellier,historic,Sans nom,43.6121178,3.8749612,node,4195864204
+Montpellier,historic,Monument Aux Morts,43.6509515,3.9409523,node,4196876511
+Montpellier,historic,Monument Aux morts des Anciens Combattants en Afrique du Nord,43.6424163,3.9353554,node,4197183892
+Montpellier,historic,Monument Aux Morts des Anciens d'Indochine,43.6463944,3.9379605,node,4197183911
+Montpellier,historic,Fontaine de la Préfecture,43.6113415,3.8761732,node,4324800421
+Montpellier,historic,Fontaine des Trois Grâces,43.6084697,3.8795,node,4324886075
+Montpellier,historic,Sans nom,43.5762526,3.8286738,node,4467076778
+Montpellier,historic,Sans nom,43.5773107,3.8266259,node,4467083534
+Montpellier,historic,Sans nom,43.5772266,3.8268899,node,4467083635
+Montpellier,historic,Sans nom,43.5743391,3.8179441,node,4467085199
+Montpellier,historic,Sans nom,43.5781152,3.83546,node,4467085886
+Montpellier,historic,Sans nom,43.5704966,3.8378124,node,4467087057
+Montpellier,historic,Sans nom,43.5728538,3.8269367,node,4467087200
+Montpellier,historic,Sans nom,43.610927,3.8816506,node,4489006441
+Montpellier,historic,Sans nom,43.611266,3.8816757,node,4526012486
+Montpellier,historic,Sans nom,43.611265,3.8816394,node,4526012487
+Montpellier,historic,Sans nom,43.6110873,3.8816783,node,4526012488
+Montpellier,historic,Sans nom,43.6112801,3.8820183,node,4526013589
+Montpellier,historic,Sans nom,43.6111441,3.8820089,node,4526013590
+Montpellier,historic,Sans nom,43.6110864,3.8818353,node,4526013591
+Montpellier,historic,Sans nom,43.6110024,3.8819935,node,4526013592
+Montpellier,historic,Sans nom,43.6109961,3.8819446,node,4526013593
+Montpellier,historic,Sans nom,43.6110572,3.8819895,node,4526013594
+Montpellier,historic,Manitas de Plata,43.5998025,3.8959499,node,4984931412
+Montpellier,historic,Sans nom,43.6319157,3.8981602,node,5069303887
+Montpellier,historic,De Gaulle,43.603022,3.9189144,node,5092378735
+Montpellier,historic,Roosevelt,43.6030208,3.9187162,node,5092378736
+Montpellier,historic,Churchill,43.6030816,3.9185463,node,5092378737
+Montpellier,historic,Jaurès,43.6033385,3.9184036,node,5092378738
+Montpellier,historic,Lénine,43.6031879,3.9184447,node,5092378739
+Montpellier,historic,Mandela,43.6031999,3.9191973,node,5092378740
+Montpellier,historic,Mao,43.603339,3.9192258,node,5092378741
+Montpellier,historic,Nasser,43.6034715,3.9191674,node,5092378742
+Montpellier,historic,Sans nom,43.5888278,3.828841,node,5144829149
+Montpellier,historic,Golda Meir,43.6035723,3.9190351,node,5429391301
+Montpellier,historic,Gandhi,43.6036274,3.9188305,node,5429391302
+Montpellier,historic,Monument Aux Morts,43.6514412,3.9406711,node,5440279713
+Montpellier,historic,Obélisque,43.5691162,3.9050605,node,5904026340
+Montpellier,historic,Thomas Jefferson,43.6134085,3.8806916,node,6553418933
+Montpellier,historic,Aux Anciens d'Indochine,43.634544,3.9004442,node,6555599386
+Montpellier,historic,Charles-Marie Bonaparte,43.6062275,3.8814228,node,6562274124
+Montpellier,historic,Frédéric Bazille,43.6084828,3.8784036,node,6562498848
+Montpellier,historic,Alfred Bruyas,43.6086342,3.8785015,node,6562789823
+Montpellier,historic,Stèle à la mémoire d'Angèle Guy,43.5954297,3.9023279,node,6627639440
+Montpellier,historic,Sans nom,43.6224317,3.8830604,node,6866906330
+Montpellier,historic,Sans nom,43.6084885,3.8817091,node,6871446254
+Montpellier,historic,Sans nom,43.6091732,3.8835282,node,6878590476
+Montpellier,historic,Sans nom,43.6083928,3.9087847,node,6898765892
+Montpellier,historic,Opex Nouvelle Calédonie,43.5716642,3.9053279,node,6985667597
+Montpellier,historic,Ordre national du mérite,43.5716107,3.9024631,node,6985667598
+Montpellier,historic,Sans nom,43.608454,3.9092406,node,7003881190
+Montpellier,historic,Sans nom,43.6083421,3.9091938,node,7003881191
+Montpellier,historic,Stèle à Jacques Roseau,43.5972486,3.8691068,node,7505454053
+Montpellier,historic,Le Castellet,43.6110399,3.8588472,node,8199429086
+Montpellier,historic,stèle du bois des tombes,43.6512452,3.8946898,node,8405678376
+Montpellier,historic,"stele récente des étudiants Bompar et Bourrely , fusillés en 1944",43.6517329,3.8972326,node,8951630409
+Montpellier,historic,memorial ancien des étudiants Bompar et Bourrely fusillés en 1944,43.6523753,3.8970207,node,8951630410
+Montpellier,historic,EAUX DE LA VILLE DE MONTPELLIER TUNNEL DE LA VALETTE,43.6442619,3.8683161,node,9160788158
+Montpellier,historic,Vieille porte,43.5786239,3.8263694,node,9354168315
+Montpellier,historic,Borne milliaire (réemploi),43.6500914,3.9374533,node,9547552048
+Montpellier,historic,Borne Milliaire d'Auguste,43.6492019,3.9333907,node,9547557645
+Montpellier,historic,Borne milliaire réemploi,43.6500914,3.9374533,node,9566840449
+Montpellier,historic,Borne milliaire,43.6447983,3.9150639,node,9566845869
+Montpellier,historic,Sans nom,43.6119636,3.8296635,node,9733224784
+Montpellier,historic,Sans nom,43.639414,3.839449,node,9747122671
+Montpellier,historic,Sans nom,43.6070424,3.8679796,node,10003811432
+Montpellier,historic,Sans nom,43.6085994,3.8692044,node,10010969266
+Montpellier,historic,"Hôtel de BOSSUGES, maison natale de Jeanne Galzy",43.6078946,3.8774693,node,10048769416
+Montpellier,historic,Olivette Vivien,43.638353,3.894299,node,10937203784
+Montpellier,historic,Sans nom,43.6498247,3.9371012,node,11080928760
+Montpellier,historic,Sans nom,43.6500281,3.937507,node,11080928761
+Montpellier,historic,Paissière (seuil) de Lavalette,43.6490958,3.8775151,node,11171467523
+Montpellier,historic,Refus pleins pouvoirs à Pétain,43.6303996,3.901999,node,11257430593
+Montpellier,historic,Saint Jean-Paul II,43.6330041,3.894697,node,11259940487
+Montpellier,historic,Sans nom,43.5668706,3.9395763,node,11336565569
+Montpellier,historic,Stèle commémorative soldats américains,43.5744629,3.92285,node,11336793462
+Montpellier,historic,Architecture à pieux et cauissons de poutre (sub-aquatique),43.6511379,3.8709999,node,11640539076
+Montpellier,historic,Sans nom,43.5925754,3.852887,node,11944541392
+Montpellier,historic,Rebelais du Jardin des Plates,43.6140881,3.8722325,node,12012384805
+Montpellier,historic,A nos morts,43.6017175,3.8762707,node,12035889163
+Montpellier,historic,Sans nom,43.6326792,3.8979022,node,12046271827
+Montpellier,historic,Plaque commemorative Ronan Pointeau,43.6135388,3.8743988,node,12167490396
+Montpellier,historic,Hommage aux victimes de la fusillade du 21 août 1944,43.6086569,3.8804593,node,12183452244
+Montpellier,historic,A la mémoire des bombardements du 17 août 1944,43.6177339,3.8936989,node,12183470112
+Montpellier,historic,Martyrs de la Résistance assassinés parla Milice,43.6205834,3.8786375,node,12512045910
+Montpellier,historic,Sans nom,43.6097667,3.8628013,node,12704773379
+Montpellier,historic,Siège de la Gestapo de 1942 à 1944,43.6193111,3.87971,node,12730488591
+Montpellier,historic,Observatoire,43.6145836,3.8711166,node,13087054901
+Montpellier,historic,Cénotaphe de Narcissa,43.6135396,3.8726304,node,13255495653
+Montpellier,historic,Morts pour la France 1939 - 1945 - Indochine et Algérie,43.6239792,3.891513,node,13275754258
+Montpellier,historic,Mort pour la France 1914-1918,43.6271065,3.8919897,node,13275754259
+Montpellier,historic,Morts pour la France Franco-Belge 1914-1918,43.625298,3.892947,node,13275754268
+Montpellier,historic,Morts pour la France aux morts indochinois 1914-1918 et 1939-1945,43.6255577,3.8926627,node,13275754277
+Montpellier,historic,Porte du Peyrou - Arc de Triomphe,43.6111337,3.8724111,way,8656870
+Montpellier,historic,Kiosque Bosc,43.610661,3.8815428,way,26576362
+Montpellier,historic,Lycée général et technologique Joffre,43.6116897,3.8867331,way,26935964
+Montpellier,historic,Château du Terral,43.5848121,3.8299768,way,44491323
+Montpellier,historic,Aqueduc Saint-Clément,43.6517586,3.8543725,way,53274470
+Montpellier,historic,Arceaux de Font d'Aurelle,43.6389002,3.841955,way,53308873
+Montpellier,historic,Château d'O,43.6332043,3.8390419,way,74133527
+Montpellier,historic,Hôtel Bénézet,43.6096565,3.8781593,way,75263925
+Montpellier,historic,Hôtel des Trésoriers de France,43.6095318,3.8789549,way,75264124
+Montpellier,historic,Tour de la Babote,43.6064479,3.8773354,way,75278824
+Montpellier,historic,Hôtel de Querelles,43.6097137,3.8747589,way,75278953
+Montpellier,historic,Hôtel de Saint-Félix,43.6088414,3.8772371,way,75280385
+Montpellier,historic,Hôtel Lecourt,43.6090294,3.8768044,way,75280758
+Montpellier,historic,Hôtel de Gayon,43.6096855,3.8773336,way,75280872
+Montpellier,historic,Église Saint-Matthieu,43.6125619,3.8777736,way,75320200
+Montpellier,historic,Hôtel de Joubert,43.6113105,3.879073,way,75320485
+Montpellier,historic,Tour des Pins,43.6139962,3.8735744,way,75320679
+Montpellier,historic,Hôtel de Grave,43.6125181,3.8794826,way,75320772
+Montpellier,historic,Ancien Evêché,43.6135503,3.875304,way,75320942
+Montpellier,historic,Hôtel des Vignes,43.6116755,3.8786862,way,75321004
+Montpellier,historic,Hôtel Haguenot,43.6101144,3.8708114,way,75382997
+Montpellier,historic,Sans nom,43.6107083,3.8720516,way,75383049
+Montpellier,historic,Sans nom,43.6116029,3.8721677,way,75780619
+Montpellier,historic,Château de Bionne,43.6025196,3.8208277,way,75868895
+Montpellier,historic,Château Bon,43.5987389,3.8283615,way,75869090
+Montpellier,historic,Château de la Piscine,43.6121806,3.8413826,way,75990382
+Montpellier,historic,Église Sainte-Croix de Celleneuve,43.6131833,3.8286413,way,76006493
+Montpellier,historic,Sans nom,43.6233407,3.8376598,way,76015752
+Montpellier,historic,Château de Lavalette,43.6485787,3.8782406,way,76058328
+Montpellier,historic,Ancien pigeonnier de Lavalette,43.6464059,3.8786015,way,76058387
+Montpellier,historic,Sans nom,43.6057255,3.8989924,way,76169272
+Montpellier,historic,Octroi du Pont Juvénal,43.6057697,3.8989832,way,76169903
+Montpellier,historic,Château de la Mogère,43.6005351,3.9257669,way,76169943
+Montpellier,historic,Chapelle de l'ancien couvent des Récollets,43.6183436,3.8788946,way,76186072
+Montpellier,historic,Château Levat,43.6229416,3.8894049,way,76187667
+Montpellier,historic,petite orangerie du domaine de Méric,43.6323087,3.8918861,way,76356224
+Montpellier,historic,Domaine de Méric,43.6321135,3.8915378,way,76362473
+Montpellier,historic,Château de Biar,43.596562,3.814471,way,96919072
+Montpellier,historic,Château de l'Engarran,43.5978382,3.8072007,way,97705896
+Montpellier,historic,Moulin de Navitau,43.642629,3.8931585,way,103659422
+Montpellier,historic,Château de Verchant,43.6221873,3.9231999,way,103664686
+Montpellier,historic,Petit moulin de Navitau,43.6418675,3.8930865,way,103666353
+Montpellier,historic,Aqueduc Saint-Clément,43.6533161,3.8570208,way,108105738
+Montpellier,historic,Porte de la Blanquerie,43.614632,3.8774609,way,118934307
+Montpellier,historic,Tour Gabrielle,43.6425471,3.8784945,way,141448213
+Montpellier,historic,Site archéologique de Lattara,43.5656654,3.9066409,way,142362858
+Montpellier,historic,Sans nom,43.6137568,3.8814084,way,159855441
+Montpellier,historic,Aqueduc Saint-Clément,43.6429404,3.8484385,way,194608503
+Montpellier,historic,Aqueduc Saint-Clément,43.651712,3.8522596,way,230389481
+Montpellier,historic,Aqueduc Saint-Clément,43.6503607,3.8506586,way,230389483
+Montpellier,historic,Thermes de Fontcaude,43.627755,3.8121281,way,249362691
+Montpellier,historic,Sans nom,43.5683498,3.9064325,way,249857351
+Montpellier,historic,Opéra Comédie,43.6078016,3.8786918,way,273442755
+Montpellier,historic,Sans nom,43.6309493,3.8164536,way,327608466
+Montpellier,historic,Moulin de Gasconnet,43.6510832,3.8709733,way,368805135
+Montpellier,historic,La Glaciere,43.6314217,3.8970035,way,399453169
+Montpellier,historic,Sans nom,43.6137052,3.880979,way,435147066
+Montpellier,historic,Sans nom,43.613747,3.8810345,way,435147067
+Montpellier,historic,Sans nom,43.6136858,3.8810518,way,435147068
+Montpellier,historic,Ancienne Glacière de Lavalette,43.6461757,3.8754969,way,503976442
+Montpellier,historic,Aqueduc Saint-Clément,43.6467873,3.8511226,way,558520491
+Montpellier,historic,Aqueduc Saint-Clément,43.6487408,3.8496298,way,558520492
+Montpellier,historic,Aqueduc Saint-Clément,43.6484423,3.8500996,way,676866166
+Montpellier,historic,Château de la Mosson,43.6137222,3.8191852,way,840202500
+Montpellier,historic,Sans nom,43.6225078,3.8428664,way,978533795
+Montpellier,historic,Sans nom,43.6119979,3.8545919,way,978533796
+Montpellier,historic,Sans nom,43.6340098,3.8382262,way,978534093
+Montpellier,historic,Sans nom,43.614705,3.8936612,way,1313254674
+Montpellier,historic,Préfecture de l'Hérault,43.61142,3.8767758,relation,23500
+Montpellier,historic,Hôtel de Baudon de Mauny,43.6118344,3.8783782,relation,1226923
+Montpellier,historic,Hôtel de Solas,43.6118361,3.8771385,relation,1226924
+Montpellier,historic,Hôtel de Roquemaure,43.6119343,3.8780314,relation,1226950
+Montpellier,historic,Hôtel Deydé,43.6122972,3.8787068,relation,1226952
+Montpellier,historic,Hôtel Estorc,43.6113907,3.8784229,relation,1226960
+Montpellier,historic,Hôtel de la Société Royale des Sciences,43.6114968,3.8785111,relation,1226966
+Montpellier,historic,Hôtel de Beaulac,43.6120858,3.8785405,relation,1226967
+Montpellier,historic,Hôtel d'Avèze,43.6121788,3.8780631,relation,1226969
+Montpellier,historic,Hôtel de Bardy,43.6101438,3.8749247,relation,1228648
+Montpellier,historic,Hôtel de Fizes,43.6089493,3.8746491,relation,1228669
+Montpellier,historic,Hôtel de Montferrier,43.6109956,3.8780199,relation,1228695
+Montpellier,historic,Hôtel d'Hostalier,43.6090219,3.8781075,relation,1228705
+Montpellier,historic,Hôtel des Rois d'Aragon,43.6092304,3.877455,relation,1228707
+Montpellier,historic,Hôtel de Fourques,43.6078846,3.8778612,relation,1228716
+Montpellier,historic,Hôtel Périer,43.6084451,3.8785067,relation,1228727
+Montpellier,historic,Hôtel Lamouroux,43.6083096,3.8783071,relation,1228742
+Montpellier,historic,Hôtel Rey,43.6080473,3.878107,relation,1228774
+Montpellier,historic,Hôtel de Sarret,43.6113021,3.8739397,relation,1730950
+Montpellier,historic,L'Œuf,43.6085579,3.8796369,relation,6455379
+Montpellier,historic,Château de Flaugergues,43.6101415,3.9192844,relation,7677567
+Montpellier,historic,Hôtel de Guidais,43.6105729,3.8682329,relation,7717750
+Montpellier,historic,Hôtel de Castries,43.6089137,3.8743722,relation,7786025
+Montpellier,historic,Voie Romaine Via Domitia,43.9789814,4.7923359,relation,12701786

@@ -1,0 +1,72 @@
+restaurant_id,city,name,latitude,longitude,rating,total_ratings,price_range,cuisine_type,address,phone,website,opening_hours,data_source
+colmar_resto_001,Colmar,Le Table de Colmar,48.043728,7.365151,4.2,328,€€,Choucroute,82 Rue de Paris,0142442097,https://www.colmar-restaurant-1.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_002,Colmar,Café Au de la Gare,48.122192,7.323322,4.8,458,€€,Choucroute,62 Rue Principale,0592155952,https://www.colmar-restaurant-2.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_003,Colmar,Les Nouveau Restaurant,48.099504,7.402965,3.9,118,€€€,Française,100 Rue Victor Hugo,0544264724,https://www.colmar-restaurant-3.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_004,Colmar,Brasserie Au du Marché,48.081014,7.315347,4.5,291,€€€,Choucroute,51 Rue du Centre,0587754282,https://www.colmar-restaurant-4.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_005,Colmar,La Petit Brasserie,48.106794,7.32937,4.5,385,€,Française,69 Rue Principale,0382973827,https://www.colmar-restaurant-5.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_006,Colmar,Les Bouchon Colmar,48.076147,7.405807,4.7,370,€,Alsacienne,54 Rue du Centre,0645213180,https://www.colmar-restaurant-6.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_007,Colmar,La Cuisine du Colmar,48.109071,7.360448,4.4,216,€€,Choucroute,25 Rue du Centre,0450707245,https://www.colmar-restaurant-7.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_008,Colmar,Le Cuisine de Colmar,48.057334,7.327298,3.8,20,€,Alsacienne,157 Rue du Centre,0664471096,https://www.colmar-restaurant-8.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_009,Colmar,Le Table du Colmar,48.065634,7.34446,4.1,111,€€,Alsacienne,92 Rue Principale,0334785394,https://www.colmar-restaurant-9.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_010,Colmar,Le Cuisine de Colmar,48.033794,7.314691,4.7,463,€,Française,75 Rue du Centre,0595492155,https://www.colmar-restaurant-10.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_011,Colmar,La Cuisine du Colmar,48.097307,7.346096,3.8,41,€€,Choucroute,168 Rue de Paris,0399247981,https://www.colmar-restaurant-11.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_012,Colmar,Table Les du Port,48.08365,7.397536,4.6,494,€,Alsacienne,68 Rue Principale,0225793332,https://www.colmar-restaurant-12.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_013,Colmar,Restaurant La du Port,48.096824,7.316502,3.5,426,€,Française,60 Rue du Centre,0675174363,https://www.colmar-restaurant-13.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_014,Colmar,Restaurant La des Arts,48.073391,7.357598,4.6,112,€,Choucroute,113 Rue Principale,0416216389,https://www.colmar-restaurant-14.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_015,Colmar,Au Traditionnel Comptoir,48.106937,7.353668,3.6,357,€,Française,25 Rue du Centre,0683876630,https://www.colmar-restaurant-15.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_016,Colmar,La Table du Colmar,48.078317,7.351957,4.8,59,€,Alsacienne,194 Rue Victor Hugo,0477197048,https://www.colmar-restaurant-16.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_017,Colmar,Restaurant Chez Central,48.035877,7.3634,4.5,362,€€,Choucroute,63 Rue Victor Hugo,0569342070,https://www.colmar-restaurant-17.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_018,Colmar,Chez Comptoir Colmar,48.075436,7.348336,3.9,452,€€,Française,182 Rue du Centre,0679741854,https://www.colmar-restaurant-18.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_019,Colmar,Au Comptoir Colmar,48.11391,7.398888,4.5,206,€€€,Choucroute,189 Rue de Paris,0319645310,https://www.colmar-restaurant-19.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_020,Colmar,Bistro Chez du Port,48.043687,7.371878,3.9,288,€€,Alsacienne,144 Rue de Paris,0174109842,https://www.colmar-restaurant-20.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_021,Colmar,Les Nouveau Brasserie,48.073448,7.383792,3.7,146,€,Française,4 Rue de Paris,0325866016,https://www.colmar-restaurant-21.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_022,Colmar,La Petit Brasserie,48.111855,7.316503,3.5,498,€€€,Alsacienne,177 Rue Principale,0669807572,https://www.colmar-restaurant-22.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_023,Colmar,Le Bouchon Colmar,48.073454,7.383688,3.8,151,€€,Française,178 Rue Principale,0466661955,https://www.colmar-restaurant-23.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_024,Colmar,Chez Café Colmar,48.12383,7.390695,4.1,149,€,Choucroute,57 Rue Principale,0270514743,https://www.colmar-restaurant-24.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_025,Colmar,Restaurant Au de la Gare,48.066959,7.34578,3.8,302,€€,Choucroute,139 Rue de Paris,0652725634,https://www.colmar-restaurant-25.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_026,Colmar,Restaurant Chez Colmar,48.09984,7.365813,3.3,444,€€€,Française,144 Rue de Paris,0120798227,https://www.colmar-restaurant-26.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_027,Colmar,Chez Petit Table,48.115643,7.312185,3.9,256,€,Française,27 Rue Victor Hugo,0345591443,https://www.colmar-restaurant-27.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_028,Colmar,Restaurant Les Colmar,48.074645,7.330624,3.9,233,€€,Choucroute,23 Rue Principale,0536258725,https://www.colmar-restaurant-28.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_029,Colmar,La Comptoir Colmar,48.041407,7.364451,4.0,195,€,Choucroute,50 Rue Victor Hugo,0481851817,https://www.colmar-restaurant-29.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_030,Colmar,Le Typique Comptoir,48.124675,7.33358,3.6,23,€€€,Française,74 Rue Victor Hugo,0493678794,https://www.colmar-restaurant-30.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_031,Colmar,Table Au de la Gare,48.080409,7.366568,4.2,196,€€€,Alsacienne,43 Rue de Paris,0642752940,https://www.colmar-restaurant-31.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_032,Colmar,Bistro Au du Port,48.121595,7.368052,3.6,408,€€,Choucroute,173 Rue Principale,0163617594,https://www.colmar-restaurant-32.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_033,Colmar,Table Les de la Gare,48.087035,7.384234,4.5,113,€€€,Française,60 Rue Victor Hugo,0640682484,https://www.colmar-restaurant-33.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_034,Colmar,Le Bouchon Colmar,48.048211,7.366751,4.2,184,€€€,Choucroute,132 Rue du Centre,0150182499,https://www.colmar-restaurant-34.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_035,Colmar,La Table de Colmar,48.123248,7.391283,3.5,327,€€€,Choucroute,120 Rue Principale,0150634822,https://www.colmar-restaurant-35.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_036,Colmar,Le Cuisine de Colmar,48.032669,7.355912,4.3,448,€€,Alsacienne,67 Rue de Paris,0214532241,https://www.colmar-restaurant-36.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_037,Colmar,Au Bouchon Colmar,48.032678,7.382522,4.5,265,€€€,Choucroute,146 Rue du Centre,0443481953,https://www.colmar-restaurant-37.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_038,Colmar,Café La Central,48.08633,7.323777,4.8,329,€€€,Française,165 Rue de Paris,0155693237,https://www.colmar-restaurant-38.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_039,Colmar,Le Vieux Café,48.04488,7.355345,4.8,287,€€€,Choucroute,13 Rue de Paris,0325562727,https://www.colmar-restaurant-39.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_040,Colmar,Le Table de Colmar,48.063411,7.375193,3.5,353,€,Alsacienne,70 Rue Victor Hugo,0233912425,https://www.colmar-restaurant-40.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_041,Colmar,Le Petit Café,48.113529,7.324822,3.6,418,€,Française,117 Rue Victor Hugo,0483727664,https://www.colmar-restaurant-41.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_042,Colmar,Bistro Au du Port,48.121279,7.39884,4.5,158,€€,Française,148 Rue du Centre,0370748628,https://www.colmar-restaurant-42.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_043,Colmar,Bistro La de la Gare,48.113005,7.367661,4.3,160,€,Choucroute,82 Rue Principale,0590674416,https://www.colmar-restaurant-43.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_044,Colmar,Restaurant Chez du Port,48.055501,7.37088,4.3,246,€€,Alsacienne,95 Rue Principale,0376225942,https://www.colmar-restaurant-44.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_045,Colmar,Le Table du Colmar,48.109688,7.375375,4.5,185,€,Alsacienne,161 Rue du Centre,0333803231,https://www.colmar-restaurant-45.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_046,Colmar,Le Comptoir Colmar,48.071797,7.369074,4.3,52,€€€,Choucroute,92 Rue Victor Hugo,0220941988,https://www.colmar-restaurant-46.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_047,Colmar,Le Typique Café,48.079675,7.309089,3.3,139,€,Choucroute,60 Rue de Paris,0416637451,https://www.colmar-restaurant-47.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_048,Colmar,Table La du Port,48.039616,7.323066,4.5,100,€€€,Française,97 Rue Victor Hugo,0119354440,https://www.colmar-restaurant-48.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_049,Colmar,Les Café Colmar,48.123251,7.362215,4.3,435,€€,Française,108 Rue Victor Hugo,0690115713,https://www.colmar-restaurant-49.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_050,Colmar,Le Cuisine de Colmar,48.037236,7.38724,4.1,7,€€€,Choucroute,101 Rue du Centre,0369907620,https://www.colmar-restaurant-50.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_051,Colmar,Les Comptoir Colmar,48.038008,7.390234,4.8,81,€,Alsacienne,8 Rue du Centre,0537973556,https://www.colmar-restaurant-51.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_052,Colmar,La Table de Colmar,48.128878,7.323327,3.3,294,€€,Choucroute,10 Rue de Paris,0294422810,https://www.colmar-restaurant-52.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_053,Colmar,Bistro Au Colmar,48.107558,7.383513,4.7,115,€,Française,136 Rue du Centre,0250225488,https://www.colmar-restaurant-53.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_054,Colmar,Chez Bon Table,48.08668,7.353002,3.7,266,€,Française,114 Rue du Centre,0183548079,https://www.colmar-restaurant-54.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_055,Colmar,Chez Petit Restaurant,48.03583,7.322903,4.5,366,€€€,Française,194 Rue de Paris,0271256450,https://www.colmar-restaurant-55.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_056,Colmar,Au Typique Restaurant,48.042542,7.369153,3.6,83,€,Choucroute,57 Rue Victor Hugo,0624294044,https://www.colmar-restaurant-56.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_057,Colmar,La Bouchon Colmar,48.087195,7.342855,3.7,419,€€,Française,134 Rue du Centre,0578805987,https://www.colmar-restaurant-57.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_058,Colmar,Le Petit Bistro,48.051153,7.396413,4.1,172,€€€,Alsacienne,108 Rue du Centre,0361608052,https://www.colmar-restaurant-58.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_059,Colmar,La Table de Colmar,48.124458,7.338671,3.3,84,€,Alsacienne,45 Rue Principale,0521582353,https://www.colmar-restaurant-59.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_060,Colmar,Chez Grand Comptoir,48.035534,7.365337,3.9,42,€,Choucroute,15 Rue du Centre,0471515661,https://www.colmar-restaurant-60.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_061,Colmar,Brasserie La Central,48.085535,7.382691,3.3,291,€€,Française,180 Rue du Centre,0257364647,https://www.colmar-restaurant-61.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_062,Colmar,Bistro Chez des Arts,48.040561,7.399307,3.4,271,€€€,Choucroute,119 Rue Victor Hugo,0686236484,https://www.colmar-restaurant-62.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_063,Colmar,La Café Colmar,48.070829,7.356162,3.4,305,€€,Alsacienne,67 Rue de Paris,0536669272,https://www.colmar-restaurant-63.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_064,Colmar,Le Cuisine de Colmar,48.096142,7.335932,4.4,203,€€,Choucroute,97 Rue de Paris,0491802260,https://www.colmar-restaurant-64.fr,"12:00-14:00, 19:00-22:00",generated_data
+colmar_resto_065,Colmar,Café Le des Arts,48.10354,7.359279,3.3,115,€,Alsacienne,140 Rue de Paris,0495612713,https://www.colmar-restaurant-65.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_066,Colmar,Le Table de Colmar,48.093383,7.405092,4.4,239,€,Alsacienne,2 Rue de Paris,0429708633,https://www.colmar-restaurant-66.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_067,Colmar,Les Grand Comptoir,48.108002,7.381972,4.2,86,€€€,Alsacienne,167 Rue du Centre,0536523070,https://www.colmar-restaurant-67.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_068,Colmar,Le Table de Colmar,48.121305,7.338456,4.1,9,€,Alsacienne,138 Rue Principale,0659651710,https://www.colmar-restaurant-68.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_069,Colmar,Bistro Au Colmar,48.125339,7.359444,4.0,269,€€€,Choucroute,120 Rue du Centre,0390726954,https://www.colmar-restaurant-69.fr,"12:00-14:30, 19:00-22:30",generated_data
+colmar_resto_070,Colmar,Le Cuisine de Colmar,48.12775,7.408324,4.7,306,€€€,Choucroute,186 Rue Victor Hugo,0285226648,https://www.colmar-restaurant-70.fr,"11:30-15:00, 18:30-23:00",generated_data
+colmar_resto_071,Colmar,Au Bon Bistro,48.036629,7.401931,3.4,293,€,Française,100 Rue Principale,0149105949,https://www.colmar-restaurant-71.fr,"12:00-14:00, 19:00-22:00",generated_data
