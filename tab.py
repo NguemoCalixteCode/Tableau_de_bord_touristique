@@ -184,7 +184,7 @@ st.dataframe(
 
 # --------------------------
 # Top 5 Airbnb proches des activités et restaurants
-# --------------------------
+# --------------------------git init
 st.subheader("🌟 Top 5 Airbnb proches des activités et restaurants")
 if len(airbnb_filtered) > 0 and (len(activities_filtered) > 0 or len(restaurants_filtered) > 0):
     airbnb_filtered['avg_distance'] = airbnb_filtered.apply(
